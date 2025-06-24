@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "78554aa783c83bb18eb91e33782775e1952db4e8",
+        "url": "https://news.nestia.com/detail/RM7.5bil-savings-from-diesel-reform%3A-Amir-Hamzah/13189052",
+        "site_full": "news.nestia.com",
+        "site": "nestia.com",
+        "site_section": "https://news.nestia.com/en/list?tab&",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+        "title": "RM7.5bil savings from diesel reform: Amir Hamzah | Nestia",
+        "title_full": "RM7.5bil savings from diesel reform: Amir Hamzah | Nestia",
+        "published": "2025-01-10T05:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/202501/10/2ba07c0148c7c6c84d745da877ada04f_750x750.jpg",
+        "performance_score": 0,
+        "domain_rank": 108524,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "78554aa783c83bb18eb91e33782775e1952db4e8",
+    "url": "https://news.nestia.com/detail/RM7.5bil-savings-from-diesel-reform%3A-Amir-Hamzah/13189052",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "New Straits Times",
+    "published": "2025-01-10T05:01:00.000+02:00",
+    "title": "RM7.5bil savings from diesel reform: Amir Hamzah | Nestia",
+    "text": "KUALA LUMPUR: The government is expected to save up to RM7.5 billion annually, almost twice as much as initially projected, from its targeted diesel subsidy initiative.Finance Minister II Datuk Seri Amir Hamzah Azizan said the initial estimate for savings from the diesel subsidy rationalisation, introduced in July last year, was about RM200 million a month, or RM4 billion annually.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:40:00.775+02:00",
+    "updated": "2025-01-10T05:40:00.775+02:00"
+}

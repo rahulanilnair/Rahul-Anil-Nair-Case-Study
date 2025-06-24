@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "ff47897085737e2b1cb6bad58b3809719ae8b33e",
+        "url": "https://www.devdiscourse.com/article/business/3197406-german-bonds-dip-amid-business-morale-decline",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/middle-east-north-africa",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Middle East &amp; North Africa News - International Development News | Devdiscourse",
+        "title": "German Bonds Dip Amid Business Morale Decline | Business",
+        "title_full": "German Bonds Dip Amid Business Morale Decline | Business",
+        "published": "2024-12-17T10:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2024_15_54_39_9763433.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9155,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff47897085737e2b1cb6bad58b3809719ae8b33e",
+    "url": "https://www.devdiscourse.com/article/business/3197406-german-bonds-dip-amid-business-morale-decline",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T10:51:00.000+02:00",
+    "title": "German Bonds Dip Amid Business Morale Decline | Business",
+    "text": "German Bonds Dip Amid Business Morale Decline\nGerman government bond yields dipped after data showed worse-than-expected business morale in December. The benchmark 10-year yield decreased, while the Ifo Institute reported a decline in the business climate index. Analysts acknowledged Germany's struggles in growth. Meanwhile, euro zone bond markets await the U.S. Federal Reserve meeting.\nGerman government bond yields dipped on Tuesday following the release of data indicating a larger-than-expected decline in domestic business morale for December. The benchmark 10-year yield, an indicator for the euro zone bloc, dropped close to 3 basis points but later recovered slightly, showing a decline of less than 1 basis point at 2.24%.\nThe slump was attributed to the Ifo Institute's report, which revealed that Germany's business climate index fell to 84.7 in December from a revised 85.6 in November, contrary to analysts' expectations of unchanged figures. ING analysts highlighted the stagnation, calling Germany the 'sick man of Europe' in terms of growth.\nOn the euro zone scene, bond yields remained steady as markets anticipated a U.S. Federal Reserve meeting. Key market players, like Danske Bank's chief analyst Piet Haines Christiansen, noted the cautious environment, with traders waiting for the Fed decision before making significant moves. Notably, Italy's 10-year yield rose slightly.\n(With inputs from agencies.)\nALSO READ\n[Market Trends: Tech Leads the Gains Amid Federal Reserve Speculations](/article/technology/3180617-market-trends-tech-leads-the-gains-amid-federal-reserve-speculations)[Tech Stocks Surge Amid Federal Reserve Sentiment and Upcoming Jobs Data](/article/politics/3180589-tech-stocks-surge-amid-federal-reserve-sentiment-and-upcoming-jobs-data)[Euro Zone's Economic Forecast: Challenges on the Horizon](/article/business/3181671-euro-zones-economic-forecast-challenges-on-the-horizon)[Stocks Surge Amid Optimism from Federal Reserve's Powell](/article/business/3182081-stocks-surge-amid-optimism-from-federal-reserves-powell)[Uncertain Euro Zone Future Amid Stagnant Growth](/article/business/3181594-uncertain-euro-zone-future-amid-stagnant-growth)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ifo Institute",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:25:49.720+02:00",
+    "updated": "2024-12-17T13:25:49.720+02:00"
+}

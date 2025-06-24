@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "8917aa6b3b7fe7772fb7db65e072c20009a85114",
+        "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2024-12-16-lack-of-interest-fed-cutting-rates-despite-rising-inflation",
+        "site_full": "ktrh.iheart.com",
+        "site": "iheart.com",
+        "site_section": "https://ktrh.iheart.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NewsRadio 740 KTRH - Houston&#x27;s News, Weather &amp; Traffic Station",
+        "title": "Lack of Interest: Fed Cutting Rates Despite Rising Inflation | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+        "title_full": "Lack of Interest: Fed Cutting Rates Despite Rising Inflation | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+        "published": "2024-12-17T11:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.iheart.com/v3/re/new_assets/62322513e45aa57c7f30231e?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+        "performance_score": 0,
+        "domain_rank": 852,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8917aa6b3b7fe7772fb7db65e072c20009a85114",
+    "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2024-12-16-lack-of-interest-fed-cutting-rates-despite-rising-inflation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Corey Olson",
+    "published": "2024-12-17T11:30:00.000+02:00",
+    "title": "Lack of Interest: Fed Cutting Rates Despite Rising Inflation | NewsRadio 740 KTRH | KTRH Local Houston and Texas News",
+    "text": "It's full steam ahead for the Fed, even as the economy sends out mixed signals. The Federal Reserve is widely expected to cut the base interest rate by another quarter point this week. This will be the third straight rate cut, following a similar cut last month and a half-point cut in September. But the Fed's move has analysts questioning whether it's a good idea or not, considering the latest readings showed a slight acceleration in price increases, with the annual inflation rate still hovering around 3% (the Fed's target is 2%.)\nCutting interest rates runs the risk of heating up inflation even more, which is why the Fed's expected move is a bit of a head-scratcher. \"Especially when you look at most of the core conditions---look at Bitcoin, look at stocks, look at small business sentiment---everything is red hot when it comes to economic spirits, the inflation number is higher than it should be, yet they're gonna cut rates again,\" says Richard Rosso , financial planner with RIA Advisors. \"So don't look at me...if it were me, I wouldn't do it.\"\nThat said, most analysts (including Rosso) believe this will be the last rate cut for awhile, as the Fed gauges the new economic policies of the incoming Trump administration. \"Next year could be a big disappointment for many investors, if their focus is solely on the Fed,\" says Rosso. \"Because you might find they're not going to go forward as quickly as possible (with rate cuts) next year, especially depending on President-elect Trump's growth agenda.\"\nFor now, expect one more rate cut...with results to be determined. \"Do they need to, or should they? No,\" says Rosso. \"Personally, I don't see why they're doing it now.\"\nPhoto: Dorwart, Mike (uploader)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://realinvestmentadvice.com/about/your-team/richardrosso/",
+        "https://www.cnbc.com/2024/12/13/fed-likely-to-cut-interest-rates-in-december-what-that-means-for-you.html",
+        "https://www.realinvestmentadvice.com/about/your-team/richardrosso/",
+        "https://realinvestmentadvice.com/about/your-team/richardrosso",
+        "https://cnbc.com/2024/12/13/fed-likely-to-cut-interest-rates-in-december-what-that-means-for-you.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:37:33.139+02:00",
+    "updated": "2024-12-17T13:37:33.139+02:00"
+}

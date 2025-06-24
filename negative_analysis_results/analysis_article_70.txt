@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 70
+============================================================
+Timestamp: 2025-06-23 08:46:06
+Headline Summary: Bank of Finland Cuts Economic Outlook as Uncertainty Weighs
+Key Highlights: Finnish economy to expand less next year, 0.8% growth projected in 2025, uncertainty and tepid domestic demand cited
+Final Sentiment: Negative
+Confidence: 80%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: While the current negative sentiment and confidence of 80% are somewhat aligned with my assessment, I think a Partially Agreed stance would be more accurate as I only partially concur with the negative sentiment, considering the expected interest rate cuts and gradual improvement in exports. growth_analyst: While the Bank of Finland's revised forecast does indicate a weaker economic outlook for Finland, the uncertainty and tepid domestic demand cited may not be as crippling as suggested. The economy is expected to grow 0.8% in 2025, which, while slower than initially projected, still suggests a modest expansion. Furthermore, interest rates are anticipated to decrease, supporting consumption and investment, which could help mitigate the effects of weak consumer confidence and rising unemployment. The outlook may be gloomy, but it is not necessarily catastrophic.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Negative sentiment.
+============================================================

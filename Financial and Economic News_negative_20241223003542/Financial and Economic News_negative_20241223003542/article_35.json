@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "d2dc16df6012fe7086fa413ac523864b3401f7c9",
+        "url": "https://theedgemalaysia.com/node/738024",
+        "site_full": "theedgemalaysia.com",
+        "site": "theedgemalaysia.com",
+        "site_section": "https://theedgemalaysia.com/",
+        "site_categories": [],
+        "section_title": "The Edge Malaysia - Make Better Decisions",
+        "title": "China executes former official in US$412 mil corruption case",
+        "title_full": "China executes former official in US$412 mil corruption case",
+        "published": "2024-12-17T10:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://assets.theedgemarkets.com/china_bloomberg_0.jpg",
+        "performance_score": 0,
+        "domain_rank": 43648,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2dc16df6012fe7086fa413ac523864b3401f7c9",
+    "url": "https://theedgemalaysia.com/node/738024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bloomberg",
+    "published": "2024-12-17T10:48:00.000+02:00",
+    "title": "China executes former official in US$412 mil corruption case",
+    "text": "(Dec 17): China executed a former official from Inner Mongolia over corruption charges totalling about RMB3 billion (RM1.83 billion), a rare use of the death penalty for graft that comes with President Xi Jinping’s sweeping campaign to cleanse the Communist Party intensifying.\nLi Jianping, the former party chief of an economic development zone in Hohhot city, was first sentenced to death in September 2022 for taking bribes, misusing public funds and colluding with a criminal syndicate. He lost an appeal in August and his sentence was then approved by the Supreme People’s Court.\nThe 64-year-old Li was allowed time with family members before his execution on Tuesday, according to the official Xinhua News Agency.\nIt is rare for Chinese officials to receive the death penalty for corruption charges. More frequently they get a two-year reprieve from execution, with their sentence commuted to life imprisonment for good behaviour.\nXi’s anti-corruption campaign has ensnared a record number of senior officials for two straight years. That is on top of a widening purge in the military that has implicated a number of high-ranking officers and generals, including the latest target, Miao Hua, a long-time Xi loyalist and member of the Central Military Commission.\nUploaded by Arion Yeow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Li Jianping",
+                "sentiment": "none"
+            },
+            {
+                "name": "Xi Jinping",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme People’s Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Xinhua News Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Communist Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:32:24.555+02:00",
+    "updated": "2024-12-17T11:32:24.555+02:00"
+}

@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "63aa9fc0309f4dce45aeef36087f013174f2f6ac",
+        "url": "https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices",
+        "site_full": "east-fruit.com",
+        "site": "east-fruit.com",
+        "site_section": "https://east-fruit.com/en/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News &#8226; EastFruit",
+        "title": "Economic strain: Russia bans publication of inflation index amidst growing potato and vegetable prices",
+        "title_full": "Economic strain: Russia bans publication of inflation index amidst growing potato and vegetable prices",
+        "published": "2024-12-17T06:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://east-fruit.com/wp-content/uploads/2024/12/vegetables-1212845_1280.jpg",
+        "performance_score": 0,
+        "domain_rank": 120820,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "63aa9fc0309f4dce45aeef36087f013174f2f6ac",
+    "url": "https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "eastfruit",
+    "published": "2024-12-17T06:52:00.000+02:00",
+    "title": "Economic strain: Russia bans publication of inflation index amidst growing potato and vegetable prices",
+    "text": "According to [EastFruit](https://east-fruit.com/), the russian authorities have banned the publication of the FMCG (fast-moving consumer goods) deflator index by the research holding ROMIR. This index showed significantly higher price growth rates than the official figures from rosstat, which irritated the Putin regime.\nThe index stopped being published when the annual price growth rate according to ROMIR approached 20%. Amid a record-high key interest rate for russia, such high price growth rates indicate a deep crisis in the country’s economic and financial systems.\nThe main culprits for inflation in russia in 2024 were identified as potatoes and vegetables. However, professional economists are convinced that the real reasons for price increases lie in the massive budgetary injections into the war against Ukraine.\nRead also: [Belarus bans potato exports causing additional concerns to the potato-deficient russia](https://east-fruit.com/en/horticultural-business/belarus-bans-potato-exports-causing-additional-concerns-to-the-potato-deficient-russia/)\nMeanwhile, vegetable prices have indeed risen sharply – for example, red beet, an essential component of the popular Ukrainian borscht in russia, has doubled in price on average. Potato prices have increased by more than 50% on a year. Cucumber prices have doubled. Essentially, a long list of vegetables shows price increases for each item without exception.\nGiven the prohibitive loan rates and the growing labor shortage, an increase in production and a significant drop in fruit and vegetable prices in the new season are not expected. Additionally, the sharp devaluation of the ruble also prevents price reductions through imports, as russian importers have to pay for delivered products in 95% of cases in US dollars.\nEastFruit expects that for items such as potatoes and apples, russia will set new historical price records until May-June 2025.\n[EastFruit](https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices/)\nThe use of the site materials is free if there is a direct and open for search engines hyperlink to a specific publication of the East-Fruit.com website.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ROMIR",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:34:51.254+02:00",
+    "updated": "2024-12-17T12:34:51.254+02:00"
+}

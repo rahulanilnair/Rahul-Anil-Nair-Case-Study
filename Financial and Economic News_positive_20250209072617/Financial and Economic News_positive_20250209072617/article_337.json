@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b895bd55c226890a78b1c47bc5c2a4ab7d08b198",
+        "url": "https://www.aktiencheck.de/news/Artikel-Tesla_Stock_Share_Price_Soars_Despite_German_Market_Slump-18050558",
+        "site_full": "www.aktiencheck.de",
+        "site": "aktiencheck.de",
+        "site_section": "http://m.aktiencheck.de/rss/news_english.rss2",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "aktiencheck.de - News - englisch",
+        "title": "Tesla Stock: Share Price Soars Despite German Market Slump",
+        "title_full": "Tesla Stock: Share Price Soars Despite German Market Slump",
+        "published": "2025-01-10T00:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 95442,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b895bd55c226890a78b1c47bc5c2a4ab7d08b198",
+    "url": "https://www.aktiencheck.de/news/Artikel-Tesla_Stock_Share_Price_Soars_Despite_German_Market_Slump-18050558",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "aktiencheck.de AG",
+    "published": "2025-01-10T00:09:00.000+02:00",
+    "title": "Tesla Stock: Share Price Soars Despite German Market Slump",
+    "text": "Tesla Stock: Share Price Soars Despite German Market Slump\n10.01.25 01:09\n[Börse Global (en)](/news/category_site?site=bgen)\nTesla's stock demonstrates a remarkable disconnect from fundamental business metrics, surging 57 percent since November 2024 despite significant challenges in the German market. The company's new vehicle registrations in Germany plummeted by 40 percent compared to the previous year, dropping to approximately 38,000 units and reducing its market share to 9.9 percent. This decline outpaces the overall German electric vehicle market's 27 percent downturn. Despite these concerning figures, Tesla's stock reached an impressive all-time high of $479.86 before settling at around $394.94, highlighting the unique nature of Tesla's market position.\nInvestor Loyalty Defies Market Logic\nThe extraordinary stock performance can be attributed to an exceptionally devoted shareholder base that maintains its support even during periods of weakening sales figures. This unwavering loyalty enables Tesla's stock to diverge from conventional market dynamics, forging its own path regardless of competitive pressures from German automakers who continue to expand their electric vehicle market share. The phenomenon underscores Tesla's status as a cult stock that operates largely independently of traditional valuation criteria.\nAd\nTesla Stock: New Analysis - 10 January\nFresh Tesla information released. What's the impact for investors? Our latest independent report examines recent figures and market trends.\nRead our updated Tesla analysis... [mehr >](/tesla_inc-aktie/aktienkurse_boersenplaetze)\n|Kurs||Vortag||Veränderung||Datum/Zeit|\n|394,90 $||394,94 $||-0,04 $||-0,01%||09.01./01:59|\n|ISIN||WKN||Jahreshoch||Jahrestief|\n|US88160R1014||A1CX3T||488,50 $||138,82 $|\n|Handelsplatz||Letzter||Veränderung||Zeit|\n|\n||380,05 €||-0,73%||09.01.25|\n|\n|[NYSE](/tesla_inc-aktie/times_and_sales?boerse_id=21) [AMEX](/tesla_inc-aktie/times_and_sales?boerse_id=41) [Nasdaq](/tesla_inc-aktie/times_and_sales?boerse_id=40) [Hamburg](/tesla_inc-aktie/times_and_sales?boerse_id=2) [Xetra](/tesla_inc-aktie/times_and_sales?boerse_id=6) [Hannover](/tesla_inc-aktie/times_and_sales?boerse_id=3) [Frankfurt](/tesla_inc-aktie/times_and_sales?boerse_id=1) [Stuttgart](/tesla_inc-aktie/times_and_sales?boerse_id=5) [Düsseldorf](/tesla_inc-aktie/times_and_sales?boerse_id=0) [Berlin](/tesla_inc-aktie/times_and_sales?boerse_id=17)\n|\n|\n|Antw.||Thema||Zeit|\n|72729||\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Science and Technology->economics",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:08:18.027+02:00",
+    "updated": "2025-01-10T03:08:18.027+02:00"
+}

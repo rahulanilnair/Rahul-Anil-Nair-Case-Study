@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "d9e29451d67bfc19fadb7c016a2cfdc76f598241",
+        "url": "https://www.communicationstoday.co.in/auctioning-satellite-spectrum-not-feasible",
+        "site_full": "www.communicationstoday.co.in",
+        "site": "communicationstoday.co.in",
+        "site_section": "https://www.communicationstoday.co.in",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "India&#039;s leading telecom news website and magazine",
+        "title": "Auctioning satellite spectrum not feasible",
+        "title_full": "Auctioning satellite spectrum not feasible",
+        "published": "2024-12-17T11:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 128695,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d9e29451d67bfc19fadb7c016a2cfdc76f598241",
+    "url": "https://www.communicationstoday.co.in/auctioning-satellite-spectrum-not-feasible",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archit_tandon",
+    "published": "2024-12-17T11:35:00.000+02:00",
+    "title": "Auctioning satellite spectrum not feasible",
+    "text": "Jyotiraditya Scindia. Union Minister of Communications has declared that auctioning satellite spectrum is technically unfeasible.\nScindia’s statement comes after Congress leader Jairam Ramesh alleged that the Modi government was favoring administrative allocation for satellite-based communication services.\nScindia clarified the fundamental difference between terrestrial and non-terrestrial networks, explaining why the latter cannot be auctioned.\nHere’s more on what he said.\nScindia explains technical differences between terrestrial and satellite spectrum\nScindia emphasized that terrestrial networks work at lower frequencies, which can be assigned to one player. However, satellite spectrum operates at higher altitudes and frequencies, which makes it shareable by nature.\n“This spectrum cannot be assigned to a single person or entity. It is shared by its very nature,” he clarified.\nThis difference is codified in Schedule 1 of the new Telecommunications Act, 2023.\nScindia addresses concerns over satellite spectrum allocation\nScindia stressed that satellite spectrum in the Ku band (around 14 GHz) and Ka band (27.1 to 31 GHz) is inherently shareable, rendering auctions both unfeasible and undesirable.\nHe cautioned that not assigning this under-utilized spectrum could lead to potential revenue loss and missed technological opportunities.\nThe minister also addressed Ramesh’s question if the administrative allocation was aimed at easing Elon Musk’s Starlink entry into India.\nScindia refutes allegations of favoritism in spectrum allocation\nMinister of State for Communications, Pemmasani Chandra Sekhar, denied that the administrative allocation was to pave the way for Starlink’s entry into India.\nHe said the Telecommunications Act allows administrative assignment for satellite services.\nScindia accused Congress of politicizing the issue and criticized its first-come, first-served policy during the UPA era, which led to scams and financial losses.\nHe also said that no country in the world currently auctions satellite spectrum, emphasizing its global standard as an administrative process. News Bytes App",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:08:11.571+02:00",
+    "updated": "2024-12-17T14:08:11.571+02:00"
+}

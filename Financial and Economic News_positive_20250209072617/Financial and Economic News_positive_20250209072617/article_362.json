@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "05f9592fd6825416f1f2e9fd26a783e1ddfe3d2b",
+        "url": "https://www.devdiscourse.com/article/politics/3220940-china-intensifies-anti-corruption-campaign-in-2024",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/south-asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "South Asia News: International Development News, Breaking News, India News",
+        "title": "China Intensifies Anti-Corruption Campaign in 2024 | Politics",
+        "title_full": "China Intensifies Anti-Corruption Campaign in 2024 | Politics",
+        "published": "2025-01-10T00:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_06_2024_17_28_04_0383509.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 8711,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "05f9592fd6825416f1f2e9fd26a783e1ddfe3d2b",
+    "url": "https://www.devdiscourse.com/article/politics/3220940-china-intensifies-anti-corruption-campaign-in-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-10T00:25:00.000+02:00",
+    "title": "China Intensifies Anti-Corruption Campaign in 2024 | Politics",
+    "text": "China Intensifies Anti-Corruption Campaign in 2024\nChina's anti-graft watchdog filed over 4,000 disciplinary cases in 2024 to combat growing corruption, deemed a major threat by President Xi Jinping. The Central Commission for Discipline Inspection (CCDI) reported numerous high-profile cases, punishing 889,000 people for violating party discipline and administrative protocols.\nChina's top anti-corruption watchdog revealed it has initiated over 4,000 disciplinary cases against officials so far in 2024, as the nation addresses an enduring issue threatening its governance. President Xi Jinping highlighted the escalating corruption problem during the Central Commission for Discipline Inspection (CCDI) congress earlier this week.\nLast year's high-profile corruption scandals, involving a deputy central bank governor and the former head of a major oil and gas company, have contributed to growing concerns about the stability of China's economy. According to CCDI's latest statement, cases have been filed against 73 top-ranking officials and 4,348 individuals at departmental levels this year.\nThe crackdown has led to 889,000 punishments, including for 680,000 who violated Communist Party rules and 270,000 others who faced administrative penalties. As the campaign intensifies, the government aims to restore confidence and order amid an economy seeking stability.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->political development",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xi Jinping",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CCDI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:33:03.549+02:00",
+    "updated": "2025-01-10T03:33:03.549+02:00"
+}

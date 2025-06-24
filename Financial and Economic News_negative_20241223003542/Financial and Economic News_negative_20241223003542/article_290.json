@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "31214c169af276772da17f1da3ee3c69d24fc34b",
+        "url": "https://www.devdiscourse.com/article/business/3197353-market-panic-sensex-and-nifty-dip-as-investors-brace-for-fed-decision",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Market Panic: Sensex and Nifty Dip as Investors Brace for Fed Decision | Business",
+        "title_full": "Market Panic: Sensex and Nifty Dip as Investors Brace for Fed Decision | Business",
+        "published": "2024-12-17T10:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_06_2024_07_26_08_6721115.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9155,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "31214c169af276772da17f1da3ee3c69d24fc34b",
+    "url": "https://www.devdiscourse.com/article/business/3197353-market-panic-sensex-and-nifty-dip-as-investors-brace-for-fed-decision",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T10:20:00.000+02:00",
+    "title": "Market Panic: Sensex and Nifty Dip as Investors Brace for Fed Decision | Business",
+    "text": "Market Panic: Sensex and Nifty Dip as Investors Brace for Fed Decision\nThe Sensex and Nifty indices fell over 1%, influenced by a general selloff. The decline came before a U.S. Federal Reserve interest rate decision. The markets globally showed negative trends, compounded by concerns over policy actions by major banks and a weakening rupee.\n- Country:\n- India\nIndian equity indices Sensex and Nifty experienced a significant drop on Tuesday, each shedding over 1% of their value. This decline was driven by a broad selloff as investors remained cautious ahead of an impending U.S. Federal Reserve interest rate decision.\nThe BSE Sensex decreased by 1,064.12 points or 1.30%, closing at 80,684.45, while the NSE Nifty fell 332.25 points or 1.35% to end the day at 24,336. All constituent firms of the 30-share blue-chip pack recorded losses, with Bharti Airtel, IndusInd Bank, and JSW Steel among the top detractors.\nAsian markets such as Seoul, Tokyo, and Hong Kong also closed lower, while European markets were predominantly in the red. Despite Wall Street's mostly positive results, widespread pessimism influenced by key policy decisions from the US Fed, Bank of Japan, and Bank of England has gripped investors. Additionally, a weakening rupee and a record-high trade deficit added to the economic pressures.\n(With inputs from agencies.)\n- READ MORE ON:\n-\n[Sensex](/news?tag=Sensex) -\n[Nifty](/news?tag=Nifty) -\n[US Fed](/news?tag=US+Fed) -\n[interest rate](/news?tag=interest+rate) -\n[stock market](/news?tag=stock+market) -\n[BSE](/news?tag=BSE) -\n[NSE](/news?tag=NSE) -\n[equity indices](/news?tag=equity+indices) -\n[global markets](/news?tag=global+markets) -\n[trade deficit](/news?tag=trade+deficit)\nALSO READ\n[Biden's Bold Pardon: A Father's Unyielding Defense](/article/politics/3178002-bidens-bold-pardon-a-fathers-unyielding-defense)[Uttarakhand Forests Embrace AI for Sustainable Conservation](/article/headlines/3178030-uttarakhand-forests-embrace-ai-for-sustainable-conservation)[Deccan Gladiators Secure Fourth Consecutive Final Berth with Dominant Win](/article/sports-games/3178032-deccan-gladiators-secure-fourth-consecutive-final-berth-with-dominant-win)[Comprehensive Plans Announced to Reduce Jobseeker Numbers by 2030](/article/law-order/3178117-comprehensive-plans-announced-to-reduce-jobseeker-numbers-by-2030)[Russian Gas Flow to Europe: A Tenuous Balance in Tense Times](/article/headlines/3178238-russian-gas-flow-to-europe-a-tenuous-balance-in-tense-times)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Investors Brace for Fed",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharti Airtel",
+                "sentiment": "none"
+            },
+            {
+                "name": "IndusInd Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "NSE Nifty",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:53:45.059+02:00",
+    "updated": "2024-12-17T12:53:45.059+02:00"
+}

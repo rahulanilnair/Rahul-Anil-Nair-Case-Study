@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "39284c4de5cb6379d53a2e086456fb0b67a4dffa",
+        "url": "https://www.investing.com/news/economy-news/german-business-sentiment-falls-in-december-3776213",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://investing.com/news",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Financial News | Stock Market and Forex News",
+        "title": "German business sentiment tumbles in December By Reuters",
+        "title_full": "German business sentiment tumbles in December By Reuters",
+        "published": "2024-12-17T03:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39284c4de5cb6379d53a2e086456fb0b67a4dffa",
+    "url": "https://www.investing.com/news/economy-news/german-business-sentiment-falls-in-december-3776213",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-12-17T03:04:00.000+02:00",
+    "title": "German business sentiment tumbles in December By Reuters",
+    "text": "By Rachel More\nBERLIN (Reuters) -German business morale worsened more than expected in December, a survey showed on Tuesday, weighed down by companies' pessimistic assessment of the coming months amid geopolitical uncertainty and an industrial slump in Europe's largest economy.\nThe Ifo institute said its business climate index decreased to 84.7 in December from a revised 85.6 the previous month.\nAnalysts polled by Reuters had forecast a reading of 85.6.\nThe survey of around 9,000 company managers found an improvement in the assessment of current conditions, but the expectations index posted a surprise fall to 84.4 in December from 87.0 in November. Economists polled by Reuters had forecast a reading of 87.5.\nThe re-election of Donald Trump as U.S. president, paired with a political impasse at home ahead of snap polls in February, has added to uncertainty at a time when Germany is already battling stubborn headwinds.\nAlready on track for a second consecutive year of contraction in 2024, next year is forecast to bring further challenges as the German industrial model stalls, with big names like Volkswagen (ETR: VOWG_p ) looking to scale back production, and consumer sentiment tumbling on feared job cuts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rachel More",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:20:21.731+02:00",
+    "updated": "2024-12-17T11:20:21.731+02:00"
+}

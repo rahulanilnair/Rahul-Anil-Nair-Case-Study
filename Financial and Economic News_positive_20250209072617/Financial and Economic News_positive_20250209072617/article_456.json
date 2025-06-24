@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "bd009c05db2cf5458d33f5ae1b914dd34a2ec320",
+        "url": "https://www.newsbreak.com/mlive-513121/3753440607984-tigers-avoid-arbitration-lock-in-cy-young-winner-for-10-million-in-2025",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mlive-513121",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "MLive&#x27;s Home Page | NewsBreak",
+        "title": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - NewsBreak",
+        "title_full": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - NewsBreak",
+        "published": "2025-01-10T03:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1NonaF_0y22uNdy00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bd009c05db2cf5458d33f5ae1b914dd34a2ec320",
+    "url": "https://www.newsbreak.com/mlive-513121/3753440607984-tigers-avoid-arbitration-lock-in-cy-young-winner-for-10-million-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Evan Woodbery",
+    "published": "2025-01-10T03:05:00.000+02:00",
+    "title": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - NewsBreak",
+    "text": "By Evan Woodbery ,\n1 hours ago The Tigers reached deals with all of their arbitration-eligible players on Thursday. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Human Interest->anniversary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Evan Woodbery",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tigers",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:28:14.672+02:00",
+    "updated": "2025-01-10T04:28:14.672+02:00"
+}

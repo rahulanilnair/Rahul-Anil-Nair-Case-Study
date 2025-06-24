@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "1eb8389b8ced3cc2d9c265df749bf2d4f20849e8",
+        "url": "https://www.investing.com/analysis/fragile-market-appetite-ahead-of-the-fed-meeting-200655368",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Fragile Market Appetite Ahead of the Fed Meeting | Investing.com",
+        "title_full": "Fragile Market Appetite Ahead of the Fed Meeting | Investing.com",
+        "published": "2024-12-17T03:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1eb8389b8ced3cc2d9c265df749bf2d4f20849e8",
+    "url": "https://www.investing.com/analysis/fragile-market-appetite-ahead-of-the-fed-meeting-200655368",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "XM Group",
+    "published": "2024-12-17T03:39:00.000+02:00",
+    "title": "Fragile Market Appetite Ahead of the Fed Meeting | Investing.com",
+    "text": "US retail sales on the agenda today, but Fed rate cut looks secure. Dow Jones experiences its longest negative daily streak since 2018. Government crisis in Canada; Loonie could get a respite from the CPI data. Risk Sentiment Was in Retreat on Monday The week started on a mixed note, as the initial risk-positive market performance during yesterday’s session quickly reversed, with the US dollar outperforming across the board - USD/JPY tested the 154.52 level again - and stocks surrendering most of their early gains.\nInterestingly, US equity indices exhibited a mixed performance yesterday, with the S&P 500 index registering another all-time high and the more-established Dow Jones recording another negative session. This was the eighth consecutive red day for the Dow, which is the longest streak of negative daily performance since June 2018. A plethora of events back then that included the US-China trade shenanigans, a Fed rate hike and the Iran-US tensions affected risk appetite.\nMeanwhile, gold continues to trade sideways today, hovering around the $2,650 level, with bitcoin testing its recent all-time high. Despite the lack of fresh catalysts, the cryptocurrency market remains on fire in anticipation of Trump’s pro-crypto stance. While some analysts are highlighting that the post-election rally has all the ingredients of a price bubble, investors seem confident that cryptocurrencies will remain bid going into the festive period.\nAmidst these developments, the Fed is preparing for a very important meeting on Wednesday. With the usual blackout period limiting Fedspeak, US data does the talking. Following last week's solid CPI report and surprisingly strong PPI data, both the headline retail sales print and the control group indicator are forecast to show a decent improvement today.\nDespite the strong data figures, the market feels confident that a 25bps rate cut will be announced on Wednesday, predominantly due to Trump’s return to the White House on January 20, 2025.\nThe Chances of a BoE Rate Cut on Thursday Remain Very Low The pound started today’s session on a positive note, outperforming both the euro and the dollar, on the back of stronger labor market data. In more detail, the November claimant count change printed well below expectations, while average earnings climbed above the 5% annual growth rate again, bucking the recent trend.\nThe BoE will hold its final meeting for 2024 on Thursday, and, considering the latest set of data, the 17% probability of a 25bps rate cut currently priced in is probably too optimistic. Pending a very dovish Fed meeting and commentary from Trump about imposing tariffs on the UK as well, the BoE will most likely opt to keep its powder dry for February, when the quarterly report will also be published.\nCanada’s Trudeau Could Be the First Victim of Trump’s “America First” Agenda With Germany officially preparing for the February general elections, a political crisis is also brewing in Canada, with Finance Minister and Deputy PM Freeland resigning yesterday, and pressure mounting for PM Trudeau to follow suit. He continues to be deeply unpopular, spelling trouble for his reelection chances in the October 2025 election.\nThe probability of a snap election has risen exponentially, potentially interfering with the BoC’s willingness to ease further in early 2025. This means that today’s CPI report, which is expected to show a small drop in inflationary pressures, is probably a tad less important in the grand scheme of things.\nInterestingly, a potential postponement of the BoC’s expected rate cuts in early 2025 might give the loonie some breathing space, especially as the dollar/loonie pair is currently trading at a 4.5-year high.\nFragile Market Appetite Ahead of the Fed Meeting",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Fed",
+                "sentiment": "negative"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1eb8389b8ced3cc2d9c265df749bf2d4f20849e8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:03:17.637+02:00",
+    "updated": "2024-12-17T13:03:17.637+02:00"
+}

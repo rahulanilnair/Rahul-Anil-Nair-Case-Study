@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "a98caf2e3cef11cf11f9a0e62c5478d47bac6f8a",
+        "url": "https://www.repairerdrivennews.com/2024/12/17/texas-ag-notifies-allstate-data-broker-company-of-violating-state-privacy-and-security-act",
+        "site_full": "www.repairerdrivennews.com",
+        "site": "repairerdrivennews.com",
+        "site_section": "http://www.repairerdrivennews.com",
+        "site_categories": [
+            "vehicles",
+            "auto_repair"
+        ],
+        "section_title": "Repairer Driven News | Society of Collision Repair Specialists",
+        "title": "Texas AG notifies Allstate data broker company of violating state privacy and security act | Repairer Driven News",
+        "title_full": "Texas AG notifies Allstate data broker company of violating state privacy and security act | Repairer Driven News",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.repairerdrivennews.com/wp-content/uploads/2024/12/iStock-1497419551.jpg",
+        "performance_score": 0,
+        "domain_rank": 64753,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a98caf2e3cef11cf11f9a0e62c5478d47bac6f8a",
+    "url": "https://www.repairerdrivennews.com/2024/12/17/texas-ag-notifies-allstate-data-broker-company-of-violating-state-privacy-and-security-act",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Texas AG notifies Allstate data broker company of violating state privacy and security act | Repairer Driven News",
+    "text": "Texas AG notifies Allstate data broker company of violating state privacy and security act\nBy on[Announcements](https://www.repairerdrivennews.com/category/announcements/)|\n[Insurance](https://www.repairerdrivennews.com/category/insurance/)|\n[Legal](https://www.repairerdrivennews.com/category/legal/)\nTexas Attorney General Ken Paxton has sent a notice of violation to an Allstate data broker company, claiming the company fails to clearly inform consumers about the data it collects and how it is sold.\nThe notice was sent to the company, Arity, Nov. 29 and[ uploaded to document cloud](https://therecord.media/arity-data-broker-texas-data-privacy-violation-notice) by The Record, a media publication, Dec. 12.\nPaxton says Arity violates the Texas Data Privacy and Security Act (TDPSA), which effective July 1, governs how companies collect, use and process Texans’ personal data. He writes this includes several obligations placed on companies that conduct business in the state.\nArity was founded by Allstate in 2016, [according to its website](https://arity.com/about-us/). It says Arity is a mobility data and analytics company focused on improving transportation by collecting and analyzing enormous amounts of data.\n“Arity collects and analyzes trillions of miles of driving data to create a greater understanding of how people move,” an [October press release](https://www.businesswire.com/news/home/20241015350181/en/Arity-Redefines-the-Future-of-Telematics-at-ITC-Vegas-2024) from the company says. “With the world’s largest driving dataset tied to insurance claims collected through mobile devices, in-car devices, and vehicles themselves, Arity derives unique insights that help insurers, developers, marketers, and communities understand and predict driving behavior at scale.”\nPaxton writes that his office found Arity has violated multiple sections of the TDPSA including failure to provide consumers with a reasonably clear notice of the categories of sensitive data being processed.\nIt says the company also processed consumers sensitive data without obtaining their consent. This included processing data through its use of a software development kit (SDK) to collect data from various mobile applications such as precise geolocation information and how fast the consumer’s mobile phone is moving.\n“This violation also includes Arity’s analysis and sale of sensitive data to car insurance companies,” the notification says.\nNew York’s Attorney’s General Office (OAG) [recently fined GEICO and Travelers Indemnity Co](https://www.repairerdrivennews.com/2024/11/27/new-york-penalizes-geico-travelers-11-3-million-for-poor-data-security/). $11.3 million in penalties for poor data security, which led to personal information of more than 130,000 New Yorkers being compromised.\nAn OAG investigation found that both companies did not implement sufficient data security controls prior to an industry-wide campaign by hackers to steal consumers’ personal information including driver’s license numbers and dates of birth from auto insurance quoting applications, according to the release. It says the hackers used the information to file fraudulent unemployment claims during the COVID-19 pandemic.\nIMAGES\nPhoto courtesy of Shutter2U/iStock",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://arity.com/about-us/",
+        "https://therecord.media/arity-data-broker-texas-data-privacy-violation-notice",
+        "https://www.businesswire.com/news/home/20241015350181/en/Arity-Redefines-the-Future-of-Telematics-at-ITC-Vegas-2024",
+        "https://www.therecord.media/arity-data-broker-texas-data-privacy-violation-notice",
+        "https://www.arity.com/about-us/",
+        "https://arity.com/about-us",
+        "https://businesswire.com/news/home/20241015350181/en/Arity-Redefines-the-Future-of-Telematics-at-ITC-Vegas-2024"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:53:23.016+02:00",
+    "updated": "2024-12-17T13:53:23.016+02:00"
+}

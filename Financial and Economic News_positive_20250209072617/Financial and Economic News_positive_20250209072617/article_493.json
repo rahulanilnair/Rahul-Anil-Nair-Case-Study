@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "5882cba55273fe1961ce1f9b9d62e69aa6fb192c",
+        "url": "https://sis.gov.eg/Story/204138/President-El-Sisi-endorses-decree-on-50-percent-rise-in-Egypt's-share-in-IMF?lang=en-us",
+        "site_full": "sis.gov.eg",
+        "site": "sis.gov.eg",
+        "site_section": "https://sis.gov.eg",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Home-SIS",
+        "title": "President El-Sisi endorses decree on 50 percent rise in Egypt's share in IMF-SIS",
+        "title_full": "President El-Sisi endorses decree on 50 percent rise in Egypt's share in IMF-SIS",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "EG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 25244,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5882cba55273fe1961ce1f9b9d62e69aa6fb192c",
+    "url": "https://sis.gov.eg/Story/204138/President-El-Sisi-endorses-decree-on-50-percent-rise-in-Egypt's-share-in-IMF?lang=en-us",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "President El-Sisi endorses decree on 50 percent rise in Egypt's share in IMF-SIS",
+    "text": "President El-Sisi endorses decree on 50 percent rise in Egypt's share in IMF\nThursday، 09 January 2025 - 01:09 PM\nPresident Abdel Fattah El-Sisi endorsed decree no 249 of 2024 approving a 50 percent rise in Egypt's share in the International Monetary Fund (IMF).\nThe parliament gave the nod to the final draft of the decree on Oct 7, 2024.\nThe decree was published in the official gazette on Thursday.\nMENA\nRelated Stories\nMost Visited\n[Egypt launches new electronic application to combat mobile phone smuggling](/Story/203950/Egypt-launches-new-electronic-application-to-combat-mobile-phone-smuggling?lang=en-us)\nWednesday، 01 January 2025 11:58 AM\n[Minister of Health presents report on \"HMPV\" virus, its spread rate](/Story/204100/Minister-of-Health-presents-report-on-HMPV-virus%2c-its-spread-rate?lang=en-us)\nWednesday، 08 January 2025 05:28 PM\n[Egyptian Cabinet Announces Tuesday Official Holiday Marking Coptic Christmas Day](/Story/204017/Egyptian-Cabinet-Announces-Tuesday-Official-Holiday-Marking-Coptic-Christmas-Day?lang=en-us)\nSaturday، 04 January 2025 06:27 PM\n[\n](http://www.xinhuanet.com/english/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->international relations",
+        "Politics->economic policy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.xinhuanet.com/english/",
+        "http://xinhuanet.com/english/",
+        "http://www.xinhuanet.com/english"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abdel Fattah El-Sisi",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Monetary Fund",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:58:05.365+02:00",
+    "updated": "2025-01-10T04:58:05.365+02:00"
+}

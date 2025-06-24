@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "db624cd25288cac1be45e8610e1f9ae61faab800",
+        "url": "https://www.rappler.com/business/foreign-direct-investments-philippines-october-2024",
+        "site_full": "www.rappler.com",
+        "site": "rappler.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Foreign direct investments rebound in October 2024 from two-month slump",
+        "title_full": "Foreign direct investments rebound in October 2024 from two-month slump",
+        "published": "2025-01-10T00:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://www.rappler.com/tachyon/2022/06/makati-metro-manila-skyline-june-2-2022-003.jpg",
+        "performance_score": 0,
+        "domain_rank": 3625,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db624cd25288cac1be45e8610e1f9ae61faab800",
+    "url": "https://www.rappler.com/business/foreign-direct-investments-philippines-october-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tatiana Maligro",
+    "published": "2025-01-10T00:36:00.000+02:00",
+    "title": "Foreign direct investments rebound in October 2024 from two-month slump",
+    "text": "MANILA, Philippines – Net inflows of foreign direct investments (FDIs) entering the Philippines jumped to $1 billion in October 2024, the Bangko Sentral ng Pilipinas (BSP) said on Friday, January 10.\nThe inflows are 50.2% higher year-on-year and over double the $368 million net FDI inflows recorded in September 2023. Net FDI inflows in September 2024 were the lowest since April 2020.\nThis jump brings the total amount of FDIs that entered the Philippines in 2024 to $7.7 billion, an 8.2% increase from the same period in 2023.\nThe Philippine central bank cites a 60.7% surge in nonresidents’ investments in debt instruments from $522 million to $839 million. These investments include intercompany borrowing and lending between foreign investors and their Philippine units and affiliates.\nNonresidents’ net investments in equity capital (excluding reinvestment of their earnings) also grew 34.1% to $100 million.\nHowever, the BSP noted a decrease in the reinvestment of capital, as this category of FDIs marginally dropped by 0.9% in October 2024.\nMore investments from Japan According to the BSP, the following countries were the three main sources of FDIs in October:\nJapan (63%) United States (14%) Singapore (5%) Japan was the second-largest source of FDIs for the Philippines in the January to October 2024 period, accounting for 39% of inflows. The United Kingdom remains the Philippines’ largest source of FDIs in 2024 so far, bringing in 40% of the country’s FDIs.\nAround 59% of foreign investments went into manufacturing, while 16% were invested in real estate.\nThe Philippine Economic Zone Authority (PEZA) earlier said that FDI inflows would rebound in the fourth quarter of 2024, citing a rise in projects backed by foreign equity among its ecozone investors.\nIn a statement, PEZA Director General Tereso Panga said PEZA approved around P91.8 billion in foreign equity from ecozone locator and developer projects.\n“With the CREATE MORE Act now in place, we are entering a new era of investment-driven growth that will solidify the Philippines as a premier destination for foreign direct investments in Asia,” Panga said. – Rappler.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/PEZAPH/posts/pfbid0hm8HQWRvrutJbVKZAyH9rqf5EGaXZbAe8f3Qv4RnWNzThgNctbhkWNwe93LiKjdyl",
+        "https://facebook.com/PEZAPH/posts/pfbid0hm8HQWRvrutJbVKZAyH9rqf5EGaXZbAe8f3Qv4RnWNzThgNctbhkWNwe93LiKjdyl"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "BSP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:36:53.115+02:00",
+    "updated": "2025-01-10T10:24:09.469+02:00"
+}

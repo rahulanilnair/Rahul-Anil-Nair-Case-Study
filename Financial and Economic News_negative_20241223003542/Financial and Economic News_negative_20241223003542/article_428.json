@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "7996d630f172751168cc791c24bf540672d52e47",
+        "url": "https://hr.economictimes.indiatimes.com/news/trends/indian-it-services-hiring-to-remain-low-till-growth-momentum-picks-up-by-h2-fy26-icra/116400528",
+        "site_full": "hr.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n    Latest Business News | The Economic Times B2B",
+        "title": "Indian IT services hiring to remain low till growth momentum picks up by H2 FY26: ICRA, ETHRWorld",
+        "title_full": "Indian IT services hiring to remain low till growth momentum picks up by H2 FY26: ICRA, ETHRWorld",
+        "published": "2024-12-17T10:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HR",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-116400528,imgsize-24872,width-1200,height=765,overlay-ethr/trends/indian-it-services-hiring-to-remain-low-till-growth-momentum-picks-up-by-h2-fy26-icra.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7996d630f172751168cc791c24bf540672d52e47",
+    "url": "https://hr.economictimes.indiatimes.com/news/trends/indian-it-services-hiring-to-remain-low-till-growth-momentum-picks-up-by-h2-fy26-icra/116400528",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETHRWorld.com",
+    "published": "2024-12-17T10:51:00.000+02:00",
+    "title": "Indian IT services hiring to remain low till growth momentum picks up by H2 FY26: ICRA, ETHRWorld",
+    "text": "Lower discretionary tech spends by customers in key markets of the US and Europe, amid an uncertain macroeconomic environment, has led to moderation in demand for Indian IT services companies over the last 6-8 quarters. Factors such as lower employee attrition and a focus on increasing employee utilisation also contributed to the slowdown in hiring.New Delhi, Hiring in the Indian IT services industry is expected to remain low-key in the near term until the growth momentum picks up by H2 FY2026, according to ICRA. The formation of the new government in the US may create some policy uncertainty in the immediate term and thus will remain monitorable, it said. Lower discretionary tech spends by customers in key markets of the US and Europe, amid an uncertain macroeconomic environment, has led to moderation in demand for Indian IT services companies over the last 6-8 quarters. Factors such as lower employee attrition and a focus on increasing employee utilisation also contributed to the slowdown in hiring. \\\"While there has been some recovery in Q2 FY2025, ICRA expects hiring to remain low in the near term until the growth momentum picks up by H2 FY2026,\\\" the agency said. Moderation in demand coupled with the increase in utilisation of excess manpower added during FY2022-FY2023 exerted pressure on hiring by IT services companies through FY2024 and Q1 FY2025. Coupled with an increase in attrition levels, this also led to negative net employee addition for the seven quarters till Q1 FY2025 for ICRA's sample set companies, which includes HCL Technologies, Infosys, Tata Consultancy Services, Tech Mahindra and Wipro Ltd. As Gen AI makes rapid inroads, all leading IT services companies are upskilling their employees as they explore AI-driven business opportunities. This is likely to lead to an overall moderation in fresh hiring, as compared to pre-Covid levels, it predicted. ICRA said that the impact of higher adoption of Generative AI (Gen AI) on improving employee productivity is expected to be visible over the next few years. Average revenue in USD per employee for the sample set has largely been stable at around USD 50,000 over FY2020-FY2024. However, this metric will show steady improvement if assessed on revenue in rupee terms due to depreciation of the rupee against some key foreign currencies over this period. The last twelve-month (LTM) attrition rate had peaked at about 23 per cent during Q4 FY2022 and Q1 FY2023, led by significant hiring and subsequent demand-supply mismatch. However, it sequentially tapered with lower hiring by IT services companies amid moderation in demand in key markets of the US and Europe. The LTM attrition rate for ICRA's sample set companies started stabilising from Q3 FY2024 at about 13 per cent, much lower than the pre-pandemic level of about 18 per cent in Q1 FY2020 for the sample set companies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ICRA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:32:05.195+02:00",
+    "updated": "2024-12-17T13:32:05.195+02:00"
+}

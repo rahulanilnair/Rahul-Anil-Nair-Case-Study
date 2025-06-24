@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "689e1abb7355951c0aebe1c20cc39ab0ccdc24bd",
+        "url": "https://www.leeds-live.co.uk/news/uk-world-news/drivers-can-dodge-car-tax-30601971",
+        "site_full": "www.leeds-live.co.uk",
+        "site": "leeds-live.co.uk",
+        "site_section": "https://www.leeds-live.co.uk/sport",
+        "site_categories": [
+            "search_engine",
+            "tech"
+        ],
+        "section_title": "Sport - Latest sports news from Leeds and the UK - Leeds Live",
+        "title": "Drivers can dodge car tax and VED bands by doing 'one thing' - Leeds Live",
+        "title_full": "Drivers can dodge car tax and VED bands by doing 'one thing' - Leeds Live",
+        "published": "2024-12-17T12:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i2-prod.leeds-live.co.uk/news/celebs-tv/article30601970.ece/ALTERNATES/s1200/0_car1.jpg",
+        "performance_score": 0,
+        "domain_rank": 27276,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "689e1abb7355951c0aebe1c20cc39ab0ccdc24bd",
+    "url": "https://www.leeds-live.co.uk/news/uk-world-news/drivers-can-dodge-car-tax-30601971",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Rodger",
+    "published": "2024-12-17T12:03:00.000+02:00",
+    "title": "Drivers can dodge car tax and VED bands by doing 'one thing' - Leeds Live",
+    "text": "Drivers have been tipped off on how to dodge the upcoming car tax bands set to be introduced by a new Labour government in 2025.\nTax expert Andy Wood from Tax Natives has flagged that \"most vehicles\" will feel the impact come the New Year. He's urging motorists, who frequent roads all over England, to get their finances in order before Christmas and \"plan ahead for added costs\" to sidestep any nasty surprises.\nWood advised: \"Get ready for a shake-up in the cost of owning a vehicle. Starting April 2024, Vehicle Excise Duty (VED) is going up thanks to adjustments linked to the Retail Price Index. While first-year rates for cars are staying the same, the annual cost for most vehicles like standard cars, vans, and motorcycles is set to rise.\n\"If you're a driver, it's a good time to take a closer look at your budget and plan ahead for these added costs.\"\nThe announcement comes as new VED rates loom on the horizon. Unlike newer vehicles which incur VED based on emissions, older models are taxed according to engine size, reports [Birmingham Live](https://www.birminghammail.co.uk/motoring/motoring-news/drivers-can-escape-new-car-30601383). However, vehicles registered before 1984 won't face any charges due to historic vehicle tax exemption rules.\nThis spells bad news for many petrol and diesel car owners, with hikes expected across the board. Motoring specialists, including Pete Barden, predict that older cars with engines up to 1549cc will see an increase of £10 from spring onwards.\nAnnual rates for these drivers will increase from the current £210 to £220 per annum, starting from April 2025. Vehicles with an engine size above 1549cc will be charged £360, a rise from the current £345 rate.\nThe £15 hike might seem substantial, but it's actually less than the increase for drivers in this category a year ago. Last year, rates were boosted by £20, with fees leaping from the previous £325 rate imposed on road users in the 2023/24 financial year.\nGet all the latest and breaking news in Leeds by [ signing up to our newsletter here. ](https://www.leeds-live.co.uk/newsletter-preference-centre/?view=Solus&mailingListId=8946a294-a75b-44d7-b837-243cc596fa0b&utm_source=solusarticle)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-can-escape-new-car-30601383",
+        "https://birminghammail.co.uk/motoring/motoring-news/drivers-can-escape-new-car-30601383"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andy Wood",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "689e1abb7355951c0aebe1c20cc39ab0ccdc24bd",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:26:32.592+02:00",
+    "updated": "2024-12-17T12:26:32.592+02:00"
+}

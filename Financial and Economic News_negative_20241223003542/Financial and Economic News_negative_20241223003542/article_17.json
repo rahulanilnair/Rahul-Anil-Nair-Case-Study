@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "c7e9ee71d9e7a05c8a8e3ff15382b3be6631c287",
+        "url": "https://thedailyguardian.com/why-olaf-scholz-faced-no-confidence-vote-and-what-happens-next",
+        "site_full": "thedailyguardian.com",
+        "site": "thedailyguardian.com",
+        "site_section": "https://thedailyguardian.com/feed/",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Latest News Today:Breaking News|Entertainment News|Business News|Politics News|Sports News|English news-TheDailyGuardian",
+        "title": "Why Olaf Scholz Faced No-Confidence Vote And What Happens Next",
+        "title_full": "Why Olaf Scholz Faced No-Confidence Vote And What Happens Next",
+        "published": "2024-12-17T06:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://thedailyguardian.com/wp-content/uploads/2024/12/th-2024-12-17T143052.887.jpeg",
+        "performance_score": 0,
+        "domain_rank": 53530,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c7e9ee71d9e7a05c8a8e3ff15382b3be6631c287",
+    "url": "https://thedailyguardian.com/why-olaf-scholz-faced-no-confidence-vote-and-what-happens-next",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TheDailyGuardian",
+    "published": "2024-12-17T06:21:00.000+02:00",
+    "title": "Why Olaf Scholz Faced No-Confidence Vote And What Happens Next",
+    "text": "[+](javascipt:void(0);)\nGerman Chancellor Olaf Scholz has lost a historic vote of no confidence in the Bundestag, Germany’s parliament. This unprecedented defeat has set the stage for early elections, likely to take place on February 23, 2025.\nScholz, leader of the Social Democratic Party (SPD), will now request President Frank-Walter Steinmeier to dissolve parliament and call for fresh elections within 60 days, as per German constitutional rules.\nThe roots of Scholz’s defeat lie in the collapse of his “traffic light” coalition, formed after the 2021 general elections. The coalition consisted of:\nThe coalition started showing cracks due to ideological differences over economic policies, particularly the debt brake—a constitutional rule that limits public borrowing.\nThe situation worsened when Scholz dismissed Finance Minister Christian Lindner, a key member of the FDP, in November 2024. Lindner’s firing came after repeated disagreements on Germany’s debt management strategy, triggering the FDP to withdraw from the coalition.\nWithout the FDP’s support, Scholz’s government lost its majority in the Bundestag, leading to the no-confidence motion that ultimately unseated him.\nFollowing Scholz’s defeat:\nThese elections will determine Germany’s next government, as the SPD, Greens, FDP, and opposition parties prepare for a fresh political showdown.\nGermany, the European Union’s largest economy, now faces significant political uncertainty. The collapse of Scholz’s coalition comes at a time when Germany is grappling with:\nThe early elections will test public support for Scholz’s SPD and its former coalition partners, as opposition parties like the Christian Democratic Union (CDU) aim to capitalize on the political turmoil.\nOlaf Scholz’s loss in the no-confidence vote marks a pivotal moment in German politics. With his coalition’s collapse and early elections on the horizon, Germany is entering a period of uncertainty that will have far-reaching consequences for both the nation and the European Union. The upcoming elections in February 2025 will determine the future leadership of Europe’s most powerful economy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Olaf Scholz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Frank-Walter Steinmeier",
+                "sentiment": "none"
+            },
+            {
+                "name": "Christian Lindner",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Social Democratic Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDP",
+                "sentiment": "none"
+            },
+            {
+                "name": "SPD",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:24:55.156+02:00",
+    "updated": "2024-12-17T11:24:55.156+02:00"
+}

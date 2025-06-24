@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "8157989ad0969462cf6387cfecec57ddfcd8e00c",
+        "url": "https://www.rte.ie/news/business/2024/1217/1486920-uk-pay-figures",
+        "site_full": "www.rte.ie",
+        "site": "rte.ie",
+        "site_section": "http://www.rte.ie/rss/business.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business",
+        "title": "UK pay rises by more than expected, adding to BoE worries",
+        "title_full": "UK pay rises by more than expected, adding to BoE worries",
+        "published": "2024-12-17T11:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://img.rasset.ie/001b6a23-1600.jpg",
+        "performance_score": 0,
+        "domain_rank": 1946,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8157989ad0969462cf6387cfecec57ddfcd8e00c",
+    "url": "https://www.rte.ie/news/business/2024/1217/1486920-uk-pay-figures",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@rtenews",
+    "published": "2024-12-17T11:27:00.000+02:00",
+    "title": "UK pay rises by more than expected, adding to BoE worries",
+    "text": "British pay rose by more than expected in the three months to October, official data showed today, potentially adding to the Bank of England's caution about how quickly to cut interest rates.\nAverage weekly earnings, excluding bonuses, were 5.2% higher in the three months to the end of October than a year earlier, the Office for National Statistics said.\nA Reuters poll of economists had mostly forecast regular wage growth of 5%.\nThe increase in the pace of wage growth ended a steady deceleration that began in mid-2023.\nIn the private sector alone - watched closely by the Bank of England - earnings excluding bonuses rose by 5.4% in the August-to-October period, the fastest growth since the three months to May this year, the ONS figures showed.\nRecent business surveys have suggested a fall in demand for staff after finance minister Rachel Reeves announced an increase in social security contributions paid by employers in her October 30 budget.\nThe ONS said provisional data from Britain's tax office showed employers cut 35,000 staff from their payrolls in November.\nIt also said job vacancies decreased by 31,000 in the three months to November to 818,000 compared to the previous quarter, but remained 22,000 above their pre-pandemic level in January-March 2020.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:58:57.810+02:00",
+    "updated": "2024-12-17T12:58:57.810+02:00"
+}

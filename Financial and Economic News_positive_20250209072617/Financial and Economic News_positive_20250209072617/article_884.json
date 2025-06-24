@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "79a7b9b6ac5d386be01903099133d8dd9fd07ce0",
+        "url": "https://www.ch-aviation.com/news/149127-lufthansa-ita-airways-to-close-deal-in-early-1q25-report",
+        "site_full": "www.ch-aviation.com",
+        "site": "ch-aviation.com",
+        "site_section": "https://www.ch-aviation.com/portal/news/feed",
+        "site_categories": [
+            "travel",
+            "air_travel"
+        ],
+        "section_title": "ch-aviation",
+        "title": "Lufthansa, ITA Airways to close deal in early 1Q25 - report",
+        "title_full": "Lufthansa, ITA Airways to close deal in early 1Q25 - report",
+        "published": "2025-01-10T08:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ch-aviation.com/images/stockPhotos/4954/ff606dc233007dc7c5be95d0b14aba4147a8a117.jpg",
+        "performance_score": 0,
+        "domain_rank": 49977,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79a7b9b6ac5d386be01903099133d8dd9fd07ce0",
+    "url": "https://www.ch-aviation.com/news/149127-lufthansa-ita-airways-to-close-deal-in-early-1q25-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T08:28:00.000+02:00",
+    "title": "Lufthansa, ITA Airways to close deal in early 1Q25 - report",
+    "text": "Lufthansa Group's long-awaited acquisition of a minority stake in Italy's state-owned ITA Airways (AZ, Rome Fiumicino) will close on January 13, reports the German news agency dpa citing information shared by chairman and CEO Carsten Spohr during a staff meeting in December.\nA Lufthansa Group spokesman told ch-aviation the company does not comment on internal meetings and will only confirm the date once the transaction has gone through. Officially, the Lufthansa parent has said the acquisition was expected to close in early 2025.\nLufthansa Group is set to acquire 41% of ITA Airways, the successor to Alitalia (AZA, Rome Fiumicino), for EUR325 million euros (USD335 million). The European Commission in July 2024 cleared the bid subject to compliance with certain remedies to safeguard fair competition in the EU market and on long-haul routes between Italy and North America. Following months of negotiations, the regulator, on November 29, 2024, finally approved easyJet, IAG International Airlines Group, and Air France-KLM as suitable \"remedy takers\" under commitments made by Lufthansa and the Italian Ministry of Economy and Finance in order to acquire joint control over ITA Airways.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->mergers and acquisitions",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Politics->economic policy",
+        "Politics->government",
+        "Politics->international organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carsten Spohr",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ITA Airways",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lufthansa Group",
+                "sentiment": "negative"
+            },
+            {
+                "name": "IAG International Airlines Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "European Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alitalia",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:10:22.545+02:00",
+    "updated": "2025-01-10T09:10:22.545+02:00"
+}

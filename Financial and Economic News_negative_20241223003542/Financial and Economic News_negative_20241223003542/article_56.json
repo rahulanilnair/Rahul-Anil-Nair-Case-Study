@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "be6ae5c9e1a2dbe7ca68e9eb25abad9ab769ba8f",
+        "url": "https://www.myfxbook.com/news/ftse-100-declines-as-wage-growth-accelerates/32012",
+        "site_full": "www.myfxbook.com",
+        "site": "myfxbook.com",
+        "site_section": "https://www.myfxbook.com/news/pound-falls-against-majors",
+        "site_categories": [],
+        "section_title": "Forex News | Myfxbook",
+        "title": "FTSE 100 Declines As Wage Growth Accelerates",
+        "title_full": "FTSE 100 Declines As Wage Growth Accelerates",
+        "published": "2024-12-17T11:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.mfbcdn.net/images/news/32012/mobile.webp",
+        "performance_score": 0,
+        "domain_rank": 30260,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be6ae5c9e1a2dbe7ca68e9eb25abad9ab769ba8f",
+    "url": "https://www.myfxbook.com/news/ftse-100-declines-as-wage-growth-accelerates/32012",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews",
+    "published": "2024-12-17T11:31:00.000+02:00",
+    "title": "FTSE 100 Declines As Wage Growth Accelerates",
+    "text": "FTSE 100 Declines As Wage Growth Accelerates\n(RTTNews) - U.K. stocks fell notably on Tuesday as investors looked ahead to the Federal Reserve and Bank of England's rate decisions.\nIn economic news, the U.K. unemployment rate remained unchanged in three months to October, the Office for National Statistics said today.\nThe unemployment rate held steady at 4.3 percent during August to October period - matching expectations.\nExcluding bonus, annual growth in average earnings came in at 5.2 percent compared to economists' forecast of 5.0 percent - cementing expectations that the Bank of England will hold off cutting interest rates on Thursday.\nVacancies decreased on the quarter for the 29th consecutive period.\nThe estimated number of vacancies fell 31,000 on the quarter to 818,000 in September to November.\nThe benchmark FTSE 100 was down 50 points, or 0.6 percent, at 8,212 after losing half a percent the previous day.\nEnergy giant BP Plc fell about 1 percent and peer Shell gave up 1.6 percent as crude oil prices extended losses on China demand concerns.\nBunzl slumped 4.5 percent after the business supplies distributor said persistent deflation, particularly in continental Europe, will have a slight impact on its annual profit.\nCapita shares plummeted 8 percent. The outsourcing firm saw its revenue drop eight percent in the first 11 months of the year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Office for National Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "BP Plc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bunzl",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U.K.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "be6ae5c9e1a2dbe7ca68e9eb25abad9ab769ba8f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:37:03.077+02:00",
+    "updated": "2024-12-17T11:37:03.077+02:00"
+}

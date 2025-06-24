@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "0affcb46c1d2a7642064f5e9f0933e77243ab759",
+        "url": "https://www.republicworld.com/tech/update-1-eu-opens-investigation-into-tiktok-over-election-interference",
+        "site_full": "www.republicworld.com",
+        "site": "republicworld.com",
+        "site_section": "https://republicworld.com/livetv",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "LIVE TV 24x7 - Republic TV Live | Watch Live TV Online | Republic TV | Live TV Streaming | Republic World",
+        "title": "TikTok in Trouble: After US, ByteDance's Video App Faces Scrutiny in European Union",
+        "title_full": "TikTok in Trouble: After US, ByteDance's Video App Faces Scrutiny in European Union",
+        "published": "2024-12-17T12:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.republicworld.com/rimages/WhatsApp-Image-2023-11-13-169987366347716_9.webp",
+        "performance_score": 0,
+        "domain_rank": 4805,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0affcb46c1d2a7642064f5e9f0933e77243ab759",
+    "url": "https://www.republicworld.com/tech/update-1-eu-opens-investigation-into-tiktok-over-election-interference",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thomson Reuters",
+    "published": "2024-12-17T12:12:00.000+02:00",
+    "title": "TikTok in Trouble: After US, ByteDance's Video App Faces Scrutiny in European Union",
+    "text": "Published 18:12 IST, December 17th 2024\nTikTok in Trouble: After US, ByteDance's Video App Faces Scrutiny in European Union\nThe European Commission today opened formal proceedings against social media firm TikTok over its suspected failure to limit election interference.\nThe European Commission today opened formal proceedings against social media firm TikTok over its suspected failure to limit election interference, notably in the Romanian presidential vote last month.\nThe Commission said it will request information and look into TikTok's policy on political advertisements and paid-for political content as well as TikTok's systems to generate recommendations and the risks of them being manipulated.\nThe opening of formal proceedings empowers the Commission to take further enforcement steps and to accept commitments made by TikTok. There is no specific deadline to complete proceedings.\nChina's [ByteDance](https://www.republicworld.com/tech/tiktok-inches-closer-to-a-ban-in-the-us-after-losing-court-appeal)-owned TikTok said it had protected the integrity of its platform through more than 150 elections worldwide and had provided the European Commission with extensive information on its efforts.\nIt added it did not accept paid political advertisements and proactively removed content violating its policies on misinformation and hate speech.\nThe Commission ordered [TikTok ](https://www.republicworld.com/amp/tech/apps/tiktok-ban-byetdance-turns-to-us-supreme-court-in-a-last-ditch-bid-to-avert-ban)on December 5 to freeze data linked to the Romanian elections under the bloc's sweeping Digital Services Act (DSA), which regulates how the world's biggest social media companies operate in Europe.\nRomania's top court subsequently annulled the presidential election after accusations of Russian meddling and the victory of pro-Russia ultranationalist Calin Georgescu in the first round.\nThe Commission is conscious of the risk of interference in the German parliamentary election in February and the presidential election in Croatia starting on December 29.\nCommission President Ursula von der Leyen said the new investigation followed serious indications that foreign actors interfered in the Romanian presidential election.\n\"We must protect our democracies from any kind of foreign interference. Whenever we suspect such interference, especially during elections, we have to act swiftly and firmly,\" she said in a statement.\nThis is the third investigation the Commission has launched against TikTok under the DSA, both related to risks for minors. One has been closed after TikTok committed to remove TikTok Lite Rewards from the EU.\nUpdated 18:12 IST, December 17th 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "European Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:50:54.057+02:00",
+    "updated": "2024-12-17T14:50:54.057+02:00"
+}

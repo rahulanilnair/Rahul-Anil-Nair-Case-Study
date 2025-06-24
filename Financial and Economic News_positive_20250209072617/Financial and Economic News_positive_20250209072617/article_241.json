@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "f1fff38fa56ab5927a110ce84b95d8a883e05141",
+        "url": "http://www.baystreet.ca/articles/marketupdates.aspx?articleid=107280",
+        "site_full": "www.baystreet.ca",
+        "site": "baystreet.ca",
+        "site_section": "http://rss.baystreet.ca/",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "TSX Finishes Day with Gains ",
+        "title": "Baystreet.ca - TSX Finishes Day with Gains",
+        "title_full": "Baystreet.ca - TSX Finishes Day with Gains",
+        "published": "2025-01-09T22:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "http://www.baystreet.ca/images/articlegroups/original/4/marketupdate8.jpg",
+        "performance_score": 0,
+        "domain_rank": 122758,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1fff38fa56ab5927a110ce84b95d8a883e05141",
+    "url": "http://www.baystreet.ca/articles/marketupdates.aspx?articleid=107280",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Glenn Wilkins",
+    "published": "2025-01-09T22:06:00.000+02:00",
+    "title": "Baystreet.ca - TSX Finishes Day with Gains",
+    "text": "TSX Slides Midday TSX Flat at Open Futures Steady Awaiting Key Employment Data TSX Enjoys Healthy Gains Stocks Pick up Despite Trump Mulling Economic Emergency Previous Articles Subscribe to Get Small Cap News & Alerts",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:05:40.497+02:00",
+    "updated": "2025-01-10T02:05:40.497+02:00"
+}

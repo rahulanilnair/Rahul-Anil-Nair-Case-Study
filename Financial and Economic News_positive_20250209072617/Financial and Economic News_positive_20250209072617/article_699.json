@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "ee0f76249c663141adedc2a200e63a89ef76f003",
+        "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2091670",
+        "site_full": "pib.gov.in",
+        "site": "pib.gov.in",
+        "site_section": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+        "site_categories": [],
+        "section_title": "Press Information Bureau ",
+        "title": "IREDA Q3 Results: 36% Revenue Growth, 27% Rise in PAT",
+        "title_full": "IREDA Q3 Results: 36% Revenue Growth, 27% Rise in PAT",
+        "published": "2025-01-09T21:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6135,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee0f76249c663141adedc2a200e63a89ef76f003",
+    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2091670",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T21:00:00.000+02:00",
+    "title": "IREDA Q3 Results: 36% Revenue Growth, 27% Rise in PAT",
+    "text": "Indian Renewable Energy Development Agency Ltd. (IREDA) has announced its financial results for the third quarter of FY 2024-25, showcasing significant growth across key financial metrics. As the nation’s largest pure-play Green Financing NBFC, IREDA has once again set industry standards by publishing its Quarterly Audited Financial Results within just 9-days. This milestone positions IREDA as the only corporate to publish Audited Financial Results within 9-days period.\nThe Board of Directors of IREDA, during a meeting held today, acknowledged the company’s outstanding performance and approved the Financial Results for Q3 FY 2024-25.\nKey Highlights of Q3 FY 2024-25:\nRevenue from Operations: Achieved ₹1,698.99 crore, 35.57% increase compared to ₹1,253.20 crore in Q3 FY 2023-24\nProfit Before Tax (PBT): Stood at ₹538.20 crore, marking a growth of 39.38% from ₹386.14 crore in the corresponding quarter of the previous fiscal year\nProfit After Tax (PAT): Recorded ₹425.37 crore, reflecting 26.77% rise from ₹335.54 crore in Q3 FY 2023-24\nLoan Sanctions: Amounted to ₹13,226.81 crore, a remarkable 45.01% growth compared to ₹9,121.11 crore in Q3 FY 2023-24\nLoan Disbursements: Reached ₹7,448.96 crore, up by 25.27% from ₹5,946.45 crore in the same period last year\nLoan Book: Expanded to ₹68,959.61 crore, showing a 36.34% increase compared to ₹50,579.67 crore in Q3 FY 2023-24\nNet Worth: Strengthened to ₹9,842.07 crore, registering a 20.99% growth from ₹8,134.56 crore in Q3 FY 2023-24\nEarnings Per Share (EPS): Improved to ₹1.58, growing by 15.03% from ₹1.38 in the same quarter of the previous fiscal.\nCommenting on the results, Shri Pradip Kumar Das, CMD, IREDA, said, \"Our outstanding performance in Q3 FY 2024-25 reflects IREDA's steadfast commitment to accelerating India's renewable energy transition. The significant growth in loan sanctions, disbursements, and the expansion of our loan book highlight our pivotal role in financing sustainable energy projects. With a robust financial position and strong profitability as evidenced by our PAT, IREDA remains well-poised to drive the nation's green energy ambitions forward.\"\nShri Das also expressed his appreciation for Team IREDA for their unwavering dedication and excellence in achieving these milestones. He further extended his gratitude to Shri Pralhad Joshi, Hon’ble Union Minister of New & Renewable Energy, Consumer Affairs and Food & Public Distribution; Shri Shripad Naik, Hon’ble Minister of State for Power and New & Renewable Energy; Shri Prashant Kumar Singh, Secretary, MNRE; other senior officials of the ministry; and the Board of Directors for their continued support and invaluable guidance.\n****\nNavin Sreejith",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Audited Financial Results",
+                "sentiment": "none"
+            },
+            {
+                "name": "Green Financing NBFC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ee0f76249c663141adedc2a200e63a89ef76f003",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:37:10.924+02:00",
+    "updated": "2025-01-10T07:37:10.924+02:00"
+}

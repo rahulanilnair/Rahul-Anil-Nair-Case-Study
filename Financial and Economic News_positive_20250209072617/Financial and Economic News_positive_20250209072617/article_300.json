@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "5b9ecb616c721475b4a18200f650e8b1614d2e4d",
+        "url": "https://www.newsy-today.com/eu-assures-top-role-in-ukraine-aid-if-us-reluctant",
+        "site_full": "www.newsy-today.com",
+        "site": "newsy-today.com",
+        "site_section": "https://www.newsy-today.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "HOME - Newsy Today",
+        "title": "EU Assures Top Role in Ukraine Aid if US Reluctant",
+        "title_full": "EU Assures Top Role in Ukraine Aid if US Reluctant",
+        "published": "2025-01-09T18:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 197436,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b9ecb616c721475b4a18200f650e8b1614d2e4d",
+    "url": "https://www.newsy-today.com/eu-assures-top-role-in-ukraine-aid-if-us-reluctant",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsytoday",
+    "published": "2025-01-09T18:24:00.000+02:00",
+    "title": "EU Assures Top Role in Ukraine Aid if US Reluctant",
+    "text": "E乌uropean Union Ready to Step Up Russia ‘getting what it deserves,’ Ukraine says, after launching …”>Ukraine Support if US Relents: Kaia Kalas\nHigh Representative of the European Union (EU) for Foreign Affairs and Security Policy , Kaia Kalas, has declared that the European Union is prepared to take the lead in aiding Ukraine, should the United States rescind its support. Speaking prior to a meeting of the Contact Group on Defense Issues of Ukraine at the ‘Rast ค hameau’ airbase on January 9th, Kalas stressed the EU’s readiness to assume a more prominent role in assistance to Ukraine.\nShe acknowledged that speculation about the future of American support should be avoided at this juncture, clarifying that regardless of the US presidency, Washington’s interests do not lie in Russia’s global dominance. Kalas’ remarks come amid concerns that the US, under Donald Trump’s administration, might scale back its assistance to Ukraine.\nPresident Trump had earlier assured that he would not abandon Ukraine in resolving the Russian-Ukrainian conflict. However, he also suggested that he could \"understand the feelings\" of Russia regarding Ukraine’s potential NATO accession, which, according to him, was violated by President Joe Biden.\nDespite these signals, Kalas’ statements hint that the EU remains committed to supporting Ukraine, with France’s Tagesschau news source confirming the High Representative’s assertions. As the situation continues to evolve, the EU’s role in maintaining international balance and upholding Ukrainian interests will undoubtedly remain under scrutiny.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Politics->political development",
+        "Politics->international relations",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.historyworld.net/history/Russia/611",
+        "https://www.nato.int/",
+        "https://rbwsecurity.com/",
+        "https://www.kyivpost.com/topic/war-in-ukraine",
+        "https://usafacts.org/answers/what-countries-receive-the-most-foreign-aid-from-the-us/country/united-states/",
+        "https://rbwsecurity.com",
+        "https://usafacts.org/answers/what-countries-receive-the-most-foreign-aid-from-the-us/country/united-states",
+        "https://www.usafacts.org/answers/what-countries-receive-the-most-foreign-aid-from-the-us/country/united-states/",
+        "https://nato.int/",
+        "https://www.nato.int",
+        "https://historyworld.net/history/Russia/611",
+        "https://www.rbwsecurity.com/",
+        "https://kyivpost.com/topic/war-in-ukraine"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:40:25.548+02:00",
+    "updated": "2025-01-10T02:40:25.548+02:00"
+}

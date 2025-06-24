@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "7ee88ef6f123b6f64c3c34ca314276417303b84e",
+        "url": "https://www.beckershospitalreview.com/pharmacy/2025s-most-anticipated-2025-drug-approvals-goodrx.html",
+        "site_full": "www.beckershospitalreview.com",
+        "site": "beckershospitalreview.com",
+        "site_section": "https://www.beckershospitalreview.com/?format=feed",
+        "site_categories": [
+            "pets",
+            "veterinary_medicine"
+        ],
+        "section_title": "Becker's Hospital Review | Healthcare News &amp; Analysis",
+        "title": "2025's most anticipated 2025 drug approvals: GoodRx",
+        "title_full": "2025's most anticipated 2025 drug approvals: GoodRx",
+        "published": "2025-01-09T23:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+        "performance_score": 0,
+        "domain_rank": 3746,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7ee88ef6f123b6f64c3c34ca314276417303b84e",
+    "url": "https://www.beckershospitalreview.com/pharmacy/2025s-most-anticipated-2025-drug-approvals-goodrx.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paige Twenter",
+    "published": "2025-01-09T23:32:00.000+02:00",
+    "title": "2025's most anticipated 2025 drug approvals: GoodRx",
+    "text": "GoodRx is monitoring seven potential FDA drug approvals in 2025, including a possible expanded label for Ozempic.\nHere are this year's most anticipated approval decisions, according to a GoodRx article.\n1. Ozempic (semaglutide) for chronic kidney disease: By the end of January, Novo Nordisk's Type 2 diabetes drug could be approved for reducing the risk of kidney disease events related to diabetes. Clinical study results from mid-2024 showed Ozempic reduced the risk of kidney disease-related events by 24%, the risk of a major heart problem by 18% and the risk of death by 20%.\n2. Leqembi (lecanemab) for monthly maintenance dosage: By Jan. 25, the FDA's first fully approved Alzheimer's disease medication could receive approval for a different regimen. Currently administered as an infusion every two weeks, the drug's manufacturer has requested FDA clearance for certain patients to transition to monthly infusions.\n3. Suzetrigine as a first-in-class nonopioid painkiller: By Jan. 30, Boston-based Vertex Pharmaceuticals anticipates a potential approval for suzetrigine. If approved, it would be the first new painkiller in 20 years working through a novel mechanism — blocking a specific sodium channel to prevent pain signals from reaching the brain.\n4. Gepotidacin to treat uncomplicated urinary tract infections: By March 26, GSK's experimental antibiotic for uncomplicated UTIs could receive FDA approval. Gepotidacin is an oral antibiotic that performed as well as or better than nitrofurantoin (Macrobid, Macrodantin) in clinical trials.\n5. Cardamyst (etripamil) for paroxysmal supraventricular tachycardia: By March 27, the nasal spray could be approved to treat PSVT, a condition characterized by sudden episodes of rapid heartbeat lasting minutes to several hours. If approved, Cardamyst could help reduce emergency room visits for PSVT.\n6. Novavax COVID-19 vaccine: By the end of April, the FDA is expected to decide whether to grant Novavax's shot full approval. The vaccine, along with its updated versions, is currently authorized for use during a public health emergency.\n7. Sebetralstat for hereditary angioedema: By June 17, the U.S. market could have its first FDA-approved oral medication for the rare genetic health condition hereditary angioedema. The condition causes recurring severe swelling of the face, airway and other areas. Current treatments are infusions or injections but sebetralstat would offer a more convenient option for patients 12 and older if approved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Health->health treatment and procedure",
+        "Health->drug rehabilitation",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:39:55.976+02:00",
+    "updated": "2025-01-10T00:39:55.976+02:00"
+}

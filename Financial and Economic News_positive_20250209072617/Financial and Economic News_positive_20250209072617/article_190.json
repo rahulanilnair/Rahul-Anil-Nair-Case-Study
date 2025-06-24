@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "8f90eb2b7c94634459106e5361592a924d095d0d",
+        "url": "https://www.newsbreak.com/news/3752792659358-food-shelves-throughout-the-state-getting-more-funding-including-outreach-food-shelf",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/alexandria-mn",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Alexandria, MN Local News and More | NewsBreak",
+        "title": "Food shelves throughout the state getting more funding including Outreach Food Shelf - NewsBreak",
+        "title_full": "Food shelves throughout the state getting more funding including Outreach Food Shelf - NewsBreak",
+        "published": "2025-01-09T21:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0yTGt0_0y1Om4H800",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f90eb2b7c94634459106e5361592a924d095d0d",
+    "url": "https://www.newsbreak.com/news/3752792659358-food-shelves-throughout-the-state-getting-more-funding-including-outreach-food-shelf",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Anthony",
+    "published": "2025-01-09T21:55:00.000+02:00",
+    "title": "Food shelves throughout the state getting more funding including Outreach Food Shelf - NewsBreak",
+    "text": "By Mark Anthony ,\n8 hours ago (St. Paul, MN)--Minnesota food shelves will be getting additional funding from the state. Governor Walz announced $5.5 million in aid yesterday. (Wednesday) Walz said the funding will ensure a stable supply of healthy food to meet Minnesotans' needs. Food purchased using the funding will go to a network of more... Read full article\nRead in NewsBreak 5",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->welfare",
+        "Social Issue->charity",
+        "Social Issue->poverty"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Anthony",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Walz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:39:06.330+02:00",
+    "updated": "2025-01-10T01:39:06.330+02:00"
+}

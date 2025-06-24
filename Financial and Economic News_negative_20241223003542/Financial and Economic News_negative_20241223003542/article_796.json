@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "48c9cec47bb77170292964d4f021e0abb86694aa",
+        "url": "https://uk.investing.com/news/stock-market-news/germans-leading-chancellor-candidate-proposes-105-billion-social-spending-cut-93CH-3841446",
+        "site_full": "uk.investing.com",
+        "site": "investing.com",
+        "site_section": "https://uk.investing.com/news/stock-market-news",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Stock Market News | Share News - Investing.com UK",
+        "title": "German's leading chancellor candidate proposes $105 billion social spending cut By Investing.com",
+        "title_full": "German's leading chancellor candidate proposes $105 billion social spending cut By Investing.com",
+        "published": "2024-12-17T14:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i-invdn-com.investing.com/news/7-Eleven_800x533_L_1673420630.jpg",
+        "performance_score": 0,
+        "domain_rank": 1187,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "48c9cec47bb77170292964d4f021e0abb86694aa",
+    "url": "https://uk.investing.com/news/stock-market-news/germans-leading-chancellor-candidate-proposes-105-billion-social-spending-cut-93CH-3841446",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T14:40:00.000+02:00",
+    "title": "German's leading chancellor candidate proposes $105 billion social spending cut By Investing.com",
+    "text": "Investing.com -- The conservative candidate for chancellor in Germany, currently leading in the polls for the upcoming February election, has suggested a cut of €100 billion ($105 billion) in migration and social spending. This proposal is part of a broader plan to address the country's financial situation.\nFriedrich Merz, the leader of the Christian Democratic Union (CDU), has taken a notably different approach to policy compared to current Chancellor Olaf Scholz. Scholz has refrained from reducing social welfare, despite the significant burden on taxpayers. In a press briefing held in Berlin, Merz criticized Scholz for the economic downturn in Germany, attributing it to the Social Democrat's policies.\nThe German economy is expected to contract for a second consecutive year, affected by reduced exports and increased energy costs in the wake of Russia's invasion of Ukraine. The next government will have to secure funding and public support for substantial investments, aimed at modernizing the country's aging infrastructure, strengthening defense capabilities, and dealing with the return of Donald Trump to the U.S. presidency.\nMerz, who also leads the CDU/CSU alliance, claimed on Tuesday that Scholz has lost the trust of investors, leading to capital flight from the country. Merz expressed his intention to reduce the corporate tax rate to 25% and reaffirmed his readiness to assume governmental responsibility in Germany.\nThe proposed budget for Germany in 2025 stands at €488 billion, with labor and social spending accounting for €179 billion.\nThe election campaign officially began on Monday when Scholz lost a confidence vote in the lower house of parliament, prompting a federal election set for Feb. 23, seven months earlier than initially scheduled. Until a new government is formed, Scholz's minority administration will remain in power.\nScholz's party, the Social Democrats, along with former coalition partners the liberal Free Democrats and the Greens, have been struggling in the polls.\nThis article was generated with the support of AI and reviewed by an editor. For more information see our T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Friedrich Merz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Olaf Scholz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Christian Democratic Union",
+                "sentiment": "none"
+            },
+            {
+                "name": "CDU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:25:56.724+02:00",
+    "updated": "2024-12-17T15:25:56.724+02:00"
+}

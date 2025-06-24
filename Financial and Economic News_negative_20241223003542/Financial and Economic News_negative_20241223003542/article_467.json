@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "995eab85a83689600d31553bd65443e84de0b5d3",
+        "url": "https://www.investing.com/news/stock-market-news/booking-holdings-says-inflation-still-affecting-us-travel-plans-93CH-3776502",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://www.investing.com/news/stock-market-news",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Stock Market News - Investing.com",
+        "title": "Booking Holdings says inflation still affecting US travel plans By Investing.com",
+        "title_full": "Booking Holdings says inflation still affecting US travel plans By Investing.com",
+        "published": "2024-12-17T05:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "995eab85a83689600d31553bd65443e84de0b5d3",
+    "url": "https://www.investing.com/news/stock-market-news/booking-holdings-says-inflation-still-affecting-us-travel-plans-93CH-3776502",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T05:39:00.000+02:00",
+    "title": "Booking Holdings says inflation still affecting US travel plans By Investing.com",
+    "text": "American consumers are still delaying their vacation planning, according to Booking.com's Chief Financial Officer, Ewout Steenbergen.\nIn a Bloomberg News interview, he noted that the booking window in the US has not shown significant changes recently, indicating that people are waiting longer to book trips.\nThis trend serves as an indicator of consumer sentiment, with a shorter booking window suggesting a reluctance to commit to travel plans amid economic concerns.\nIn contrast, European travelers are making travel arrangements earlier, such as booking ski trips for February and planning for Easter holidays. This behavior has positively influenced Booking Holdings (NASDAQ: BKNG )' outlook, as stated by Steenbergen to investors last week.\nThe CFO pointed out a divide in the US market, where luxury travel continues to thrive, but inflation has more noticeably impacted lower-income groups. As a result, some of Booking's US customers are opting for less expensive hotels or reducing the length of their vacations.\nDespite these patterns, Steenbergen remains optimistic about the future of the US travel market. He anticipates an upswing as American consumers continue to value experiences like weekend getaways over other discretionary spending, such as purchasing new clothing.\nThis article was generated with the support of AI and reviewed by an editor. For more information see our T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ewout Steenbergen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Booking Holdings",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bloomberg News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "995eab85a83689600d31553bd65443e84de0b5d3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:44:39.493+02:00",
+    "updated": "2024-12-17T13:44:39.493+02:00"
+}

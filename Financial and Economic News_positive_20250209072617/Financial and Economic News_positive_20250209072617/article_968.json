@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "9e884badb1a4a6f19fc95d2ff2c4837edd0340de",
+        "url": "https://www.ethnews.com/russian-government-to-initiate-sale-of-seized-bitcoins-in-a-major-move",
+        "site_full": "www.ethnews.com",
+        "site": "ethnews.com",
+        "site_section": "https://www.ethnews.com",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Home - ETHNews",
+        "title": "Russian Government to Initiate Sale of Seized Bitcoins in a Major Move",
+        "title_full": "Russian Government to Initiate Sale of Seized Bitcoins in a Major Move",
+        "published": "2025-01-10T07:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ethnews.com/wp-content/uploads/2025/01/Screenshot-2025-01-10-073626.png",
+        "performance_score": 0,
+        "domain_rank": 114771,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e884badb1a4a6f19fc95d2ff2c4837edd0340de",
+    "url": "https://www.ethnews.com/russian-government-to-initiate-sale-of-seized-bitcoins-in-a-major-move",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AnnJoy Makena",
+    "published": "2025-01-10T07:37:00.000+02:00",
+    "title": "Russian Government to Initiate Sale of Seized Bitcoins in a Major Move",
+    "text": "- Russia has started selling seized Bitcoins valued at over 1.6 billion rubles, originating from a criminal hacker group.\n- The sale faces legal challenges as the Bitcoins are spread across multiple wallets, requiring court permissions for each transaction.\nIn 2023, a significant amount of [Bitcoins](https://www.ethnews.com/bitcoin-research-takes-center-stage-as-szabo-joins-jan3/) was seized during investigations against the hacker group Infraud.\nThe Russian government has recently announced that it will begin selling these digital assets. The transactions are expected to generate substantial sums, amounting to over 1.6 billion rubles.\nIn the specific case of the former official Tambiyev, who was found guilty of accepting bribes from this group, over 1,032 [Bitcoins](https://www.ethnews.com/u-s-judge-approves-sale-of-69000-silk-road-bitcoin-worth-over-6-5-billion/) were found on his devices. These digital currencies are now part of the assets to be liquidated following Tambiyev’s 16-year prison sentence.\nLegal Challenges in the Sale\nHowever, the process of selling the Bitcoins is not without its legal obstacles. The [Bitcoins](https://www.ethnews.com/wait-for-bitcoin-to-hit-150k-discover-3-alternatives-could-bring-profits-faster-during-altcoin-season/) were distributed across various wallets, meaning that separate court approvals are needed to access each portion. This complexity adds layers of legal work and time to the asset liquidation process, potentially impacting the timing and final amount recovered from these sales.\nExecutors have now obtained the judicial approval for the first [Bitcoin](https://www.ethnews.com/chile-explores-bitcoin-integration-with-proposed-parliamentary-group/) sales valued at 10 million US dollars (approximately 665 million rubles). These coins were reportedly stored in a hardware wallet named Ledger Nano X.\nSources familiar with the case also indicate that prosecutors plan to sell additional [Bitcoins](https://www.ethnews.com/bitcoin-and-liquidity-can-the-dollar-supply-override-market-uncertainty/) worth millions of rubles and other seized assets, including several properties near Moscow. This broad-scale liquidation underscores the government’s commitment to not only tackling cybercrime but also managing the aftermath efficiently by converting illicit gains back into state resources.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->investment and opinion pieces"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:41:38.384+02:00",
+    "updated": "2025-01-10T09:41:38.384+02:00"
+}

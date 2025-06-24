@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "1eb53359fa8678f95797648b7058449a7ef6e40c",
+        "url": "https://www.kttc.com/2025/01/10/lt-gov-flanagan-austin-highlighting-agriculture-programs",
+        "site_full": "www.kttc.com",
+        "site": "kttc.com",
+        "site_section": "https://www.kttc.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News",
+        "title": "Lt. Gov Flanagan in Austin highlighting agriculture programs",
+        "title_full": "Lt. Gov Flanagan in Austin highlighting agriculture programs",
+        "published": "2025-01-10T03:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kttc-prod.gtv-cdn.com/resizer/v2/264ALY34GBAAZFQWAH2OH2PC2I.png?auth=d41a7e40512d3d68521b1559ae1a7fe3f0c313feeb304dc3d47f12f3011f2d0b&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 42067,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1eb53359fa8678f95797648b7058449a7ef6e40c",
+    "url": "https://www.kttc.com/2025/01/10/lt-gov-flanagan-austin-highlighting-agriculture-programs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@KTTCTV",
+    "published": "2025-01-10T03:55:00.000+02:00",
+    "title": "Lt. Gov Flanagan in Austin highlighting agriculture programs",
+    "text": "By Matt Rineer Published: Jan. 9, 2025 at 7:55 PM CST | Updated: 6 hours ago Email This Link\nShare on Facebook\nShare on X (formerly Twitter)\nShare on Pinterest\nShare on LinkedIn\nAUSTIN, Minn. (KTTC) – Days ahead of the 2025 legislative session, Minnesota’s Lt. Governor Peggy Flanagan made a stop in Austin.\nFlanagan was at Riverland Community College on Thursday to highlight the schools different set of Agriculture Programs.\nThe visit included a presentation from school leaders who highlighted the variety of programs and toured the different faculties.\n“The community of Austin has such a gem here in Riverland, and their partnership with Hormel and the Hormel institute,” Flanagan said. “We heard a lot about the north star promise and what that has helped students do. [Students] get that higher education and [do] not have to worry about the costs.”\nFind stories like this and more, in our apps .\nCopyright 2025 KTTC. All rights reserved.\nMost Read Body found in burning car in Byron identified Drones sighted near Prairie Island Nuclear Plant Juneau Co. authorities take man wanted for triple homicide into custody Senators Klobuchar and Smith secure $2.5 million in federal funding for South Broadway Avenue in Rochester Police investigating two bodies found in southeast Rochester Monday’s Vikings-Rams game moved to Arizona due to Los Angeles fires Jimmy Carter lauded for humility and service in Washington before being laid to rest in Georgia Canton mayor resigns, council member appointed mayor Latest News Winona community reacts to elementary schools' reconfiguration Monday’s Vikings-Rams game moved to Arizona due to Los Angeles fires Winona community reacts to elementary schools' reconfiguration Midwest native shares story of evacuation amid California wildfires Heading for a tied start to the year, MN Senate party leaders call conversations “good” Stewartville city administrator weighs in on incoming construction projects Monday’s Vikings-Rams game moved to Arizona due to Los Angeles fires",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->government department",
+        "Politics->political process",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->agriculture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gov Flanagan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Peggy Flanagan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Riverland Community College",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "AUSTIN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Riverland",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:32:04.061+02:00",
+    "updated": "2025-01-10T10:15:55.613+02:00"
+}

@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "57bc04c687b29c5dbb66c3c8faedaeb64fc2cf40",
+        "url": "https://www.bnnbloomberg.ca/business/2024/12/17/ecb-moves-to-edge-up-capital-requirements-for-regions-banks",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://www.bnnbloomberg.ca/business",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business - BNN Bloomberg",
+        "title": "ECB Moves to Edge Up Capital Requirements For Region’s Banks",
+        "title_full": "ECB Moves to Edge Up Capital Requirements For Region’s Banks",
+        "published": "2024-12-17T12:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/A4DX4GQMV2L2XJGHZQJQK7WI34.jpg?smart=true&amp;auth=c60ec46dae920935f656716dd75b19ce42983a3607a4b692188ee227c78aafaa&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2772,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "57bc04c687b29c5dbb66c3c8faedaeb64fc2cf40",
+    "url": "https://www.bnnbloomberg.ca/business/2024/12/17/ecb-moves-to-edge-up-capital-requirements-for-regions-banks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Comfort",
+    "published": "2024-12-17T12:02:00.000+02:00",
+    "title": "ECB Moves to Edge Up Capital Requirements For Region’s Banks",
+    "text": "The European Central Bank slightly raised capital requirements for the region’s lenders, saying geopolitical risks had increased despite bumper profits. Overall, banks face a minimum bar of 11.3% for high quality capital next year, up from 11.2% in 2024, the ECB said in a statement on Tuesday in Frankfurt. The watchdog increased its portion of those buffers after “changes in the risk profile of selected banks.” European banks have benefited from higher interest rates over the past two and a half years, fueling payouts to shareholders. Yet the ECB has warned that they face numerous risks, from geopolitical tensions to climate change. The ECB also said that it more than doubled the number of banks that face additional requirements because of “excessive leverage.” Thirteen lenders now have to maintain a leverage ratio — a blunter measure of capital strength — above the 3% minimum, the central bank said. The additional buffers range between 0.1 and 0.4 percentage points. In addition, the ECB told four banks to hold extra liquidity to comply with minimum “survival periods” and currency-specific liquidity buffers. ©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:28:38.749+02:00",
+    "updated": "2024-12-17T12:28:38.749+02:00"
+}

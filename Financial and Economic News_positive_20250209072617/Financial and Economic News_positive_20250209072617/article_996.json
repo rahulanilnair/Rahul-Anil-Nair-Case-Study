@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b078b710d4093435be366b816d56bf1129c8ddb0",
+        "url": "https://www.ecns.cn/cns-wire/2025-01-10/detail-ihemrznk1748408.shtml",
+        "site_full": "www.ecns.cn",
+        "site": "ecns.cn",
+        "site_section": "https://ecns.cn",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "China News Service Website - Headlines, stories, photos and videos | Ecns.cn",
+        "title": "Chinese scholars discover novel quantum state of matter",
+        "title_full": "Chinese scholars discover novel quantum state of matter",
+        "published": "2025-01-10T09:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 16090,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b078b710d4093435be366b816d56bf1129c8ddb0",
+    "url": "https://www.ecns.cn/cns-wire/2025-01-10/detail-ihemrznk1748408.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gong Weiwei",
+    "published": "2025-01-10T09:13:00.000+02:00",
+    "title": "Chinese scholars discover novel quantum state of matter",
+    "text": "(ECNS) -- China observed a novel quantum state of matter, counterflow superfluidity, in atomic ultracold quantum simulation experiments, according to the University of Science and Technology of China on Thursday.\nDuring the experiment, the research team successfully observed counterflow superfluidity through precise control of a newly developed quantum gas microscope.\nThis research demonstrates that the atomic ultracold quantum simulation method offers a wealth of quantum control and observation techniques for exploring novel forms of matter, making it an essential tool for studying the microscopic physical mechanisms of strongly correlated many-body quantum states.\nIn the 1930s, physicists discovered superfluidity in liquid helium, a major milestone in advancing foundational research in quantum physics. This discovery spurred the development of low-temperature technologies, including laser cooling and dilution refrigeration, which have become critical tools in quantum simulation, quantum computing, and related disciplines.\nThis finding, titled “Counterflow superfluidity in a two-component Mott insulator,” was published in the internationally renowned academic journal Nature Physics on Wednesday.\nPraised by reviewers, the work was described it as an “outstanding achievement in the field of quantum simulation.”\nRelated news Chinese scientists achieve helium-free ultra-low temperature cooling\n2024-01-15",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Science and Technology->physics",
+        "Science and Technology->scientific research",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:49:30.343+02:00",
+    "updated": "2025-01-10T09:49:30.343+02:00"
+}

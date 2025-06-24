@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "3fe5093b43c8c0cc9eb00fd5913dfc136337822e",
+        "url": "https://www.kansascity.com/sports/article298287408.html",
+        "site_full": "www.kansascity.com",
+        "site": "kansascity.com",
+        "site_section": "http://www.kansascity.com/?widgetName=rssfeed&widgetContentId=6199&getXmlFeed=true",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Winter storm to bring more snow to Kansas City. Here’s a closer look at how much",
+        "title": "Tigers reach deal with ace Tarik Skubal, six others, to avoid arbitration",
+        "title_full": "Tigers reach deal with ace Tarik Skubal, six others, to avoid arbitration",
+        "published": "2025-01-10T04:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mcclatchy-wires.com/incoming/glz7mx/picture298287218/alternates/LANDSCAPE_1140/6418b116-fb86-4c9e-89e4-8b52f3f94f24",
+        "performance_score": 0,
+        "domain_rank": 2239,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3fe5093b43c8c0cc9eb00fd5913dfc136337822e",
+    "url": "https://www.kansascity.com/sports/article298287408.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris McCosky, The Detroit News The Tribune Content Agency",
+    "published": "2025-01-10T04:28:00.000+02:00",
+    "title": "Tigers reach deal with ace Tarik Skubal, six others, to avoid arbitration",
+    "text": "Sports\nTigers reach deal with ace Tarik Skubal, six others, to avoid arbitration\nDETROIT - The Tigers and lefty ace Tarik Skubal might not have been able to work out a multi-year extension this offseason, but the reigning American League Cy Young winner got a handsome pay raise nevertheless.\nThe two sides on Thursday agreed on a one-year deal for 2025 worth $10.15 million. Skubal, who was eligible for arbitration, earned $2.65 million last season.\nThe $10.15 million blew past the industry projection of MLB Trade Rumors ($8 million), but came in just under that of Spotrac ($11.2 million).\nThe 28-year-old Skubal broke out last season, winning the pitcher equivalent of the Triple Crown, leading the American League in wins (18), ERA (2.39) and strikeouts (228).\nHe also won two playoff games for the Tigers last October.\nHe is under team control through the 2026 season.\nThe Tigers also reached deals with their six other arbitration-eligible players Thursday:\n- Right-handed pitcher Jason Foley, $3.15 million.\n- Super-utility player Matt Viering, $3.005 million.\n- Catcher Jake Rogers, $2.64 million.\n- Right-handed pitcher Casey Mize, $2.34 million.\n- Right-handed pitcher Will Vest, $1.4 million.\n- Right-handed pitcher Beau Brieske, $1.025 million.\nAdditionally, the Tigers avoided arbitration with utility players Andy Ibanez ($1.4 million) and Zach McKinstry ($1.65 million) in November.\nCopyright (C) 2024, Tribune Content Agency, LLC. Portions copyrighted by the respective providers.\nThis story was originally published January 9, 2025 at 8:28 PM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->sports transaction",
+        "Sport->baseball",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tarik Skubal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Viering",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jason Foley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jake Rogers",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Sports\nTigers",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:10:03.195+02:00",
+    "updated": "2025-01-10T05:10:03.195+02:00"
+}

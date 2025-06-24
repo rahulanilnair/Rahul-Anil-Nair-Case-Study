@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "1d3fc93a3b78c5b3f02b98c6502c12e55868f502",
+        "url": "https://www.kjzz.org/business/2024-12-17/annual-prescriptions-for-eyeglasses-can-get-expensive-arizona-senator-wants-to-change-the-rules",
+        "site_full": "www.kjzz.org",
+        "site": "kjzz.org",
+        "site_section": "https://kjzz.org/news",
+        "site_categories": [],
+        "section_title": "News",
+        "title": "Annual prescriptions for eyeglasses can get expensive. Arizona senator wants to change the rules",
+        "title_full": "Annual prescriptions for eyeglasses can get expensive. Arizona senator wants to change the rules",
+        "published": "2024-12-17T15:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/8d30293/2147483647/strip/true/crop/1255x659+122+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fs3fs-public%2Ffield%2Fimage%2Feyeglasses1.jpg",
+        "performance_score": 0,
+        "domain_rank": 14046,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1d3fc93a3b78c5b3f02b98c6502c12e55868f502",
+    "url": "https://www.kjzz.org/business/2024-12-17/annual-prescriptions-for-eyeglasses-can-get-expensive-arizona-senator-wants-to-change-the-rules",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Camryn Sanchez",
+    "published": "2024-12-17T15:00:00.000+02:00",
+    "title": "Annual prescriptions for eyeglasses can get expensive. Arizona senator wants to change the rules",
+    "text": "Annual prescriptions for eyeglasses can get expensive. Arizona senator wants to change the rules\nAn Arizona state senator is sick of going to the doctor every year to renew his eyeglasses prescription - so he’s sponsoring a bill to stop it.\nAnyone who wears glasses has to get their prescription renewed yearly by their eye doctor, but Sen. John Kavanagh (R-Fountain Hills) says that’s unnecessary for most people.\n[His bill would change state law to require prescription renewal only every two years](https://www.azleg.gov/legtext/57leg/1R/bills/SB1008P.pdf) - unless the doctor deems it necessary to have more frequent visits due to a patient’s age or medical condition.\n“The overwhelming majority of people, their eyes aren’t changing that much, so one year is far too frequent and too costly,” Kavanagh said.\nKavanagh introduced a version of the same bill two years ago, but it died after opposition from the Arizona State Board of Optometry.\nIn 2023, Kavanagh’s bill died when Rep. Beverly Pingerelli (R-Peoria) joined Democrats against the bill in a House committee. Kavanagh said he’s hopeful the bill has a better chance this time and that Pingerelli may have a change of heart.\nArizona State Board Of Optometry Executive Director Margaret Whelan told the House committee that killed the bill in 2023 that it should be up to the medical professionals to determine the length of a prescription.\nKavanagh said that his cynical side thinks optometrists may want patients to have more frequent visits for the profit but that his optimistic side hopes that’s not the case.\nLobbyist Don Isaacson - who represents the Arizona Optometric Association - said his group hasn’t finished reviewing the bill yet.\n“Part of the benefit of an eye exam is checking visual acuity, accuracy of the eye and sight, but a large part also is the evaluation of the eye itself,” he said. “If you make a prescription two years in length, you lose the ability to evaluate a person’s eye.”\nKavanagh’s bill is specific to glasses and doesn’t apply to contact lenses.\nHe said he thinks the bill is doubly likely to get killed if it covers both glasses and contacts.\n[The state that appears to have the longest eyeglasses prescription period](https://worldpopulationreview.com/state-rankings/eyeglass-prescription-expiration-by-state) is Florida, at five years. One year - the common practice in Arizona - is the shortest time any state allows, but it’s also somewhat common.\nKavanagh said he doesn’t have a problem with five years, but he doesn’t think he can get it passed.\nA doctor’s appointment for a new prescription and the cost of new lenses can cost up to a few hundred dollars, depending on the patient’s insurance.\n-\nGlendale has agreed to pay VAI Resorts at least $15 million to reserve 800 spots in the resort’s parking garage when it opens later next year.\n-\nPhoenix leaders will consider a plan to help reach the city’s goal of creating zero waste by 2050.\n-\nThe raids of three stores in the capital of the state of Sonora are part of a nationwide effort to crack down on the sale of counterfeit goods. Authorities seized toys, vapes and other foreign-made products that they say are illegal to sell.\n-\nHealth officials in Arizona are continuing to monitor for cases of H5 avian influenza. The state’s first human cases of the virus were reported last week and more animal cases were confirmed this week.\n-\nArizonans would feel the pain of tariffs in the form of increased prices. But some experts suggest threatening the fees could help the president-elect bring Mexico to the negotiating table, and not just on trade.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.azleg.gov/legtext/57leg/1R/bills/SB1008P.pdf",
+        "https://worldpopulationreview.com/state-rankings/eyeglass-prescription-expiration-by-state",
+        "https://azleg.gov/legtext/57leg/1R/bills/SB1008P.pdf",
+        "https://www.worldpopulationreview.com/state-rankings/eyeglass-prescription-expiration-by-state"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:19:22.824+02:00",
+    "updated": "2024-12-17T16:19:22.824+02:00"
+}

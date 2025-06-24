@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "a800a3eecffc3651a73b39b0e37ca2adfc1c6034",
+        "url": "https://www.deccanherald.com/business/markets/sensex-climbs-27076-points-in-early-trade-nifty-up-695-points-3349184",
+        "site_full": "www.deccanherald.com",
+        "site": "deccanherald.com",
+        "site_section": "https://www.deccanherald.com/ipl-2024",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "IPL 2024: IPL Live Score, Schedule, Points Table 2024,  IPL 2024 News, Videos, Latest Articles on IPL Matches",
+        "title": "Sensex climbs 270.76 points in early trade; Nifty up 69.5 points",
+        "title_full": "Sensex climbs 270.76 points in early trade; Nifty up 69.5 points",
+        "published": "2025-01-10T06:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2022%2F03%2F13%2Fmarkets-ipo-istock-1073765-1642927860-1-1090839-1647154429.jpg?rect=0%2C7%2C700%2C368&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 2794,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a800a3eecffc3651a73b39b0e37ca2adfc1c6034",
+    "url": "https://www.deccanherald.com/business/markets/sensex-climbs-27076-points-in-early-trade-nifty-up-695-points-3349184",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DH Web Desk",
+    "published": "2025-01-10T06:33:00.000+02:00",
+    "title": "Sensex climbs 270.76 points in early trade; Nifty up 69.5 points",
+    "text": "<p>Sensex on Friday climbed 270.76 points to 77,890.97 in early trade and Nifty is up 69.5 points to 23,596.</p><p>Equity benchmark BSE Sensex tumbled nearly 700 points to sink below the 79,000 level on Tuesday.</p><p>The 30-share BSE Sensex on Thursday, tumbled 692.89 points or 0.87 per cent to settle at 78,956.03. During the day, it tanked 759.54 points or 0.95 per cent to 78,889.38.</p><p>The NSE Nifty slumped 208 points or 0.85 per cent to 24,139.</p><p><em>More to follow...</em></p>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "NSE Nifty",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:52:34.602+02:00",
+    "updated": "2025-01-10T06:52:34.602+02:00"
+}

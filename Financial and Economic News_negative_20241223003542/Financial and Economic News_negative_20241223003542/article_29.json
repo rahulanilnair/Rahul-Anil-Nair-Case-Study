@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "cf1734eb872eee28a25d157ce7fef76e1e14b80a",
+        "url": "https://www.thejakartapost.com/indonesia/2024/12/17/counterfeit-money-investigation-at-local-university-in-gowa-continues.html",
+        "site_full": "www.thejakartapost.com",
+        "site": "thejakartapost.com",
+        "site_section": "https://www.thejakartapost.com/indonesia",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_id",
+            "top_news"
+        ],
+        "section_title": "Indonesia - The Jakarta Post",
+        "title": "Counterfeit money investigation at local university in Gowa continues",
+        "title_full": "Counterfeit money investigation at local university in Gowa continues",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ID",
+        "main_image": "https://img.jakpost.net/c/2020/02/26/2020_02_26_87465_1582710614._large.jpg",
+        "performance_score": 0,
+        "domain_rank": 3478,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf1734eb872eee28a25d157ce7fef76e1e14b80a",
+    "url": "https://www.thejakartapost.com/indonesia/2024/12/17/counterfeit-money-investigation-at-local-university-in-gowa-continues.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Jakarta Post",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Counterfeit money investigation at local university in Gowa continues",
+    "text": "Local police are actively investigating the circulation of millions of counterfeit rupiah, allegedly produced at a state university in Gowa Regency. So far, 15 suspects have been arrested.\nhe local police are continuing to investigate the circulation of hundreds of millions of counterfeit rupiah, allegedly produced at Alauddin State Islamic University in Gowa regency, South Sulawesi.\nSo far, the Gowa Police have seized counterfeit money ready for distribution and arrested 15 suspects involved in this counterfeit money network. The investigation also revealed that the syndicate operated across provinces.\nGowa Police chief Adj. Comr. Sr. Reonald TS Simanjuntak said that some of the suspects were on their way to Gowa.\n“We have arrested 15 suspects, nine of them are already detained,” Reonald told reporters at the Gowa Police on Monday evening, as quoted by the Antara news agency.\n“Five are on the way from Mamuju [in West Sulawesi], and another from Wajo regency [in South Sulawesi].”\nReonald added that the police were still developing the case.\n“We may have more suspects. Please be patient because we are still developing the case.”\nThe police admitted that investigating this case has been quite challenging, as it involves several government players and private banks. They have also coordinated with the university's leadership as the counterfeit money production took place on campus.\nAdditionally, the counterfeit money that was printed is quite sophisticated and difficult to detect.\n\"In this investigation, we had to involve several banks because the counterfeit money is advanced. We also had to cooperate with a state university in Gowa Regency, as the counterfeit money was produced on campus,” Reonald said.\nOne of the suspects was revealed to be Andi Ibrahim, the university’s chief librarian.\nUniversity vice rector Khalifah Mustamin said that in addition to Andi, another university staff member was also arrested.\n\"The information we received from the police is indeed true — one is the library head, and another is a staff member,\" Khalifah told reporters at the campus, as quoted by detik.com on Monday.\nKhalifah did not provide details on the involvement of Andi and the university staff member. He only confirmed that the suspected perpetrators would face legal action.\nInformation about the circulation of this counterfeit money came to light in early December when the police arrested one of the suspects in Pallangga district, Gowa regency, along with evidence of counterfeit bills worth Rp 500,000 (US$31.12) in five Rp 100,000 denomination bills.\nFollowing the arrest, further investigation led to a raid on the university’s library building.\nAt the campus, police seized several pieces of evidence, including advanced printers used to produce the counterfeit money.\nShare your experiences, suggestions, and any issues you've encountered on The Jakarta Post. We're here to listen.\nThank you for sharing your thoughts. We appreciate your feedback.\nQuickly share this news with your network—keep everyone informed with just a single click!\nShare the best of The Jakarta Post with friends, family, or colleagues. As a subscriber, you can gift 3 to 5 articles each month that anyone can read—no subscription needed!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Reonald",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Alauddin State Islamic University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gowa Regency",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Sulawesi",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Sulawesi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:31:18.963+02:00",
+    "updated": "2024-12-17T11:31:18.963+02:00"
+}

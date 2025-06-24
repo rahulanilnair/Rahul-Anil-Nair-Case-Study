@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "0cf3da8e853dcf85346b5eb8355cf881c2a5c2d3",
+        "url": "https://www.tradearabia.com/news/TTN_429933.html",
+        "site_full": "www.tradearabia.com",
+        "site": "tradearabia.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Global passenger demand up 8.1% in November",
+        "title_full": "Global passenger demand up 8.1% in November",
+        "published": "2025-01-10T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 29093,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0cf3da8e853dcf85346b5eb8355cf881c2a5c2d3",
+    "url": "https://www.tradearabia.com/news/TTN_429933.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:00:00.000+02:00",
+    "title": "Global passenger demand up 8.1% in November",
+    "text": "Global passenger demand up 8.1% in November\nGENEVA, 1 hours, 28 minutes ago\nGlobal passenger demand, measured in revenue passenger kilometers (RPK), was up 8.1% during November 2024 compared to the same month in 2023.\nTotal capacity, measured in available seat kilometers (ASK), was up 5.7% year-on-year. The November load factor was 83.4% (+1.9 ppt compared to November 2023), an all-time high for November, according to the International Air Transport Association (IATA) released data.\nMiddle Eastern carriers saw an 8.7% year-on-year increase in demand. Capacity increased 3.9% year-on-year and the load factor was 81.0% (+3.6 ppt compared to November 2023).\nInternational demand rose 11.6% compared to November 2023. Capacity was up 8.6% year-on-year, and the load factor was 83.4% (+2.3 ppt compared to November 2023). Strong performance by carriers in Europe and Asia-Pacific drove this double-digit expansion in demand.\nDomestic demand rose 3.1% compared to November 2023. Capacity was up 1.5% year-on-year and the load factor was 83.5% (+1.2 ppt compared to November 2023).\n“November was another month of strong growth in the demand for air travel with an overall expansion of 8.1%. The month was also another reminder of the supply chain issues that are preventing airlines from getting the aircraft they need to meet growing demand. Capacity growth is lagging demand by 2.4 ppts and load factors are at record levels. Airlines are missing out on opportunities to better serve customers, modernize their products and improve their environmental performance because aircraft are not being delivered on time. The 2025 New Year’s resolution for the aerospace manufacturing sector must be finding a fast and durable solution for their supply chain issues,” said Willie Walsh, IATA’s Director General.\nAll regions showed growth for international passenger markets in November 2024 compared to November 2023. Europe had the highest load factors (85.0%), while Asia-Pacific led on growth with a 19.9% year-on-year expansion in demand.\nAsia-Pacific airlines achieved a 19.9% year-on-year increase in demand. Capacity increased 16.2% year-on-year and the load factor was 84.9% (+2.6 ppt compared to November 2023).\nEuropean carriers had a 9.4% year-on-year increase in demand. Capacity increased 7.1% year-on-year, and the load factor was 85.0 % (+1.8 ppt compared to November 2023).\nNorth American carriers saw a 3.1% year-on-year increase in demand. Capacity increased 1.6% year-on-year, and the load factor was 81.0% (+1.1 ppt compared to November 2023).\nDomestic Passenger Markets\nDomestic RPK increased 3.1% over the previous year, decelerating slightly from the 3.5% growth posted in October. Signs of stable growth were shown in all markets except in the US which saw a 2.7% contraction, deeper than the 1.2% year-on-year dip recorded in October. This is part of a slowing trend in the US domestic market since June 2024 and mainly reflects lower low-cost carrier activity. US mainline carriers have continued to see growth over the same period. - TradeArabia News Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "International Air Transport Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "IATA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Asia-Pacific",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:31:51.288+02:00",
+    "updated": "2025-01-10T08:31:51.288+02:00"
+}

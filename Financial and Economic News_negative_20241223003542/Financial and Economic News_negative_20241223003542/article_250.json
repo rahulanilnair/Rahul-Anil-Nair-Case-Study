@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "23caed0db1d652df0d08d5bfe7c35a917d67494f",
+        "url": "http://www.adaderana.lk/news.php?nid=104312",
+        "site_full": "www.adaderana.lk",
+        "site": "adaderana.lk",
+        "site_section": "https://www.adaderana.lk/rss.php",
+        "site_categories": [
+            "media",
+            "sports",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "AdaDerana RSS",
+        "title": "Opposition focusing on govt MPs qualifications due to absence of corruption – PM",
+        "title_full": "Opposition focusing on govt MPs qualifications due to absence of corruption – PM",
+        "published": "2024-12-17T07:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "LK",
+        "main_image": "https://adaderanaenglish.s3.amazonaws.com/1734429863-prime-minister-6.jpg",
+        "performance_score": 0,
+        "domain_rank": 67852,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23caed0db1d652df0d08d5bfe7c35a917d67494f",
+    "url": "http://www.adaderana.lk/news.php?nid=104312",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:04:00.000+02:00",
+    "title": "Opposition focusing on govt MPs qualifications due to absence of corruption – PM",
+    "text": "Opposition focusing on govt MPs qualifications due to absence of corruption PM\nDecember 17, 2024 03:34 pm\nPrime Minister Dr. Harini Amarasuriya says the opposition is focusing on looking into the qualifications of ruling party MPs due to their inability to find corruption within the National People’s Power (NPP) government.\nSpeaking in Parliament today (17), the Prime Minister remarked that in the past MPs and Ministers of previous governments were primarily probed over corruption and fraud charges.\n“There is now a surprising interest in the qualifications of our government’s MPs and ministers. They are requesting for certificates and various other documents,” she said.\nPM Amarasuriya added that such scrutiny did not apply to the Ministers and MPs of the previous governments.\n“On one hand we are happy because in the past, the qualifications of the Ministers or government MPs were not looked into but their corruption. Since they cannot accuse us of such corruption, they are now fixated on our qualifications. In a way, this is an improvement,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harini Amarasuriya",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:42:58.573+02:00",
+    "updated": "2024-12-17T12:42:58.573+02:00"
+}

@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "09c5280baef569838a93f237973f6975f8924635",
+        "url": "https://www.businesstimes.com.sg/international/us-december-jobs-report-expected-showcase-healthy-labour-market",
+        "site_full": "www.businesstimes.com.sg",
+        "site": "businesstimes.com.sg",
+        "site_section": "https://www.businesstimes.com.sg/",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "The Business Times - Get the Latest Business &amp; Financial News",
+        "title": "US December jobs report expected to showcase healthy labour market",
+        "title_full": "US December jobs report expected to showcase healthy labour market",
+        "published": "2025-01-09T19:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/533952200ab0d966072d94fb00f7b557a5d985f293d403ff44083cccbd28a4ec",
+        "performance_score": 0,
+        "domain_rank": 4987,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "09c5280baef569838a93f237973f6975f8924635",
+    "url": "https://www.businesstimes.com.sg/international/us-december-jobs-report-expected-showcase-healthy-labour-market",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T19:52:00.000+02:00",
+    "title": "US December jobs report expected to showcase healthy labour market",
+    "text": "US EMPLOYERS likely added a healthy number of jobs in December and the unemployment rate was unchanged, showcasing a labour market that for another year defied expectations for a sharper slowdown.\nNon-farm payrolls probably rose by 165,000 last month, according to the median estimate in a Bloomberg survey of economists. That reading, which would mark a step down from November’s 227,000 advance, would add fuel to the narrative that the labour market continues to moderate only gradually.\nSuch figures, due Friday (Jan 10) in a monthly jobs report from the Bureau of Labor Statistics, would support the Federal Reserve’s intent to shift focus back to inflation after cutting interest rates by a full percentage point last year to keep the labour market from rapidly deteriorating.\nFollowing those moves, Fed chair Jerome Powell indicated central bankers can be cautious about further rate cuts as long as the job market remains solid.\n“A pause in January is clearly the base case” for the Fed, Bank of America economists Shruti Mishra and Aditya Bhave said in a Jan 6 note previewing the numbers. “We see a risk that the cutting cycle could be over if the labour market stops gradually cooling off.”\nWhile forecasts range from 100,000 to 268,000, if the report comes in line with the median estimate, that would mean the US economy added a robust 2.1 million jobs in 2024. That would be below the three million increase in 2023 but above the two million created in 2019.\nBT in your inbox Start and end each day with the latest news stories and analyses delivered straight to your inbox.\nSign Up Sign Up Under the surface, however, the job market has been showing some signs of weakness. Monthly hiring has often been concentrated in a handful of sectors, and the unemployment rate has edged higher. Moreover, the unemployed are increasingly having a harder time finding new jobs as companies announced the fewest US hires in 2024 in almost a decade.\n“December’s payroll print is likely to be robust – and we do acknowledge that as an encouraging signal of improvement in the labour market,” Bloomberg economists Anna Wong and Estelle Ou said in a Jan 9 preview of the report. “Still, we wouldn’t conclude with any confidence that the labour market is heating up again.”\nUnemployment Rate Economists have been closely tracking the unemployment rate, especially after back-to-back increases earlier in 2024 triggered a popular recession indicator. Forecasters expect that metric to end the year at 4.2 per cent – unchanged from November but above the 3.7 per cent rate at the start of the year.\n“The unemployment rate remains the most important aspect of monthly employment data,” Citigroup economists Veronica Clark and Andrew Hollenhorst said in a Jan 6 note. “We expect the unemployment rate rising above 4.5 per cent in the next few months to cause a sharp repricing of Fed rate cuts this year.”\nThe jobs report is comprised of two surveys – one of businesses and the other of households. Friday’s report will incorporate annual revisions to the latter, which informs statistics such as unemployment and participation rates.\n“The process typically yields minimal revisions to the unemployment rate, which we expect holds this time around,” Andrew Husby, senior US economist at BNP Paribas, said in a Jan 3 note.\nNext month’s report will include benchmark revisions to the business survey, as well as new seasonal factors, which tend to be more consequential to the overall labour market picture. Preliminary benchmark data published in August indicated the US may have added 818,000 fewer jobs in the 12 months through March 2024 than initially reported, and subsequent Philadelphia Fed estimates suggested the weaker employment trend likely extended into the second quarter. BLOOMBERG\nShare with us your feedback on BT's products and services",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bureau of Labor Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:38:46.168+02:00",
+    "updated": "2025-01-12T17:00:48.233+02:00"
+}

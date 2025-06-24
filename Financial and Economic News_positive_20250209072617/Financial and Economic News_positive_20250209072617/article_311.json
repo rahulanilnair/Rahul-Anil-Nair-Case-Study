@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "378775fe8be1f3124dc96d5b19814f0b9fc62318",
+        "url": "https://article.wn.com/view/2025/01/10/Canada_Pledges_440_Million_in_Additional_Military_Aid_to_Ukr",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/europe",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Europe",
+        "title": "Canada Pledges $440 Million in Additional Military Aid to Ukraine, Bringing Total Aid to $19.5 Billion - Worldnews.com",
+        "title_full": "Canada Pledges $440 Million in Additional Military Aid to Ukraine, Bringing Total Aid to $19.5 Billion - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "378775fe8be1f3124dc96d5b19814f0b9fc62318",
+    "url": "https://article.wn.com/view/2025/01/10/Canada_Pledges_440_Million_in_Additional_Military_Aid_to_Ukr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Canada Pledges $440 Million in Additional Military Aid to Ukraine, Bringing Total Aid to $19.5 Billion - Worldnews.com",
+    "text": "The federal government is giving Ukraine an additional $440 million in military assistance, adding to Canada’s commitment of $19.5 billion since February 2022. Defence Minister Bill Blair announced the military aid on Jan. 9 during the 25th Ukraine Defense Contact Group (UDCG) meeting at Ramstein Air Base in Germany. The UDCG, a",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Blair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ramstein Air Base",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:47:05.492+02:00",
+    "updated": "2025-01-10T02:47:05.492+02:00"
+}

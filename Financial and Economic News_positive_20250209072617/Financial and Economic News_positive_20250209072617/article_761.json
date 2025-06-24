@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "a09f1a391c3d0d912f862a47601daf7583fb5462",
+        "url": "https://nairobinews.nation.africa/how-abel-phil-made-millions-from-their-latest-sh12-million-budget-film",
+        "site_full": "nairobinews.nation.africa",
+        "site": "nation.africa",
+        "site_section": "https://nairobinews.nation.africa/category/general/",
+        "site_categories": [],
+        "section_title": "General &#8211; Nairobi News",
+        "title": "How Abel, Phil made millions from their latest Sh12 million budget film - Nairobi News",
+        "title_full": "How Abel, Phil made millions from their latest Sh12 million budget film - Nairobi News",
+        "published": "2025-01-10T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KE",
+        "main_image": "https://nnmedia.nation.africa/uploads/2023/10/Cover-2023-10-17T081935.969-1320x740.png",
+        "performance_score": 0,
+        "domain_rank": 6394,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a09f1a391c3d0d912f862a47601daf7583fb5462",
+    "url": "https://nairobinews.nation.africa/how-abel-phil-made-millions-from-their-latest-sh12-million-budget-film",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rajab Zawadi",
+    "published": "2025-01-10T07:00:00.000+02:00",
+    "title": "How Abel, Phil made millions from their latest Sh12 million budget film - Nairobi News",
+    "text": "Actor and scriptwriter Abel Mutua has revealed how his company Phil-It, co-owned by fellow filmmaker Phillip Karanja, made millions of shillings in profit from their latest movie Makosa Ni Yangu released last month.\nAbel says although the film cost them over Sh12 million to produce, they still managed to break even.\n“ Makosa Ni Yangu cost us over Sh12 million (to produce). Don’t include the (movie premiere) event because that also made an equivalent,” reveals Mutua.\nHowever, of the Sh12 million budget, Mutua and Philip only financed half of it, with the rest of the investment coming from funding from their online film community and fan base.\n“After the success of our first film (as Phil-It) A Grand Little Lie , which was a guinea pig project produced during the Covid-19 outbreak, we decided that gone are the days when we as producers spend months and years looking for funding. Our funders are our community who enjoy our content,” adds Mutua.\nFor the movie, A Grand Little Lie , Phill and Abel made over Sh3 million from sales.\n“We sold 17,000 links at Sh200, which was enough money to recoup the investment we made in the movie, and we still had some money left over to shoot another pilot,” he goes on.\nAbel however did not disclose how many Makosa Ni Yangu links they have sold so far with a link selling at Sh250 on the Phil-it website.\nHowever, Abel noted that their latest project has been extremely successful as they have again been able to make substantial profits.\nTo increase their profit margins, Abel and his business partner Phil organized the movie’s premiere in Nairobi, which was attended by 6,000 people.\nA ticket to the premiere was sold for Sh2,500 and with the event being sold out, this amounted to Sh15 million.\nMakosa Ni Yangu , Inspired by a true story narrated by Abel Mutua on his popular Mkurugenzi YouTube channel, tells the story of Nafisa, reprised by Melisa Lesilale, a young woman who endures unimaginable abuse at the hands of her partner, portrayed by Pascal Tokodi.\nAs her life spirals into violence, Nafisa faces immense pressure from her family and society to stay silent and endure the abuse, all in the name of family honor. However, she chooses survival over silence, sparking a journey of resilience and self-discovery.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Economy, Business and Finance->media and entertainment industry",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Arts, Culture and Entertainment->cinema"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abel Mutua",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Phillip Karanja",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Abel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:15:49.273+02:00",
+    "updated": "2025-01-10T08:15:49.273+02:00"
+}

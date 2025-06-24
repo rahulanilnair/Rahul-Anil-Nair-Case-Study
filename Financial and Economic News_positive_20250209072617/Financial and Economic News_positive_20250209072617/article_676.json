@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "7e0e8b3158e585015de9ac21c21a07bd40625fe1",
+        "url": "https://www.binance.com/pt/square/post/01-10-2025-former-uk-prime-minister-liz-truss-expresses-support-for-bitcoin-and-cryptocurrency-18732249968593",
+        "site_full": "www.binance.com",
+        "site": "binance.com",
+        "site_section": "https://www.binance.com/pt/square",
+        "site_categories": [
+            "tech",
+            "finance",
+            "email"
+        ],
+        "section_title": "Descobre o feed e as novidades mais recentes sobre criptomoedas dos melhores influenciadores | Binance Square",
+        "title": "Former UK Prime Minister Liz Truss Expresses Support For Bitcoin And Cryptocurrency",
+        "title_full": "Former UK Prime Minister Liz Truss Expresses Support For Bitcoin And Cryptocurrency",
+        "published": "2025-01-10T04:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AR",
+        "main_image": "https://public.bnbstatic.com/images/common/feed-og-image-2.png",
+        "performance_score": 0,
+        "domain_rank": 815,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e0e8b3158e585015de9ac21c21a07bd40625fe1",
+    "url": "https://www.binance.com/pt/square/post/01-10-2025-former-uk-prime-minister-liz-truss-expresses-support-for-bitcoin-and-cryptocurrency-18732249968593",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Binance News",
+    "published": "2025-01-10T04:53:00.000+02:00",
+    "title": "Former UK Prime Minister Liz Truss Expresses Support For Bitcoin And Cryptocurrency",
+    "text": "According to PANews, former UK Prime Minister Liz Truss has expressed her support for [Bitcoin](/trade/BTC_USDT?contentId=18732249968593) and cryptocurrency, stating, 'I am a supporter of Bitcoin and cryptocurrency, and I think they are great.' Truss, who served as the UK's shortest-serving prime minister, resigned after just 49 days in office due to a mini-budget proposal that led to a surge in borrowing costs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy",
+        "Politics->political candidates",
+        "Science and Technology->social sciences",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Liz Truss",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:20:22.090+02:00",
+    "updated": "2025-01-10T07:20:22.090+02:00"
+}

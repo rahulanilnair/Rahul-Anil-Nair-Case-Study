@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "76d6068f1b25f17b3da2fc4fb9d20dbe7fef46de",
+        "url": "https://www.zawya.com/en/economy/north-africa/egypts-inflation-rate-down-to-241-in-december-x8vdpobl",
+        "site_full": "www.zawya.com",
+        "site": "zawya.com",
+        "site_section": "https://www.zawya.com",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "ZAWYA - The trusted source for business and finance news ",
+        "title": "Egypt's inflation rate down to 24.1% in December",
+        "title_full": "Egypt's inflation rate down to 24.1% in December",
+        "published": "2025-01-10T02:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://static.zawya.com/view/acePublic/alias/contentid/3c57f56b-dcaa-4abe-8220-62223d43903c/1/145167188.jpeg?f=3%3A2",
+        "performance_score": 0,
+        "domain_rank": 5161,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "76d6068f1b25f17b3da2fc4fb9d20dbe7fef46de",
+    "url": "https://www.zawya.com/en/economy/north-africa/egypts-inflation-rate-down-to-241-in-december-x8vdpobl",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Writer",
+    "published": "2025-01-10T02:56:00.000+02:00",
+    "title": "Egypt's inflation rate down to 24.1% in December",
+    "text": "CAIRO-- The Central Bank of Egypt reported that the country's inflation rate went down by 1.4 percent to 24.1 percent in December, expecting the downward trend to continue in the first quarter of 2025.\nThe average monthly inflation rate slid to 0.9 percent by the end of last year from 1.3 percent in the corresponding period of 2023, according to the latest CBE report released on Thursday. The annual inflation rate also retreated from 25.5 percent in November 2024 to 24.1 percent in December 2024.\nThe CBE targets cutting the inflation rate to a five-seven percent range in 2026-2028 through a package of macro-economic reforms, including liberalization of the exchange rate, being put in place since last March, the report added.\nAll KUNA right are reserved © 2022. Provided by SyndiGate Media Inc. ( Syndigate.info ).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://syndigate.info",
+        "http://www.syndigate.info"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Central Bank of Egypt",
+                "sentiment": "negative"
+            },
+            {
+                "name": "SyndiGate Media Inc.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:58:09.139+02:00",
+    "updated": "2025-01-10T07:58:09.139+02:00"
+}

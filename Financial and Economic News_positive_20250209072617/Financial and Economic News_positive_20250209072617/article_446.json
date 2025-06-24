@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "85d232fb32dc525b48092d5754f8340855a25df9",
+        "url": "https://www.newsbreak.com/nbc-chicago-509956/3753431167015-ford-ceo-says-china-operations-earned-600-million-in-2024",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nbc-chicago-509956",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NBC Chicago&#x27;s Home Page | NewsBreak",
+        "title": "Ford CEO says China operations earned $600 million in 2024 - NewsBreak",
+        "title_full": "Ford CEO says China operations earned $600 million in 2024 - NewsBreak",
+        "published": "2025-01-10T02:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/09LKZG_0y22IcyJ00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "85d232fb32dc525b48092d5754f8340855a25df9",
+    "url": "https://www.newsbreak.com/nbc-chicago-509956/3753431167015-ford-ceo-says-china-operations-earned-600-million-in-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Wayland,CNBC",
+    "published": "2025-01-10T02:50:00.000+02:00",
+    "title": "Ford CEO says China operations earned $600 million in 2024 - NewsBreak",
+    "text": "By Michael Wayland,CNBC ,\n1 hours ago DETROIT — Ford Motor's operations in China earned roughly $600 million last year despite challenging market conditions, CEO Jim Farley said Thursday night. \"I'm happy to say that Ford makes money in China, and I'm very proud of that, because not many [automakers] can say that,\" Farley said following a vehicle reveal for the Detroit Auto Show. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim Farley",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNBC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ford Motor",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:25:22.761+02:00",
+    "updated": "2025-01-10T04:25:22.761+02:00"
+}

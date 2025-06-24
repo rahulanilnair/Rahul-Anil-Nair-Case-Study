@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "a2c185d5ccfcd044cf75514108abf61726b8f32d",
+        "url": "https://www.nst.com.my/news/nation/2025/01/1158837/save-well-retire-well",
+        "site_full": "www.nst.com.my",
+        "site": "nst.com.my",
+        "site_section": "https://www.nst.com.my/feed",
+        "site_categories": [
+            "media",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "New Straits Times",
+        "title": "",
+        "title_full": "",
+        "published": "2025-01-10T02:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "https://assets.nst.com.my/images/articles/Copy_Of_09epf_NSTfield_image_socialmedia.var_1736469025.jpg",
+        "performance_score": 0,
+        "domain_rank": 4964,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 6,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2c185d5ccfcd044cf75514108abf61726b8f32d",
+    "url": "https://www.nst.com.my/news/nation/2025/01/1158837/save-well-retire-well",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DIYANA ISAMUDIN",
+    "published": "2025-01-10T02:30:00.000+02:00",
+    "title": "",
+    "text": "KUALA LUMPUR: Financial planning is rapidly emerging as a vital skill for individuals striving to secure their financial futures amid rising living costs, an ageing population and dynamic economic conditions. \"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Education"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->economy",
+        "Social Issue->social problem",
+        "Social Issue->demographics",
+        "Education->adult and continuing education",
+        "Education->vocational education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:19:15.926+02:00",
+    "updated": "2025-01-10T03:19:15.926+02:00"
+}

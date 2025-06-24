@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "bd30125f8b7c19364e67c2002d314c3febd72432",
+        "url": "https://beamstart.com/news/blockchain-developer-movement-labs-said-1736484232",
+        "site_full": "beamstart.com",
+        "site": "beamstart.com",
+        "site_section": "https://beamstart.com/news",
+        "site_categories": [
+            "hobbies_and_interests",
+            "investors_and_patents"
+        ],
+        "section_title": "BEAMSTART - Global Entrepreneurship Community",
+        "title": "Blockchain developer Movement Labs said to raise $100m - 'Tech In Asia' News Summary (Singapore) | BEAMSTART",
+        "title_full": "Blockchain developer Movement Labs said to raise $100m - 'Tech In Asia' News Summary (Singapore) | BEAMSTART",
+        "published": "2025-01-09T22:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://beamstart.com/image/aHR0cHM6Ly9jZG4udGVjaGluYXNpYS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDYvMTcxNzQwMDg1MV9OZXdzbGV0dGVyLUdJRi1Ub2tlbi10aW1lLWZvci1wcml2YXRlLW1hcmtldC1hc3NldHMtMTIwMHg2NDAtMS5naWY=",
+        "performance_score": 0,
+        "domain_rank": 124654,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bd30125f8b7c19364e67c2002d314c3febd72432",
+    "url": "https://beamstart.com/news/blockchain-developer-movement-labs-said-1736484232",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grace Priscilla Teo",
+    "published": "2025-01-09T22:33:00.000+02:00",
+    "title": "Blockchain developer Movement Labs said to raise $100m - 'Tech In Asia' News Summary (Singapore) | BEAMSTART",
+    "text": "Quick Summary: This funding follows a US$38 million raise last year and aligns with a rise in investor interest in crypto startups.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Movement Labs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:08:37.967+02:00",
+    "updated": "2025-01-10T08:08:37.967+02:00"
+}

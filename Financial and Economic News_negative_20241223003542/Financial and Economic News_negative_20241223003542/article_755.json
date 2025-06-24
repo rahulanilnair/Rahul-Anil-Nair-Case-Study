@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "e57a168c5ef4f2c75a52e90130def6b398e43b80",
+        "url": "https://www.rttnews.com/3497920/wall-street-poised-to-open-in-negative-territory.aspx?type=ts",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "https://www.rttnews.com/rss/todaystop.xml",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "RTT - Top Story",
+        "title": "Wall Street Poised To Open In Negative Territory",
+        "title_full": "Wall Street Poised To Open In Negative Territory",
+        "published": "2024-12-17T15:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20098,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e57a168c5ef4f2c75a52e90130def6b398e43b80",
+    "url": "https://www.rttnews.com/3497920/wall-street-poised-to-open-in-negative-territory.aspx?type=ts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T15:14:00.000+02:00",
+    "title": "Wall Street Poised To Open In Negative Territory",
+    "text": "Initial cues from the U.S. Futures suggests that Wall Street might open lower on Tuesday. Trading might be impacted by reaction to retail sales and industrial production reports scheduled today.\nIn the Asian trading session, gold and oil prices were marginally higher.\nAs of 7.50 am ET, the Dow futures were down 180.00 points, the S&P 500 futures were declining 21.00 points and the Nasdaq 100 futures were sliding 53.50 points.\nThe U.S. major averages finished mostly higher on Monday. The Nasdaq pulled back off its best levels going into the close but still ended the day up 247.17 points or 1.2 percent at 20,173.89.\nThe S&P 500 also climbed 22.99 points or 0.4 percent to 6,074.08, while the narrower Dow bucked the uptrend and fell 110.58 points or 0.3 percent to 43,717.48.\nOn the economic front, the Business Inventories for October will be issued at 10.00 am ET. The consensus is for an increase of 0.2 percent, while it was up 0.1 percent in the prior month.\nThe Housing Market Index for December will be released at 10.00 am ET. The consensus is 47, while it was up 46 in the prior month.\nTwenty-year Treasury Bond auction will be held at 1.00 pm ET.\nThe Retail Sales for November is scheduled at 8.30 am ET. The consensus is for an increase of 0.5 percent, while it was up 0.4 percent in October.\nThe Industrial Production for November is expected at 9.15 am ET. The consensus is for an increase of 0.3 percent, while it was down 0.3 percent in the prior month.\nAsian stocks turned in a mixed performance on Tuesday. China's Shanghai Composite index fell 0.73 percent to 3,361.48. Hong Kong's Hang Seng index slipped 0.48 percent to 19,700.48.\nJapanese markets ended slightly lower. The Nikkei average dipped 0.24 percent to 39,364.68 while the broader Topix index settled 0.37 percent lower at 2,728.20.\nAustralian markets rose notably to snap a five-day losing streak. The benchmark S&P/ASX 200 jumped 0.78 percent to 8,314. The broader All Ordinaries index climbed 0.76 percent to 8,558.60.\nFor comments and feedback contact: editorial@rttnews.com\nBusiness News\nDecember 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:18:00.324+02:00",
+    "updated": "2024-12-17T15:18:00.324+02:00"
+}

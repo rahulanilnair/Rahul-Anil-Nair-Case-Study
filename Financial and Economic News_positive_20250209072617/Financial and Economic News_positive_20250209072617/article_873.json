@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "cbfbd98a471eb82c55f2d4f672273e4c17022d74",
+        "url": "https://www.theintelligencer.net/news/community/2025/01/west-virginia-northern-community-college-receives-1-5-million-federal-grant",
+        "site_full": "www.theintelligencer.net",
+        "site": "theintelligencer.net",
+        "site_section": "https://theintelligencer.net",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " News, Sports, Jobs - The Intelligencer",
+        "title": "West Virginia Northern Community College Receives $1.5 Million Federal Grant",
+        "title_full": "West Virginia Northern Community College Receives $1.5 Million Federal Grant",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 29295,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cbfbd98a471eb82c55f2d4f672273e4c17022d74",
+    "url": "https://www.theintelligencer.net/news/community/2025/01/west-virginia-northern-community-college-receives-1-5-million-federal-grant",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "From Staff Reports",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "West Virginia Northern Community College Receives $1.5 Million Federal Grant",
+    "text": "West Virginia Northern Community College Receives $1.5 Million Federal Grant\nWest Virginia Northern Community College has been awarded $1.5 million as part of the U.S. Department of Labor’s $65 million Strengthening Community Colleges Training Grant initiative. WVNCC is one of only 18 institutions nationwide, and the only recipient in West Virginia, to receive this funding.\nThe grant will fund WVNCC’s M.A.P.S. 2.0: Manufacturing and Production Skills Pathway for the 21st Century. The program is a next-generation, industry-aligned skills pathway designed to support the revitalized manufacturing and production industries in West Virginia’s Northern Panhandle.\nThis initiative aims to build workforce education and training capacity in the Ohio River Valley region, focusing on sustainable and scalable change to prepare students for careers in advanced manufacturing and next generation energy.\n“This grant represents an incredible opportunity for our students, our region, and our college to lead the charge in workforce innovation,” said WVNCC President Daniel Mosser. “M.A.P.S. 2.0 is a transformative pathway that will ensure our graduates are well-prepared for the future of advanced manufacturing and energy production.”\nM.A.P.S. 2.0 was developed in response to the Northern Panhandle’s transformation into a hub for energy manufacturing. In 2022, clean energy companies added 7,000 jobs across West Virginia, with companies like Form Energy driving economic growth in the region. Form Energy’s new iron-air battery manufacturing facility in Weirton alone is projected to employ 750 skilled workers, demonstrating the critical demand for programs like M.A.P.S. 2.0.\nThe plan includes partnerships with companies like Form Energy and organizations such as Project BEST, the West Virginia Manufacturers Association, and local schools to design cohesive training programs that align with industry needs. A key component of this initiative is targeted outreach to underserved populations, including veterans and women, to ensure equitable access to training and career opportunities. The program also calls for the creation of stackable credentials and training programs that provide a clear pathway to employment in advanced manufacturing careers.\nThis program will provide comprehensive support and training to build a highly skilled workforce capable of sustaining the region’s new economic momentum.\nPartners for the M.A.P.S. 2.0 project include: Form Energy, Project BEST, Upper Ohio Valley Building Trades Council, Ohio Valley Construction Employee Council, TEAM Consortium, Williams Energy, Fanti, Touchstone Research Laboratory, Highline Warren, West Virginia Manufacturers Association, Northern Panhandle Workforce Development Board, West Virginia Workforce Development Board, Helping Heroes, YWCA, Marshall County Schools, Brooke County Schools, Hancock County Schools and the WVNCC Foundation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Mosser",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Grant West Virginia Northern Community College",
+                "sentiment": "negative"
+            },
+            {
+                "name": "U.S. Department of Labor",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:04:46.896+02:00",
+    "updated": "2025-01-10T09:04:46.896+02:00"
+}

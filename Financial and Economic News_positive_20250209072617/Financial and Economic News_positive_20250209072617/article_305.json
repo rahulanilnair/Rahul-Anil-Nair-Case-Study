@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "f4eb3df42c289a38b4289eb8be8d3ed104393b18",
+        "url": "https://www.channelnewsasia.com/brandstudio/nvidia-accelerated-computing-platform?cid=cna_flip_070214",
+        "site_full": "www.channelnewsasia.com",
+        "site": "channelnewsasia.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "society",
+            "tech",
+            "top_news_ph",
+            "top_news_th",
+            "top_news_id",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Accelerated computing is driving AI innovation in the business world - CNA",
+        "title_full": "Accelerated computing is driving AI innovation in the business world - CNA",
+        "published": "2025-01-10T02:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://dam.mediacorp.sg/image/upload/s--sO_MLLnR--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/01/07/bstudio_Nvidia_hero.jpg?itok=dZO74Nva",
+        "performance_score": 0,
+        "domain_rank": 1639,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4eb3df42c289a38b4289eb8be8d3ed104393b18",
+    "url": "https://www.channelnewsasia.com/brandstudio/nvidia-accelerated-computing-platform?cid=cna_flip_070214",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FRANCIS KAN",
+    "published": "2025-01-10T02:11:00.000+02:00",
+    "title": "Accelerated computing is driving AI innovation in the business world - CNA",
+    "text": "UNLOCKING THE POTENTIAL OF AI WITH NVIDIA NVIDIA offers an integrated stack of hardware and software solutions designed to help businesses across industries solve complex challenges. The following case studies illustrate the transformative impact of these tools.\n1. NVIDIA GPUs: The cornerstone of NVIDIA’s accelerated computing platform.\nReal-world use: FPT Smart Cloud, a member of FPT Corporation, an NVIDIA cloud partner and AI provider in Vietnam, leveraged NVIDIA H100 Tensor Core GPUs and NVIDIA HGX H200 in their AI Factories to develop multi-lingual AI agents for tasks such as customer service and employee training. Long Chau, a major pharmaceutical chain in Vietnam, used the employee AI agent and saw a 55 per cent improvement in pharmacist knowledge quality while cutting training resources by 30 per cent.\n2. NVIDIA AI: A suite of AI services including pre-trained models, training scripts, software development kits and frameworks to speed up AI workflows, improve accuracy, efficiency and performance while reducing cost.\nReal-world use: American Express leveraged fraud detection algorithms to monitor all customer transactions globally in real time, detecting fraud in just milliseconds. Using a combination of advanced algorithms — one of which tapped into the NVIDIA AI platform — American Express enhanced model accuracy, advancing the company’s ability to better fight fraud and improving security for cardholders.\n3. NVIDIA Metropolis: An AI-powered video analytics platform for smart city applications. It processes video and sensor data in real time to improve safety, efficiency and decision-making in areas like traffic management, public safety and building automation.\nReal-world use: Vietnam Posts and Telecommunications Group (VNPT) used NVIDIA Metropolis to build a system for monitoring and analysing traffic patterns in Tan An City, Long An Province. This initiative, combined with VNPT’s AI models, achieved an 80 per cent reduction in traffic violations within two months of implementation. Over a 10-month period, it detected 2,400 traffic violations and supported local authorities in tracing and investigating security offenders, reinforcing public safety.\n“WITH NVIDIA METROPOLIS, WE’VE REVOLUTIONISED VIDEO SEARCH AND SUMMARISATION FROM LENGTHY TASKS INTO REAL-TIME CAPABILITIES. THIS ADVANCEMENT ENSURES CITY INFRASTRUCTURES – SPANNING TRANSPORT TO UTILITIES AND PUBLIC SERVICES – RUN SMOOTHLY, PAVING THE WAY FOR A NEW ERA OF AI-POWERED SMART CITY APPLICATIONS.” – DR PHONG NGUYEN, CHIEF AI OFFICER, FPT SOFTWARE SUSTAINABLE COMPUTING AND COST EFFICIENCY\nWith increased computational power often comes higher energy consumption. However, accelerated computing offers a solution to reduce energy consumption. As businesses face rising energy costs and mounting pressure to meet environmental, social and governance (ESG) goals, energy-efficient computing is becoming more important.\nIf data centres worldwide switched from CPU-only to GPU-accelerated systems for high-performance computing and AI workloads, they could save more than 40 terawatt-hours of energy each year – enough to power nearly five million homes in the United States annually. These advancements drive progress in fields like scientific computing, healthcare and climate technology while supporting businesses in meeting their sustainability targets.\n*Sources: State of AI for Financial Services , State of AI in Telecommunications , State of AI in Retail & CPG “AI FACTORIES, POWERED BY NVIDIA’S ACCELERATED COMPUTING, WILL REVOLUTIONISE INDUSTRIES TO MANUFACTURE DIGITAL INTELLIGENCE, UNLOCK NEW MARKETS AND DRIVE NEW INNOVATIONS.” – MR DENNIS ANG, SENIOR DIRECTOR, ENTERPRISE BUSINESS, ASEAN AND ANZ REGION, NVIDIA PREPARING FOR FUTURE WORKLOADS\nLooking ahead, AI-driven workloads will define the future of business. Whether it’s generative AI, autonomous systems or digital twins, the computational demands of these applications are growing rapidly. Companies that invest in accelerated computing now will be well-positioned to leverage it as these applications become mainstream.\nDriven by NVIDIA’s innovative GPUs, specialised hardware, advanced software and parallel computing techniques, accelerated computing empowers businesses to unlock the full potential of AI, foster innovation and meet long-term ESG goals. For C-suite executives, investing in accelerated computing is not just about immediate gains — it’s a strategic decision that prepares their business for the challenges and opportunities of the future.\nADVERTISEMENT\nUNLOCK THE POWER OF ACCELERATED COMPUTING Learn how business leaders are using AI to innovate, mitigate risks and improve decision-making. FIND OUT MORE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nvidia.com/en-us/industries/finance/ai-financial-services-report/?ncid=prsy-981314",
+        "https://www.nvidia.com/en-sg/lp/industries/telecommunications/state-of-ai-in-telecom-survey-report/?ncid=prsy-953939",
+        "https://blogs.nvidia.com/blog/energy-efficient-ai-industries/?ncid=prsy-916327",
+        "https://www.nvidia.com/en-us/glossary/energy-efficiency/?ncid=prsy-524771",
+        "https://www.nvidia.com/en-sg/executive-insights/?ncid=prsy-511480",
+        "https://blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/?ncid=prsy-114442",
+        "https://www.nvidia.com/en-us/lp/industries/state-of-ai-in-retail-and-cpg/?ncid=prsy-861724",
+        "https://www.nvidia.com/en-us/industries/finance/ai-financial-services-report/",
+        "https://nvidia.com/en-sg/lp/industries/telecommunications/state-of-ai-in-telecom-survey-report/?ncid=prsy-953939",
+        "https://www.nvidia.com/en-sg/lp/industries/telecommunications/state-of-ai-in-telecom-survey-report/",
+        "https://www.blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/?ncid=prsy-114442",
+        "https://www.nvidia.com/en-us/lp/industries/state-of-ai-in-retail-and-cpg/",
+        "https://www.nvidia.com/en-us/glossary/energy-efficiency/",
+        "https://blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/",
+        "https://nvidia.com/en-us/lp/industries/state-of-ai-in-retail-and-cpg/?ncid=prsy-861724",
+        "https://nvidia.com/en-us/industries/finance/ai-financial-services-report/?ncid=prsy-981314",
+        "https://blogs.nvidia.com/blog/energy-efficient-ai-industries/",
+        "https://www.blogs.nvidia.com/blog/energy-efficient-ai-industries/?ncid=prsy-916327",
+        "https://www.nvidia.com/en-sg/executive-insights/",
+        "https://nvidia.com/en-us/glossary/energy-efficiency/?ncid=prsy-524771",
+        "https://nvidia.com/en-sg/executive-insights/?ncid=prsy-511480"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:42:09.880+02:00",
+    "updated": "2025-01-10T04:29:36.823+02:00"
+}

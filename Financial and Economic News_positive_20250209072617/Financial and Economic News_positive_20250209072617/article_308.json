@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "49e5b291901758918eaa1686e2db880b52108da7",
+        "url": "https://article.wn.com/view/2025/01/10/The_Best_Of_2024_From_AI_Stock_Analyst",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Asia",
+        "title": "The Best Of 2024 From AI Stock Analyst - Worldnews.com",
+        "title_full": "The Best Of 2024 From AI Stock Analyst - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "49e5b291901758918eaa1686e2db880b52108da7",
+    "url": "https://article.wn.com/view/2025/01/10/The_Best_Of_2024_From_AI_Stock_Analyst",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "The Best Of 2024 From AI Stock Analyst - Worldnews.com",
+    "text": "I believe quality analysis particularly in the tech sector can be hard to find. I highlight top calls from my firm's Forbes analyses during a strong year for AI stocks... read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Science and Technology->scientific publication",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.forbes.com/sites/bethkindig/2025/01/09/the-best-of-2024-from-ai-stock-analyst/",
+        "https://www.forbes.com/sites/bethkindig/2025/01/09/the-best-of-2024-from-ai-stock-analyst",
+        "https://forbes.com/sites/bethkindig/2025/01/09/the-best-of-2024-from-ai-stock-analyst/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:43:49.356+02:00",
+    "updated": "2025-01-10T02:43:49.356+02:00"
+}

@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "8c9799d7053fac05b1930bed1eaffd7140bf0ca5",
+        "url": "https://newsukraine.rbc.ua/news/another-russian-tanker-accident-in-black-1734442236.html",
+        "site_full": "newsukraine.rbc.ua",
+        "site": "rbc.ua",
+        "site_section": "https://newsukraine.rbc.ua",
+        "site_categories": [
+            "top_news_ua",
+            "top_news_pl",
+            "top_news_il",
+            "top_news_cz",
+            "top_news_sk",
+            "top_news"
+        ],
+        "section_title": "Ukraine News today - Latest news &amp; Video | RBC-Ukraine",
+        "title": "Another Russian tanker accident in Black Sea causes fuel oil spill",
+        "title_full": "Another Russian tanker accident in Black Sea causes fuel oil spill",
+        "published": "2024-12-17T14:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://newsukraine.rbc.ua/static/img/_/v/_volgoneft_109_foto_roszmi_ff0a2ce221ecadbcfc754c3d42deb379_1300x820_af20204d8e620ab63ce0e9d37c095c96_650x410.jpg",
+        "performance_score": 0,
+        "domain_rank": 8777,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c9799d7053fac05b1930bed1eaffd7140bf0ca5",
+    "url": "https://newsukraine.rbc.ua/news/another-russian-tanker-accident-in-black-1734442236.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RBC-Ukraine",
+    "published": "2024-12-17T14:35:00.000+02:00",
+    "title": "Another Russian tanker accident in Black Sea causes fuel oil spill",
+    "text": "Another Russian tanker accident in Black Sea causes fuel oil spill\nAnother Russian tanker has sent a distress signal in the Black Sea. A fuel oil leak has been detected on the tanker, the Telegram channel Readovka [reports.](https://t.me/readovkanews/90802)\nAccording to preliminary information, the incident occurred on the ship Volgoneft-109 near the Kavkaz port in the Black Sea.\nAs the reports indicate, the vessel's captain issued the distress signal. He reported that the product was leaking from the tank into the ballast tank. There are currently 14 people on board, the ship's hull is intact, and there is no leakage into the water.\nNot first disaster with Russian tanker\nA few days ago, the Russian media informed that [two Russian tankers, Volgoneft-212 and Volgoneft-239, had sunk in the Kerch Strait](https://newsukraine.rbc.ua/news/two-russian-tankers-sink-near-kerch-what-1734260970.html) due to a severe storm.\nLater, Dmytro Pletenchuk, Spokesperson of the Ukrainian Navy, confirmed that [Russian oil tankers began sinking near the Kerch Strait on December 15.](https://newsukraine.rbc.ua/news/ukraine-s-navy-explains-russian-tanker-disaster-1734353647.html) This happened because ships set out to sea without complying with navigation requirements.\nIn addition, today, the Russians have complained about oil contamination along the coast of the Krasnodar region. The oil likely originated from the tankers that sank in the Kerch Strait.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.me/readovkanews/90802",
+        "https://www.t.me/readovkanews/90802"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dmytro Pletenchuk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Black Sea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Strait",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kavkaz",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:44:19.788+02:00",
+    "updated": "2024-12-17T15:44:19.788+02:00"
+}

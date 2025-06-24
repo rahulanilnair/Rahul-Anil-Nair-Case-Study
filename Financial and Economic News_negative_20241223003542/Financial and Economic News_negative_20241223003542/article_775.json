@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "454bda82fa4c3c0d795a5b154d431d2c82db865e",
+        "url": "https://menafn.com/1109001998/Germany-encounters-additional-economic-stagnation",
+        "site_full": "menafn.com",
+        "site": "menafn.com",
+        "site_section": "https://menafn.com/tb_news.aspx?tb_html=tb_economy&tb_title=economy - latest news ",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": " Economy - Latest News",
+        "title": "Germany encounters additional economic stagnation",
+        "title_full": "Germany encounters additional economic stagnation",
+        "published": "2024-12-17T14:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://menafn.com/updates/pr/Menafn_News_Images/Local_Politics_977.jpg",
+        "performance_score": 0,
+        "domain_rank": 6342,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "454bda82fa4c3c0d795a5b154d431d2c82db865e",
+    "url": "https://menafn.com/1109001998/Germany-encounters-additional-economic-stagnation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-12-17T14:23:00.000+02:00",
+    "title": "Germany encounters additional economic stagnation",
+    "text": "( MENAFN ) Germany’s central bank has significantly downgraded its economic growth forecast, predicting a contraction of 0.2% in 2024, followed by near-zero growth in 2025. The country’s industrial sector remains weak, now viewed as a structural issue that is affecting exports, investments, and the labor market, thus dampening private consumption.\nThe Bundesbank's report stated that the German Economy will stagnate through the winter of 2024-2025 and will see a slow recovery by 2025. It also revised the 2025 growth forecast to just 0.2%, a sharp drop from the previously predicted 1.1%. For 2026 and 2027, growth is expected to be modest at 0.8% and 0.9%, respectively.\nBundesbank President Joachim Nagel attributed the slowdown to both cyclical and structural challenges, including geopolitical uncertainty, energy price crises, demographic changes, and the green transition. The bank also cautioned that a potential trade war with the US, particularly tariffs on German imports, could further harm the economy. Additionally, Germany was the only major economy in the G7 to contract in 2023.\nMENAFN17122024000045015687ID1109001998",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joachim Nagel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bundesbank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:22:19.397+02:00",
+    "updated": "2024-12-17T15:22:19.397+02:00"
+}

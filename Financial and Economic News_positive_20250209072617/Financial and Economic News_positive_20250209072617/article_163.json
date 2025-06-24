@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "95586b2f390738e996f24f6744798651d49e0d86",
+        "url": "https://catholiccourier.com/articles/ny-catholic-conference-praises-plans-to-expand-child-tax-credit",
+        "site_full": "catholiccourier.com",
+        "site": "catholiccourier.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "religion",
+            "catholicism"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "NY Catholic Conference praises plans to expand child tax credit",
+        "title_full": "NY Catholic Conference praises plans to expand child tax credit",
+        "published": "2025-01-09T22:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://catholiccourier.com/wp-content/uploads/20250109T1320-NY-CHILD-TAX-CREDIT-BOOST-1788003.jpg",
+        "performance_score": 0,
+        "domain_rank": 129896,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "95586b2f390738e996f24f6744798651d49e0d86",
+    "url": "https://catholiccourier.com/articles/ny-catholic-conference-praises-plans-to-expand-child-tax-credit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kate Scanlon/OSV News",
+    "published": "2025-01-09T22:02:00.000+02:00",
+    "title": "NY Catholic Conference praises plans to expand child tax credit",
+    "text": "WASHINGTON (OSV News) — A key Catholic policy group in New York state is praising Gov. Kathy Hochul for her proposed expansion of the state’s child tax credit that would more than double the current rate for many Empire State families.\nThe New York State Catholic Conference — which has previously criticized some of Hochul’s other policy aims, such as those on abortion — said this proposal “would give important relief” to many families in need.\nThe plan is part of the governor’s series of proposals addressing the state’s affordability crisis. It comes as Democrats around the country grapple with the aftermath of last year’s elections and voter frustrations about the cost of living.\n“From groceries to strollers to kids’ clothes, the cost of living and raising a family is still too damn high — and that’s why we’re proposing a massive increase in New York’s child tax credit to put up to $1,000 per kid back in the pockets of hardworking families,” Hochul said in a Jan. 6 statement. “As New York’s first mom governor, I know how hard it can be for parents to make ends meet — and I’ll never stop fighting to make New York more affordable for every family.”\nHochul’s proposal would give eligible families an annual tax credit of up to $1,000 per child under age 4 and up to $500 per child from 4 through 16, her office said. The existing credit provides up to $330 per child. Her office added Hochul will include the proposal in her upcoming State of the State address.\nNew York State Catholic Conference ‘delighted’ about plans to expand child tax credit Kristen Curran, director of government relations of the New York State Catholic Conference, praised the proposal in a Jan. 7 statement, saying the group is “delighted that Governor Hochul has made expansion of the Empire State Child Tax Credit a top priority for this year’s budget.”\n“For more than 20 years, the New York State Catholic Conference has championed the issue of child tax credits,” Curran said. “This initiative is a powerful way to walk with moms in need, support working families, and help lift children out of poverty.”\nThe New York State Catholic Conference represents the state’s Catholic bishops “in working with government to shape laws and policies that pursue social justice, respect for life and the common good,” according to its website.\nCurran argued Hochul’s proposal “would give important relief to 1.6 million New York families,” and would be “an impactful increase” from current levels.\n“Working-class families will be better positioned to navigate the cost-of-living crisis and provide for their children,” she said. “It is critical that the child tax credit apply to babies, starting at birth. We are glad to see that coverage as part of this proposal.”\nNew York State Catholic Conference urges lawmakers to adopt proposal The group urges lawmakers to adopt the proposal, she said. “When we join together to lift up the most vulnerable, we are strengthened as a community and as a state,” Curran said. “The Governor can count on the strong support of the New York State Catholic Conference for this pro-family proposal.”\nThe federal government and 16 states offer child tax credits to eligible lower- to middle-income families, according to data from the National Conference of State Legislatures. The U.S. Census Bureau found in a November 2022 paper that the expanded child tax credit accounted for 2.1 million children out of nearly 3 million lifted above the poverty line in 2021.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->political parties and movements",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nyscatholic.org/",
+        "https://www.nyscatholic.org",
+        "https://nyscatholic.org/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathy Hochul",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NY Catholic Conference",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:24:08.870+02:00",
+    "updated": "2025-01-10T02:48:56.911+02:00"
+}

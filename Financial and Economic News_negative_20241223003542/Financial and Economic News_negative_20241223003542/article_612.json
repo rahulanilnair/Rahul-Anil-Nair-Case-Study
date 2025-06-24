@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "88f7feb2eee921b0c7791dc852ddbd2267a24254",
+        "url": "https://www.moneycontrol.com/news/business/markets/sebi-bars-fpis-from-issuing-odis-with-derivatives-as-underlying-asks-for-granular-disclosure-from-odi-subscribers-12892099.html",
+        "site_full": "www.moneycontrol.com",
+        "site": "moneycontrol.com",
+        "site_section": "https://www.moneycontrol.com/author/e/elections/lok-sabha-election/news/business",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest News | Latest Business News | BSE | IPO News - Moneycontrol.com",
+        "title": "SEBI bars FPIs from issuing ODIs with derivatives as underlying, asks for granular disclosure from ODI subscribers",
+        "title_full": "SEBI bars FPIs from issuing ODIs with derivatives as underlying, asks for granular disclosure from ODI subscribers",
+        "published": "2024-12-17T14:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241212104512_2024-12-11T013835Z_1_LYNXMPEKBA01G_RTROPTP_4_EMERGING-MARKETS.jpg",
+        "performance_score": 0,
+        "domain_rank": 2406,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "88f7feb2eee921b0c7791dc852ddbd2267a24254",
+    "url": "https://www.moneycontrol.com/news/business/markets/sebi-bars-fpis-from-issuing-odis-with-derivatives-as-underlying-asks-for-granular-disclosure-from-odi-subscribers-12892099.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Moneycontrol News",
+    "published": "2024-12-17T14:21:00.000+02:00",
+    "title": "SEBI bars FPIs from issuing ODIs with derivatives as underlying, asks for granular disclosure from ODI subscribers",
+    "text": "The market regulator has barred foreign portfolio investors from issuing offshore derivative instruments (ODIs) with derivatives as underlying or use derivatives to hedge their ODIs in India. In a circular issued on Tuesday, December 17, the Securities and Exchange Board of India (SEBI) said that FPIs cannot issue ODIs with derivatives as reference/underlying and that an FPI cannot hedge their ODIs with derivative positions on stock exchanges in India. ODIs can only have securities (other than derivatives) as underlying and shall be fully hedged with the same securities on a one-to-one basis, throughout the tenure of the ODI. Also read: Mutual Fund regulations amended to make way for MF Lite, minimum investment set at Rs 10 lakh The regulator has issued the new directions to remove the regulatory arbitrage with respect to ODIs and FPIs with segregated portfolios. The circular also said that FPIs can now only issue offshore derivative instruments (ODIs) through a a separate, dedicated FPI registration with no proprietary investments. Such FPI registration shall be in the name of the FPI with “ODI” as suffix under the same PAN. This requirement of separate dedicated registration will not apply for issuance of ODIs with government securities as reference/underlying. Granular disclosure The regulator has also mandated the disclosure of granular details of all entities that hold ownership, economic interest or control in ODIs. This is applicable to ODI subscribers who have concentrated holdings in a single corporate group or a large exposure to the Indian market. According to the circular, this applies to ODI subscribers who fulfil the following criteria: 1.ODI subscriber having more than 50% of its equity ODI positions through the ODI issuing FPI in ODIs referenced to securities of a single Indian corporate group; 2. ODI subscriber having equity positions worth more than Rs 25,000 crore in the Indian markets. &nbsp;\",",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "SEBI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Securities and Exchange Board of India",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:31:50.532+02:00",
+    "updated": "2024-12-17T14:31:50.532+02:00"
+}

@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "0a72076682da30a9c983cab0e9848da6dc171dd7",
+        "url": "https://www.devdiscourse.com/article/law-order/3197648-meta-faces-heavy-fines-as-eu-watchdogs-clamp-down-on-2018-data-breach",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Meta Faces Heavy Fines as EU Watchdogs Clamp Down on 2018 Data Breach | Law-Order",
+        "title_full": "Meta Faces Heavy Fines as EU Watchdogs Clamp Down on 2018 Data Breach | Law-Order",
+        "published": "2024-12-17T12:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_14_29_22_3638719.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9119,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0a72076682da30a9c983cab0e9848da6dc171dd7",
+    "url": "https://www.devdiscourse.com/article/law-order/3197648-meta-faces-heavy-fines-as-eu-watchdogs-clamp-down-on-2018-data-breach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T12:49:00.000+02:00",
+    "title": "Meta Faces Heavy Fines as EU Watchdogs Clamp Down on 2018 Data Breach | Law-Order",
+    "text": "Meta Faces Heavy Fines as EU Watchdogs Clamp Down on 2018 Data Breach\nFacebook owner Meta has been fined 251 million euros by EU privacy watchdogs after a 2018 data breach. The breach involved hackers exploiting bugs to steal access tokens. Meta plans to appeal, asserting it took immediate action and informed those affected.\n- Country:\n- United Kingdom\nIn a landmark judgment, European Union privacy watchdogs have levied fines totalling 251 million euros on Meta, the parent company of Facebook, over a 2018 data breach. The penalty follows an exhaustive investigation into how hackers exploited vulnerabilities in the social media platform's code, accessing millions of user accounts.\nIreland's Data Protection Commission, acting as Meta's lead privacy regulator in the EU, revealed that hackers had targeted flaws that allowed them to seize 'access tokens,' inadvertently granting them control over user accounts. The commission's findings outline several breaches of the EU's privacy legislation, prompting significant administrative penalties.\nDespite acknowledging the breach, Meta has voiced its intention to challenge the decision. The tech giant cited proactive measures taken to rectify the identified weaknesses, including notifying those affected and liaising with both the FBI and multiple regulators. The breach, initially reported to have impacted 50 million users, was later specified to involve around 29 million accounts.\n(With inputs from agencies.)\n- READ MORE ON:\n-\n[Meta](/news?tag=Meta) -\n[Facebook](/news?tag=Facebook) -\n[EU](/news?tag=EU) -\n[privacy](/news?tag=privacy) -\n[watchdogs](/news?tag=watchdogs) -\n[data breach](/news?tag=data+breach) -\n[fines](/news?tag=fines) -\n[access tokens](/news?tag=access+tokens) -\n[GDPR](/news?tag=GDPR) -\n[appeal](/news?tag=appeal)\nALSO READ\n[Australia Cracks Down on Big Tech: New Law Threatens Multi-Million Fines](/article/technology/3177983-australia-cracks-down-on-big-tech-new-law-threatens-multi-million-fines)[Spacez Redefines Urban Luxury Living with Year-End Sale](/article/business/3180838-spacez-redefines-urban-luxury-living-with-year-end-sale)[Canon’s ‘World Unseen’ Exhibition in Kenya Redefines Inclusivity in Photography](/article/business/3181380-canons-world-unseen-exhibition-in-kenya-redefines-inclusivity-in-photography)[Swiss Courtroom Drama: Trafigura Faces Hefty Fines in Corruption Trial](/article/law-order/3187913-swiss-courtroom-drama-trafigura-faces-hefty-fines-in-corruption-trial)[Telangana HC Fines Former MLA for Citizenship Misrepresentation](/article/law-order/3187806-telangana-hc-fines-former-mla-for-citizenship-misrepresentation)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:22:01.285+02:00",
+    "updated": "2024-12-17T15:22:01.285+02:00"
+}

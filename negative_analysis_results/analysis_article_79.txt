@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 79
+============================================================
+Timestamp: 2025-06-23 08:53:01
+Headline Summary: Selling pressure at PSX, KSE-100 down over 1,700 points
+Key Highlights: KSE-100 Index fell over 1,700 points, profit-taking following SBP’s 200 bps cut in key policy rate, buying interest in commercial banks.
+Final Sentiment: Neutral
+Confidence: 75%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: While the current analysis highlights a significant decline in the KSE-100 Index following the SBP's 200 bps cut in key policy rate, I lean towards a more neutral assessment. The market factored in this move, and there were no surprises, which mitigates the volatility. Additionally, buying interest in commercial banks counters some of the selling pressure. Therefore, my proposed sentiment remains neutral, confidence is relatively moderate at 60%, impact is considered medium as it will be closely watched by investors sentiment_analyst: The current sentiment assumes a more negative outlook than I believe is justified. While the index did fall, it was expected due to profit-taking following the SBP
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Neutral sentiment.
+============================================================

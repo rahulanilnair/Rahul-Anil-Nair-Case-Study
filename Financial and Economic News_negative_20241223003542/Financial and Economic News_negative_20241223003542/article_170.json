@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "d54d3ad9c7746ec88b9960807dba3f2277f83da9",
+        "url": "https://www.rttnews.com/story.aspx?Id=3497803",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "Latest news clusters for en",
+        "title": "FTSE 100 Declines As Wage Growth Accelerates",
+        "title_full": "FTSE 100 Declines As Wage Growth Accelerates",
+        "published": "2024-12-17T11:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d54d3ad9c7746ec88b9960807dba3f2277f83da9",
+    "url": "https://www.rttnews.com/story.aspx?Id=3497803",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T11:31:00.000+02:00",
+    "title": "FTSE 100 Declines As Wage Growth Accelerates",
+    "text": "U.K. stocks fell notably on Tuesday as investors looked ahead to the Federal Reserve and Bank of England's rate decisions. In economic news, the U.K. unemployment rate remained unchanged in three months to October, the Office for National Statistics said today. The unemployment rate held steady at 4.3 percent during August to October period - matching expectations. Excluding bonus, annual growth in average earnings came in at 5.2 percent compared to economists' forecast of 5.0 percent - cementing expectations that the Bank of England will hold off cutting interest rates on Thursday. Vacancies decreased on the quarter for the 29th consecutive period. The estimated number of vacancies fell 31,000 on the quarter to 818,000 in September to November. The benchmark FTSE 100 was down 50 points, or 0.6 percent, at 8,212 after losing half a percent the previous day. Energy giant BP Plc fell about 1 percent and peer Shell gave up 1.6 percent as crude oil prices extended losses on China demand concerns. Bunzl slumped 4.5 percent after the business supplies distributor said persistent deflation, particularly in continental Europe, will have a slight impact on its annual profit. Capita shares plummeted 8 percent. The outsourcing firm saw its revenue drop eight percent in the first 11 months of the year. For comments and feedback contact: editorial@rttnews.com Market Analysis December 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bank of Eng",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Office for National Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "BP Plc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bunzl",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U.K.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:15:13.763+02:00",
+    "updated": "2024-12-17T12:15:13.763+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "b982fe72d28f8643d80243c82ad71695bd63178a",
+        "url": "https://www.newsbreak.com/news/3753415970037-wayne-state-college-opens-first-new-student-housing-since-1966",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/norfolk-ne",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Norfolk, NE Local News and More | NewsBreak",
+        "title": "Wayne State College opens first new student housing since 1966 - NewsBreak",
+        "title_full": "Wayne State College opens first new student housing since 1966 - NewsBreak",
+        "published": "2025-01-10T07:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0cu5WK_0y21Kr2R00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b982fe72d28f8643d80243c82ad71695bd63178a",
+    "url": "https://www.newsbreak.com/news/3753415970037-wayne-state-college-opens-first-new-student-housing-since-1966",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hanky Q. Hazelton",
+    "published": "2025-01-10T07:32:00.000+02:00",
+    "title": "Wayne State College opens first new student housing since 1966 - NewsBreak",
+    "text": "By Hanky Q. Hazelton ,\n5 hours ago WAYNE, Neb, -- Wayne State College is set to make history with the grand opening of Stearns Hall, the first new residence building since Bowen Hall's construction in 1966. This modern four-story facility will provide much-needed housing for 276 students, featuring a mix of 168 suite-style beds and 108 traditional beds. As faculty celebrate with an open house, they emphasize the hall's vital role in enhancing campus life. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Education->teachers",
+        "Education->students",
+        "Education->college and university",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->construction and property",
+        "Human Interest->graduation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:30:15.614+02:00",
+    "updated": "2025-01-10T08:30:15.614+02:00"
+}

@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "95fcdf12459f51fa5fbb52810420bc682533cb0d",
+        "url": "https://www.borowitzreport.com/p/nation-stunned-by-apparent-existence",
+        "site_full": "www.borowitzreport.com",
+        "site": "borowitzreport.com",
+        "site_section": "https://www.borowitzreport.com/feed",
+        "site_categories": [],
+        "section_title": "The Borowitz Report",
+        "title": "Nation Stunned by Apparent Existence of Rule of Law",
+        "title_full": "Nation Stunned by Apparent Existence of Rule of Law",
+        "published": "2025-01-10T07:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe311c6a-95e8-4636-979a-178d98fcbe83_2100x1400.heic",
+        "performance_score": 0,
+        "domain_rank": 131721,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "95fcdf12459f51fa5fbb52810420bc682533cb0d",
+    "url": "https://www.borowitzreport.com/p/nation-stunned-by-apparent-existence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andy Borowitz",
+    "published": "2025-01-10T07:13:00.000+02:00",
+    "title": "Nation Stunned by Apparent Existence of Rule of Law",
+    "text": "Nation Stunned by Apparent Existence of Rule of Law\nWASHINGTON (The Borowitz Report)—Moments after the United States Supreme Court rejected Donald J. Trump’s request to delay sentencing in his hush money case, Americans were in a state of shock over the apparent existence of the rule of law.\n“I didn’t see this coming,” said Cincinnati resident Harland Dorrinson, echoing the sentiments of millions. “I thought that the Supreme Court exercising independence was kind of an old-timey thing.”\n“This really feels like Throwback Thursday,” he added, shaking his head.\nNews of the Court’s decision first spread after Mrs. Samuel Alito lowered her flag to half-staff.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->fundamental rights",
+        "Politics->political process",
+        "Politics->government",
+        "Social Issue->social problem",
+        "Social Issue->values",
+        "Social Issue->discrimination",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harland Dorrinson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald J. Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samuel Alito",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United States Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:33:35.461+02:00",
+    "updated": "2025-01-10T09:33:35.461+02:00"
+}

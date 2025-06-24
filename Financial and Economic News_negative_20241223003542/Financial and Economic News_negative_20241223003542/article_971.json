@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "cbabb51cd60ed2b8cdd029c55b095dc8ff698197",
+        "url": "https://www.newsmax.com/finance/streettalk/u-s-stock-futures-fed/2024/12/17/id/1191917",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "http://www.newsmax.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tNewsmax – Breaking News | News Videos | Politics, Health, Finance\r\n",
+        "title": "Futures Pressured by Rising Yields Before Fed Meet; Retail Sales in Focus | Newsmax.com",
+        "title_full": "Futures Pressured by Rising Yields Before Fed Meet; Retail Sales in Focus | Newsmax.com",
+        "published": "2024-12-17T15:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e4827de7-7662-42f3-a977-fc2f5dffcd17&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2441,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cbabb51cd60ed2b8cdd029c55b095dc8ff698197",
+    "url": "https://www.newsmax.com/finance/streettalk/u-s-stock-futures-fed/2024/12/17/id/1191917",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lisa Pauline Mattackal and Purvi Agarwal",
+    "published": "2024-12-17T15:13:00.000+02:00",
+    "title": "Futures Pressured by Rising Yields Before Fed Meet; Retail Sales in Focus | Newsmax.com",
+    "text": "Lisa Pauline Mattackal and Purvi Agarwal Tuesday, 17 December 2024 08:13 AM EST\nU.S. stock index futures slipped Tuesday, as traders braced for retail sales data that will provide more clues on the health of consumers ahead of an anticipated Federal Reserve rate cut later in the week.\nThe U.S. 10-year Treasury note yield rose back above 4.42%, an over three-week high, pressuring stocks, as market bets strengthened on a more cautious Fed in 2025.\nNovember retail sales data, due at 8:30 a.m. ET on the day, is expected to show a rise of 0.5% on a monthly basis, according to economists polled by Reuters.\nFutures pulled back after a fairly strong session on Monday, with the Nasdaq closing at a record high and the S&P 500 gaining ground.\nRate-sensitive megacaps were mixed in premarket trading, with Nvidia down 1.5% and Microsoft dipping 0.4%. Tesla was up nearly 2.8% after Mizuho upgraded the electric-vehicle maker's stock to \"outperform\" from \"neutral\" and hiked its price target by $285 to $515.\nA 25 basis point cut from the Fed on Wednesday is all but priced in, but most see the central bank holding rates at its January meeting, as economic indicators point to continued resilience and inflation remains persistent.\n\"The consensus expectation is that investors will get the extra holiday gift they want with another quarter-point interest rate cut by the Federal Reserve,\" said Joe Gaffoglio, president and CEO of Mutual of America Capital Management.\n\"However, if inflation continues to stay above target in the new year, the markets may be too optimistic on how many cuts the Fed may deliver.\"\nHowever, expectations that the Fed might project growth in the next year, taking into account potential policies of President-elect Donald Trump's administration, brings the \"dot plot\" high up on investors' radar on Wednesday.\nU.S. stocks remain on track to end December on a positive note with the S&P 500 set for its best year since 2019 with an over 27% year-to-date rise, powered by gains in technology companies, Fed rate cuts and optimism on the impact of Trump's corporate policies.\nAt 7:00 a.m. ET, Dow E-minis were down 179 points, or 0.41%, S&P 500 E-minis were down 17 points, or 0.28% and Nasdaq 100 E-minis were down 17.5 points, or 0.08%.\nCrypto-focused stocks continued to rally as bitcoin surpassed $107,000. Hut 8 rose 2.4%, while MARA Holdings and Riot Platforms rose 1.6% each.\nPfizer gained 3.1% after the drugmaker forecast 2025 profit roughly in line with Wall Street expectations.\nAlbertsons Companies rose 2.4% as multiple brokerages hiked their price targets on the stock and Telsey Advisory Group upgraded it to \"outperform\" from \"market perform.\"\nAffirm Holdings dipped 3.8%. The \"buy now, pay later\" firm proposed a private offering of convertible senior notes worth $750 million.\n© 2024 Thomson/Reuters. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tesla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:21:04.554+02:00",
+    "updated": "2024-12-17T16:21:04.554+02:00"
+}

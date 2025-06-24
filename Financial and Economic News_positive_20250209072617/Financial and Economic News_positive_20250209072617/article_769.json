@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "1b06476d01a3709cad30cfb56135112b24c4fdde",
+        "url": "https://www.ktvb.com/article/news/local/nampa-salvation-army-open-overnight-family-shelter/277-3cc7ad2d-64a6-445a-baf9-ac7c2719f60f",
+        "site_full": "www.ktvb.com",
+        "site": "ktvb.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "society",
+            "travel",
+            "by_us_locale",
+            "dating"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Nampa Salvation Army to open overnight family shelter after delay",
+        "title_full": "Nampa Salvation Army to open overnight family shelter after delay",
+        "published": "2025-01-10T06:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.ktvb.com/assets/KTVB/images/28b63312-8651-4f3a-8e8b-12f2bc35fa0c/20250110T053216/28b63312-8651-4f3a-8e8b-12f2bc35fa0c_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 10400,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b06476d01a3709cad30cfb56135112b24c4fdde",
+    "url": "https://www.ktvb.com/article/news/local/nampa-salvation-army-open-overnight-family-shelter/277-3cc7ad2d-64a6-445a-baf9-ac7c2719f60f",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abby Davis",
+    "published": "2025-01-10T06:03:00.000+02:00",
+    "title": "Nampa Salvation Army to open overnight family shelter after delay",
+    "text": "BOISE, Idaho — The Salvation Army of Nampa will open its overnight family shelter likely on Jan. 14, following months of financial challenges that delayed its planned fall opening.\n\"We keep moving forward, knowing that getting open even a little bit later than we anticipated is still going to be a real blessing to the families that come in next week,\" Capt. Allison Struck said.\nThe nonprofit faced several financial setbacks that contributed to the delay.\n\"It's hard,\" Struck said. \"I have children of my own. I don't like to think of children from anyone's family sleeping in unsustainable places.\"\nShe said their annual kettle campaign fell $5,000-$10,000 short of the goal, and the Salvation Army in Idaho has not been able to use as much government funding as other states.\nThe City of Nampa also did not renew a grant after an audit. Struck said they previously got about $30,000 through the city.\nA city spokesperson said the grant is competitive, and the City Council will consider alternative funding sources later this month.\n\"There was a delay in the audit process and us receiving the findings and getting everything squared away,\" Struck said. \"The city felt like the findings that they had on some differences in how we had our policies written represented a concern for them.\"\nDespite the challenges, the Nampa Salvation Army recently extended its daytime shelter hours ahead of the overnight shelter opening. Once fully staffed, the day shelter will expand operations from six to seven days a week.\nThe overnight shelter will be open through April, Struck said. The Salvation Army may extend the timeline if it gets enough funding.\n\"While a lot of people might not think that $25 is a lot, all of those sorts of gifts add up,\" Struck said. \"And when people have to cut back in certain areas, a lot of times, charity can be one of the first things to go.\"\nThe overnight shelter may remain open beyond April if additional funding becomes available, she said.\nPeople can donate through the Nampa Salvation Army [website](https://nampa.salvationarmy.org/nampa/ways-to-give/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Social Issue->charity",
+        "Social Issue->homelessness",
+        "Social Issue->social services",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://nampa.salvationarmy.org/nampa/ways-to-give/",
+        "https://www.nampa.salvationarmy.org/nampa/ways-to-give/",
+        "https://nampa.salvationarmy.org/nampa/ways-to-give"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:21:28.414+02:00",
+    "updated": "2025-01-10T08:21:28.414+02:00"
+}

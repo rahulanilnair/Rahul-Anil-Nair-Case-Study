@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "324a44c9f084f107f5b1916538ae9c6ed6e73c50",
+        "url": "https://article.wn.com/view/2025/01/10/TCS_Rises_4_On_Strong_Commentary_Signs_Of_Demand_Revival_Sho",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Business",
+        "title": "TCS Rises 4% On Strong Commentary, Signs Of Demand Revival; Should You Buy, Sell Or Hold? - Worldnews.com",
+        "title_full": "TCS Rises 4% On Strong Commentary, Signs Of Demand Revival; Should You Buy, Sell Or Hold? - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "324a44c9f084f107f5b1916538ae9c6ed6e73c50",
+    "url": "https://article.wn.com/view/2025/01/10/TCS_Rises_4_On_Strong_Commentary_Signs_Of_Demand_Revival_Sho",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "TCS Rises 4% On Strong Commentary, Signs Of Demand Revival; Should You Buy, Sell Or Hold? - Worldnews.com",
+    "text": "TCS shares rise 4% following optimistic management commentary on demand revival, deal wins, and future growth prospects; Buy, Sell Or Hold? read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.news18.com/business/markets/tcs-rises-4-on-strong-commentary-signs-of-demand-revival-should-you-buy-sell-or-hold-9183893.html",
+        "https://news18.com/business/markets/tcs-rises-4-on-strong-commentary-signs-of-demand-revival-should-you-buy-sell-or-hold-9183893.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCS",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:40:23.973+02:00",
+    "updated": "2025-01-10T07:40:23.973+02:00"
+}

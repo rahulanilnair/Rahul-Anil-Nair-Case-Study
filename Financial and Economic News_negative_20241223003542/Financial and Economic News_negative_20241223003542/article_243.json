@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "57be860e4561bb57528415c91ed9438d02feacc3",
+        "url": "https://www.communicationstoday.co.in/ambani-adani-exit-bloombergs-100-billion-club-amid-financial-setbacks",
+        "site_full": "www.communicationstoday.co.in",
+        "site": "communicationstoday.co.in",
+        "site_section": "https://www.communicationstoday.co.in",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "India&#039;s leading telecom news website and magazine",
+        "title": "Ambani, Adani exit Bloomberg’s $100 billion club amid financial setbacks",
+        "title_full": "Ambani, Adani exit Bloomberg’s $100 billion club amid financial setbacks",
+        "published": "2024-12-17T05:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 128695,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "57be860e4561bb57528415c91ed9438d02feacc3",
+    "url": "https://www.communicationstoday.co.in/ambani-adani-exit-bloombergs-100-billion-club-amid-financial-setbacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archit_tandon",
+    "published": "2024-12-17T05:05:00.000+02:00",
+    "title": "Ambani, Adani exit Bloomberg’s $100 billion club amid financial setbacks",
+    "text": "Mukesh Ambani, chairman and managing director of Reliance Industries, and Gautam Adani, chairman of the Adani Group, both of whom rank among India’s wealthiest and some of Asia’s richest individuals, have dropped out of Bloomberg’s $100 billion club this year due to various business challenges, Bloomberg reported.\nThe wealth of many of India’s richest individuals has continued to rise, with the 20 wealthiest adding $67.3 billion to their fortunes since the beginning of the year, according to Bloomberg’s wealth index. The largest gains were seen by technology mogul Shiv Nadar, who added $10.8 billion, and Savitri Jindal, whose family controls the Jindal Group, with an increase of $10.1 billion.\nBarriers to progress\nMukesh Ambani and Gautam Adani are both grappling with challenges that are affecting their business empires and personal wealth. Ambani’s energy and retail sectors have been struggling, with investor concerns about rising debt weighing on the performance. Meanwhile, Adani’s business empire has been shaken by a US Department of Justice investigation that could reduce funding opportunities and complicate the securing of new contracts.\nAmbani, Asia’s wealthiest individual, has seen a decline in his wealth, though it has not been as pronounced. His fortune peaked at $120.8 billion in July, coinciding with a lavish family wedding. However, his company, Reliance, has faced setbacks, including weaker earnings from its energy division and slower consumer demand in retail. “His fortune stood at $96.7 billion as of December 13,” Bloomberg mentioned.\nBoth Ambani and Adani have dropped out of the ‘centibillionaire club’, as their fortunes have fallen below the $100 billion mark, according to the Bloomberg Billionaires Index.\nFor Adani, a probe by US authorities in November over alleged bribery has brought unwanted international attention. This comes after US short-seller Hindenburg Research’s report last year accused his group of fraudulent practices. Despite these claims, Adani has denied the charges and remains resolute in defending his company, promising a commitment to strong regulatory compliance. He stated that every challenge makes the company stronger.\nThese allegations are expected to continue impacting Adani Group’s stock prices as 2024 approaches. Adani’s net worth peaked at $122.3 billion in June, after taking measures to strengthen the company’s financial position following the Hindenburg controversy. However, his wealth has since diminished to $82.1 billion, according to Bloomberg’s index.\n“Those gains have now evaporated after the US allegations that he oversaw bribes to Indian government officials, and he’s now worth $82.1 billion.” Business Standard",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mukesh Ambani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gautam Adani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Savitri Jindal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shiv Nadar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reliance Industries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "US Department of Justice",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jindal Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adani Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:40:52.209+02:00",
+    "updated": "2024-12-17T12:40:52.209+02:00"
+}

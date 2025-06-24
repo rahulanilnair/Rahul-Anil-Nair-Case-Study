@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "6f25f7c7332d1d49ec45818f0a18bc773dbe3289",
+        "url": "https://dailyprogress.com/news/community/orangenews/lake-of-the-woods-residents-could-see-their-water-and-sewer-rates-increase/article_ac417fbc-b99e-11ef-815c-2f1cb4938a47.html",
+        "site_full": "dailyprogress.com",
+        "site": "dailyprogress.com",
+        "site_section": "https://www2.dailyprogress.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Daily Progress | Charlottesville News | Read breaking Charlottesville, Virginia News, featuring weather, traffic, crime, sports, entertainment, politics, and more.",
+        "title": "RSA Increasing Rates in Orange County",
+        "title_full": "RSA Increasing Rates in Orange County",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/a/c4/ac417fbc-b99e-11ef-815c-2f1cb4938a47/676104cfb56e9.preview.jpg?crop=1921%2C1009%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 12548,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f25f7c7332d1d49ec45818f0a18bc773dbe3289",
+    "url": "https://dailyprogress.com/news/community/orangenews/lake-of-the-woods-residents-could-see-their-water-and-sewer-rates-increase/article_ac417fbc-b99e-11ef-815c-2f1cb4938a47.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "HEATHER PRICE IVES The Daily Progress",
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "RSA Increasing Rates in Orange County",
+    "text": "The Rapidan Service Authority is aiming to raise $23M in order to upgrade the Orange County subdivision's aging sewer system Heather Price Ives Dec 17, 2024 1 hr ago 0 × Week in Virginia\nFacebook Twitter WhatsApp SMS Email Print Copy article link Save Some Orange County residents may see their water and sewer rates increase in the new year.\nThe Rapidan Service Authority has proposed increasing rates from $7 to more than $30 a month for households in the Lake of the Woods subdivision in Locust Grove.\nOrange County Review Officials float multimillion-dollar patch to mitigate sewage trouble in Orange County Heather Price Ives The 2,600-acre, gated subdivision surrounding a 500-acre man-made lake in far-east Orange County has struggled with sewage overflows due the aging infrastructure there. The additional money raised from the rate hikes is meant to cover multimillion-dollar upgrades to the sewer system.\n“What is proposed, inside Lake of the Woods only, is to increase the Lake of the Woods Vacuum Sewer fee from the current $7 per month to $10 per month. That fee pays for annual ongoing vacuum sewer system improvements and has not increased since it was enacted in 2009,” Tim Clemons, general manager of the Rapidan Service Authority, told The Daily Progress via email.\nPeople are also reading… Daughter of country music star Wynonna Judd pleads guilty to drug, theft charges in Albemarle Long-unfinished Dewberry hotel property up for sale Ron Sanchez's promotion to Virginia interim head coach came with hefty pay increase Daughter of country music star Wynonna Judd arrested in Albemarle County Years in the making, Biscuit Run Park opens this weekend Virginia football transfer portal tracker: Who is committed to the Cavaliers? Who is on the way out? Ruckersville man found guilty of raping preteen boy Legislation proposes stricter penalty for Virginia vehicle owners who let unlicensed teens drive UVa students suspended after Jewish housemate says he was target of hate crime Virginia women's basketball program gets 'transformational gift' from alum Alexis Ohanian Virginia basketball survives Bethune-Cookman's upset bid: Three takeaways UVa, Israeli student settle lawsuit over 'virulent antisemitism' on Grounds Man charged with Batesville shooting fires back with lawsuit UVa rape case delayed as lawyers spar over evidence Augusta County forest fire was manmade, Forest Service says Lake of the Woods is a 2,600-acre, gated subdivision surrounding a 500-acre man-made lake in far-east Orange County.\nLAKE OF THE WOODS VOLUNTEER FIRE COMPANY The current $7 fee covers the cost of the $350,000 annual price tag on maintaining Lake of the Woods' existing sewer infrastructure, according to the service authority.\n“Inside Lake of the Woods only, a $23.50 per month vacuum sewer upgrade fee is to pay for upgrading and replacing the 13 vacuum pumping stations located throughout Lake of the Woods. This project has an estimated cost of $23 million. The pump stations were last upgraded in the early to mid 1990-time frame. The majority of these stations need new buildings, upgraded electrical systems, upgraded and upsized vacuum pumps, new piping, new vacuum tanks, SCADA system, etc.,” Clemons said.\nShould the board approve the rate hikes, total sewer fees for Lake of the Woods residents will total $33.50 per month.\nThe Wilderness Water Treatment Plant services eastern Orange County, including Lake of the Woods, Wilderness Shores, Somerset Farms, Edgewood, Germanna Heights and Twin Lakes, as well as the Virginia Route 3 corridor.\nPENETRON “If the Board approves the rates at its January 2025 meeting, the rates will take affect with the next full billing cycle, so the February-March time frame,” Clemons said.\nA public hearing on the rate change is scheduled for 7 p.m. Jan. 8 at Locust Grove Middle School.\nHeather Price Ives\nhives@dailyprogress.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tim Clemons",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Rapidan Service Authority",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County Some",
+                "sentiment": "none"
+            },
+            {
+                "name": "Locust Grove",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:18:37.986+02:00",
+    "updated": "2024-12-17T16:58:33.865+02:00"
+}

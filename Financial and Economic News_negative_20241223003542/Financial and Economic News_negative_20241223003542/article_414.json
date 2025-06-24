@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "9bb19a19301c553b94e4df95952d02310de08ddb",
+        "url": "https://www.devonlive.com/news/cost-of-living/hmrc-alert-over-delayed-state-9798327",
+        "site_full": "www.devonlive.com",
+        "site": "devonlive.com",
+        "site_section": "https://www.devonlive.com/",
+        "site_categories": [
+            "media",
+            "top_news_gb",
+            "top_news"
+        ],
+        "section_title": "Devon Live - Latest local news, sport &amp; business from Devon",
+        "title": "HMRC alert over delayed state pension £400 payments - Devon Live",
+        "title_full": "HMRC alert over delayed state pension £400 payments - Devon Live",
+        "published": "2024-12-17T11:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i2-prod.devonlive.com/incoming/article9798342.ece/ALTERNATES/s1200/0_40.jpg",
+        "performance_score": 0,
+        "domain_rank": 12973,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9bb19a19301c553b94e4df95952d02310de08ddb",
+    "url": "https://www.devonlive.com/news/cost-of-living/hmrc-alert-over-delayed-state-9798327",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Dawson",
+    "published": "2024-12-17T11:59:00.000+02:00",
+    "title": "HMRC alert over delayed state pension £400 payments - Devon Live",
+    "text": "HMRC has alerted customers to potential delays in getting voluntary National Insurance contributions applied towards the state pension. A taxpayer reached out to the tax body stating: \"I have paid over £400 to add to my contribution years - that was three months ago, it still isn't showing on my record.\" Time is of the essence if you are thinking of topping up your National Insurance (NI) contributions, as you can currently pay contributions as far as the 2006/2007 tax year, rather than the usual six-year limit. This extended period for topping up is available until April 2025, so it's advisable to act promptly. In response to the customer's issue, HMRC commented: \"We're unable to check the timescale here. It can take some time to update - you may want to speak to the NI helpline if you'd like them to check.\" For general queries about National Insurance, individuals can contact 0300 200 3500, Monday to Friday between 8am and 6pm. But the customer said they had tried contacting the helpline, yet there was \"still nothing on my NI account\". To check how much state pension you are on track to receive, you can use a forecasting tool available on the Government's website. A full new state pension, which stands at £221.20 per week, typically requires 35 years of complete NI contributions. To receive the full basic state pension, currently at £169.50 per week, you typically need 35 years of contributions. Analysts at wealth firm Hargreaves Lansdown have issued a word of caution for those considering topping up their pension. Helen Morrissey, head of retirement analysis, advised: \"Check with the Future Pension Centre before handing over any money to make sure you will benefit. If you have been contracted out of the state second pension at some point in your working life for instance, you will have paid less National Insurance, which can affect your state pension entitlement.\" Individuals can contact the Future Pension Centre on 0800 731 0175; they operate Monday to Friday from 8am to 6pm and can tell you how much state pension you are on track to get. It's also important to note that state pension payments increase each April due to the triple lock. Next year, state pension payments will rise by 4.1 percent, bringing the full new state pension to £230.30 a week and the full basic state pension to £176.45 a week.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gov.uk/check-state-pension",
+        "https://twitter.com/intent/follow?screen_name=devonlivenews",
+        "https://www.facebook.com/devonlivenews",
+        "https://twitter.com/intent/follow",
+        "https://facebook.com/devonlivenews",
+        "https://gov.uk/check-state-pension",
+        "https://www.twitter.com/intent/follow?screen_name=devonlivenews"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Insurance",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9bb19a19301c553b94e4df95952d02310de08ddb",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:28:50.420+02:00",
+    "updated": "2024-12-17T16:41:14.561+02:00"
+}

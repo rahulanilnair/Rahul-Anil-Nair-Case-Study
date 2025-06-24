@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "7ad6455419ae883fbc1d7bfbe96f36a9ddf39421",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/01/10/tsmc039s-fourth-quarter-revenue-handily-beats-market-forecast",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/metro/community-sports",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Community Sports - Sport | The Star",
+        "title": "TSMC's fourth-quarter revenue handily beats market forecast | The Star",
+        "title_full": "TSMC's fourth-quarter revenue handily beats market forecast | The Star",
+        "published": "2025-01-10T07:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2025/01/10/3110713.jpg",
+        "performance_score": 0,
+        "domain_rank": 2131,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7ad6455419ae883fbc1d7bfbe96f36a9ddf39421",
+    "url": "https://www.thestar.com.my/tech/tech-news/2025/01/10/tsmc039s-fourth-quarter-revenue-handily-beats-market-forecast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2025-01-10T07:45:00.000+02:00",
+    "title": "TSMC's fourth-quarter revenue handily beats market forecast | The Star",
+    "text": "TAIPEI (Reuters) - TSMC, the world's largest contract chipmaker, on Friday reported fourth-quarter revenue of T$868.42 billion ($26.36 billion), according to Reuters calculations, easily beating a market forecast, as the company reaps the benefit from artificial intelligence demand.\nAn LSEG SmartEstimate, drawn from 23 analysts, had predicted fourth-quarter revenue of T$853.57 billion.\nTaiwan Semiconductor Manufacturing Co (TSMC) is a major supplier to companies including Apple and Nvidia.\n($1 = 32.9530 Taiwan dollars)\n(Reporting by Ben Blanchard and Faith Hung; Editing by Tom Hogue)\n[WhatsApp channel](https://whatsapp.com/channel/0029Va5zqNVLCoWsM8VWSc2k)for breaking news alerts and key updates!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Blanchard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tom Hogue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "TSMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taiwan Semiconductor Manufacturing Co",
+                "sentiment": "none"
+            },
+            {
+                "name": "Apple",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:45:53.212+02:00",
+    "updated": "2025-01-10T09:48:47.810+02:00"
+}

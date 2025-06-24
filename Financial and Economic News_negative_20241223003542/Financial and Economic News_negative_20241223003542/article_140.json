@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "8ff045ed1aeb870dcd5b592b1aec371ee10deae1",
+        "url": "https://www.theadvocate.com/baton_rouge/news/fee-to-be-added-to-some-baton-rouge-entergy-customers-bills/article_5a4ac73e-bbd0-11ef-85e8-c7af7a22962e.html",
+        "site_full": "www.theadvocate.com",
+        "site": "theadvocate.com",
+        "site_section": "http://www.theadvocate.com/search/?f=rss&amp;t=article&amp;c=&amp;l=50&amp;s=start_time&amp;sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.theadvocate.com - RSS Results",
+        "title": "Entergy bills will likely go up for some East Baton Rouge customers. Here's what to know.",
+        "title_full": "Entergy bills will likely go up for some East Baton Rouge customers. Here's what to know.",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/a/96/a96268d6-93cd-5db2-8ba7-54cce3d25ed0/66e1d4047e5c6.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 5042,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ff045ed1aeb870dcd5b592b1aec371ee10deae1",
+    "url": "https://www.theadvocate.com/baton_rouge/news/fee-to-be-added-to-some-baton-rouge-entergy-customers-bills/article_5a4ac73e-bbd0-11ef-85e8-c7af7a22962e.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PATRICK SLOAN-TURNER | Staff writer",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "Entergy bills will likely go up for some East Baton Rouge customers. Here's what to know.",
+    "text": "Last week, the East Baton Rouge Metro Council approved a new charge to local energy provider Entergy as part of a renewed agreement with the company to service unincorporated areas of the parish.\nThe council approved the fee primarily as a way to raise more money for police, district attorneys, and other parts of the local criminal justice system. Leaders of those agencies have said they are having trouble paying competitive salaries and keeping employees.\nHere's why this new franchise fee — which is likely to be passed on to some local customers — is being instituted:\nWhat is the fee and who will pay for it?\nA franchise fee is a charge imposed on a company for the right to operate a franchise — in this case, Entergy's right to distribute electricity and other infrastructure services within unincorporated areas of East Baton Rouge Parish.\n\"Unincorporated\" means areas that are in the parish but not in the city limits of Baton Rouge, Zachary, Central, Baker or St. George. Residents of those cities already pay a similar franchise fee.\nMetro Council approved a fee of 5% of Entergy's gross sales of electric power in those areas on Wednesday. Currently, neither commercial nor residential customers in the parish's unincorporated communities pay this fee.\nThe fee will apply to about 32,000 customers, Entergy said.\nHow much will it cost customers?\nLast week, Entergy Vice President of Customer Service Michelle Bourg said the company will pass this fee on to its customers in this area.\nFor residential customers, both Bourg and Metro Council members said the fee will amount to about $4 added to a monthly bill. Commercial customers whose energy usage is higher than residential customers will see a larger amount on their bills, though the amount still represents 5%.\nThe fee will result in an estimated $3.5 million in annual revenue for the city-parish, said District 12 council member Jen Racca.\nWhen will it go into effect?\nEntergy spokesperson Brandon Scardigli said the fee will take affect on Jan. 10.\nThe agreement between the city-parish and the energy company is for the next 30 years.\nWhat will this fund?\nIf Metro Council approves a spending plan Wednesday, the money will go to several city-parish departments, with law enforcement and criminal justice agencies that had budgets cut for 2025 set to receive the largest sums.\n- The District Attorney's office will receive $500,000\n- The 19th Judicial District Court will receive $500,000\n- The Baton Rouge Police Department will receive $250,000\n- The Public Defender's office will receive $250,000\n- The Parish Attorney's office will receive $250,000\n- Build Baton Rouge will receive $200,000\n- $105,000 to each Metro Council district earmarked for support of various resident services\n- A little less than $300,000 of excess funding will go to the general fund for the incoming mayoral administration to decide its use\nWhy is it controversial?\nApproval of the fee brough much back-and-forth between Metro Council members and Entergy representatives last week.\nDistrict 6 council member Cleve Dunn Jr. and District 10 member Carolyn Coleman told Bourg and other Entergy officials in attendance at Wednesday's Metro Council meeting the company's claims that this fee must be past on to customers was misleading.\nBut Entergy said the Public Service Commission required customers to take on this cost and the company could not absorb the estimated $3.5 million annual fee themselves.\nAfter the meeting, Public Service Commissioner Davante Lewis said Entergy is not required to pass the franchise fee onto customers and could instead work out an agreement with the PSC to take on this cost themselves through other methods.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Baker",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "East Baton Rouge Metro Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Entergy",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Parish",
+                "sentiment": "none"
+            },
+            {
+                "name": "East",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:08:39.693+02:00",
+    "updated": "2024-12-17T12:08:39.693+02:00"
+}

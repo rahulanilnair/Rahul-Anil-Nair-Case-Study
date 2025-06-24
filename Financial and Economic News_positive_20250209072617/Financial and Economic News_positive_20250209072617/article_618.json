@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "87ac1dca6313684b0bcfb97fc3065d8c55eaecd7",
+        "url": "https://en.vneconomy.vn/remittances-to-vietnam-in-2024-hit-16-bln.htm",
+        "site_full": "en.vneconomy.vn",
+        "site": "vneconomy.vn",
+        "site_section": "https://en.vneconomy.vn",
+        "site_categories": [
+            "top_news_vn",
+            "top_news"
+        ],
+        "section_title": "Vietnam Economic Times | VnEconomy",
+        "title": "Remittances to Vietnam in 2024 hit $16 bln",
+        "title_full": "Remittances to Vietnam in 2024 hit $16 bln",
+        "published": "2025-01-10T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "https://media.vneconomy.vn/640x360/images/upload/2025/01/10/ngoai-te.jpg",
+        "performance_score": 0,
+        "domain_rank": 30034,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "87ac1dca6313684b0bcfb97fc3065d8c55eaecd7",
+    "url": "https://en.vneconomy.vn/remittances-to-vietnam-in-2024-hit-16-bln.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Quỳnh Nguyễn -",
+    "published": "2025-01-10T04:00:00.000+02:00",
+    "title": "Remittances to Vietnam in 2024 hit $16 bln",
+    "text": "Overseas remittances to Vietnam were estimated at $16 billion in 2024, according to Mr. Nguyen Duc Lenh, deputy director of the State Bank of Vietnam (SBV) Ho Chi Minh City branch.\nOf which, remittances to Ho Chi Minh City hit $9.6 billion, up $140 million compared to the previous year, and accounting for 60% of the total.\nRemittances to HCM City from Asia still account for the highest proportion of up to 53.8% of its total, a year-on-year increase of 24.1%. Meanwhile, remittances from the Oceania, American, and European regions to the southern city surged 20%, 4.4%, and 19.1%, respectively.\nOver the past three years, the amount of remittances to HCM City kept increasing significantly, accounting for around 55% of the total remittances to the country annually.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Human Interest->anniversary",
+        "Social Issue->emigration",
+        "Social Issue->population and census",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nguyen Duc L",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "State Bank of Vietnam",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "HCM City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oceania",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:46:47.636+02:00",
+    "updated": "2025-01-10T06:46:47.636+02:00"
+}

@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "2d0975dda792c151d84430bdaa76820f3af80a8a",
+        "url": "https://www.myfxbook.com/forex-economic-calendar/romania/gdp-growth-rate-yoy",
+        "site_full": "www.myfxbook.com",
+        "site": "myfxbook.com",
+        "site_section": "https://www.myfxbook.com/rss/forex-economic-calendar-events",
+        "site_categories": [],
+        "section_title": "Calendar Events",
+        "title": "Romania GDP Growth Rate YoY",
+        "title_full": "Romania GDP Growth Rate YoY",
+        "published": "2025-01-10T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.mfbcdn.net/images/static/og.facebook.png",
+        "performance_score": 0,
+        "domain_rank": 29732,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2d0975dda792c151d84430bdaa76820f3af80a8a",
+    "url": "https://www.myfxbook.com/forex-economic-calendar/romania/gdp-growth-rate-yoy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T01:00:00.000+02:00",
+    "title": "Romania GDP Growth Rate YoY",
+    "text": "Among the expenditure components of GDP, household consumption dominates, accounting for 63% of total usage. Gross fixed capital formation (22%) and government expenditure (14%) are the next most important components (14%). Currently, exports of goods and services account for 41% of GDP.\nA higher than expected figure should be seen as positive (bullish) for the RON while a lower than expected figure should be seen as negative (bearish) for the RON.\nCategory:\nGDP Annual Growth Rate\nUnits:\nPercent\nData updated. Please refresh the page.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:08:04.652+02:00",
+    "updated": "2025-01-10T03:08:04.652+02:00"
+}

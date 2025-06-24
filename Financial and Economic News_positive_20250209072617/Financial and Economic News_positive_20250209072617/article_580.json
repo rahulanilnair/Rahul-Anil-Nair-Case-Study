@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "27bc804863f7fa9a3dae61b9c8d6477679d1be0a",
+        "url": "https://www.trendforce.com/news/2025/01/10/news-nvidias-gb10-superchip-in-project-digits-is-reportedly-built-with-tsmcs-3nm-node",
+        "site_full": "www.trendforce.com",
+        "site": "trendforce.com",
+        "site_section": "https://www.trendforce.com/news",
+        "site_categories": [],
+        "section_title": "TrendForce News",
+        "title": "[News] NVIDIA's GB10 Superchip Powering Project DIGITS is Reportedly Built with TSMC's 3nm Node | TrendForce News",
+        "title_full": "[News] NVIDIA's GB10 Superchip Powering Project DIGITS is Reportedly Built with TSMC's 3nm Node | TrendForce News",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TW",
+        "main_image": "https://img.trendforce.com/blog/wp-content/uploads/2025/01/10101502/nvidia-project-digits-exploded-vew-ari-624x351.jpeg",
+        "performance_score": 0,
+        "domain_rank": 19439,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "27bc804863f7fa9a3dae61b9c8d6477679d1be0a",
+    "url": "https://www.trendforce.com/news/2025/01/10/news-nvidias-gb10-superchip-in-project-digits-is-reportedly-built-with-tsmcs-3nm-node",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TrendForce",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "[News] NVIDIA's GB10 Superchip Powering Project DIGITS is Reportedly Built with TSMC's 3nm Node | TrendForce News",
+    "text": "NVIDIA stole the show at CES 2025, as CEO Jensen Huang showcased a compact personal AI supercomputer called Project DIGITS, powered by the company’s GB10 Grace Blackwell Superchip. According to [Commercial Times](https://www.ctee.com.tw/news/20250110700083-439901) and the [Economic Daily News](https://udn.com/news/story/7240/8480356), TSMC plays a significant role in the product as well, as the GB10 Superchip is built with the foundry giant’s 3nm node.\nNVIDIA’s GB10 has also leveraged technologies such as chiplets and die-to-die interconnect, according to the reports.\nAs per NVIDIA’s [press release](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips), the GB10 SoC features an NVIDIA Blackwell GPU, connected via NVLink-C2C chip-to-chip interconnect to a high-performance NVIDIA Grace CPU, which includes 20 power-efficient cores built with the Arm architecture.\nCiting MediaTek’s Senior Vice President Jerry Yu, the reports note that the Taiwanese chip leader is responsible for co-developing the 20 Grace CPU dies within the GB10 chip, utilizing TSMC’s advanced 3nm process.\nNotably, this marks MediaTek’s second major 3nm product following the Dimensity 9400. The flagship smartphone chipset, launched in October, 2024, has been adopted by major Chinese smartphone brands including Xiaomi and OPPO.\nIt is also worth noting that MediaTek and NVIDIA will engage in closer collaboration in the future. According to Yu, MediaTek’s Dimensity Auto Cockpit C-X1 will come with support for NVIDIA DRIVE OS, as the company is expected to be delivering samples in the first half of 2025.\nIn a [Reuters](https://www.reuters.com/technology/nvidia-ceo-says-mediatek-will-be-able-sell-nvidias-desktop-cpus-2025-01-07/) report, NVIDIA’s CEO Jensen Huang praised MediaTek for its work in developing an efficient SoC for Project DIGITS and hinted at plans for a desktop CPU, though no details were disclosed.\nRead more\n(Photo credit: NVIDIA)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->scientific research",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/technology/nvidia-ceo-says-mediatek-will-be-able-sell-nvidias-desktop-cpus-2025-01-07/",
+        "https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips",
+        "https://udn.com/news/story/7240/8480356",
+        "https://www.ctee.com.tw/news/20250110700083-439901",
+        "https://www.udn.com/news/story/7240/8480356",
+        "https://ctee.com.tw/news/20250110700083-439901",
+        "https://reuters.com/technology/nvidia-ceo-says-mediatek-will-be-able-sell-nvidias-desktop-cpus-2025-01-07/",
+        "https://www.reuters.com/technology/nvidia-ceo-says-mediatek-will-be-able-sell-nvidias-desktop-cpus-2025-01-07",
+        "https://www.nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:23:49.003+02:00",
+    "updated": "2025-01-10T06:23:49.003+02:00"
+}

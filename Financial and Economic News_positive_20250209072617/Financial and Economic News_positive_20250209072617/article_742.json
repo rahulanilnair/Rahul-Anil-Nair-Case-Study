@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "2555cad765529d682e788b4a36fb83406dd826ce",
+        "url": "https://www.butlereagle.com/20250110/slippery-rock-borough-council-approves-2025-parks-and-rec-budget",
+        "site_full": "www.butlereagle.com",
+        "site": "butlereagle.com",
+        "site_section": "https://www.butlereagle.com/category/college-sports/?read-more",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "College Sports - Butler Eagle",
+        "title": "Slippery Rock borough council approves 2025 Parks and Rec. budget - Butler Eagle",
+        "title_full": "Slippery Rock borough council approves 2025 Parks and Rec. budget - Butler Eagle",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://imengine.public.prod.bte.navigacloud.com/?uuid=b09e0841-a004-595c-aa8c-6aeb46660f2c&amp;function=cover&amp;type=preview&amp;source=false&amp;width=1600&amp;height=1085",
+        "performance_score": 0,
+        "domain_rank": 54076,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2555cad765529d682e788b4a36fb83406dd826ce",
+    "url": "https://www.butlereagle.com/20250110/slippery-rock-borough-council-approves-2025-parks-and-rec-budget",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sol McCormick",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Slippery Rock borough council approves 2025 Parks and Rec. budget - Butler Eagle",
+    "text": "SLIPPERY ROCK — Council members approved an increased budget for the Parks and Recreation department on Tuesday, Jan. 7, to reflect increased utility and labor costs. According to Mayor J.D. Longo, there is an expected “$20,000 to $25,000 increase in labor costs” for the upcoming year. To offset increased expenses, the council approved an increased cost for programs.\n“The park has had a steady cost for programs,” Longo said. “This is the first increase we’ve done in three or four years.”\nIn other business ■ The council nominated Longo for the Association of Mayors of the Boroughs of Pennsylvania Mayor of the Year award.\n■ The council acknowledged a recall related to the engine of one of their police cruisers. Longo said that the proper contacts are being made to inspect the cruiser and ensure good working order.\n■ Members of the council also discussed the ongoing switch of the borough website to a new service provider. For now, the borough has established a temporary website.\n■ The next borough council meeting is scheduled for Jan. 21 at 7:30 p.m.\nContinue Reading with One of the Options Below Already a subscriber? Sign in Here Become a Butler Eagle Subscriber Today Subscribe to read the full article and support our local, independent news organization. Subscribe Here\nYou can cancel any time.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->local government and authority",
+        "Politics->government budget",
+        "Social Issue->communities",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "J.D. Longo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Parks and Recreation",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Association of Mayors",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:05:38.618+02:00",
+    "updated": "2025-01-10T08:05:38.618+02:00"
+}

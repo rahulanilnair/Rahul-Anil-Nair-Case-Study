@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "60ef2e0e507bedca1bbccf96832de840e495aaf5",
+        "url": "https://www.cnbc.com/video/2025/01/10/disney-streaming-seeing-light-at-the-end-of-the-tunnel-analyst-says.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://www.cnbc.com/video",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "CNBC Latest Video News &amp; Clips",
+        "title": "Disney streaming seeing light at the end of the tunnel, analyst says",
+        "title_full": "Disney streaming seeing light at the end of the tunnel, analyst says",
+        "published": "2025-01-10T06:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/108084032-17363842431736384240-37905767092-1080pnbcnews.jpg?v=1736384242&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 139,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60ef2e0e507bedca1bbccf96832de840e495aaf5",
+    "url": "https://www.cnbc.com/video/2025/01/10/disney-streaming-seeing-light-at-the-end-of-the-tunnel-analyst-says.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CNBC",
+    "published": "2025-01-10T06:07:00.000+02:00",
+    "title": "Disney streaming seeing light at the end of the tunnel, analyst says",
+    "text": "Barton Crockett, Managing Director and Senior Research Analyst of Rosenblatt Securities, shares his views on Disney's deal to merge Hulu + Live TV with sports streamer Fubo TV. 01:40 2 hours ago",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->mergers and acquisitions",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Barton Crockett",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:43:51.771+02:00",
+    "updated": "2025-01-10T07:43:51.771+02:00"
+}

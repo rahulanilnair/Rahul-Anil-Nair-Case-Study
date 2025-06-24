@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "f8294cfd71a23bd4f8b4d8e404bc9f614a54bce0",
+        "url": "https://business.inquirer.net/500701/airbus-boosts-plane-deliveries-in-2024",
+        "site_full": "business.inquirer.net",
+        "site": "inquirer.net",
+        "site_section": "https://business.inquirer.net",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": "Philippines Business, Financial And Economic News | Inquirer.net",
+        "title": "Airbus boosts plane deliveries in 2024",
+        "title_full": "Airbus boosts plane deliveries in 2024",
+        "published": "2025-01-10T05:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://business.inquirer.net/files/2024/01/2024-01-11T164954Z_1_LYNXMPEK0A0SP_RTROPTP_4_FRANCE-SECURITY-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 2062,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 9,
+                "comments": 0,
+                "shares": 6
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f8294cfd71a23bd4f8b4d8e404bc9f614a54bce0",
+    "url": "https://business.inquirer.net/500701/airbus-boosts-plane-deliveries-in-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agence France-Presse",
+    "published": "2025-01-10T05:58:00.000+02:00",
+    "title": "Airbus boosts plane deliveries in 2024",
+    "text": "FILE PHOTO: Logos of Airbus are seen at the Milipol Paris, the worldwide exhibition dedicated to homeland security and safety, in Villepinte near Paris, France, November 15, 2023. REUTERS/Sarah Meyssonnier/File PhotoParis, France — European plane maker Airbus said Thursday it increased aircraft deliveries to 766 even as the company struggles to return to pre-pandemic production levels.The figure was higher than the 735 aircraft Airbus delivered in 2023, but less than the 800 planes it had originally hoped to shift in 2024. That figure was revised down to 770 during the year because of difficulties getting engines and other equipment.In 2019, before the Covid-19 pandemic hit, Airbus delivered 863 jets.“Given the complex and fast-changing environment we continue to operate in, we consider 2024 a good year,” said the head of Airbus’s commercial aircraft division, Christian Scherer, who said the planes went to 86 clients in 2024. READ: Airbus says net profit rose 22%, maintains production targets Scherer added that he was optimistic for 2025 even though the group’s troubles were not yet over. He predicted that the 2019 production record would be beaten in the “foreseeable future”.“The environment remains difficult. The external environment, the geopolitics,” he said.“The supply chain continues to have weak links that we must resolve.“But I am convinced that we are on the right path, that we are following the pace that we planned and that we will see continued improvement and a ramp up in 2025,” he added.Airbus and Boeing chopped production during the Covid crisis as airlines stopped taking deliveries of planes amid the global panic. Also battling a strike in 2024, Boeing Co. delivered just 318 jets in the first 11 months of 2024.The firms have struggled to bring production back up as suppliers have struggled to replace staff they shed during the downturn.Airbus was able to step up production at the end of the year, with engine manufacturer Safran saying it had given Airbus priority over airlines replacing engines.Delivery figures are an important indicator for the industry as airlines pay for aircraft when they take possession.Airbus is set to release its 2024 financial performance report on February 20.Scherer noted “sustained demand for new aircraft” last year, with Airbus registering 826 net orders.That is far however from the record 2,094 it racked up in 2023.Its order book of 8,658 aircraft is the equivalent of 10 years of work at its current pace of production. Boeing said that at the end of November it had an order book for 6,200 aircraft.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->manufacturing and engineering",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->scientific research",
+        "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Meyssonnier",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Airbus",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BCDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:46:24.087+02:00",
+    "updated": "2025-01-10T16:24:34.836+02:00"
+}

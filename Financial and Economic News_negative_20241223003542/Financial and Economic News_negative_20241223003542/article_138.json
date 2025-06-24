@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "26fe0e71999681a7ed4992e6bd649dc8a7963285",
+        "url": "https://qz.com/us-states-financial-distress-wallethub-1851716783",
+        "site_full": "qz.com",
+        "site": "qz.com",
+        "site_section": "https://cms.qz.com/feed",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Quartz",
+        "title": "The 10 states with the most people in financial distress",
+        "title_full": "The 10 states with the most people in financial distress",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/754181cc040a77f82796c3dd61343426.jpg",
+        "performance_score": 0,
+        "domain_rank": 470,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "26fe0e71999681a7ed4992e6bd649dc8a7963285",
+    "url": "https://qz.com/us-states-financial-distress-wallethub-1851716783",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ben Kesslen",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "The 10 states with the most people in financial distress",
+    "text": "Millions of Americans are in financial distress in the wake of a pandemic that decimated savings accounts and amid historic inflation.\nWalletHub attempted to determine where residents are in the most financial distress by looking at the state-by-state data of people with a credit account in forbearance or who are deferring payments.\n“Millions of Americans are having trouble making payments on their debts, which can lead to unsustainable interest, fees, and credit score damage,” WalletHub analyst Chip Lupo said. “The best strategies for getting current on your debt include strict budgeting that cuts your spending, transferring the balance to a new bank with a lower interest rate, and working out a debt management plan with your creditor.”\nTo find which states have the most residents struggling financially, WalletHub also examined average credit scores, changes in bankruptcy filings between September 2023 and September 2024, and the search interest indices of “debt” and “loans.”\nSee which states made the list for the most financially distressed:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chip Lupo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:08:13.363+02:00",
+    "updated": "2024-12-17T12:08:13.363+02:00"
+}

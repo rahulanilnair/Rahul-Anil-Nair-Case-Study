@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b3fbba00905e5e8bf29e45644afe500f4d936bc6",
+        "url": "https://insights.citeline.com/scrip/therapeutic-category/immunological/maat-prepares-for-ema-filing-us-expansion-after-positive-gvhd-readout-UDRSPUYZDVB5XHBUNOY42HVGFY",
+        "site_full": "insights.citeline.com",
+        "site": "citeline.com",
+        "site_section": "https://insights.citeline.com/scrip/therapeutic-category",
+        "site_categories": [],
+        "section_title": "Therapy Areas: Alimentary, Anti-Infective, Cardiovascular &amp; More | Scrip",
+        "title": "MaaT Prepares For EMA Filing, US Expansion After Positive GVHD Readout",
+        "title_full": "MaaT Prepares For EMA Filing, US Expansion After Positive GVHD Readout",
+        "published": "2025-01-10T00:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://insights.citeline.com/resizer/v2/3DQRDM2D6NKINHNP4K4IZXTGNE.jpg?smart=true&amp;auth=ee020e5a49bab4c7f5b4db77d39ce2dbff15f1b869cb427ee9d7a0fffadd7455&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 88865,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3fbba00905e5e8bf29e45644afe500f4d936bc6",
+    "url": "https://insights.citeline.com/scrip/therapeutic-category/immunological/maat-prepares-for-ema-filing-us-expansion-after-positive-gvhd-readout-UDRSPUYZDVB5XHBUNOY42HVGFY",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T00:35:00.000+02:00",
+    "title": "MaaT Prepares For EMA Filing, US Expansion After Positive GVHD Readout",
+    "text": "MaaT Pharma is planning to first target the European market with MaaT013 for acute graft-versus-host disease with gastrointestinal involvement (GI-aGVHD) as it seeks to raise money to bring its microbiome-based drug to the US market.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health organisation",
+        "Health->medical specialisation",
+        "Health->health treatment and procedure",
+        "Science and Technology->biotechnology",
+        "Science and Technology->medical research",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:29:42.447+02:00",
+    "updated": "2025-01-10T02:29:42.447+02:00"
+}

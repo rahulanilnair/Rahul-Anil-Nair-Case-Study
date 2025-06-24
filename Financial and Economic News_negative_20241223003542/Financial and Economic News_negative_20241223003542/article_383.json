@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "a440d8f8a4ffdef85b378f8dcc1e59ad3a302fd5",
+        "url": "https://hackernoon.com/installing-open-source-software-on-your-macos-may-be-coming-to-an-end",
+        "site_full": "hackernoon.com",
+        "site": "hackernoon.com",
+        "site_section": "https://hackernoon.com",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "HackerNoon - read, write and learn about any technology",
+        "title": "Installing Open-source Software on Your MacOS May Be Coming to an End",
+        "title_full": "Installing Open-source Software on Your MacOS May Be Coming to an End",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://hackernoon.imgix.net/images/ZVMm936JeiSn3robjOroT0m3wrE3-ns0341v.png",
+        "performance_score": 0,
+        "domain_rank": 1867,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a440d8f8a4ffdef85b378f8dcc1e59ad3a302fd5",
+    "url": "https://hackernoon.com/installing-open-source-software-on-your-macos-may-be-coming-to-an-end",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saurabh Sugandh",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Installing Open-source Software on Your MacOS May Be Coming to an End",
+    "text": "You know security is an overwhelming term and while I had the luxury to work for security firms, I find it infuriating at times. There are just too many layers to add and protect. It’s a real thing to say that only a properly disconnected system can be made secure. The rest depends on the handling. But, when I see firms advocating for more and more layers of security, it just makes me nauseated. One way to do it is to stop installation of the programs at its core. Meaning that the platform itself can’t be modified by anything that the platform doesn’t comply with. It’s sort of good to have things in theory but the practicality of implementing it makes the life of an average technical user a living hell. https://youtu.be/-CYPlMCWDR4?embedable=true Google introduced Android App Bundle (AAB) in May 2018 and made a subtle announcement to replace Android Package Kit (APK) with AAB for its value on smaller size. It’s no secret that AAB does require applications to be signed and then pushed to Google Play Store. But, till date, you can still sideload an APK application in your Android device without the need to sign your application. Google never enforced anything on the users at least yet. It sort of gives you an upper hand as compared to iOS devices where you are only allowed to install a signed application through the App Store. While Google gives you more freedom, it still collects your data more as well and that too without notifying you. The difference is in the privacy policy of Apple and Google. Both collect data and warn at the time of application installation. Apple takes a step forward and lets you know each time an application tries to collect your data with prompts and messages. I’m not sure how much that is useful but you can’t really argue on that with Apple. At least, this has been the story so far with iOS. But, now Apple wants to take total control over all of its platforms. macOS was one of my favorite variants of the BSD kernel (Berkeley Software Distribution on which it is built.) And, I have preferred macOS over iOS for one of the most important reasons for allowing sideloading. It meant for me a little freedom to install applications. But, the recent announcement by Apple on Monday, October 28th, rendered my hopes down. With macOS 15.1 update, they have made it clear that the applications need to be signed (or say notarized) first before you install them. It means that any developer who creates an application for macOS has to pay $99 to Apple Developer Connection to get their application notarized and then release it to the public. So, if you’re like me, who tends to use open source software on macOS, your days of freedom are over. It’s just not practical for most open source developers to pay an extra $99 to Apple. It’s not only a sign of software monopoly on developers but also on users to give up the choice they had before. Basically, when you buy an Apple product now, you’re actually surrendering your entire freedom with no choice left. But, don’t get too excited on Google as they can too exercise this anytime in the future! You know security is an overwhelming term and while I had the luxury to work for security firms, I find it infuriating at times. There are just too many layers to add and protect. It’s a real thing to say that only a properly disconnected system can be made secure. The rest depends on the handling. But, when I see firms advocating for more and more layers of security, it just makes me nauseated. One way to do it is to stop installation of the programs at its core. Meaning that the platform itself can’t be modified by anything that the platform doesn’t comply with. It’s sort of good to have things in theory but the practicality of implementing it makes the life of an average technical user a living hell. https://youtu.be/-CYPlMCWDR4?embedable=true https://youtu.be/-CYPlMCWDR4?embedable=true Google introduced Android App Bundle (AAB) in May 2018 and made a subtle announcement to replace Android Package Kit ( APK ) with AAB for its value on smaller size. It’s no secret that AAB does require applications to be signed and then pushed to Google Play Store . But, till date, you can still sideload an APK application in your Android device without the need to sign your application. Google never enforced anything on the users at least yet. It sort of gives you an upper hand as compared to iOS devices where you are only allowed to install a signed application through the App Store . Google Android App Bundle ( AAB ) AAB Android Package Kit APK AAB AAB AAB AAB Google Play Store APK Android Google iOS App Store While Google gives you more freedom, it still collects your data more as well and that too without notifying you. The difference is in the privacy policy of Apple and Google. Both collect data and warn at the time of application installation. Apple takes a step forward and lets you know each time an application tries to collect your data with prompts and messages. I’m not sure how much that is useful but you can’t really argue on that with Apple . At least, this has been the story so far with iOS . But, now Apple wants to take total control over all of its platforms. Google Apple Google. Apple Apple iOS Apple macOS was one of my favorite variants of the BSD kernel (Berkeley Software Distribution on which it is built.) And, I have preferred macOS over iOS for one of the most important reasons for allowing sideloading. It meant for me a little freedom to install applications. But, the recent announcement by Apple on Monday, October 28th, rendered my hopes down. With macOS 15.1 update, they have made it clear that the applications need to be signed (or say notarized) first before you install them. It means that any developer who creates an application for macOS has to pay $99 to Apple Developer Connection to get their application notarized and then release it to the public. macOS macOS iOS Apple macOS 15.1 applications need to be signed (or say notarized) first macOS Apple Developer Connection So, if you’re like me, who tends to use open source software on macOS , your days of freedom are over. It’s just not practical for most open source developers to pay an extra $99 to Apple . It’s not only a sign of software monopoly on developers but also on users to give up the choice they had before. Basically, when you buy an Apple product now, you’re actually surrendering your entire freedom with no choice left. But, don’t get too excited on Google as they can too exercise this anytime in the future! macOS $99 Apple Apple Google",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://youtu.be/-CYPlMCWDR4?embedable=true",
+        "https://www.youtu.be/-CYPlMCWDR4?embedable=true",
+        "https://youtu.be/-CYPlMCWDR4"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a440d8f8a4ffdef85b378f8dcc1e59ad3a302fd5",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:21:01.851+02:00",
+    "updated": "2024-12-17T13:21:01.851+02:00"
+}

@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "a1fde52dfae8605bef5b8350ec8af61d52876376",
+        "url": "https://www.newarab.com/news/gazas-economy-shrinks-85-percent-amid-unprecedented-collapse",
+        "site_full": "www.newarab.com",
+        "site": "newarab.com",
+        "site_section": "https://newarab.com/news",
+        "site_categories": [],
+        "section_title": "News",
+        "title": "Gaza&#039;s economy shrinks by 85 percent amid unprecedented collapse",
+        "title_full": "Gaza&#039;s economy shrinks by 85 percent amid unprecedented collapse",
+        "published": "2024-12-17T13:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newarab.com/sites/default/files/styles/600x338/public/2189792399.jpeg?h=a5f2f23a&amp;itok=hShT-hFU",
+        "performance_score": 0,
+        "domain_rank": 12098,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a1fde52dfae8605bef5b8350ec8af61d52876376",
+    "url": "https://www.newarab.com/news/gazas-economy-shrinks-85-percent-amid-unprecedented-collapse",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The New Arab Staff",
+    "published": "2024-12-17T13:37:00.000+02:00",
+    "title": "Gaza&#039;s economy shrinks by 85 percent amid unprecedented collapse",
+    "text": "The World Bank has warned about the devastating economic toll of Israel's",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:31:46.029+02:00",
+    "updated": "2024-12-17T16:53:13.534+02:00"
+}

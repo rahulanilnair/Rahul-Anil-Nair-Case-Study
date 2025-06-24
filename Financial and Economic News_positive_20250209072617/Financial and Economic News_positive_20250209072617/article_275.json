@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "6cfbd14dba4eb8bced09531d22a03c278b780a2d",
+        "url": "https://www.newscentermaine.com/article/money/business/bangor-waterfront-grow-expansion-bangor-savings-bank/97-fc6171e0-c6db-4cd1-a9f8-e79ce742eccf",
+        "site_full": "www.newscentermaine.com",
+        "site": "newscentermaine.com",
+        "site_section": "https://newscentermaine.com/patriots",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "New England Patriots Pro Football News | newscentermaine.com",
+        "title": "Bangor's waterfront continues to grow with expansion of Bangor Savings Bank",
+        "title_full": "Bangor's waterfront continues to grow with expansion of Bangor Savings Bank",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.newscentermaine.com/assets/NCM/images/afb601b2-e23e-48ac-aa7d-f40eb2591295/20250109T232522/afb601b2-e23e-48ac-aa7d-f40eb2591295_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 12974,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6cfbd14dba4eb8bced09531d22a03c278b780a2d",
+    "url": "https://www.newscentermaine.com/article/money/business/bangor-waterfront-grow-expansion-bangor-savings-bank/97-fc6171e0-c6db-4cd1-a9f8-e79ce742eccf",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drew Peters",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Bangor's waterfront continues to grow with expansion of Bangor Savings Bank",
+    "text": "BANGOR, Maine — The Maine Savings Amphitheater's successful summer concert series and other events have already brought lots of changes to the area, transforming the Bangor waterfront into a hub for iconic businesses. \"There's just been incredible growth and that as an asset has been something that many more businesses have been able to build around,\" Lundy said. Now, Bangor Savings Bank plans to build a new five-story, more than 47,000-square-foot office building to support its expanding workforce. \"Those are people who are down here, they're part of a captive audience that goes out to lunch, that goes out for a drink after work, that hits up some of the stores located downtown, so anytime you drop a new workforce into downtown it has a ripple effect,\" Lundy explained. The expansion will replace the current five-story building at 36 Pleasant Street, but it will retain the historic brick facade attached to it. According to City of Bangor Planning Officer Anja Coulette, the project comes at a time when many businesses are looking to develop the area. \"People are visiting the waterfront more, and it's an attractive place, so I think Bangor Savings was attracted to expand there,\" Coulette said. In a statement, Bangor Savings Bank spokesperson Jaclyn Fish shared the company's vision for the new building. \"This proposed project is a unique opportunity to support our organization's workforce development by adding office space for operations,\" Fish said. Neighboring businesses are also welcoming the expansion. Hollywood Casino spokesperson Dan Cashman said he sees the growth as a benefit for the whole waterfront. \"It's such a vibrant and exciting place to be, not just for Bangor, but for the whole state of Maine,\" Cashman said. As of now the city's permit requires Bangor Savings Bank to begin construction within one year of the project's approval and complete it by January 2027. For more local stories continue with us on our NEWS CENTER Maine+ streaming app. For the latest breaking news, weather, and traffic alerts, download the NEWS CENTER Maine mobile app.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anja Coulette",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lundy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bangor Savings Bank",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:30:57.946+02:00",
+    "updated": "2025-01-10T07:12:47.206+02:00"
+}

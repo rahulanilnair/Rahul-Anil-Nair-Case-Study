@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "565870abba90035f15a71d7dab98a5b1b510ad28",
+        "url": "https://www.turkiyetoday.com/business/turkish-airlines-eyes-quick-resumption-of-damascus-istanbul-flights-103518",
+        "site_full": "www.turkiyetoday.com",
+        "site": "turkiyetoday.com",
+        "site_section": "https://www.turkiyetoday.com",
+        "site_categories": [],
+        "section_title": "Türkiye Today | Breaking, Exclusive Content from Turkey &amp; Region",
+        "title": "Turkish Airlines eyes quick resumption of Damascus-Istanbul flights",
+        "title_full": "Turkish Airlines eyes quick resumption of Damascus-Istanbul flights",
+        "published": "2025-01-10T07:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 58112,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "565870abba90035f15a71d7dab98a5b1b510ad28",
+    "url": "https://www.turkiyetoday.com/business/turkish-airlines-eyes-quick-resumption-of-damascus-istanbul-flights-103518",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2025-01-10T07:46:00.000+02:00",
+    "title": "Turkish Airlines eyes quick resumption of Damascus-Istanbul flights",
+    "text": "Turkish Airlines Vice President of Sales for the Middle East and Cyprus Erol Senol announced plans to resume flights between Damascus and Istanbul at the earliest opportunity. The statement followed technical discussions held on Thursday between a Turkish Airlines delegation and Syrian officials.\nSenol said a delegation from Turkish Airlines met with the Syrian Civil Aviation Authority and Syrian Air’s management in the Syrian capital, Damascus on Thursday.\n“Our meetings went well, and we were warmly received,” he said. The discussions addressed the necessary processes to resume flights between Türkiye and Damascus, said Senol.\nA Syrian Air aircraft taxis at the tarmac before a flight to Aleppo at Damascus International Airport in Syria, on Dec. 18, 2024. (AFP Photo) “We assessed airport operations and reviewed the fleet structure of Syrian Airlines. Our primary goal is to strengthen the technical and technological infrastructure of Syrian Airlines,” Erol Senol said.\nBashar al-Assad, Syria’s leader for nearly 25 years, fled to Russia after anti-regime groups took control of Damascus on Dec. 8, ending the Baath Party’s decadeslong regime.\nThe takeover came after Hayat Tahrir al-Sham fighters captured key cities in a lightning offensive that lasted less than two weeks. A new administration led by Ahmed al-Sharaa has taken control of the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->transport",
+        "Politics->government policy",
+        "Politics->international relations",
+        "Politics->government",
+        "Social Issue->social services",
+        "Social Issue->communities",
+        "Social Issue->immigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:38:11.950+02:00",
+    "updated": "2025-01-10T08:38:11.950+02:00"
+}

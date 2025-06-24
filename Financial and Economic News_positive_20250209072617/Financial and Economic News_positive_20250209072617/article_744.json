@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "50e701a17d1de4ca33b6445f9944bc0598426af9",
+        "url": "https://www.pravda.com.ua/eng/news/2025/01/10/7492812",
+        "site_full": "www.pravda.com.ua",
+        "site": "pravda.com.ua",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ua",
+            "top_news_pl",
+            "top_news_fi",
+            "top_news_cz",
+            "top_news_sk",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Zelenskyy meets Italian PM to discuss strengthening Ukraine's air defence and preparations for Ukraine recovery Conference in 2025",
+        "title_full": "Zelenskyy meets Italian PM to discuss strengthening Ukraine's air defence and preparations for Ukraine recovery Conference in 2025",
+        "published": "2025-01-10T00:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://img.pravda.com/images/doc/7/4/7492812_fb_image_eng_2025_01_10_07_57_24.jpg",
+        "performance_score": 0,
+        "domain_rank": 4436,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "50e701a17d1de4ca33b6445f9944bc0598426af9",
+    "url": "https://www.pravda.com.ua/eng/news/2025/01/10/7492812",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrpravda_news",
+    "published": "2025-01-10T00:06:00.000+02:00",
+    "title": "Zelenskyy meets Italian PM to discuss strengthening Ukraine's air defence and preparations for Ukraine recovery Conference in 2025",
+    "text": "Zelenskyy meets Italian PM to discuss strengthening Ukraine's air defence and preparations for Ukraine Recovery Conference in 2025 Ivan Diakonov — Friday, 10 January 2025, 01:06 1371\nVolodymyr Zelenskyy and Giorgia Meloni. Photo: Office of the President of Ukraine Ukrainian President Volodymyr Zelenskyy has met with Italian Prime Minister Giorgia Meloni in Rome. The key topics of their discussions were strengthening Ukraine’s air defence system and preparing for the Ukraine Recovery Conference (URC-2025).\nSource: Office of the President of Ukraine\nDetails: Zelenskyy expressed gratitude to the Italian government for supporting Ukraine, particularly for approving the 10th military assistance package, which includes additional air defence systems. He emphasised that enhancing defence capabilities is critically important for protecting against Russian attacks.\nAdvertisement: Quote: \"We are now looking to expedite certain elements of this package. We have joint Italian-French SAMP/T air defence systems, and the number of missiles is very important for us – we are counting on it. There’s a batch of missiles we are already receiving, but there’s another batch that still needs to be finalised so they can be delivered to us.\"\nDetails: In addition to security issues, the parties discussed preparations for the Ukraine Recovery Conference, scheduled for 10–11 July 2025 in Rome.\nQuote: \"Our teams have started working on this year’s recovery conference, with a particular focus on cultural heritage. Here, we are relying primarily on Italy. We are also collaborating with UNESCO and will engage separately with France. I would like Italy to make a significant contribution to the recovery of our historical heritage – they are highly skilled in this area.\"\nAdvertisement: Background:\nOn the evening of 9 January, President Volodymyr Zelenskyy arrived in Italy to meet with the country's Prime Minister Giorgia Meloni and President Sergio Mattarella. Zelenskyy’s meeting with Meloni was scheduled to take place immediately after the meeting of the Ukraine Defence Contact Group , also known as the Ramstein Group. During this meeting, Ukraine’s Defence Minister Rustem Umierov discussed with his Italian counterpart the provision of missiles for air defence systems that Italy could supply to Ukraine. Support UP or become our patron !\nZelenskyy air defence Italy Advertisement:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->defence",
+        "Politics->government",
+        "Politics->international relations",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-iz-dzhordzheyu-meloni-posilenn-95369",
+        "https://www.patreon.com/pravdaua",
+        "https://patreon.com/pravdaua",
+        "https://president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-iz-dzhordzheyu-meloni-posilenn-95369"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelenskyy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Giorgia Meloni",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SAMP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:06:42.576+02:00",
+    "updated": "2025-01-10T08:47:16.449+02:00"
+}

@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "8d35035c68218bc85c5e0882d192f393f13978a1",
+        "url": "https://retail-insider.com/bulletin/2024/12/food-prices-continue-to-climb-statistics-canada",
+        "site_full": "retail-insider.com",
+        "site": "retail-insider.com",
+        "site_section": "https://www.retail-insider.com",
+        "site_categories": [],
+        "section_title": "Retail Insider",
+        "title": "Food prices continue to climb: Statistics Canada",
+        "title_full": "Food prices continue to climb: Statistics Canada",
+        "published": "2024-12-17T13:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 44641,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8d35035c68218bc85c5e0882d192f393f13978a1",
+    "url": "https://retail-insider.com/bulletin/2024/12/food-prices-continue-to-climb-statistics-canada",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mario Toneguzzi",
+    "published": "2024-12-17T13:48:00.000+02:00",
+    "title": "Food prices continue to climb: Statistics Canada",
+    "text": "The Consumer Price Index rose 1.9% on a year-over-year basis in November, down from a 2.0% increase in October. Slower price growth was broad-based, with prices for travel tours and the mortgage interest cost index contributing the most to the deceleration. Excluding gasoline, the CPI all-item list rose 2.0% in November, following a 2.2% gain in October, reported Statistics Canada on Tuesday.\n“Prices for food purchased from stores rose 2.6% year over year in November, down slightly from 2.7% in October. Despite the slowdown, grocery prices have remained elevated. Compared with November 2021, grocery prices rose 19.6%. Similarly, while shelter prices eased in November, prices have increased 18.9% compared with November 2021,” said the federal agency.\nYear over year, gasoline prices fell to a lesser extent in November (-0.5%) compared with October (-4.0%). The smaller year-over-year decline was a result of a base-year effect as prices fell 3.5% month over month in November 2023. On a monthly basis, gasoline prices were unchanged in November, added Statistics Canada.\n“Black Friday and related specials are typically offered during the month of November. These discounts partially contributed to lower prices across several major components, and were particularly notable in the household operations, furnishings and equipment, as well as the clothing and footwear indices,” said the report.\nPhoto by Kevin Malik “The clothing and footwear index declined 0.8% on a monthly basis, driven by prices for women’s clothing (-0.8%) and children’s clothing (-4.9%). The monthly decline for children’s clothing was the largest on record for the month of November.”\n“On a monthly basis, the household operations, furnishings and equipment index declined 0.9% in November, driven by lower prices for cellular services (-6.1%) and furniture (-2.1%).\nRelated Retail Insider stories:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www150.statcan.gc.ca/n1/daily-quotidien/241217/dq241217a-eng.htm",
+        "https://50.statcan.gc.ca/n1/daily-quotidien/241217/dq241217a-eng.htm"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:50:39.918+02:00",
+    "updated": "2024-12-17T15:50:39.918+02:00"
+}

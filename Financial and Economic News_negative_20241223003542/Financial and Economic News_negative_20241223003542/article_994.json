@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "e33ee34b47d43fd48a221e6139d91a44297da452",
+        "url": "https://www.mercurynews.com/2024/12/17/trouble-on-the-horizon-pleasanton-begins-tough-budget-discussions-with-new-council",
+        "site_full": "www.mercurynews.com",
+        "site": "mercurynews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "",
+        "title_full": "",
+        "published": "2024-12-17T16:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mercurynews.com/wp-content/uploads/2024/11/EBT-L-PTOWNDRONE-XXXX-9.jpg?w=1024&#038;h=709",
+        "performance_score": 0,
+        "domain_rank": 975,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e33ee34b47d43fd48a221e6139d91a44297da452",
+    "url": "https://www.mercurynews.com/2024/12/17/trouble-on-the-horizon-pleasanton-begins-tough-budget-discussions-with-new-council",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "courier-journal.com",
+    "published": "2024-12-17T16:15:00.000+02:00",
+    "title": "",
+    "text": "Business Economy News News Based on facts, either observed and verified directly by the reporter, or reported and verified from knowledgeable sources. Economy | ‘Trouble on the horizon’: Pleasanton begins tough budget discussions with new council Here’s what $8.85 million in cuts could look like Share this: Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to print (Opens in new window) Click to email a link to a friend (Opens in new window) Click to share on Reddit (Opens in new window) A drone view of Main Street in downtown Pleasanton, Calif., on Tuesday, Nov. 12, 2024. (Jane Tyska/Bay Area News Group) By Kyle Martin | kymartin@bayareanewsgroup.com | Bay Area News Group PUBLISHED: December 17, 2024 at 6:15 AM PST The City Council will begin discussing what the next two fiscal years will look like as it weighs cutting over $8 million in services to stave off an expected $13 million to $22 million annual shortfall.\nSubscribe to continue reading this article. Already subscribed? To login in, click here. Share this: Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to print (Opens in new window) Click to email a link to a friend (Opens in new window) Click to share on Reddit (Opens in new window)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kyle Martin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jane Tyska",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "City Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Reddit",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:27:20.837+02:00",
+    "updated": "2024-12-17T16:48:17.651+02:00"
+}

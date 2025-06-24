@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "806f7066230f08d379677e86fdfac23f0f09bffd",
+        "url": "https://www.ipe.com/news/ifric-rejects-call-to-review-climate-related-intangible-assets/10127845.article",
+        "site_full": "www.ipe.com",
+        "site": "ipe.com",
+        "site_section": "https://ipe.com",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Investment & Pensions Europe",
+        "title": "IFRIC rejects call to review climate-related intangible assets",
+        "title_full": "IFRIC rejects call to review climate-related intangible assets",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/7/1/9/1323719_pexelspixabay209224_938092.jpg",
+        "performance_score": 0,
+        "domain_rank": 26914,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "806f7066230f08d379677e86fdfac23f0f09bffd",
+    "url": "https://www.ipe.com/news/ifric-rejects-call-to-review-climate-related-intangible-assets/10127845.article",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephen Bouvier",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "IFRIC rejects call to review climate-related intangible assets",
+    "text": "The International Financial Reporting Interpretations Committee (IFRIC) has declined to add a new standard-setting project on accounting for intangible assets arising from climate-related commitments, citing a lack of widespread practice diversity and material impact.\nInstead, [the committee concluded](https://www.ifrs.org/news-and-events/updates/ifric/2024/ifric-update-november-2024/) that existing International Financial Reporting Standards (IFRS) offer sufficient guidance for handling such expenditures.\nIFRIC member Lisa Bomba said: “Similar to others, I think the staff appropriately […] did research around whether there was diversity given similar facts and circumstances about how to account for research and development.\n“What you heard was [that] there wasn’t diversity there. I do agree with the conclusions and I would just recommend the application of IAS38 to the fact pattern submitted.”\nQuestions from Rethinking Capital\nThe discussion was prompted by [a submission from Rethinking Capital](https://www.ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3a-submission-paper-3.pdf) questioning whether costs incurred to meet a company’s self-imposed emissions-reduction targets – specifically, expenditures on carbon credits and research-and-development initiatives – could be recognised as intangible assets under IAS 38.\nThe submission argued that a so-called 2030 Commitment to lower greenhouse gas emissions, backed by “affirmative actions”, might create intangible value worthy of capitalisation.\nEarlier this year, IFRIC had addressed [a related question from the same](https://www.ipe.com/news/ifrs-committee-confirms-it-will-not-tackle-net-zero-accounting/10072443.article) submitter and concluded that if a constructive obligation to fulfil climate-related commitments existed, the corresponding amounts generally should be recognised as expenses rather than assets.\nOverlap with IAS 37 accounting\nThis latest submission, however, honed in on whether certain climate-related outlays could qualify for capitalisation.\nFollowing outreach to national standard-setters, accounting firms, and securities regulators, staff concluded that there was no evidence of widespread or material diversity in practice.\nAlthough some respondents acknowledged minor differences in judgments or industry-specific nuances, the committee did not see these as significant enough to warrant an interpretations project. Several committee members supported [the staff’s conclusions](https://www.ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3-recognition-intangible-assets.pdf).\nConsensus among committee members\nRenata Bandeira noted it was in her view “impossible” to come down in favour of capitalising costs “because we don’t have enough information […] [and we] don’t have the elements to say that it should be treated differently from what we have in IAS 38.”\nAndré Besson also voiced support for the staff’s analysis, saying that “as much as we as preparers might want to capitalise some of these costs […] many […] would not pass the requirements in IAS 38 to be capitalised”.\nHe also commented that climate-related expenditures often resemble brand-building or marketing efforts, which do not meet the requirements for capitalisation as intangible assets.\nFinally, Brian Donovan added that staff were right to conclude “that there isn’t yet evidence of diversity”.\nIASB could revisit the accounting\nThe decision comes against the backdrop of the International Accounting Standards Board’s (IASB) ongoing research activities.\nThe IASB has been conducting so-called [horizon scanning on pollutant pricing mechanisms](https://www.ifrs.org/content/dam/ifrs/meetings/2024/june/iasb/ap10a-horizon-scanning-feedback-summary.pdf) – including carbon credits – to assess their prevalence and significance. While that work may eventually inform standard-setting, any such work could be several years off.\nIn addition, the IASB is conducting a comprehensive review of [intangible assets](https://www.ifrs.org/projects/work-plan/intangible-assets/) accounting. Interested parties have until 3 February 2025 to comment on the committee’s decision.\nIf the public comments reveal no additional information or concerns about the ruling, the IFRIC will formalise its decision, leaving businesses to continue applying IAS 38.\nThe [latest digital edition of IPE’s magazine](https://www.ipe.com/current-edition) is now available",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3-recognition-intangible-assets.pdf",
+        "https://www.ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3a-submission-paper-3.pdf",
+        "https://www.ifrs.org/news-and-events/updates/ifric/2024/ifric-update-november-2024/",
+        "https://www.ifrs.org/projects/work-plan/intangible-assets/",
+        "https://www.ifrs.org/content/dam/ifrs/meetings/2024/june/iasb/ap10a-horizon-scanning-feedback-summary.pdf",
+        "https://ifrs.org/news-and-events/updates/ifric/2024/ifric-update-november-2024/",
+        "https://ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3a-submission-paper-3.pdf",
+        "https://ifrs.org/content/dam/ifrs/meetings/2024/november/ifric/ap3-recognition-intangible-assets.pdf",
+        "https://ifrs.org/content/dam/ifrs/meetings/2024/june/iasb/ap10a-horizon-scanning-feedback-summary.pdf",
+        "https://ifrs.org/projects/work-plan/intangible-assets/",
+        "https://www.ifrs.org/news-and-events/updates/ifric/2024/ifric-update-november-2024",
+        "https://www.ifrs.org/projects/work-plan/intangible-assets"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lisa Bomba",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Financial Reporting Interpretations Committee",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:14:35.976+02:00",
+    "updated": "2024-12-17T16:14:35.976+02:00"
+}

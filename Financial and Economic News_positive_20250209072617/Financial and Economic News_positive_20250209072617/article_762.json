@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "b315f66aefa52980388742aa2326ee48c7163762",
+        "url": "https://english.news.cn/20250110/d5b146d6436a4f5e9b8b8b4ee0ab9373/c.html",
+        "site_full": "english.news.cn",
+        "site": "news.cn",
+        "site_section": "https://english.news.cn/list/latestnews.htm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news | English.news.cn",
+        "title": "Mongolia's foreign trade surges 12.3 pct in 2024-Xinhua",
+        "title_full": "Mongolia's foreign trade surges 12.3 pct in 2024-Xinhua",
+        "published": "2025-01-10T07:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1043,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b315f66aefa52980388742aa2326ee48c7163762",
+    "url": "https://english.news.cn/20250110/d5b146d6436a4f5e9b8b8b4ee0ab9373/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinhua",
+    "published": "2025-01-10T07:22:00.000+02:00",
+    "title": "Mongolia's foreign trade surges 12.3 pct in 2024-Xinhua",
+    "text": "ULAN BATOR, Jan. 10 (Xinhua) -- Mongolia's foreign trade volume reached approximately 27.4 billion U.S. dollars in 2024, marking a robust growth of 12.3 percent compared to 2023, according to data released by the Mongolian Customs General Administration on Friday.\nThe Asian nation reported a significant trade surplus, with exports surpassing imports by more than 4.1 billion dollars. This surplus was primarily fueled by a sharp increase in the export of mining products, which remain a cornerstone of Mongolia's economy, the administration noted.\nMining products accounted for around 90 percent of Mongolia's total exports in 2024, highlighting the sector's critical role in driving the country's trade performance.\nNeighboring China continued to be Mongolia's largest trading partner, serving as both the top export destination and the primary source of imports. In 2024, China accounted for 91.3 percent of Mongolia's exports and 40.0 percent of its imports. ■",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/user/ChinaViewTV",
+        "https://www.facebook.com/XinhuaNewsAgency/",
+        "https://twitter.com/XHNews",
+        "https://youtube.com/user/ChinaViewTV",
+        "https://www.twitter.com/XHNews",
+        "https://facebook.com/XinhuaNewsAgency/",
+        "https://www.facebook.com/XinhuaNewsAgency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b315f66aefa52980388742aa2326ee48c7163762",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:16:00.855+02:00",
+    "updated": "2025-01-10T08:16:00.855+02:00"
+}

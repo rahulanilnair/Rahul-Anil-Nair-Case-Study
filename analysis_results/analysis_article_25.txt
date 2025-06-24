@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 25
+============================================================
+Timestamp: 2025-06-23 05:48:26
+Headline Summary: Global passenger demand continues to surge in November 2024
+Key Highlights: Strong performance in both international and domestic markets, record-breaking load factor of 83.4%
+Final Sentiment: Positive
+Confidence: 89%
+Impact Magnitude: High
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The robust growth in passenger demand, a record-breaking load factor, and strong performances in both international and domestic markets support the positive sentiment and confidence ratings. While supply chain challenges are noted, the overall trends suggest a continued recovery in the aviation sector  growth_analyst: The strong performance in both international and domestic markets, along with the record-breaking load factor of 83.4%, indicates a positive trend for the aviation sector. The robust 8.1% year-on-year growth in passenger demand further confirms this assessment. Key points supporting this view include the impressive 11.6% increase in international passenger demand, the Asia-Pacific region leading the way with a remarkable 19.9% rise in RPK, and European carriers delivering strong performance. sentiment_analyst: I partially agree with the current sentiment as there is a strong and positive growth in passenger demand. However, I do not entirely agree with the confidence level as the data highlights potential supply chain challenges that could impact the sustainability of this growth. The impact rating remains high due to the significant year-on-year increase in passenger demand.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Positive sentiment.
+============================================================

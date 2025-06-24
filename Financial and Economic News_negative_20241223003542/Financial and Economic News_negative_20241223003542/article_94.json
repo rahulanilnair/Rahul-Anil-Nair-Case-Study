@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "e9d0cbb89020347a8b372e0304b7682df17b64ff",
+        "url": "https://www.ibtimes.co.in/share-market-crashes-sensex-tanks-over-1000-pts-876573",
+        "site_full": "www.ibtimes.co.in",
+        "site": "ibtimes.co.in",
+        "site_section": "https://www.ibtimes.co.in/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business News, Finance news, Market News, India Economy | IBTimesIndia",
+        "title": "Share market crashes, Sensex tanks over 1,000 pts",
+        "title_full": "Share market crashes, Sensex tanks over 1,000 pts",
+        "published": "2024-12-17T09:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://data1.ibtimes.co.in/en/full/808031/share-market-crashes-sensex-tanks-over-1000-pts.jpg",
+        "performance_score": 0,
+        "domain_rank": 11562,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e9d0cbb89020347a8b372e0304b7682df17b64ff",
+    "url": "https://www.ibtimes.co.in/share-market-crashes-sensex-tanks-over-1000-pts-876573",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "IBT Business Desk",
+    "published": "2024-12-17T09:04:00.000+02:00",
+    "title": "Share market crashes, Sensex tanks over 1,000 pts",
+    "text": "The Indian stock market witnessed a sharp decline in noon trade on Tuesday as benchmark indices Sensex and Nifty fell by more than 1 per cent.\nThis decline in the domestic market was seen amid investors' caution ahead of the US Federal Reserve meeting on December 18.\nOn the other hand, the weak performance of heavyweight stocks also brought the[ market indices](https://www.ibtimes.co.in/sensex-settles-81748-amid-mixed-global-cues-876523?utm_source=Internal&utm_medium=Homepage&utm_campaign=block2-3) down.\nAt 1.23 p.m., Sensex was trading at 80,747.04 after declining 1,001.53 points, or 1.23 per cent, while the Nifty was trading at 24,364.70 after dropping 303.55 points, or 1.23 per cent.\n[According to market experts](https://www.ibtimes.co.in/indias-wpi-inflation-eases-1-89-november-876495?utm_source=Internal&utm_medium=Homepage&utm_campaign=block2-3), globally, markets will be looking forward to the FOMC outcome on Wednesday. Markets have already discounted a 25bp rate cut and, therefore, the focus will be on the Fed chief's commentary. Any departure from a dovish commentary will be a negative from the market perspective, they said.\n\"This is only a remote possibility. The US services PMI coming strong at 58.5 per cent indicates a resilient economy, which augurs well for the market,\" they added.\nIn the Sensex pack, Bharti Airtel, TCS, L&T, Power Grid, Bajaj Finserv, Reliance, and JSW Steel were the top losers. ITC, Adani Ports, Tata Motors, and Hindustan Unilever Ltd were the top gainers.\nDespite the decline in the key indices, midcap and smallcap stocks fared slightly better.\n[Nifty Bank](https://www.ibtimes.co.in/indian-stocks-open-lower-market-awaits-us-fed-meet-876555?utm_source=Internal&utm_medium=Homepage&utm_campaign=block1-2) was down 604.45 points, or 1.13 per cent, at 52,976.90. The Nifty Midcap 100 index was trading 82.30 points, or 0.14 per cent, higher at 59,360.75. The Nifty Smallcap 100 index was down 20.20 points, or 0.10 per cent, at 19,510.85.\nAkshay Chinchalkar of Axis Securities said: \"The Nifty retraced a portion of the Friday short squeeze, creating a 'bearish harami' formation. That means the next tactical move will be decided by which of yesterday's high or low gets broken first.\"\n(With inputs from IANS)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "FOMC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fed",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:47:46.430+02:00",
+    "updated": "2024-12-17T11:47:46.430+02:00"
+}

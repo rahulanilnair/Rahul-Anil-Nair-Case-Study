@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "c0ac8f02f3452f05522c43e90dcbf66ebac06983",
+        "url": "https://nairametrics.com/2024/12/17/pnut-memecoin-drops-by-5-following-legal-warning-to-binance",
+        "site_full": "nairametrics.com",
+        "site": "nairametrics.com",
+        "site_section": "https://nairametrics.com/feed",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Nairametrics",
+        "title": "PNUT memecoin drops by 5% following legal warning to Binance",
+        "title_full": "PNUT memecoin drops by 5% following legal warning to Binance",
+        "published": "2024-12-17T11:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://nairametrics.com/wp-content/uploads/2024/12/undefined-68.jpg",
+        "performance_score": 0,
+        "domain_rank": 17931,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0ac8f02f3452f05522c43e90dcbf66ebac06983",
+    "url": "https://nairametrics.com/2024/12/17/pnut-memecoin-drops-by-5-following-legal-warning-to-binance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Ndu-Okeke",
+    "published": "2024-12-17T11:47:00.000+02:00",
+    "title": "PNUT memecoin drops by 5% following legal warning to Binance",
+    "text": "The PNUT memecoin that shot to the limelight during the US election cycle has dipped by 5% following a legal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/Squirrel_Dad12/status/1868448647635243421",
+        "https://www.coingecko.com/en/coins/peanut-the-squirrel",
+        "https://coingecko.com/en/coins/peanut-the-squirrel",
+        "https://www.x.com/Squirrel_Dad12/status/1868448647635243421"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Longo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "c0ac8f02f3452f05522c43e90dcbf66ebac06983",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:27:15.680+02:00",
+    "updated": "2024-12-17T17:17:36.940+02:00"
+}

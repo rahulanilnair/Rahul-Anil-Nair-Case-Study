@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "3f3217cf930a417c771e57be2e2d213bb4d199c1",
+        "url": "https://www.bernama.com/en/news.php/?id=2381061",
+        "site_full": "www.bernama.com",
+        "site": "bernama.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "social",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "BERNAMA - Malaysia's IPI Up 3.6 Pct In Nov 2024 - DOSM",
+        "title_full": "BERNAMA - Malaysia's IPI Up 3.6 Pct In Nov 2024 - DOSM",
+        "published": "2025-01-10T07:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.bernama.com/storage/photos/f3ea81c377d70614f784c39a5b21ecf76780aa3809017-medium",
+        "performance_score": 0,
+        "domain_rank": 14489,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f3217cf930a417c771e57be2e2d213bb4d199c1",
+    "url": "https://www.bernama.com/en/news.php/?id=2381061",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BERNAMA",
+    "published": "2025-01-10T07:55:00.000+02:00",
+    "title": "BERNAMA - Malaysia's IPI Up 3.6 Pct In Nov 2024 - DOSM",
+    "text": "KUALA LUMPUR, Jan 10 (Bernama) -- The Industrial Production Index (IPI) increased by 3.6 per cent year-on-year in November 2024, driven by sustained output growth in the manufacturing sector, according to the Department of Statistics (DOSM).\nChief statistician Datuk Seri Dr Mohd Uzir Mahidin said the IPI maintained its positive growth momentum for the eleventh consecutive month in November 2024.\n\"The expansion was supported by the manufacturing sector, which expanded by 4.6 per cent (October 2024: 3.3 per cent), coupled with the rise of 3.9 per cent in electricity output (October 2024: 1.9 per cent).\n“However, the mining sector production remained on a downward trend, albeit with a smaller negative growth of -0.8 per cent in November 2024 (October 2024: -2.8 per cent),” he said.\nHe said that month-on-month, the IPI grew 0.5 per cent from 1.7 per cent in October 2024.\nMohd Uzir said that the output for the export-oriented industries -- which accounted for two-thirds of the manufacturing sector -- expanded by 5.6 per cent in November 2024, compared to 3.3 per cent in the previous month.\n“Nevertheless, the domestic-oriented industries continued to grow modestly at 2.6 per cent after registering a growth of 3.3 per cent in October 2024.\n“At the same time, the mining sector’s production edged down by 0.8 per cent, influenced by a decline in the crude oil and condensate index which dropped by -3.8 per cent (October 2024: -7.5 per cent), while the natural gas index increased by 1.2 per cent (October 2024: 0.4 per cent),” he added.\n-- BERNAMA\nBERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\nFollow us on social media :\nFacebook : @bernamaofficial, @bernamatv, @bernamaradio\nTwitter : @bernama.com, @BernamaTV, @bernamaradio\nInstagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\nTikTok : @bernamaofficial\n© 2025 BERNAMA\n• [Disclaimer](https://www.bernama.com/en/copyrights.php#a)\n• [Privacy Policy](https://www.bernama.com/en/copyrights.php#b)\n• [Security Policy](https://www.bernama.com/en/copyrights.php#c)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->economic policy",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mohd Uzir",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bernama",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "IPI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:18:53.942+02:00",
+    "updated": "2025-01-10T08:18:53.942+02:00"
+}

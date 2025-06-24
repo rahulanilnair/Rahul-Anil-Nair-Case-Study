@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 31
+============================================================
+Timestamp: 2025-06-23 05:53:27
+Headline Summary: Wicked Digital Sales: Film Earns Record $70 Million in a Week
+Key Highlights: "$26 million in first day sales, $70 million in first week digital release", Exclusive home entertainment deal for 2 months before Peacock streaming availability, Studios seek balance between theatrical and VOD revenue streams
+Final Sentiment: Positive
+Confidence: 90%
+Impact Magnitude: High
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The current analysis highlights a positive trend in VOD sales for the film Wicked, with a record-breaking $70 million in first week digital release. However, I partially agree with the sentiment due to the relatively short exclusivity deal on home entertainment platforms before it becomes available on Peacock. growth_analyst: The current analysis highlights a record-breaking VOD sales performance and growing exclusivity deal for home entertainment platforms. While the positive sentiment is justified, I am partially agreeing as the impact may not be as significant due to the longer exclusivity period and the role of VOD sales in enhancing theatrical revenue streams. The studios' proactive approach to managing these channels is a key factor in this performance. sentiment_analyst: While the current sentiment on Wicked Digital Sales being Positive and High Impact is largely accurate, I partially agree due to the exclusivity period and potential revenue streams. The deal for 2 months before Peacock streaming availability and studios seeking balance between theatrical and VOD revenue streams suggest a more mixed stance. On one hand, $70 million in first week digital release is remarkable, but on the other hand, this success may not be solely due to original releases alone. I adjust my confidence slightly downward to 90 due to these nuanced factors.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Positive sentiment.
+============================================================

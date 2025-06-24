@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "d03b6d36af35eca5b1dabca966a5dcdc0c5be317",
+        "url": "https://financefeeds.com/nvidia-nvda-stock-drops-to-a-two-month-low",
+        "site_full": "financefeeds.com",
+        "site": "financefeeds.com",
+        "site_section": "https://www.financefeeds.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FinanceFeeds - The World’s Premier News Source For The Global Online Trading Industry.",
+        "title": "Nvidia (NVDA) Stock Drops to a Two-Month Low",
+        "title_full": "Nvidia (NVDA) Stock Drops to a Two-Month Low",
+        "published": "2024-12-17T14:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32679,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d03b6d36af35eca5b1dabca966a5dcdc0c5be317",
+    "url": "https://financefeeds.com/nvidia-nvda-stock-drops-to-a-two-month-low",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gary Thomson, Chief Operating Officer FXOpen UK",
+    "published": "2024-12-17T14:21:00.000+02:00",
+    "title": "Nvidia (NVDA) Stock Drops to a Two-Month Low",
+    "text": "While the Nasdaq 100 index ( US Tech 100 mini on FXOpen) surged to an all-time high , Nvidia’s (NVDA) stock price fell below $131 during yesterday’s session — its lowest level since mid-October. This bearish move indicates potential weakness in Nvidia’s leadership position.\nThe decline might be driven by the impressive rally in Broadcom Inc. (AVGO) shares, one of Nvidia’s key competitors. AVGO shares soared by approximately 20% in a single day, followed by another strong gain, as anticipated . Buoyed by Broadcom’s robust 2025 forecast, AVGO shares have climbed 54% since early December, which could prompt investors to shift portfolios, selling NVDA in favor of AVGO.\nAccording to technical analysis of Nvidia’s chart, the price is nearing the lower boundary of the blue channel, a key support level throughout 2024. Notably, bears successfully pushed the price lower from both the $150 and $140 levels (highlighted with arrows).\nNasdaq pre-market data showed NVDA trading below $130 today. If this drop fails to spark renewed demand for Nvidia, a leader in the AI-driven tech boom, it could signal further trouble for the stock.\nHowever, analyst sentiment remains positive, according to TipRanks:\n37 out of 40 analysts still recommend buying NVDA shares. The 12-month average price target stands at $177. FXOpen offers spreads from 0.0 pips and commissions from $1.50 per lot. Enjoy trading on MT4, MT5, TickTrader or TradingView trading platforms!\nThis article represents the opinion of the Companies operating under the FXOpen brand only. It is not to be construed as an offer, solicitation, or recommendation with respect to products and services provided by the Companies operating under the FXOpen brand, nor is it to be considered financial advice.\nThe subject matter and the content of this article are solely the views of the author. FinanceFeeds does not bear any legal responsibility for the content of this article and they do not reflect the viewpoint of FinanceFeeds or its editorial staff.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fxopen.com/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://fxopen.com/blog/en/oa-broadcom-inc-avgo-stock-price-soars-nearly-20/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://fxopen.com/blog/en/oa-nasdaq-100-reaches-record-high/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://www.fxopen.com/blog/en/oa-broadcom-inc-avgo-stock-price-soars-nearly-20/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://www.fxopen.com/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://fxopen.com/",
+        "https://fxopen.com/blog/en/oa-nasdaq-100-reaches-record-high/",
+        "https://www.fxopen.com/blog/en/oa-nasdaq-100-reaches-record-high/?utm_source=financefeeds&utm_medium=post&utm_campaign=analysis",
+        "https://fxopen.com/blog/en/oa-broadcom-inc-avgo-stock-price-soars-nearly-20/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Broadcom Inc.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:48:14.529+02:00",
+    "updated": "2024-12-17T15:48:14.529+02:00"
+}

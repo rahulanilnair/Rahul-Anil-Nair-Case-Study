@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "4df401446850da942d953c1fb478e5aeca43089d",
+        "url": "http://global.chinadaily.com.cn/a/202412/17/WS67616a10a310f1265a1d36da.html",
+        "site_full": "global.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://global.chinadaily.com.cn/opinion/5c234d38a310d91214051115",
+        "site_categories": [
+            "travel"
+        ],
+        "section_title": "Editorials - Chinadaily.com.cn",
+        "title": "European Union should not let anti-China hawks foul the nest: China Daily editorial - Chinadaily.com.cn",
+        "title_full": "European Union should not let anti-China hawks foul the nest: China Daily editorial - Chinadaily.com.cn",
+        "published": "2024-12-17T14:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 617,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4df401446850da942d953c1fb478e5aeca43089d",
+    "url": "http://global.chinadaily.com.cn/a/202412/17/WS67616a10a310f1265a1d36da.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "刘小卓",
+    "published": "2024-12-17T14:09:00.000+02:00",
+    "title": "European Union should not let anti-China hawks foul the nest: China Daily editorial - Chinadaily.com.cn",
+    "text": "In the 15th package of restrictive measures it adopted on Monday, the European Council sanctioned 84 entities and individuals from different countries alleging they are providing material assistance to Russia's military in its conflict with Ukraine. Seven of them are from China.\nThis is the first time the European Union has imposed \"comprehensive sanctions\" on Chinese entities and individuals, including travel bans, asset freezes, and prohibitions on providing financial resources, which, previously, mainly referred to export controls.\nIn its statement, the European Council claims the Chinese entities and individuals concerned help Russia circumvent European Union sanctions or supply sensitive drone parts and microelectronics components to the Russian military.\nIn so doing the EU is undoubtedly sending a strong signal to China, intimating that if Beijing continues to stick to what the bloc alleges is a pro-Russia stance on the Ukraine crisis, it may become a factor affecting the EU-China economic and trade relations.\nDuring her confirmation hearing in Brussels last month, Kaja Kallas, the bloc's new high representative of foreign affairs and security policy, said that China should pay a \"higher cost\" for what she claimed was its support for Russia's military, saying that without China's support, Russia would not be able to continue to fight \"with the same force\". But she also admitted she has not yet verified the hearsay that China is providing such support.\nSince China has not caved in to the sanctions the United States has imposed on it over the Ukraine crisis, which are of a much larger scale and have a wider impact than the EU sanctions against it so far, Brussels should realize that Beijing will by no means compromise its neutral stance on the Ukraine conflict or alter its normal economic and trade relations with Russia.\nWhen the whole world is waiting to see what the US president-elect has up his sleeve to fulfill his election promise of resolving the Ukraine crisis soon after taking office on Jan 20, faithfully doing the Joe Biden administration's bidding to heighten its \"Beijing has to pay\" sanctions does no good to the EU's interests.\nNo matter how many China hawks have been hatched in the EU nest over the past four years, Brussels should be well aware they could become a hindrance over the next four years, depending on how the new US administration decides to overhaul the US' foreign, trade and security policies.\nThe US president-elect said on Monday that Beijing and Washington could work together \"to solve all of the problems of the world\" shortly before hosting TikTok CEO Shou Zi Chew at his Florida resort.\nThat a palpable unease has thus been understandably apparent in Brussels since the dust settled on the US presidential election last month serves to expose the US' European allies are at a bewildering loss facing future uncertainties in the transatlantic alliance, a sequela of their all-in bet on the Biden administration.\nAs its sanctions against Russia are now up to the 15th round, the EU should also realize that the Ukraine crisis cannot be resolved by sanctions, and it is the US that is stoking the fire for both the Russia-Ukraine conflict and the Israel-Hamas conflict.\nIt is the Biden administration that has been trying to mislead the EU to jump onto its sanctions bandwagon and form a united front with it against China in trade and high-tech sectors.\nInstead of calling for a coordinated and systemic approach to dealing with China to prevent the bloc from dividing on security and trade issues, as some EU lawmakers did recently, it is high time the bloc's core decision-makers reflected on the root cause of the division, which is a result of the EU allowing the Biden administration to drive a wedge between it and China, which has in effect divided the bloc itself.\nThat the Ukraine crisis was effectively prevented when the EU sought to uphold its strategic autonomy before then-German chancellor Angela Merkel stepped down should prompt Brussels to realize that Washington does not have the EU's best interests at heart.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kaja Kallas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "European Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "European Union",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:19:42.562+02:00",
+    "updated": "2024-12-17T14:19:42.562+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "4b1e457713f3edc32e28a85ba57ed6f168163ab3",
+        "url": "https://www.cbsnews.com/chicago/video/illinois-gets-17-million-grant-to-improve-maternal-health",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Illinois gets $17 million grant to improve maternal health - CBS Chicago",
+        "title_full": "Illinois gets $17 million grant to improve maternal health - CBS Chicago",
+        "published": "2025-01-09T23:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/09/200c3954-030c-4a73-9750-0d77b7947706/thumbnail/1200x630/6c01ecdeadb530ac896923f33ac18805/38226010813cabd5c68a1866016ef429-0-1736463337164.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b1e457713f3edc32e28a85ba57ed6f168163ab3",
+    "url": "https://www.cbsnews.com/chicago/video/illinois-gets-17-million-grant-to-improve-maternal-health",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Chicago",
+    "published": "2025-01-09T23:55:00.000+02:00",
+    "title": "Illinois gets $17 million grant to improve maternal health - CBS Chicago",
+    "text": "Illinois has become one of 15 states to receive a $17 million grant from the federal government as part of a program aimed at improving maternal health care for Medicaid recipients. The goal is to reduce disparities in access to maternal and fetal care and treatment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health organisation",
+        "Health->health insurance",
+        "Health->government health care",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:05:40.542+02:00",
+    "updated": "2025-01-10T02:05:40.542+02:00"
+}

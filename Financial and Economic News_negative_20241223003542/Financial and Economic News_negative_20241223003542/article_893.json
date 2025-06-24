@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "fffa6feabb97d64a8ef0656f983e346355bc7edc",
+        "url": "https://gazettengr.com/nigerian-sec-to-jail-celebrities-influencers-promoting-crypto-assets-without-sponsored-labels-for-followers",
+        "site_full": "gazettengr.com",
+        "site": "gazettengr.com",
+        "site_section": "https://gazettengr.com",
+        "site_categories": [],
+        "section_title": "Peoples Gazette Nigeria - Truth, Courage or Nothing...",
+        "title": "Nigerian SEC to jail celebrities, influencers promoting crypto assets without ‘sponsored’ labels for followers",
+        "title_full": "Nigerian SEC to jail celebrities, influencers promoting crypto assets without ‘sponsored’ labels for followers",
+        "published": "2024-12-17T14:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://gazettengr.com/wp-content/uploads/CD304616-03F1-4E7D-B331-CF1C1A1536E6.jpeg",
+        "performance_score": 0,
+        "domain_rank": 45692,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fffa6feabb97d64a8ef0656f983e346355bc7edc",
+    "url": "https://gazettengr.com/nigerian-sec-to-jail-celebrities-influencers-promoting-crypto-assets-without-sponsored-labels-for-followers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ADEFEMOLA AKINTADE",
+    "published": "2024-12-17T14:24:00.000+02:00",
+    "title": "Nigerian SEC to jail celebrities, influencers promoting crypto assets without ‘sponsored’ labels for followers",
+    "text": "SEC mandated celebrities and influencers to do their due diligence by verifying that their crypto client is SEC-licensed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Securities Exchange Commission",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:52:09.027+02:00",
+    "updated": "2024-12-17T17:17:28.289+02:00"
+}

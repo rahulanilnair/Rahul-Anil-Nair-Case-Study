@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "7b266b1ecd4f919b7e0f7035c059f61cf189e6b2",
+        "url": "https://buffalonews.com/news/local/9-2-million-federal-grant-to-improve-access-to-internet-in-niagara-falls/article_2e015edc-cec6-11ef-b086-7740a389b30f.html",
+        "site_full": "buffalonews.com",
+        "site": "buffalonews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Federal grant to improve access to internet in Niagara Falls",
+        "title_full": "Federal grant to improve access to internet in Niagara Falls",
+        "published": "2025-01-09T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/2/e0/2e015edc-cec6-11ef-b086-7740a389b30f/6780308a03666.preview.jpg?crop=1280%2C672%2C0%2C64&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 3631,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7b266b1ecd4f919b7e0f7035c059f61cf189e6b2",
+    "url": "https://buffalonews.com/news/local/9-2-million-federal-grant-to-improve-access-to-internet-in-niagara-falls/article_2e015edc-cec6-11ef-b086-7740a389b30f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dale Anderson News Staff Reporter",
+    "published": "2025-01-09T07:00:00.000+02:00",
+    "title": "Federal grant to improve access to internet in Niagara Falls",
+    "text": "Niagara University has received a $9.2 million federal grant to improve access to the internet for people in Niagara Falls who have little or no digital connections, university officials announced in a news release.\nThe funding from the U.S. Department of Commerce’s Digital Equity Competitive Grant Program, under the Digital Equity Act, will support the five-year Niagara Falls Access and Education Project.\nThe project will upgrade library services, computer infrastructure and digital training for more than 2,000 people without internet access and give computer training to many students in Niagara Falls city schools.\nThe grant also will establish a computer center for the public in Niagara University’s new Academic Innovation Hub. University faculty and students will assist in the project.\n“This grant will provide digital access to many areas of the city that lack or have limited digital access,” Niagara Falls Mayor Robert Restaino said in the press release. “We appreciate the support and advocacy of Senator (Charles) Schumer in helping to secure this much-needed funding for our city.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->economy",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:09:30.330+02:00",
+    "updated": "2025-01-10T01:09:30.330+02:00"
+}

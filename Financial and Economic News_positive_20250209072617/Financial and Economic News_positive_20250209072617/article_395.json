@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "b3b9877ad7449a5cec20a3fc4c9e0e1e9436086f",
+        "url": "https://jref.com/threads/focus-japan-firms-set-for-5th-yr-of-record-profits-on-ai-boom-boj-shift.741812",
+        "site_full": "jref.com",
+        "site": "jref.com",
+        "site_section": "https://jref.com",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "Japan Reference | Japan Reference",
+        "title": "FOCUS: Japan firms set for 5th yr of record profits on AI boom, BOJ shift",
+        "title_full": "FOCUS: Japan firms set for 5th yr of record profits on AI boom, BOJ shift",
+        "published": "2025-01-10T03:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 114408,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3b9877ad7449a5cec20a3fc4c9e0e1e9436086f",
+    "url": "https://jref.com/threads/focus-japan-firms-set-for-5th-yr-of-record-profits-on-ai-boom-boj-shift.741812",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBot",
+    "published": "2025-01-10T03:12:00.000+02:00",
+    "title": "FOCUS: Japan firms set for 5th yr of record profits on AI boom, BOJ shift",
+    "text": "NewsBot Registered Joined 6 Aug 2002 Messages 2 Reaction score 0 43 minutes ago TOKYO - Japanese companies are expected to post record profits for the fifth consecutive business year, supp... Continue reading...\nTOKYO - Japanese companies are expected to post record profits for the fifth consecutive business year, supp... Continue reading...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "BOJ",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:56:52.499+02:00",
+    "updated": "2025-01-10T03:56:52.499+02:00"
+}

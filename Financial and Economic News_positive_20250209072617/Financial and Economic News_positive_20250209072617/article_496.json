@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "8793a9809b158c60f3371672e9fcbe58cb92cdd3",
+        "url": "https://www.cbsnews.com/minnesota/news/sports-betting-bill-in-minnesota-legislature-could-pass-in-2025",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com#site-header:22",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "Sports betting bill in Minnesota Legislature could pass in 2025 - CBS Minnesota",
+        "title_full": "Sports betting bill in Minnesota Legislature could pass in 2025 - CBS Minnesota",
+        "published": "2025-01-10T03:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/b7b9c724-ba71-435d-90f6-cee6905b3064/thumbnail/1200x630/1c2631491fa82b5c8026c0be63b208b5/ap24115726964753.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8793a9809b158c60f3371672e9fcbe58cb92cdd3",
+    "url": "https://www.cbsnews.com/minnesota/news/sports-betting-bill-in-minnesota-legislature-could-pass-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T03:23:00.000+02:00",
+    "title": "Sports betting bill in Minnesota Legislature could pass in 2025 - CBS Minnesota",
+    "text": "MINNEAPOLIS — Many sports fans in Minnesota have been clamoring for legalized sports betting for years, but it has never been passed.\nHowever, there's another bill in the Minnesota Legislature that would allow people to bet on games on their phones.\nState Sen. Matt Klein said the sports betting bill has bipartisan support, but there are also opponents in both parties.\n\"It is one of those bills, almost like Sunday sales , where you have to form a coalition in a bipartisan way, and you have to be able to move it through committee in a bipartisan way,\" Klein said.\nThe bill could get more traction this time around due to the tight balance of power in the Minnesota Legislature .\nOpponents of the bill say legalized sports betting can be addicting for some people and create health problems.\n\"I fully respect the concerns from my own caucus on this,\" Klein said. \"They are legitimate public health concerns.\"\nBut Klein also said passing the bill would nullify illegal sports gambling in Minnesota, and a regulated industry would be better than the status quo.\n\"Is it better that we currently have an illicit, thriving market where there are no safeguards whatsoever about problem use or underage use, or is it better that we legalize it and regulate it and put in barriers to problem gambling and fund some treatment services for gambling,\" Klein asked of opponents.\nThe coalition across party lines will be necessary once again if lawmakers want to have better luck this year to get it over the finish line, but a partisan power struggle is already threatening the work of the legislature before session even begins.\nMore from CBS News Minnesota Senate hearing spotlights harms of sports betting ahead of new legalization debate Spike in norovirus numbers not likely to end soon, Minnesota health officials say Judge to issue ruling as soon as this week in close Minnesota House race Oscar-winning filmmaker made a Prince documentary...but it may never air on Netflix Vikings-Rams wild card game moved to Arizona due to wildfires In: Tim Walz Minnesota Senate Minnesota Legislature Minnesota House Esme Murphy Esme Murphy, a reporter and Sunday morning anchor for WCCO-TV, has been a member of the WCCO-TV staff since December 1990. She is also a weekend talk show host on WCCO Radio. Born and raised in New York City, Esme ventured into reporting after graduating from Harvard University.\nTwitter Facebook Instagram",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->local government policy",
+        "Politics->sports policies",
+        "Politics->government policy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/Esme-Murphy-367481097101791/",
+        "http://twitter.com/esmemurphy",
+        "https://www.instagram.com/esmemurphywcco/",
+        "http://www.twitter.com/esmemurphy",
+        "https://www.facebook.com/Esme-Murphy-367481097101791",
+        "https://facebook.com/Esme-Murphy-367481097101791/",
+        "https://www.instagram.com/esmemurphywcco",
+        "https://instagram.com/esmemurphywcco/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Klein",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:02:47.177+02:00",
+    "updated": "2025-01-10T08:19:38.738+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "b90fc19fc13e31a14001c65c9c7fd22904d065aa",
+        "url": "https://dailyvoice.com/md/wheaton-glenmont/felons-30k-drug-stash-seized-during-maryland-bust-sheriff-says",
+        "site_full": "dailyvoice.com",
+        "site": "dailyvoice.com",
+        "site_section": "https://dailyvoice.com/md/wheaton-glenmont",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Wheaton-Glenmont Daily Voice | Your Local News for Wheaton, Glenmont and Kemp Mill, Maryland",
+        "title": "Felon’s $30K Drug Stash Seized During Maryland Bust, Sheriff Says",
+        "title_full": "Felon’s $30K Drug Stash Seized During Maryland Bust, Sheriff Says",
+        "published": "2024-12-16T23:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://edge.dailyvoice.com/upload/Farris-Adrian-Carlos-.jpg?width=1280",
+        "performance_score": 0,
+        "domain_rank": 12082,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b90fc19fc13e31a14001c65c9c7fd22904d065aa",
+    "url": "https://dailyvoice.com/md/wheaton-glenmont/felons-30k-drug-stash-seized-during-maryland-bust-sheriff-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zak Failla",
+    "published": "2024-12-16T23:59:00.000+02:00",
+    "title": "Felon’s $30K Drug Stash Seized During Maryland Bust, Sheriff Says",
+    "text": "The operation unfolded earlier this month, when members of the Charles County Sheriff’s Office Narcotics Enforcement Section executed a search warrant at a home in the 5000 block of Vane Court.\nInside, officers discovered cocaine, crack cocaine, heroin, fentanyl, and other drugs valued at over $30,000, along with a .357 magnum handgun, investigators said. The suspect, Adrian Carlos Farris, 35, of Waldorf, was taken into custody at the scene.\nFarris, a convicted felon barred from owning firearms, was charged with:\n- Five counts of possession with intent to distribute drugs;\n- Felon in possession of a firearm;\n- Other related offenses.\nThe day after his arrest, a judge ordered Farris to be held at the Charles County Detention Center without bond, officials said.\nWant breaking news in the DMV as it happens, or want to contribute? [Join the DMV All Incidents Facebook group](https://www.facebook.com/groups/267270152440793/).\n[Click here]\nto follow Daily Voice\nWheaton-Glenmont\nand receive free news updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/groups/267270152440793/",
+        "https://facebook.com/groups/267270152440793/",
+        "https://www.facebook.com/groups/267270152440793"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adrian Carlos Farris",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DMV All Incidents Facebook",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Charles County Detention Center",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:32:44.726+02:00",
+    "updated": "2024-12-17T14:32:44.726+02:00"
+}

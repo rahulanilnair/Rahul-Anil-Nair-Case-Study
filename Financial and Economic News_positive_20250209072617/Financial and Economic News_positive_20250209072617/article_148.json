@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "24df189b65fb62b281add24aabf660fe525fdb81",
+        "url": "http://www.china.org.cn/world/Off_the_Wire/2025-01/10/content_117655917.htm",
+        "site_full": "www.china.org.cn",
+        "site": "china.org.cn",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "Latest news clusters for en",
+        "title": "Italian PM vows election reform, more tax cuts in 2025 - China.org.cn",
+        "title_full": "Italian PM vows election reform, more tax cuts in 2025 - China.org.cn",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "24df189b65fb62b281add24aabf660fe525fdb81",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2025-01/10/content_117655917.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Italian PM vows election reform, more tax cuts in 2025 - China.org.cn",
+    "text": "ROME, Jan. 9 (Xinhua) -- Italian Prime Minister Giorgia Meloni outlined plans to reform the county's electoral process to elect a government head and pledged further tax cuts for the middle-class in a lengthy press conference held at the Italian Parliament on Thursday.\nMeloni stated her intention to push for a reform that allow direct election of the Italian prime minister ahead of Italy's next general election. Under the current law, the prime minister is typically the leader who can form a majority coalition in parliament.\n\"I would like to arrive at the next elections with a tailored reform of the premiership,\" Meloni said. Moreover, she didn't rule out the possibility of seeking reelection at the end of her current term.\nMeloni also emphasized her focus on tax reforms, aiming to reduce the tax burden on middle-class workers in the government's next budget. This follows reductions in income taxes for lower income workers in the previous budget plan.\nShe said: \"We have already carried out a tax reform, and we now plan to take gradual steps, and if resources allow, we need to direct our attention to the middle class.\"\nMeloni also briefly addressed incoming U.S. President Donald Trump, confirming that she has received an invitation to attend his inauguration ceremony on Jan. 20. However, she didn't confirm whether she could attend the event.\nThe more-than-two-hour press conference, traditionally held as an \"end-of-year\" event, was initially scheduled for Dec. 27 but was postponed due to Meloni's illness with the flu in late December. The event customarily serves as an opportunity for the Italian prime minister to review achievements and outline priorities for the year ahead. Enditem",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->electoral system",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Giorgia Meloni",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "24df189b65fb62b281add24aabf660fe525fdb81",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:13:52.713+02:00",
+    "updated": "2025-01-10T01:13:52.713+02:00"
+}

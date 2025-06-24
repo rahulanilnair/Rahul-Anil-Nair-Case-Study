@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "f2881ac5256c4e965ae11685766b84178db43779",
+        "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/25880-finns-face-highest-tax-burden-in-a-decade-in-2025-eva-reports.html",
+        "site_full": "www.helsinkitimes.fi",
+        "site": "helsinkitimes.fi",
+        "site_section": "https://www.helsinkitimes.fi",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News from Finland &quot;Helsinki Times&quot;",
+        "title": "Finns face highest tax burden in a decade in 2025, EVA reports",
+        "title_full": "Finns face highest tax burden in a decade in 2025, EVA reports",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FI",
+        "main_image": "https://www.helsinkitimes.fi/images/2024/12/tax_burden.jpg",
+        "performance_score": 0,
+        "domain_rank": 23253,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2881ac5256c4e965ae11685766b84178db43779",
+    "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/25880-finns-face-highest-tax-burden-in-a-decade-in-2025-eva-reports.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tara",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Finns face highest tax burden in a decade in 2025, EVA reports",
+    "text": "Finnish taxpayers will experience a significant increase in their overall tax burden in 2025, marking the highest level in a decade. The findings come from calculations by the Finnish Business and Policy Forum (EVA) using its Tax Calculator.\nThe average Finnish wage earner's tax burden will rise, considering not only income taxes but also mandatory employee contributions and consumption taxes.\nAccording to EVA's Tax Calculator, an average wage earner with a gross monthly income of €3,746 will face a total tax rate of 43.7%. This figure represents the highest level since EVA began tracking these metrics ten years ago.\nThe primary cause of the increased tax burden is the government’s recent decision to raise consumption taxes, with some of these increases taking effect in autumn 2024. Additionally, the government has opted to increase taxes on high earners and reduce the household tax credit.\n“Raising VAT rates and significantly cutting the household tax credit will further increase the tax burden on Finns and make business operations more difficult for many entrepreneurs,” says Emmiliina Kujanpää, EVA’s Lead Tax Expert.\nIn addition to the national tax changes, several municipalities are increasing their income tax rates, compounding the pressure on taxpayers. For example, a mid-income wage earner in Pori earning €3,746 per month will pay over €100 more in taxes each month compared to a worker with the same income in Espoo.\nThe heavy taxation of earned income also discourages additional work and career progression. According to EVA's calculations, if the same Pori wage earner earns an extra €1,000 per month, only €514 of that income will remain after taxes.\nA recent EVA Value and Attitude Survey found that one in four Finns would be willing to work more if income taxes were reduced.\n“Due to the tax system, it is difficult for Finns to improve their standard of living through additional work. Moving towards taxing consumption instead of earned income would now require easing, not tightening, income taxes,” Kujanpää concludes.\nHT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:17:31.486+02:00",
+    "updated": "2024-12-17T15:17:31.486+02:00"
+}

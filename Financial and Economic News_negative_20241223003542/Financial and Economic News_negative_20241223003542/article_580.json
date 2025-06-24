@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "9a34e70330190e7af5262d327552599927d16d99",
+        "url": "https://itep.org/governor-jeff-landry-louisiana-lawmakers-regressive-tax-plan",
+        "site_full": "itep.org",
+        "site": "itep.org",
+        "site_section": "https://itep.org/rss",
+        "site_categories": [
+            "tax_planning",
+            "finance"
+        ],
+        "section_title": "ITEP",
+        "title": "Louisiana Lawmakers Pass Deeply Regressive Tax Plan",
+        "title_full": "Louisiana Lawmakers Pass Deeply Regressive Tax Plan",
+        "published": "2024-11-27T02:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.itep.org/cdn-cgi/image/format=webp/https://media.itep.org/Louisiana-Lawmakers-Pass-Deeply-Regressive-Tax-Plan-Nov-2024-1024x536.jpg",
+        "performance_score": 0,
+        "domain_rank": 20910,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a34e70330190e7af5262d327552599927d16d99",
+    "url": "https://itep.org/governor-jeff-landry-louisiana-lawmakers-regressive-tax-plan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Welch",
+    "published": "2024-11-27T02:48:00.000+02:00",
+    "title": "Louisiana Lawmakers Pass Deeply Regressive Tax Plan",
+    "text": "November 26, 2024\nNovember 26, 2024\nThis blog was updated on November 27 to include analysis of the tax plan that ended up passing the legislature.\nLouisiana Gov. Jeff Landry called the legislature back to the capitol the day after the national election to take up his plan to overhaul the state’s tax system during a 20-day special session. Our analysis shows the tax overhaul would worsen the inequity already rampant in Louisiana’s tax system while potentially shortchanging essential services for families across the state.\nThe centerpiece of Gov. Landry’s plan would cut $1.3 billion a year from the state’s personal income taxes by enacting a 3 percent flat rate. His proposal also cuts corporate income taxes, eliminates the corporate franchise tax, and replaces a portion of the lost revenue through a higher state sales tax rate and additional sales tax on digital items and previously exempt items while lowering caps on certain business credits.\nWhile the governor’s tax plan is being touted as a new, innovative way to attract jobs and retain talent, these talking points and policies are anything but new – and there’s no evidence they will do much to grow the economy. From 2021 to 2023, 26 states cut their personal and/or corporate income tax rates, and many of these states have little to show for it besides budget crises, struggles to fund public services, and threats of downgraded credit ratings.\nLouisiana already held the dubious honor of having the tenth most regressive tax system in the country – with the lowest earning Louisianans paying 13.1 percent of their income in state and local taxes while the top 1 percent pays just 6.5 percent of their income. This regressivity is due in no small part to Louisiana’s highest-in-the-nation sales tax which consistently exceeds 9.5 percent when accounting for state and local rates. As a result of these changes, the state’s sales tax rate will now climb to 5 percent. The combined sales, personal income, and corporate tax changes move Louisiana from having the tenth most regressive state and local tax system in the nation to the eighth – while the bottom 20 percent of households pay 13 percent of their income in taxes, the top 1 percent will now pay just 5.6 percent.\nThis additional sales tax revenue will be used to replace Louisiana’s only major sources of progressive tax revenue. Lawmakers would remove the parts of the tax system that ask the wealthy and large corporations to contribute to services that support Louisiana’s economy like public schools, healthcare, and universities.\nGov. Landry’s plan includes eliminating Louisiana’s graduated-rate personal income tax structure and its top rate of 4.25 percent and replacing it with a flat 3 percent personal income tax rate and higher standard deduction. Large corporations – not small businesses – will see the bulk of the business tax breaks as the top corporate income tax rate of 7.5 percent would drop to a flat 5.5 percent.\nThe proposal would also eliminate the corporate franchise tax which is a tax on business capital and, in the absence of combined reporting, one of the most effective ways to ensure that large multi-national corporations operating in Louisiana pay to support services that benefit everyone.\nThis tax shift will double down on the state’s already regressive tax structure. According to our analysis, the swap – as currently proposed – would result in the lowest-income 20 percent of Louisianans (with average annual incomes of $12,700) receiving a small tax increase despite this being touted as a sweeping tax cut plan. Middle-income households making $55,900 on average would receive an average $87 tax cut.\nMeanwhile, the wealthiest 1 percent of Louisiana households with average annual incomes of $1.8 million will receive an average tax cut of $15,431 – more than a full-time minimum wage worker would make in a year in Louisiana.\nMeanwhile, the wealthiest 1 percent of Louisiana households with average annual incomes of $1.8 million will receive an average tax cut of $15,431 – more than a full-time minimum wage worker would make in a year in Louisiana. The tax plan also stands to benefit the wealthiest Louisianans when comparing cuts as a percentage of income. The lowest-earning Louisianans will see their taxes go up by .04 percent of their income, while the top 1% receives a tax cut of .81 percent.\nLouisiana’s tax system is deeply in need of reform as it disproportionately relies on low- and middle-income households for revenue while still inadequately funding the public services that support a strong economy. The policies passed during this special session move the state in the opposite direction.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeff Landry",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:18:29.857+02:00",
+    "updated": "2024-12-17T14:18:29.857+02:00"
+}

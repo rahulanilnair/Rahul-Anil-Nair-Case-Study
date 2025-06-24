@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "98cd507e698dd09c9f9fb449c2774021ddc024a9",
+        "url": "https://news.nestia.com/detail/Government-prioritises-investor-ease%2C-says-PM-Anwar-after-meeting-with-Micron-chief/13188758",
+        "site_full": "news.nestia.com",
+        "site": "nestia.com",
+        "site_section": "https://news.nestia.com/en/list?tab&",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+        "title": "Government prioritises investor ease, says PM Anwar after meeting with Micron chief | Nestia",
+        "title_full": "Government prioritises investor ease, says PM Anwar after meeting with Micron chief | Nestia",
+        "published": "2025-01-10T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/202501/10/cd2355e361024d1f52b52549599841ca_750x750.jpg",
+        "performance_score": 0,
+        "domain_rank": 108524,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98cd507e698dd09c9f9fb449c2774021ddc024a9",
+    "url": "https://news.nestia.com/detail/Government-prioritises-investor-ease%2C-says-PM-Anwar-after-meeting-with-Micron-chief/13188758",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Malay Mail - Malaysia",
+    "published": "2025-01-10T04:00:00.000+02:00",
+    "title": "Government prioritises investor ease, says PM Anwar after meeting with Micron chief | Nestia",
+    "text": "KUALA LUMPUR, Jan 10 — Prime Minister Datuk Seri Anwar Ibrahim said that the Madani Government always strives to facilitate fast and effective solutions to address any issues faced by investors.In a Facebook post, Anwar said the matter was mentioned during a courtesy call from president and chief executive officer of Micron Technology Inc. (Micron) Datuk Sanjay Mehrotra.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->government",
+        "Politics->international relations",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Seri Anwar Ibrahim",
+                "sentiment": "none"
+            },
+            {
+                "name": "Datuk Sanjay Mehrotra",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Micron Technology Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:36:08.594+02:00",
+    "updated": "2025-01-10T04:36:08.594+02:00"
+}

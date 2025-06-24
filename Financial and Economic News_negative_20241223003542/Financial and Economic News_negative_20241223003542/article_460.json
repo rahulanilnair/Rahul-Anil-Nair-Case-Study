@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "0e1cb53b9e474a51a6e3fe48c8617ad28e8259c1",
+        "url": "https://theedgemalaysia.com/node/738064",
+        "site_full": "theedgemalaysia.com",
+        "site": "theedgemalaysia.com",
+        "site_section": "https://theedgemalaysia.com/",
+        "site_categories": [],
+        "section_title": "The Edge Malaysia - Make Better Decisions",
+        "title": "Booking CFO says inflation impact still curbing US travel demand",
+        "title_full": "Booking CFO says inflation impact still curbing US travel demand",
+        "published": "2024-12-17T13:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://assets.theedgemarkets.com/logo_20241217192750_bookingholdings.jpg",
+        "performance_score": 0,
+        "domain_rank": 43648,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0e1cb53b9e474a51a6e3fe48c8617ad28e8259c1",
+    "url": "https://theedgemalaysia.com/node/738064",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Natalie Lung",
+    "published": "2024-12-17T13:28:00.000+02:00",
+    "title": "Booking CFO says inflation impact still curbing US travel demand",
+    "text": "(Dec 17): Booking Holdings Inc says the impact of inflation is still dampening travel demand in the US, with price-conscious consumers waiting longer to plan vacations.\n“We haven’t seen so much of a movement in the US around booking window recently,” Booking chief financial officer Ewout Steenbergen said in an interview with Bloomberg News, referring to a proxy metric for consumer sentiment that measures how far in advance someone books a trip. A shorter booking window means consumers are holding off longer on committing to a vacation.\nMeanwhile, travellers in Europe are booking earlier — planning February skiing trips, for example, and Easter excursions. Steady demand from the continent has contributed to the company’s improved outlook, he told investors last week.\nThe executive’s remarks underscore the travel industry’s moderating growth following an initial post-pandemic travel boom. As the largest online travel company by market value, Booking often serves as a bellwether for peer companies as well. Even though its most recent quarterly earnings indicated the slowdown isn’t as severe as some investors feared, demand in the US was still lower than anywhere else where Booking operates, Steenbergen said.\nThat’s due to a “bifurcation” in the US market where luxury travel demand has remained strong, while lower-income groups have been feeling more pressure from inflation, he said. Some of Booking’s US consumers have traded down for lower-rated hotels or shortened trips.\nEven so, Steenbergen expects US trends to eventually improve as consumers are still prioritising, say, weekend trips away over other discretionary items such as new clothes.\n“We would expect at some point that to start to normalise and get stronger, particularly once the impact of inflation has worked through the economy,” he said of the US market.\nCost-cutting plan Internally, Booking is also reckoning with changes following a period of post-pandemic growth, during which it built out new offerings such as platforms for flight booking, rental cars and tourism activities.\nThat caused fixed operating expenses, such as personnel, administrative and technology costs, to grow faster than revenue, Steenbergen said. The company responded last month by announcing a cost-cutting plan to “simplify the organization.” The program will include layoffs, a reduction in real estate and a modernisation of various internal processes and systems. These measures will help trim annual expenses by about US$400 million (RM1.78 million) to US$450 million, the company said in a US Securities and Exchange Commission filing this month.\nThe firm recently cut about 60 employees in roles including technical support and marketing at Chicago-based Rocket Travel, a B2B arm of its Asian travel brand Agoda. The company decided to move support roles in operations and technology to Asia, closer to Agoda’s offices in Bangkok and Singapore, while keeping customer-facing roles in the US, Steenbergen said. He said reductions may continue over the next two to three years, with changes happening more slowly in Europe than in other regions due to labour laws.\nBooking intends to reinvest those cost savings into growth initiatives such as activities for travellers, new geographical markets and integrating generative artificial intelligence into its customer service operation and other products.\nSteenbergen told investors they could expect benefits from those investments to start showing up in the latter half of 2025, and particularly in 2026 and beyond.\nUploaded by Arion Yeow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ewout Steenbergen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bloomberg News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:42:19.761+02:00",
+    "updated": "2024-12-17T13:42:19.761+02:00"
+}

@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "0d6283bc850c03f4716d5d0a52d3ddebaad895a7",
+        "url": "https://www.aei.org/technology-and-innovation/a-terrible-awful-disgusting-lawsuit-against-apple",
+        "site_full": "www.aei.org",
+        "site": "aei.org",
+        "site_section": "https://www.aei.org",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "\n\tAmerican Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.",
+        "title": "A Terrible, Awful, Disgusting Lawsuit Against Apple",
+        "title_full": "A Terrible, Awful, Disgusting Lawsuit Against Apple",
+        "published": "2024-12-17T12:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3247,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d6283bc850c03f4716d5d0a52d3ddebaad895a7",
+    "url": "https://www.aei.org/technology-and-innovation/a-terrible-awful-disgusting-lawsuit-against-apple",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Owen O’Brien-Powers",
+    "published": "2024-12-17T12:30:00.000+02:00",
+    "title": "A Terrible, Awful, Disgusting Lawsuit Against Apple",
+    "text": "It is deeply unfortunate that the vast wave of information, education, interaction, commerce, and creativity borne by the internet comes with costs like greater access to child sexual abuse material (CSAM). It is customary in the policy world to decry CSAM in overwrought terms, but it is important to be hardheaded about the implications of policies to counter the stuff. So let the record reflect my abhorrence of child abuse of all kinds as I write to reject a genre of means to counter CSAM: making information technology platforms liable.\nVia Reuters The idea is not new. In 2005, I argued against making internet service providers (ISPs) liable for the distribution of computer viruses and worms. The logic was simple : ISPs are well positioned to stop internet pathogens; if they were liable for failing to do so, that would clean up the internet.\n“Holding ISPs liable sounds like a way to reduce Internet wrongs,” I wrote . “But is it right?”\nOur traditional notions of justice hold that people are responsible for their own acts. They are not responsible for others’ acts, given free will and competence all around.\nA lawsuit recently filed against Apple attacks these basic moral premises, seeking to make the company liable for the wrongs of people using its products. Because Apple developed ways to combat the distribution of CSAM, says the suit , it now must be liable to child abuse victims for declining to deploy such technology.\nApple announced its NeuralHash technology in 2021 to detect and report CSAM on customers’ devices. It did not implement it in light of privacy and security concerns—well-placed, in my opinion—and perhaps because the system wasn’t as good as advertised . My critique at the time was that Apple might make itself into a government actor for constitutional purposes if it reviewed our content and communications on behalf of law enforcement as a matter of course.\nTo win, the plaintiffs will have to blow conceptual walls off the federal anti–child porn statutes. The language criminalizing sending and receiving CSAM, they must argue, also applies to being the means of sending and receiving CSAM. The plaintiffs will have to redefine knowing participation in such acts as “having the means to know and not using them,” which is quite a bit different (and not the same as “ constructive knowledge “).\nThere are already too many examples in which liability makes people responsible for others’ acts: dram shop laws, the doctrine of negligent entrustment, parts of copyright enforcement, some landlord-tenant laws, and the foreseeable misuse doctrine in product liability law. Extending liability to internet platforms would be orders of magnitude worse.\nJust think what happens if any actor having the means to know what happens online is required to monitor for wrongdoing. Your cell phone provider can transcribe calls and use AI to search for discussions of criminality. Your email service provider can do the same. If your web searches are consistent with criminal planning, your search engine liability rules may require it to report you. Our privacy does not fare well under these conditions.\nProfessor Eugene Volokh wrote a decade ago in “Tort Law vs. Privacy” about how liability and advancing technology intersect to threaten privacy. But his thesis doesn’t concern me much. If advancing technology or changed business practices require people and businesses to provide more protection for those to whom they owe a duty, this is natural migration of mores and practices, even if there is some loss of privacy in the process.\nHere, we are talking about exploding the legal concept of duty so that someone providing an online service, some neutral communications tool, is responsible for all the behaviors of those who use it.\nAustralia is in the process of adopting regulations that explode duty. The EU Cyber Resilience Act is imposing distended obligations on open-source developers that seem tailored to suppressing open-source activity on the Continent. (One wonders whether Europe, especially, is playing 4D chess with a plan to suddenly flourish through tech-sector repression.)\nMuch of my work is to oppose “light-switch totalitarianism.” We should not build technologies, such as a national ID , that can be easily repurposed by authoritarians. Power on the internet must remain at the edges. In the name of future freedom, we must resist the forces that centralize power, including liability laid on platforms, because they promote mass surveillance and control.\nWe often speak of CSAM in overwrought terms, and it is something all decent people reject and detest. But this trend away from natural justice toward liability without limits has seeds of different, broader, and more thoroughgoing losses to society. This is a terrible, awful, disgusting lawsuit against Apple.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf",
+        "https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html",
+        "https://columbialawreview.org/wp-content/uploads/2016/04/May-2014-7-Article-Volokh.pdf",
+        "https://www.cato.org/sites/cato.org/files/serials/files/regulation/2012/8/v28n1-5.pdf",
+        "https://www.lawinsider.com/dictionary/constructive-knowledge",
+        "https://www.jamesmarshlaw.com/wp-content/uploads/2024/12/Amy-et.-al.-v.-Apple-Case-24-cv-08832-Doc-1-Complaint-12-07-2024.pdf",
+        "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1235&context=law_and_economics",
+        "https://minister.infrastructure.gov.au/rowland/media-release/new-duty-care-obligations-platforms-will-keep-australians-safer-online",
+        "https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/",
+        "http://www.youtube.com/watch?v=oAd99oq526M",
+        "https://schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html",
+        "https://jamesmarshlaw.com/wp-content/uploads/2024/12/Amy-et.-al.-v.-Apple-Case-24-cv-08832-Doc-1-Complaint-12-07-2024.pdf",
+        "https://apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf",
+        "https://www.chicagounbound.uchicago.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1235&context=law_and_economics",
+        "https://www.minister.infrastructure.gov.au/rowland/media-release/new-duty-care-obligations-platforms-will-keep-australians-safer-online",
+        "http://youtube.com/watch?v=oAd99oq526M",
+        "https://cato.org/sites/cato.org/files/serials/files/regulation/2012/8/v28n1-5.pdf",
+        "https://lawinsider.com/dictionary/constructive-knowledge",
+        "http://www.youtube.com/watch",
+        "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi",
+        "https://www.columbialawreview.org/wp-content/uploads/2016/04/May-2014-7-Article-Volokh.pdf",
+        "https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers",
+        "https://www.github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:37:32.011+02:00",
+    "updated": "2024-12-17T14:37:32.011+02:00"
+}

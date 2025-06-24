@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "877285b85124f4ce76c43c61942e22c461a44ce5",
+        "url": "https://www.brecorder.com/news/40338053/selling-pressure-at-psx-kse-100-settles-below-115000",
+        "site_full": "www.brecorder.com",
+        "site": "brecorder.com",
+        "site_section": "https://www.brecorder.com/print",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_pk",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Print - Business Recorder",
+        "title": "Selling pressure at PSX, KSE-100 settles below 115,000",
+        "title_full": "Selling pressure at PSX, KSE-100 settles below 115,000",
+        "published": "2024-12-17T09:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.brecorder.com/large/2024/12/171240081c5c68c.jpg?r=124202",
+        "performance_score": 0,
+        "domain_rank": 13631,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "877285b85124f4ce76c43c61942e22c461a44ce5",
+    "url": "https://www.brecorder.com/news/40338053/selling-pressure-at-psx-kse-100-settles-below-115000",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BR Web Desk",
+    "published": "2024-12-17T09:42:00.000+02:00",
+    "title": "Selling pressure at PSX, KSE-100 settles below 115,000",
+    "text": "[Markets](/markets)\n[Selling pressure at PSX, KSE-100 settles below 115,000](https://www.brecorder.com/news/40338053/selling-pressure-at-psx-kse-100-settles-below-115000)\n- Profit-taking comes as SBP cut key policy rate in line with expectations\nA volatile session was witnessed at the Pakistan Stock Exchange (PSX) on Tuesday as the benchmark KSE-100 Index settled with a fall of over 1,300 points after briefly crossing the 117,000 level during intra-day trading.\nA mixed trend was seen at the bourse, with the benchmark KSE-100 Index hitting an intra-day high of 117,039.17.\nHowever, profit-taking erased all gains, with the index hitting an intra-day low of 113,688.54.\nAt close, the benchmark index was hovering at 114,860.68, a decrease of 1,308.73 points or 1.13%.\nSelling was seen in key sectors including oil and gas exploration companies, OMCs, power generation, fertilizer, cement, chemical and automobile assemblers. Whereas, buying interest was observed in commercial banks.\nIndex-heavy energy stocks including MARI, OGDC, PPL and PSO traded in the red, whereas, banking stocks including HBL, MCB, MEBL, UBL and NBP traded in the green.\nThe market sentiment follows the [Monetary Policy Committee (MPC)](https://www.brecorder.com/news/40337803/fifth-successive-cut-sbp-reduces-key-policy-rate-by-200bps-takes-it-to-13) of the State Bank of Pakistan (SBP) reducing the key policy rate by 200 basis points to 13%. This marked the fifth successive cut since June 2024 when the rate stood at 22%.\n“At its meeting, the Monetary Policy Committee (MPC) decided to cut the policy rate by 200 bps to 13%, effective from December 17, 2024,” the MPC said in its statement.\n“Headline inflation declined to 4.9% y/y in November 2024, in line with the MPC’s expectations. This deceleration was mainly driven by continued decline in food inflation as well as the phasing out of the impact of the hike in gas tariffs in November 2023.\n“However, the Committee noted that core inflation, at 9.7%, is proving to be sticky, whereas inflation expectations of consumers and businesses remain volatile. To this effect, the Committee reiterated its previous assessment that inflation may remain volatile in the near term before stabilizing in the target range.”\nThe selling pressure comes as the market had factored in a cut of 200 basis points, and there were no surprises in the MPC announcement.\nHowever, [on Monday](https://www.brecorder.com/news/40337779/historic-high-kse-100-settles-above-116000-on-rate-cut-anticipation), the benchmark KSE-100 Index settled above 116,000 for the first time in history with a gain of nearly 1,900 points or 1.7%.\nInternationally, [Asian stocks edged higher](https://www.brecorder.com/news/40338047/asian-shares-drift-dollar-firms-ahead-of-central-bank-meetings) and the dollar held firm on Tuesday as traders braced for a slate of central banks meetings this week that is likely to see the US Federal Reserve deliver a rate cut and the Bank of Japan stand pat for now.\nBitcoin, the best-known and the biggest cryptocurrency, remained nestled near the record high of $107,821 it touched on Monday.\nIn stock markets, Australian market was 0.75% higher, with Japan’s Nikkei up 0.26% and tech-heavy Taiwan stocks rising 0.5%.\nThat left MSCI’s broadest index of Asia-Pacific shares outside Japan up 0.18%.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "OGDC",
+                "sentiment": "none"
+            },
+            {
+                "name": "PPL",
+                "sentiment": "none"
+            },
+            {
+                "name": "PSO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:29:33.655+02:00",
+    "updated": "2024-12-17T13:29:33.655+02:00"
+}

@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "afed5c768f66b752ed4d836a19703cc07fffff96",
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1254308",
+        "site_full": "www.daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://www.daijiworld.com/news",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Mangalore News , karnataka News , Konkani News - Daijiworld.com",
+        "title": "Home loan applicant from UP gets two-year jail for bank fraud - Daijiworld.com",
+        "title_full": "Home loan applicant from UP gets two-year jail for bank fraud - Daijiworld.com",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "performance_score": 0,
+        "domain_rank": 24803,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "afed5c768f66b752ed4d836a19703cc07fffff96",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1254308",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Home loan applicant from UP gets two-year jail for bank fraud - Daijiworld.com",
+    "text": "New Delhi, Dec 17 (IANS): In a conviction success for CBI investigators, a man who took a Rs 3.5 lakh housing loan on the basis of forged documents and failed to repay the money to a bank was sentenced to two years’ imprisonment, along with a fine of Rs 10,000, by a court in Uttar Pradesh, an official said on Tuesday.\nThe Court of Special Judicial Magistrate, CBI cases, Lucknow, sentenced loan applicant Sardar Ahmad Khan on Monday in the bank fraud case.\nAfter the conclusion of the trial in respect of the CBI charge sheet, the court found Sardar Ahmad Khan guilty and sentenced him accordingly.\nThe court accepted the evidence presented by the CBI to prove the use of forged documents by the convict for taking the loan of Rs 3.5 lakh in his own name from SBI, Rajapur Branch, Allahabad, a statement said.\nThe charge-sheet in the case was filed on July 24, 2007, against Khan on the charges that he dishonestly and fraudulently obtained a housing loan of Rs 3.5 lakh in his own name from SBI, Rajapur Branch. He allegedly used forged income tax returns and failed to repay the loan amount.\nAn official said the CBI had registered the instant case on June 28, 2005, on a written complaint from the Deputy General Manager (Vigilance), SBI, LHO, Lucknow against the accused.\nKhan’s case was one of the over three dozen loans that were mentioned in the complaint.\nThe complaint alleged that from August 1, 2001, to February 6, 2004, 56 housing loans were sanctioned and disbursed from SBI, Rajapur Branch, Allahabad, and out of these, in 38 loan cases, the site/borrower was not identifiable or the plot was not in existence.\nIt was alleged that the loan amount was misappropriated, the CBI said.\nIt was also alleged that 15 personal loans were sanctioned on the basis of bogus/forged documents. Due to the aforesaid acts of omission and commission, the SBI was put at a loss of Rs 1.60 crore, the CBI said.\nAfter the completion of the investigation, the CBI filed three charge sheets against all the accused.\nAccused in one of the charge-sheets, namely Vinay Kumar Srivastava and Raman Kumar Srivastava, were convicted on January 19, 2024 and were sentenced to imprisonment of two years with a total fine of Rs 12,000.\nThe trial in another charge sheet is pending against accused Sanjay Kesharwani.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sardar Ahmad Khan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "IANS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "SBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Uttar Pradesh",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:20:41.574+02:00",
+    "updated": "2024-12-17T13:20:41.574+02:00"
+}

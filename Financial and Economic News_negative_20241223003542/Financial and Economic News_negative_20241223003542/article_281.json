@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "b34053751b47c20fdcca5dbecc992667d983f1b7",
+        "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-on-widening-trade-deficit-weakness-in-local-equities/articleshow/116399219.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/wealth/calculators/income-tax-calculator",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Income Tax Calculator - New Tax Slabs 2024-24: Calculate Income Tax 2024-25 | The Economic Times",
+        "title": "Rupee hits record low on widening trade deficit, weakness in local equities - The Economic Times",
+        "title_full": "Rupee hits record low on widening trade deficit, weakness in local equities - The Economic Times",
+        "published": "2024-12-17T10:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-116399283,width-1200,height-630,imgsize-1621296,overlay-etmarkets/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b34053751b47c20fdcca5dbecc992667d983f1b7",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-on-widening-trade-deficit-weakness-in-local-equities/articleshow/116399219.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-12-17T10:14:00.000+02:00",
+    "title": "Rupee hits record low on widening trade deficit, weakness in local equities - The Economic Times",
+    "text": "The Indian rupee weakened to its lifetime low on Tuesday, hurt by concerns about a widening trade deficit and likely outflows from local equities, although intervention by the central bank capped losses. The rupee hit a low of 84.93 against the U.S. dollar, before closing at 84.8950, down 0.04% on the day. Benchmark Indian equity indexes BSE Sensex and Nifty 50, closed lower by over 1% each, dragged by weakness in financial stocks and Reliance Industries. Investor sentiment was also dampened after data on Monday showed that India's merchandise trade deficit rose to a record high of $37.84 billion, led by a surge in gold imports. Foreign banks were spotted bidding for dollars, likely on behalf of custodial clients, while the Reserve Bank of India likely intervened via state-run banks to keep a lid on the local unit's decline, traders said. The wider trade deficit has reinforced the upward bias (on USD/INR) and a rise above 85 seems quite likely in the next few sessions, a trader at a private bank said. The dollar index, meanwhile, was up 0.2% at 107 while most other Asian currencies weakened, led by a 0.6% decline in the Thai baht. U.S. bond yields rose in Asia trading with investor focus squarely on the Federal Reserve's policy decision due on Wednesday during U.S. market hours. The central bank is widely expected to cut rates at this meeting, and investors are keeping a close eye on policymakers' future interest rate projections. The Fed will cut this week by 25bp. But will likely pause at the January meeting. It's not just the inflation data, it's the unknowns coming from the beginning of the Trump administration post the 20th January inauguration, ING Bank said in a note.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reserve Bank of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reliance Industries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nifty",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b34053751b47c20fdcca5dbecc992667d983f1b7",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:51:51.644+02:00",
+    "updated": "2024-12-17T12:51:51.644+02:00"
+}

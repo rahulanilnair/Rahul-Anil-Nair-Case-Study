@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "30b0e5709dac65f57927bbe1f98d21f214427630",
+        "url": "https://www.the-independent.com/news/uk/diana-johnson-council-tax-metropolitan-police-wales-england-b2665680.html",
+        "site_full": "www.the-independent.com",
+        "site": "the-independent.com",
+        "site_section": "https://the-independent.com/rss",
+        "site_categories": [],
+        "section_title": "The Independent",
+        "title": "Council tax to rise to fund increase in police budgets | The Independent",
+        "title_full": "Council tax to rise to fund increase in police budgets | The Independent",
+        "published": "2024-12-17T14:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.the-independent.com/2024/12/17/11/e28638d83e7eb87afb187f8cfb4b6c93Y29udGVudHNlYXJjaGFwaSwxNzM0NTE5ODc0-2.77100266.jpg?quality=75&width=1200&auto=webp",
+        "performance_score": 0,
+        "domain_rank": 24683,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "30b0e5709dac65f57927bbe1f98d21f214427630",
+    "url": "https://www.the-independent.com/news/uk/diana-johnson-council-tax-metropolitan-police-wales-england-b2665680.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "David Hughes",
+    "published": "2024-12-17T14:58:00.000+02:00",
+    "title": "Council tax to rise to fund increase in police budgets | The Independent",
+    "text": "Council tax is set to increase by almost £330 million to fund policing across England and Wales next year.Ministers have set out a provisional 3.5% real-terms increase in funding for forces, but a third of the total £986.9 million package depends on council taxes increasing by £14 for the average Band D house.Policing minister Dame Diana Johnson said the funding settlement “strikes the balance between protecting taxpayers and providing funding for police forces”.In a statement to Parliament, she said the 2025-26 settlement for forces will amount to £17.4 billion, an increase of up to £986.9 million on the current year.This will provide policing with the funding required to tackle crime and keep communities safeThe additional funding will cover the costs of the pay rises given to officers, the £230.3 million increase in employers’ national insurance contributions (NICs) and also pay for recruitment to help meet the Government’s neighbourhood policing promises.The total amount going into policing, including the money to forces along with “wider system funding” will be £19.5 billion, a £1 billion increase, representing an overall 3% real terms rise.Dame Diana said: “Of the £986.9 million of additional funding for police forces, I can confirm that £657.1 million of this is an increase to government grants, which includes an increase in the core grants of £339 million to ensure police forces are fully equipped to deliver our safer streets mission.“This also includes £230.3 million to compensate territorial forces for the costs of the change to the employer national insurance contributions from 2025-26, and an additional £100 million to kickstart the first phase of 13,000 additional police officers, PCSOs and special constables into neighbourhood policing roles.Years of failure and ineffective resourcing from the previous Conservative government decimated neighbourhood policing“This will provide policing with the funding required to tackle crime and keep communities safe.”Police and crime commissioners have the ability to increase the precept – their portion of council tax – by up to £14 without triggering a referendum.“This could generate up to £329.8 million of additional funding available to police forces compared with 2024-25,” Dame Diana told MPs.Funding for the Metropolitan Police will increase, partly due to a “substantial increase in protest activity” in recent years.Scotland Yard and City of London Police will receive £255.2 million through the national and international capital city grant, a £65 million increase on 2024/25.Liberal Democrat home affairs spokeswoman Lisa Smart said: “Years of failure and ineffective resourcing from the previous Conservative government decimated neighbourhood policing – taking officers off our streets and leaving our communities far less safe.“The Government should be stepping up to fix this by properly funding the officers our communities need – not passing the buck to local police chiefs to put up people’s council tax instead.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dame Diana Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Parliament",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wales",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:20:02.808+02:00",
+    "updated": "2024-12-17T15:20:02.808+02:00"
+}

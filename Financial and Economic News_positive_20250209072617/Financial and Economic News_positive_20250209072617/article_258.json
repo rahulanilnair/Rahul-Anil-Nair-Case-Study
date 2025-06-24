@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "0b18255b004c6ed347ff2cae04ea2d583ef6763f",
+        "url": "https://www.wfmz.com/video/pa-launches-4-2m-grant-program-to-retain-teachers-asd-speaks-out-on-need-for/video_81ee31f8-5ca2-53b5-b37d-d73a912cbb01.html",
+        "site_full": "www.wfmz.com",
+        "site": "wfmz.com",
+        "site_section": "http://www.wfmz.com/search/?f=rss&amp;t=article&amp;c=entertainment&amp;l=50&amp;s=start_time&amp;sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.wfmz.com - RSS Results",
+        "title": "Pa. launches $4.2M grant program to retain teachers. ASD speaks out on need for more funds",
+        "title_full": "Pa. launches $4.2M grant program to retain teachers. ASD speaks out on need for more funds",
+        "published": "2025-01-10T01:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/1e/81ee31f8-5ca2-53b5-b37d-d73a912cbb01/678058abaf4ca.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 8284,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b18255b004c6ed347ff2cae04ea2d583ef6763f",
+    "url": "https://www.wfmz.com/video/pa-launches-4-2m-grant-program-to-retain-teachers-asd-speaks-out-on-need-for/video_81ee31f8-5ca2-53b5-b37d-d73a912cbb01.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T01:14:00.000+02:00",
+    "title": "Pa. launches $4.2M grant program to retain teachers. ASD speaks out on need for more funds",
+    "text": "Pa. launches $4.2M grant program to retain teachers. ASD speaks out on need for more funds\n- Updated\n0\nAs featured on\n<a href=\"https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/pa-launches-4-2m-grant-program-to-retain-teachers-asd-speaks-out-on-need-to/article_c459453c-ced2-11ef-a9d8-13a49bb64435.html\">\nPa. launches $4.2M grant program to retain teachers. ASD speaks out on need to address teacher shortage</a>\nAllentown School District told us this new grant program will help remove some of the barriers keeping eligible hires out of the classroom.\nRight Now\n30°\n- Humidity: 52%\n- Cloud Coverage: 3%\n- Wind: 11 mph\n- UV Index: 0 Low\n- Sunrise: 07:25:12 AM\n- Sunset: 04:53:39 PM\nToday\nMostly clear, cold, and blustery with low wind chills. Winds may gust 35mph for most early tonight, up to 50mph in the Poconos.\nTonight\nMostly clear, cold, and blustery with low wind chills. Winds may gust 35mph for most early tonight, up to 50mph in the Poconos.\nTomorrow\nSunshine mixing with increasing late day clouds; still windy early, but winds slowly diminish by afternoon to a more tolerable 10-15mph.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Education->state school",
+        "Education->educational grading",
+        "Education->teachers",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Allentown School District",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:20:27.563+02:00",
+    "updated": "2025-01-10T02:20:27.563+02:00"
+}

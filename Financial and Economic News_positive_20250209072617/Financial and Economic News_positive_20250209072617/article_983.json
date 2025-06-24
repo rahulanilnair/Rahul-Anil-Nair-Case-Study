@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "5993b9656f181cbdb7b5a7c0d2bbd32f67f2318a",
+        "url": "https://blockchain.news/news/thorchain-rune-2024-developments-report",
+        "site_full": "blockchain.news",
+        "site": "blockchain.news",
+        "site_section": "https://test.finex.cz",
+        "site_categories": [
+            "media",
+            "finance"
+        ],
+        "section_title": "Finex.cz &#187; Pomáháme dělat chytrá finanční rozhodnutí",
+        "title": "THORChain (RUNE) Reports Significant Developments in 2024 - Blockchain.News",
+        "title_full": "THORChain (RUNE) Reports Significant Developments in 2024 - Blockchain.News",
+        "published": "2025-01-10T08:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 56096,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5993b9656f181cbdb7b5a7c0d2bbd32f67f2318a",
+    "url": "https://blockchain.news/news/thorchain-rune-2024-developments-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "blockchain.news",
+    "published": "2025-01-10T08:26:00.000+02:00",
+    "title": "THORChain (RUNE) Reports Significant Developments in 2024 - Blockchain.News",
+    "text": "THORChain, a decentralized liquidity protocol, has released its comprehensive 2024 year-end and Q4 report, detailing significant advancements and strategic shifts that occurred over the past year. According to Nine Realms, the report showcases a series of key metrics and developments aimed at enhancing the protocol's efficiency and security.\nKey Metrics and Financial Overview\nThroughout Q4 2024, THORChain reported a total USD volume of $13.9 billion, with the highest 24-hour volume recorded at $334 million. However, the total liquidity saw a decline, dropping from $503 million to $259 million, marking a 48% decrease. Liquidity fees collected amounted to $5.28 million, while affiliate earnings reached $3.92 million. The report also highlighted a breakdown of LP earnings, with 27.83% attributed to liquidity fees and 72.17% to block rewards.\nSwap Routes and Liquidity Fees\nThe top swap routes by USD volume included BTC<>RUNE, ETH<>RUNE, and BTC<>ETH, with BTC<>RUNE leading at over $2.6 billion. Similarly, the top routes by liquidity fees also saw BTC<>RUNE at the forefront, generating $956,030 in fees.\nIntegrations and Protocol Enhancements\nIn Q4, THORChain introduced several integrations, including Ledger Live via SwapKit, Bitget Wallet, and Gem Wallet. A notable change was the adjustment of the minimum swap fee to 8bps, doubling for a double swap. This change aligns the streaming swap slippage target with the minimum slip fee.\nFurther protocol enhancements include the ability to specify multiple thornames in a swap memo for affiliate fee distribution, marking a significant upgrade in revenue sharing capabilities. The incentive pendulum was also reverted to its original form, now considering all RUNE from all nodes, which favored liquidity pools earning 75% of all rewards in Q4 2024.\nStrategic Upgrades and Future Outlook\nTHORChain executed several strategic upgrades, including a reduction in churn migrate rounds to lower gas costs, a 5% system income burn, and an update to Cosmos SDK v0.50 to facilitate future functionalities. The introduction of the Cosmos Upgrade Module allows for seamless hard forks to prevent consensus failures.\nLooking ahead, THORChain plans to focus on enhancing its App Layer, shifting away from the base protocol layer to mitigate risks. Potential future developments include the integration of the Solana chain and the use of IBC to expand asset offerings within the App Layer.\nThe report concludes with an emphasis on active yield improvements, aiming to enhance the liquidity provision experience by allowing yield streaming to various Layer 1 assets.\nFor the detailed report, visit the original source on [Medium](https://medium.com/thorchain/thorchain-2024-year-end-report-q4-report-737725c7b89e).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Social Issue->social condition",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://medium.com/thorchain/thorchain-2024-year-end-report-q4-report-737725c7b89e",
+        "https://www.medium.com/thorchain/thorchain-2024-year-end-report-q4-report-737725c7b89e"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5993b9656f181cbdb7b5a7c0d2bbd32f67f2318a",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:45:39.911+02:00",
+    "updated": "2025-01-10T09:45:39.911+02:00"
+}

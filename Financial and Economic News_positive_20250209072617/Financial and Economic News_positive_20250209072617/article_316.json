@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "16816bcbebd447d789ea5f23d0f5503e86bbd344",
+        "url": "https://www.rigzone.com/news/wire/crude_futures_close_higher-09-jan-2025-179267-article/?rss=true",
+        "site_full": "www.rigzone.com",
+        "site": "rigzone.com",
+        "site_section": "http://www.rigzone.com/news/rss/rigzone_headlines.aspx",
+        "site_categories": [
+            "job_search",
+            "jobs"
+        ],
+        "section_title": "Rigzone.com: Industry Headlines",
+        "title": "Crude Futures Close Higher",
+        "title_full": "Crude Futures Close Higher",
+        "published": "2025-01-09T22:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.rigzone.com/images/news/articles/Crude-Futures-Close-Higher-179267-1200x628.png",
+        "performance_score": 0,
+        "domain_rank": 16038,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "16816bcbebd447d789ea5f23d0f5503e86bbd344",
+    "url": "https://www.rigzone.com/news/wire/crude_futures_close_higher-09-jan-2025-179267-article/?rss=true",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Rigzone",
+    "published": "2025-01-09T22:59:00.000+02:00",
+    "title": "Crude Futures Close Higher",
+    "text": "Crude Futures Close Higher\nOil advanced, with traders weighing short-term supply risks against further signs of Chinese economic weakness.\nWest Texas Intermediate rose 0.8% to settle near $74 a barrel, tacking on its seventh gain in the last nine sessions. Oil prices fell more than 1% on Wednesday after futures failed to breach a key technical level.\nCrude’s strong start to 2025 has been supported by continued US inventory drawdowns and potential risks to Iranian supply in a second Donald Trump presidency. Cold weather is expected to boost demand for heating fuels this month, and Russia’s seaborne crude exports recently slumped to their lowest since August 2023.\nCold weather will boost first-quarter demand for heating oil, kerosene and liquefied petroleum gas by 500,000 to 700,000 barrels a day, JPMorgan Chase & Co. analysts said in a note Thursday. At the high end, that’s more than 40% of the 1.6 million barrel-a-day increase in total oil demand the bank expects for the period.\n“Winter comprises a sizable chunk of energy demand, but the swings from normal to deep-freeze conditions will have effects on both supply and demand for oil,” analysts including Natasha Kaneva said in the note.\nLimiting crude’s gains, consumer inflation in China fell further toward zero, a setback for government efforts to revive demand. Recent strength in the US dollar has also made commodities priced in the currency — including oil — less attractive to some buyers.\nConcerns also persist that supplies may exceed demand. Many banks have retained their bearish outlooks, and Standard Chartered Plc cut its 2025 Brent crude forecast by $5, to $87 a barrel, and lowered its first-quarter estimate by $7, to $82.\n“The outlook is slightly bearish,” Viktor Katona, head of oil analysis at consultancy Kpler, said at the online Gulf Intelligence Outlook Forum. “We’re not going to see demand growth above 1 million barrels a day at any point in the future. With the China that we currently have, it’s not going to happen. The slowdown is evident.”\nOil Prices:\n- WTI for February delivery rose 0.8% to settle at $73.92 a barrel in New York.\n- Brent for March delivery gained 1% to settle at $76.92 a barrel.\nWhat do you think? We’d love to hear from you, join the conversation on the [\nRigzone Energy Network.\n](/network/post/12959/details/)\nThe [Rigzone Energy Network](/network/) is a new social experience created for you and all energy professionals to Speak Up about our industry, share knowledge, connect with peers and industry insiders and engage in a professional community that will empower your career in energy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Environment",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market",
+        "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "JPMorgan Chase & Co.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:51:05.328+02:00",
+    "updated": "2025-01-10T02:51:05.328+02:00"
+}

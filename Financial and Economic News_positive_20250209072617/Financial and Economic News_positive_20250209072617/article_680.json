@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "23952acca68d0443b346f38bdcc4a110ccd5a940",
+        "url": "https://ippmedia.com/the-guardian/news/local-news/read/mlimba-dc-sets-record-with-22bn-in-loans-for-women-youth-pwds-2025-01-09-183027",
+        "site_full": "ippmedia.com",
+        "site": "ippmedia.com",
+        "site_section": "https://ippmedia.com/the-guardian/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " IPP ",
+        "title": "Mlimba DC sets record with 2.2bn/- in loans for women, youth, PwDs | The Guardian",
+        "title_full": "Mlimba DC sets record with 2.2bn/- in loans for women, youth, PwDs | The Guardian",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TZ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 63459,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23952acca68d0443b346f38bdcc4a110ccd5a940",
+    "url": "https://ippmedia.com/the-guardian/news/local-news/read/mlimba-dc-sets-record-with-22bn-in-loans-for-women-youth-pwds-2025-01-09-183027",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joseph Prosper",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Mlimba DC sets record with 2.2bn/- in loans for women, youth, PwDs | The Guardian",
+    "text": "THE Mlimba District Council in Morogoro Region has set a record by providing 2.2bn/- in loans for women, youth, and people with disabilities, surpassing other districts in the region.\nThe loans were distributed earlier this week at the council's office by Kilombero District Commissioner Dunstan Kyobya.\nDuring the distribution, Council executive director Jamaly Abdul explained that 1,011,701,575/- of the total amount came from 10pc of internal revenue allocated for the 2023/2024 and 2024/2025 financial years, while 1,194,364,886/- came from loan repayments.\nOf the funds, 882,426,584.40/- will go to women’s groups, 882,426,584.40/-to youth groups, and 441,213,292.20/- to people with disabilities.\nJamaly added that the funds will be distributed in three phases, with the first phase allocating 746,795,000/- to 49 groups—26 women’s groups, 19 youth groups, and 4 groups for people with disabilities.\nHe also noted an outstanding repayment of 109,185,500/- from groups in the Mchombe, Igima, Mofu, and Idete wards, saying legal action will be taken against those responsible.\nKyobya instructed the executive director to ensure all groups in every ward receive loans. He stressed that it is unacceptable for issues of one group to prevent eligible citizens in other wards from receiving loans. Kyobya also urged strict repayment enforcement.\nKyobya further ordered that the second phase of loans be completed by the end of the month.\n© 2025 IPPMEDIA.COM. ALL RIGHTS RESERVED",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->human resources",
+        "Social Issue->teenagers",
+        "Social Issue->disabilities",
+        "Social Issue->women",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dunstan Kyobya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamaly Abdul",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Mlimba District Council",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kilombero",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "23952acca68d0443b346f38bdcc4a110ccd5a940",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:23:11.822+02:00",
+    "updated": "2025-01-10T07:23:11.822+02:00"
+}

@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "fdf03caf4c9ce1dcc7bc4999684374d92c0e34f9",
+        "url": "https://news.sky.com/story/welsh-first-minister-expecting-uplift-in-money-for-railways-in-wales-from-westminster-as-she-slams-unfair-hs2-funding-13286212",
+        "site_full": "news.sky.com",
+        "site": "sky.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "politics",
+            "media",
+            "financial_news",
+            "law_government_and_politics",
+            "finance"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Welsh first minister 'expecting uplift' in money for railways in Wales from Westminster as she slams 'unfair' HS2 funding",
+        "title_full": "Welsh first minister 'expecting uplift' in money for railways in Wales from Westminster as she slams 'unfair' HS2 funding",
+        "published": "2025-01-09T21:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://e3.365dm.com/24/09/1600x900/skynews-wales-keir-starmer_6694544.jpg?20240923103025",
+        "performance_score": 0,
+        "domain_rank": 575,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fdf03caf4c9ce1dcc7bc4999684374d92c0e34f9",
+    "url": "https://news.sky.com/story/welsh-first-minister-expecting-uplift-in-money-for-railways-in-wales-from-westminster-as-she-slams-unfair-hs2-funding-13286212",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sky UK Limited",
+    "published": "2025-01-09T21:38:00.000+02:00",
+    "title": "Welsh first minister 'expecting uplift' in money for railways in Wales from Westminster as she slams 'unfair' HS2 funding",
+    "text": "Welsh first minister 'expecting uplift' in money for railways in Wales from Westminster as she slams 'unfair' HS2 funding\nEluned Morgan became Welsh Labour's new leader last summer after she ran unopposed to replace Vaughan Gething. Since then, she has been pushing her Labour colleague Keir Starmer to boost rail funding, she has told Sky News.\nFriday 10 January 2025 03:31, UK\nThe first minister of Wales has revealed she is expecting more money from the prime minister for rail infrastructure in the country.\nSpeaking exclusively to Sky News, [Eluned Morgan](https://news.sky.com/topic/eluned-morgan-11254) hailed HS2 as \"unfair\" and said she is \"expecting to see some uplift in terms of rail infrastructure and financing\".\nA UK government source said the government would \"signal a direction of travel\" on transport in Wales in the coming days, and the issue will be a \"priority\" in the spending review in the spring.\nThe source said the government is making efforts to \"fix\" the \"historic underinvestment in rail in [Wales](https://news.sky.com/topic/wales-6259), exacerbated by HS2\".\nThe first minister said she hopes to see additional funding before the Senedd elections next May, but it is unclear how much cash [Sir Keir Starmer](https://news.sky.com/topic/sir-keir-starmer-8622) is willing to give his colleagues in Wales.\nDespite no plans for [HS2](https://news.sky.com/topic/hs2-6790) infrastructure to run through Wales, the project was categorised as an England and Wales project by the previous Conservative government.\nThat meant no funding was given to Wales even though regional governments in Scotland and Northern Ireland received additional money because they were not part of the project.\nAll parties within the Senedd have called for Wales to receive the extra funding for HS2.\nIn her first interview with Sky News since taking office, Ms Morgan labelled the current situation as \"absolutely wrong, unfair, unjustified\".\nShe said: \"We need our share of that money. We haven't been given our share of that money.\"\nPrevious analysis suggested Wales was owed £4bn in equivalent funding, but more recent Welsh government estimates suggest the figure could be closer to £350m.\nThe UK Labour Party has been criticised by Plaid Cymru for 'flip-flopping' over HS2 funding.\nIn 2022, the then shadow Wales secretary Jo Stevens attacked the Conservative government for not compensating Wales - saying \"it is utterly illogical to designate it an England and Wales project\".\nHowever, during the election campaign, Ms Stevens said the \"money isn't there\" for HS2 funding.\nThe first minister suggested she has been pushing the prime minister behind the scenes.\nShe said: \"Every time I see poor Keir Starmer, I ask him for our share of that money. So I will stand up for Wales on every single opportunity.\n\"But I will also take advantage of the fact that we have a government in Westminster now of the same colour who started to turn the taps on for public services.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->political process",
+        "Politics->regional government and authority",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->transport",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->discrimination",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vaughan Gething",
+                "sentiment": "none"
+            },
+            {
+                "name": "Keir Starmer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Welsh Labour",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wales",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:05:15.370+02:00",
+    "updated": "2025-01-10T07:05:15.370+02:00"
+}

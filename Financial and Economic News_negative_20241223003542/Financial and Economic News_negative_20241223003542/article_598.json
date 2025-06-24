@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "96f19282d68e0b9275b550066d473df0187d35e6",
+        "url": "https://www.rawstory.com/paul-krugman-trump-2670479246",
+        "site_full": "www.rawstory.com",
+        "site": "rawstory.com",
+        "site_section": "https://www.rawstory.com/us-news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_ca",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "US News - Raw Story",
+        "title": "Trump handed basic math lesson as Nobel prize winner takes apart policies",
+        "title_full": "Trump handed basic math lesson as Nobel prize winner takes apart policies",
+        "published": "2024-12-17T13:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.rawstory.com/media-library/u-s-president-elect-donald-trump-delivers-remarks-at-mar-a-lago-in-palm-beach-florida-u-s-december-16-2024-reuters-brian.jpg?id=55351436&width=1200&height=600&coordinates=0%2C466%2C0%2C467",
+        "performance_score": 0,
+        "domain_rank": 3187,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96f19282d68e0b9275b550066d473df0187d35e6",
+    "url": "https://www.rawstory.com/paul-krugman-trump-2670479246",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brad Reed",
+    "published": "2024-12-17T13:59:00.000+02:00",
+    "title": "Trump handed basic math lesson as Nobel prize winner takes apart policies",
+    "text": "Nobel Prize-winning economist [Paul Krugman](https://www.rawstory.com/trump-currency-policy/) warned on Tuesday that [President-elect Donald Trump's](https://www.rawstory.com/trump-paul-krugman/) promises to the business community could send inflation soaring back upward in the coming years.\n[Writing in his personal Substack page](https://paulkrugman.substack.com/p/masayoshi-son-and-the-art-of-the), Krugman dissected Softbank CEO Masayoshi Son's recent announcement that he plans to invest $100 billion into the United States in the wake of President-elect Donald Trump's victory.\nAccording to Krugman, the Softbank announcement is being vastly overhyped and is almost certain to underdeliver on its CEO's promises.\n\"As news reports mostly seem to acknowledge, this appears to involve investments Son was already planning to make before the election, which he and [Trump](https://www.rawstory.com/trump-news/) are now presenting as a response to Trump. The same thing happened in 2016,\" he writes.\n\"Second, that last round of investments turned out miserably. A lot of it went to WeWork. Remember them? Nobody can be sure how many people ended up with new jobs thanks to Son’s money last time, but it probably wasn’t many.\"\nALSO READ: [15-year-old girl identified as shooter who killed 2 at Wisconsin school: officials](https://www.rawstory.com/abundant-life-christian-school/?utm_source=superhead)\nKrugman then pivots to argue that Trump's enthusiasm for the Softbank investment will clash with his other stated priorities.\n\"We’re now seeing a perfect example of the [arithmetic problem](https://paulkrugman.substack.com/p/from-exorbitant-privilege-to-invincible) I pointed out the other day,\" he wrote. \"Trump wants to reduce the U.S. trade deficit; he also wants to attract more foreign investment into the United States. But he can’t, as a matter of sheer accounting (which, I know, has a well-known globalist/Marxist bias):Trade balance + Net inflows of capital = 0. If more money flows into America, that must mean a bigger, not smaller trade deficit.\"\nKrugman then predicts that a widening trade deficit could lead Trump to pressure the Federal Reserve to drastically slash interest rates, which would likely reignite inflation.\n\"I don’t think markets are properly pricing in the likely inflationary consequences of Trump’s coming war on arithmetic,\" he concludes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://paulkrugman.substack.com/p/from-exorbitant-privilege-to-invincible",
+        "https://paulkrugman.substack.com/p/masayoshi-son-and-the-art-of-the",
+        "https://www.paulkrugman.substack.com/p/masayoshi-son-and-the-art-of-the",
+        "https://www.paulkrugman.substack.com/p/from-exorbitant-privilege-to-invincible"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Paul Krugman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Masayoshi Son",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Softbank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:25:31.737+02:00",
+    "updated": "2024-12-17T14:25:31.737+02:00"
+}

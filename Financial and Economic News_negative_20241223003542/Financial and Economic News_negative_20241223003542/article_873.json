@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "8156f963447954cb7753d188457c586f3e0f0436",
+        "url": "https://www.dawn.com/news/1879284",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://www.dawn.com/newspaper",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Front Page -Newspaper - DAWN.COM",
+        "title": "Internet issues due to security concerns: govt",
+        "title_full": "Internet issues due to security concerns: govt",
+        "published": "2024-12-17T04:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.dawn.com/large/2024/12/17093833e23f563.png?r=093842",
+        "performance_score": 0,
+        "domain_rank": 3080,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 8
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8156f963447954cb7753d188457c586f3e0f0436",
+    "url": "https://www.dawn.com/news/1879284",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amir Wasim",
+    "published": "2024-12-17T04:31:00.000+02:00",
+    "title": "Internet issues due to security concerns: govt",
+    "text": "• Parliamentary secy blames net speed problems on ‘congestion, theft and loadshedding’, claims they will be resolved after 5G auction by April 2025\n• Omar Ayub alleges sluggish connectivity, social media curbs result of interference by intel agencies\nISLAMABAD: The government on Monday tacitly acknowledged on the floor of the National Assembly that it was behind the [ongoing](https://www.dawn.com/news/1874815) internet disruptions and monitoring of social media platforms, citing prevailing security concerns.\n“Pakistan is facing great security threats, so we have to adopt some kind of a strategy. We cannot leave it [social media] unbridled like other countries,” Parliamentary Secretary for Cabinet Secretariat Sajid Mehdi said, while responding to criticism from the opposition over slow internet speeds and alleged curbs on social media.\nThe issue came under discussion when the house took up a calling attention notice moved by Aliya Kamran of the Jamiat Ulema-i-Islam (JUI-F) “regarding slow internet speed in the country”.\nMr Mehdi said it was because of “security reasons” that they were seeking to [regulate](https://www.dawn.com/news/1875795) the use of VPNs [Virtual Private Networks], informing the house that they had already regularised 37,000 users.\nThe parliamentary secretary was responding to the issue in the absence of State Minister for Information Technology Shaza Fatima Khawaja, who later arrived in the hall only to introduce the Digital Nation Pakistan Bill 2024.\nThe secretary, however, said that sluggish internet speeds were due to the lack of “advanced technology” available to the country. He hastened to add that internet speeds were “not as slow” as was being claimed, and without offering an explanation, claimed that this sometimes happened due to “congestion, theft and loadshedding”.\nMr Mehdi said in Pakistan they had only 15 per cent fibre cable whereas India had 40 per cent of its network on fibre cable.\nHe claimed these would be resolved after the 5G spectrum auction by April next year, adding that he was making this announcement on the basis of a statement of the state minister that he had seen on a TV channel.\nRaising the issue, Ms Kamran had declared that the rulers were afraid of the internet and they always made attempts to control it. She accused the government of destroying the IT industry by “trying to control [social media] through registration of VPNs and installation of a digital firewall”.\nShe also questioned the move to register VPN users in absence of any such law and rules, saying that the parliamentary secretary had admitted that they were controlling the social media through the process of VPNs registration.\nThe JUI-F MNA then referred to a recently released global index report about internet speed, according to which Pakistan [stood](https://www.dawn.com/news/1877689) at 141 among 158 countries. She mocked the parliamentary secretary’s claim, stating that in a country where people were not able to use 3G and 4G internet connections, the government was talking about the auction of 5G licences.\nTaking the floor, Leader of the Opposition Omar Ayub Khan alleged that the government wanted to block people’s access to social media due to the popularity of PTI and its founding chairman Imran Khan.\nHe said a number of people had relocated their businesses and many of them had already lost their jobs in the prevailing internet situation due to the blockade of VPNs in the country.\nThe opposition leader then asked deputy speaker Ghulam Mustafa Shah to take notice of the “perjury” committed by senior officials of the IT ministry and the Pakistan Telecommunication Authority (PTA) when they made a statement before the standing committee that the slow internet speed was because of a fault in an undersea cable.\n“The internet speed in Pakistan is not slow because of 5G or undersea cable. The internet speed is slow because of the direct interference of intelligence agencies in affairs of the PTA,” he said, adding that it seemed that efforts were being made to bring a ‘model on the lines of North Korea or defunct Soviet Union’ to Pakistan.\nNA pays tribute to APS martyrs\nLawmakers also spoke on the 2014 [massacre](https://www.dawn.com/army-public-school-10-years/) of the Army Public School students in Peshawar and the East Pakistan debacle as both incidents had happened on Dec 16.\nThe house also unanimously passed a resolution calling on the government, alongside all political, social, and civil society actors, to unite in the collective effort to build a peaceful, prosperous and secure Pakistan, free from the scourge of terrorism.\nThe resolution, moved by Pakistan Peoples Party’s senior leader Shazia Marri, said the nation acknowledges the sacrifice made by young martyrs, their teachers and staff on December 16, 2014.\nPublished in Dawn, December 17th, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aliya Kamran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sajid Mehdi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Omar Ayub",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Assembly",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:46:24.861+02:00",
+    "updated": "2024-12-17T15:46:24.861+02:00"
+}

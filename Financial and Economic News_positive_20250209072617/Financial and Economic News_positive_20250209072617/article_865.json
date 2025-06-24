@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "52e3f1b810695c70c16edb06c0fdeb4a724320cc",
+        "url": "https://www.moneyweb.co.za/news-fast-news/oil-in-longest-run-of-weekly-gains-since-july-as-market-tightens",
+        "site_full": "www.moneyweb.co.za",
+        "site": "moneyweb.co.za",
+        "site_section": "https://www.moneyweb.co.za/news/markets",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Markets 101: Jargon busting - Moneyweb",
+        "title": "Oil in longest run of weekly gains since July as market tightens - Moneyweb",
+        "title_full": "Oil in longest run of weekly gains since July as market tightens - Moneyweb",
+        "published": "2025-01-10T08:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ZA",
+        "main_image": "https://www.moneyweb.co.za/wp-content/uploads/2025/01/423155853-1024x575.jpg",
+        "performance_score": 0,
+        "domain_rank": 16228,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52e3f1b810695c70c16edb06c0fdeb4a724320cc",
+    "url": "https://www.moneyweb.co.za/news-fast-news/oil-in-longest-run-of-weekly-gains-since-july-as-market-tightens",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Lua, Bloomberg",
+    "published": "2025-01-10T08:15:00.000+02:00",
+    "title": "Oil in longest run of weekly gains since July as market tightens - Moneyweb",
+    "text": "Oil headed for a third weekly gain — set for the best run since July — as signs of market tightness, including falling US stockpiles, offset concerns about demand weakness in top importer China.\nGlobal benchmark Brent rose above $77 a barrel, and is almost 1% higher this week, while West Texas Intermediate was near $74. Crude inventories at the Cushing, Oklahoma, hub have dropped to the lowest level since 2014. Consumer inflation in China fell further toward zero, highlighting the challenge authorities face in bolstering the economy. ADVERTISEMENT CONTINUE READING BELOW\nOil’s push higher in recent weeks has been supported by cold weather that’s boosted demand for heating fuels, the drawdown in US inventories, and lower shipments from Russia. President-elect Donald Trump’s imminent return to the White House is also raising risks to Iranian supplies, and creating nervousness about a potential trade war that could interrupt flows of energy.\n“The reduction in inventories, perception of lower Chinese demand for Iranian exports, and the cold snap that promises to see a sizable shift in demand for heating fuel has justified this move higher,” said Chris Weston, head of research at Pepperstone Group. “However, the supply we’re now seeing into $75 suggests currently levels are fair, with a hesitation to take this toward $80.”\nTrump is expected to authorise new drilling on federal lands as part of a flurry of executive orders in the early hours after his Jan. 20 inauguration. The president-elect has also pledged to put tariffs on all Canadian imports, potentially including crude.\nMarket metrics point to tighter conditions. Brent’s prompt spread — the difference between its two nearest contracts – has widened to 70 cents a barrel in backwardation, a bullish pattern. A month ago, the gap was 29 cents in backwardation. ADVERTISEMENT: CONTINUE READING BELOW Prices: Brent for March delivery gained 0.3% to $77.14 a barrel at 11:36 a.m. in Singapore. The global benchmark is up 0.8% this week WTI for February delivery rose 0.3% to $74.14 a barrel\n© 2025 Bloomberg\nFollow Moneyweb’s in-depth finance and business news on WhatsApp here .\nTAGS: Cushing | Donald Trump | oil | Oklahoma | US Stockpiles",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://whatsapp.com/channel/0029Vak1qsQDuMRlZuYnnF11",
+        "https://www.whatsapp.com/channel/0029Vak1qsQDuMRlZuYnnF11"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:59:41.400+02:00",
+    "updated": "2025-01-10T08:59:41.400+02:00"
+}

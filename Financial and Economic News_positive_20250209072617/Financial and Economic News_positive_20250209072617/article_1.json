@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "c5cd5fa5306fb0724ea8195c5f1a4e55e99accdd",
+        "url": "https://www.ans.org/news/article-5733/ge-hitachi-gets-backing-from-uk-future-nuclear-fund",
+        "site_full": "www.ans.org",
+        "site": "ans.org",
+        "site_section": "https://www.ans.org/news/article-5733",
+        "site_categories": [],
+        "section_title": "GE Hitachi gets backing from U.K. future nuclear fund -- ANS / Nuclear Newswire",
+        "title": "GE Hitachi gets backing from U.K. future nuclear fund -- ANS / Nuclear Newswire",
+        "title_full": "GE Hitachi gets backing from U.K. future nuclear fund -- ANS / Nuclear Newswire",
+        "published": "2025-01-09T23:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18590,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c5cd5fa5306fb0724ea8195c5f1a4e55e99accdd",
+    "url": "https://www.ans.org/news/article-5733/ge-hitachi-gets-backing-from-uk-future-nuclear-fund",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Wald",
+    "published": "2025-01-09T23:12:00.000+02:00",
+    "title": "GE Hitachi gets backing from U.K. future nuclear fund -- ANS / Nuclear Newswire",
+    "text": "The United Kingdom’s Future Nuclear Enabling Fund (FNEF) awarded £33.6 million (about U.S.$42.8 million) to GE Hitachi Nuclear Energy last week.\nThe move comes as part of the FNEF’s support for growing the Britain’s generation of 24 GW of nuclear by 2050. The country currently produces around 9,100 megawatts per year.\nTo continue reading, log in or create a free account !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Science and Technology->biomedical science",
+        "Science and Technology->scientific research",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:01:03.226+02:00",
+    "updated": "2025-02-03T15:07:14.371+02:00"
+}

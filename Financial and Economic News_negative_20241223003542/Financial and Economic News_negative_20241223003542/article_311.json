@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "92845665af70d120c523eb77e6951605e14e8ac1",
+        "url": "https://www.york.gov.uk/news/article/1594/criminals-behind-1-million-scam-jailed-by-york-investigators",
+        "site_full": "www.york.gov.uk",
+        "site": "york.gov.uk",
+        "site_section": "https://york.gov.uk/rss/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "www.york.gov.uk",
+        "title": "Criminals behind £1 million scam jailed by York investigators",
+        "title_full": "Criminals behind £1 million scam jailed by York investigators",
+        "published": "2024-12-16T13:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 52555,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "92845665af70d120c523eb77e6951605e14e8ac1",
+    "url": "https://www.york.gov.uk/news/article/1594/criminals-behind-1-million-scam-jailed-by-york-investigators",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "City of York Council",
+    "published": "2024-12-16T13:51:00.000+02:00",
+    "title": "Criminals behind £1 million scam jailed by York investigators",
+    "text": "The 4 men exploited the government’s Green Deal initiative, cheated their way to more than £1 million through a home improvement scam, and were sentenced at Leeds Crown Court on Friday 13 December.\nThe group offered home improvement services - particularly supplying and fitting windows and doors - and targeted victims across Yorkshire and Derbyshire between April 2017 and August 2019. They used fake names to hide their true identities, secured business by misrepresentation, knowingly delivered defective services and persuaded customers to pay with substantial deposits for substandard work.\nThey also generated customer interest through a misleading advertising campaign which enticed customers to contact them, at which point the group began their pushy sales techniques.\nThe defendants were convicted of fraud and proceeds of crime offences in relation to the activity of several companies that claimed to be home improvement specialists, with expertise in fitting windows.\nIn many cases, the windows were of poor quality, often arriving undersized, cracked or scratched. They were often installed badly, causing damage to homeowners’ walls and leaving them with large gaps between the windows and the walls.\nThe sentences handed down today were as follows:\n- Zulkernan Mahmood, 36 of Bradford, Yorkshire - sentenced to 6 years and 4 months imprisonment, handed a 10-year criminal behaviour order (CBO) and disqualified from being a director for 14 years\n- Rehan Yousaf, 47 of Bradford, Yorkshire - sentenced to 2 years and 6 months imprisonment (to run consecutively with a sentence of 7 years and 11 months that he is currently serving), handed a 10-year CBO and disqualified from being a company director for 12 years\n- Jonathan O’Grady, 37 of Bridlington, Yorkshire - handed a 2-year suspended sentence, ordered to complete 220 hours of unpaid work and disqualified from being a director for 6 years\n- David Goody, 54 of Bradford, Yorkshire - ordered to complete 100 hours of unpaid work and disqualified from being a director for 3 years\nA 5th man, Jordan Coalby, 31 of Bacup, Lancashire, failed to attend court and an arrest warrant has been issued.\nNearly all complainants were enticed by a professionally filmed TV advert.\nOne victim, an 80-year-old man, hired ‘Pilkington Home Improvements’ in 2018 to build an extension after being cold-called by a man named ‘Adam’. The victim paid £89,000 for work that - if completed to a satisfactory standard - should only have cost £46,000. Instead, he was left significantly out of pocket for work which left his home in a dangerous condition.\nAnother victim hired the company after being told he was eligible for a ‘special offer for over 70’s’. The victim was pressured by ‘Adam’ into paying the £1,325 deposit for work which was never started. Luckily, he was able to get his money back following an intervention by Trading Standards.\nThe defendants were prosecuted following an investigation led by the National Trading Standards Yorkshire and Humber Regional Investigations Team, hosted by City of York Council.\nLord Michael Bichard, Chair, National Trading Standards, said:\nThese men left many people with extensive remedial works required at their homes; some were left living in structurally unstable properties with no viable means of repairing the damage done due to the financial losses they incurred.\n“This sentencing follows a lengthy investigation by Trading Standards officers, and I would like to extend my gratitude to them for their hard work in bringing this gang to justice.\n“We urge consumers to stay vigilant about home improvement scams – watch out for anybody trying to pressurise you into parting with your money and always seek advice from trusted friends and family members. Criminals are always seeking new ways to exploit people’s concerns for their own gain, and with many people considering making their homes more energy efficient, these types of scams remain a real threat.\n“If you or someone you know has been a victim of fraud, please report it to the Citizens Advice consumer service helpline by calling 0808 223 1133.”\nCllr Jenny Kent, Executive Member for Environment at City of York Council, said:\nOur Trading Standards team investigations are helping secure justice for innocent people and are a warning to anyone considering exploiting homeowners that they will be caught. Home and energy efficiency improvements are vital for people to have warm, low-cost homes, and it is really damaging if peoples’ trust is eroded by a small number of criminals.\n“Our dedicated team is committed to upholding people’s rights, enabling confidence in decent suppliers, and ensuring that those who seek to cheat people and erode that trust are brought to justice.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Yorkshire",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "92845665af70d120c523eb77e6951605e14e8ac1",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:02:07.542+02:00",
+    "updated": "2024-12-17T13:02:07.542+02:00"
+}

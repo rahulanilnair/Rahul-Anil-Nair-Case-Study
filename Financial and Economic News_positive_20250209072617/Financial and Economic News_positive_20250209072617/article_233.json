@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "3189de85a826acd2ccec211f9f05b5817df9e585",
+        "url": "https://www.newsbreak.com/10-tampa-bay-524568/3753255053094-tampa-moves-closer-to-flood-relief-for-hurricane-milton-victims",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/largo-fl",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Largo, FL Local News and More | NewsBreak",
+        "title": "Tampa moves closer to flood relief for Hurricane Milton victims - NewsBreak",
+        "title_full": "Tampa moves closer to flood relief for Hurricane Milton victims - NewsBreak",
+        "published": "2025-01-10T00:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1RKQvH_0y1s7IbF00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3189de85a826acd2ccec211f9f05b5817df9e585",
+    "url": "https://www.newsbreak.com/10-tampa-bay-524568/3753255053094-tampa-moves-closer-to-flood-relief-for-hurricane-milton-victims",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "10 Tampa Bay",
+    "published": "2025-01-10T00:32:00.000+02:00",
+    "title": "Tampa moves closer to flood relief for Hurricane Milton victims - NewsBreak",
+    "text": "1 hours ago Tampa City Council has proposed re-allocating $3 million to help those whose homes flooded due to pump and generator failures. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:02:54.323+02:00",
+    "updated": "2025-01-10T02:02:54.323+02:00"
+}

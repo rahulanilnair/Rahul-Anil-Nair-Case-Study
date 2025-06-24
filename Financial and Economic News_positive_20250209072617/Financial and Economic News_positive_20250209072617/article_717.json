@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "4c31f198a5df75e078c09670f3bbb507712def19",
+        "url": "https://upstox.com/news/market-news/stocks/tcs-share-price-soars-over-4-on-robust-q3-results-10-2-billion-order-book-and-dividend-announcement/article-139803",
+        "site_full": "upstox.com",
+        "site": "upstox.com",
+        "site_section": "https://upstox.com",
+        "site_categories": [
+            "stocks",
+            "finance"
+        ],
+        "section_title": "Trading - Online Share Market Trading App in India - Best Stock Trading Platform",
+        "title": "TCS share price soars over 4% on robust Q3 results, $10.2 billion order book and dividend announcement",
+        "title_full": "TCS share price soars over 4% on robust Q3 results, $10.2 billion order book and dividend announcement",
+        "published": "2025-01-10T03:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://assets.upstox.com/content/assets/images/news/tcs-share-price-buy-review-results.webp",
+        "performance_score": 0,
+        "domain_rank": 45801,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c31f198a5df75e078c09670f3bbb507712def19",
+    "url": "https://upstox.com/news/market-news/stocks/tcs-share-price-soars-over-4-on-robust-q3-results-10-2-billion-order-book-and-dividend-announcement/article-139803",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Upstox News Desk",
+    "published": "2025-01-10T03:38:00.000+02:00",
+    "title": "TCS share price soars over 4% on robust Q3 results, $10.2 billion order book and dividend announcement",
+    "text": "Market News\n2 min read | Updated on January 10, 2025, 09:56 IST\nSUMMARY\nTCS share price: Shares of India's largest IT services company, Tata Consultancy Services, soared over 4% on Friday, a day after Q3 results and dividend announcement.\nStock list\nNew order bookings stood at USD 10.2 billion against USD 7.9 billion in the year-ago.\nIn the early trade, the stock jumped as much as 4.6% to ₹4,225 apiece on the National Stock Exchange (NSE). At 9:34 am, it was up 3.94% to ₹4,198 per share.\nThe company's market capitalisation stands at ₹15,18,873.14 crore.\nIndia's largest IT services company reported a consolidated post-tax profit of ₹12,380 crore in the latest December quarter, reflecting a growth of 11.95% year-on-year (YoY) and 3.95% quarter-on-quarter (QoQ).\nThe revenue from operations stood at ₹63,973 crore in the reporting quarter, up 5.59% from ₹60,583 in Q3 FY24. However, sequentially, revenue declined 0.4%.\nNew order bookings stood at USD 10.2 billion, up from USD 7.9 billion a year back.\nThe company's Board of Directors announced a dividend of ₹76 per equity share, which includes a special dividend of ₹66 per share.\n\"We are pleased with the excellent TCV performance in Q3 which was well-rounded across industries, geographies and service lines lending good visibility to long-term growth,\" K Krithivasan, Chief Executive Officer and Managing Director of TCS said, adding, \"BFSI and CBG returning to growth, continued stellar run of Regional Markets and early signs of revival in discretionary spend in some verticals give us confidence for the future.\"\nHe told reporters that the company does not expect any major disturbance once Donald Trump takes oath as the US President on January 20.\nThe overall workforce declined by over 5,000 employees in the October-December period, and the overall base stood at 6.07 lakh. The IT services attrition stood at 13%.\nThe firm also announced the acquisition of a land bank in Karnataka's Bengaluru from a Tata group firm for ₹1,625 crore.\nAbout The Author\nNext Story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tata Consultancy Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Stock Exchange",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:45:54.458+02:00",
+    "updated": "2025-01-10T07:45:54.458+02:00"
+}

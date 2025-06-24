@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "f2681b9ae55fca67db4718c95b34843abb5e6ef7",
+        "url": "https://businessday.ng/agriculture/article/weak-naira-low-food-production-drivers-of-nigerias-food-crisis",
+        "site_full": "businessday.ng",
+        "site": "businessday.ng",
+        "site_section": "https://www.businessday.ng",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Business News Nigeria | Daily Updates | Nigerian News",
+        "title": "Weak naira, low food production drivers of Nigeria’s food crisis",
+        "title_full": "Weak naira, low food production drivers of Nigeria’s food crisis",
+        "published": "2024-12-17T15:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18319,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2681b9ae55fca67db4718c95b34843abb5e6ef7",
+    "url": "https://businessday.ng/agriculture/article/weak-naira-low-food-production-drivers-of-nigerias-food-crisis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Feyishola Jaiyesimi",
+    "published": "2024-12-17T15:12:00.000+02:00",
+    "title": "Weak naira, low food production drivers of Nigeria’s food crisis",
+    "text": "Nigeria’s worsening food crisis is mainly driven by naira devaluation, insecurity and soaring inflationary pressures, a report by Afreximbank has said.\nAccording to the report ‘Food Imports and Food Security in Africa: Addressing the Challenges,’ the country’s debilitating food crisis is due to the steady fall of the naira against the dollar in the Nigerian Autonomous Foreign Exchange Market and stagnant food production caused by the rising insurgency.\nThe naira has lost 70 percent of its value since 2023 when the country floated its currency. Also, according to the National Bureau of Statistics (NBS), Nigeria’s food inflation at currently 39.93 percent in November 2024 is pushing many people into malnourishment.\n“In Nigeria, the ongoing insurgency and terrorism in the northeastern region have led to the displacement of millions of people and severely disrupted agricultural practices, intensifying the issue of food insecurity,” Afreximbank noted.\nThe bank said the conflicts in Africa have the potential to lead to widespread infrastructure damage and severe restrictions on aid delivery, significantly increasing the risk of famine.\nIt revealed that economic disruptions in African countries like Nigeria, Ghana, Sierra Leone and Mali, mean higher food prices and less access to food.\n“As global inflation rose due to the pandemic and peaked in July 2022 at its highest level since the mid-1990s, many communities African continent found it difficult to afford basic food staples,” the report said.\nRead also: Food crisis in Nigeria: Matters arising\nFarmers in Nigeria face an increasing risk of banditry attacks on their farms daily ranging from death to kidnapping and severe injuries. This has led to a declining farming population and is invariably affecting food production.\n“Conflict remains one of the most severe drivers of food insecurity on the African continent. It disrupts food systems by destroying agricultural infrastructure, displacing populations, and impeding humanitarian aid,” it stated.\nThe report revealed that as of early 2024, 58 percent of low-income African countries were experiencing inflationary pressures of above 5 percent, increasing the cost of food and rural outputs.\nAbout 33 million Nigerians are projected to be food insecure in 2025, according to the World Food Programme.\nSimilarly, the multidimensional poverty index of the NBS shows that 133 million people in Africa’s most populous black nation currently live below the poverty index due to a lack of a balanced diet.\nThe Afreximbank went further to note that, “Even as global inflation has begun to recede, inflation in Africa has continued to make food less affordable, eroding household purchasing power.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Bureau of Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "NBS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:27:04.794+02:00",
+    "updated": "2024-12-17T15:27:04.794+02:00"
+}

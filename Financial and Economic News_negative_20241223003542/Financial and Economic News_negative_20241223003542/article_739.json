@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "4c3678de03ab76dfd8985caf83b2c9ade11c84dd",
+        "url": "https://www.freshplaza.com/north-america/article/9688787/russia-halts-fmcg-deflator-index-as-inflation-pressures-rise-driven-by-vegetable-prices",
+        "site_full": "www.freshplaza.com",
+        "site": "freshplaza.com",
+        "site_section": "https://www.freshplaza.com/north-america",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FreshPlaza: Global Fresh Produce and Banana News",
+        "title": "Russia halts FMCG deflator index as inflation pressures rise, driven by vegetable prices",
+        "title_full": "Russia halts FMCG deflator index as inflation pressures rise, driven by vegetable prices",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2024/12/17/17-18.jpg?preset=OgImage",
+        "performance_score": 0,
+        "domain_rank": 19789,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c3678de03ab76dfd8985caf83b2c9ade11c84dd",
+    "url": "https://www.freshplaza.com/north-america/article/9688787/russia-halts-fmcg-deflator-index-as-inflation-pressures-rise-driven-by-vegetable-prices",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Russia halts FMCG deflator index as inflation pressures rise, driven by vegetable prices",
+    "text": "The Russian government has ceased the dissemination of the FMCG (fast-moving consumer goods) deflator index by ROMIR research holding. This index, which displayed price growth rates exceeding those officially reported by Rosstat, has been suspended as it neared an annual price growth rate of 20%. This development occurs in the context of Russia's record-high key interest rate, underscoring challenges within the nation's economic and financial frameworks.\nIn 2024, inflation drivers in Russia were primarily attributed to potatoes and vegetables. Yet, economic experts argue that the root causes of inflationary pressures stem from substantial fiscal expenditures towards the conflict with Ukraine.\nPrice surges in vegetables have been notable; for instance, the cost of red beet has doubled, while potato prices have seen over a 50% increase. Similarly, cucumber prices have also doubled, with a consistent upward trend across various vegetable categories.\nThe combination of high loan rates and a dwindling workforce suggests that a reduction in the prices of fruits and vegetables is unlikely in the near term. Further, the ruble's sharp depreciation complicates attempts to mitigate price increases through imports, as Russian importers predominantly transact in US dollars for purchases.\nIt is anticipated that Russia will experience record prices for commodities like potatoes and apples until May-June 2025, driven by these economic dynamics.\nSource: [East Fruit](https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices/",
+        "https://east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices",
+        "https://www.east-fruit.com/en/news/economic-strain-russia-bans-publication-of-inflation-index-amidst-growing-potato-and-vegetable-prices/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rosstat",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FMCG",
+                "sentiment": "negative"
+            },
+            {
+                "name": "ROMIR",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:12:05.993+02:00",
+    "updated": "2024-12-17T15:12:05.993+02:00"
+}

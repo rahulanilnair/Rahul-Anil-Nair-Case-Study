@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "d2da42a8157d1c084c5d74525922b1cda46aafb5",
+        "url": "https://radiojamaicanewsonline.com/local/bahamas-cuts-vat-on-all-food-items",
+        "site_full": "radiojamaicanewsonline.com",
+        "site": "radiojamaicanewsonline.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "health",
+            "cold_and_flu"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Bahamas Cuts VAT On All Food Items | RJR News - Jamaican News Online",
+        "title_full": "Bahamas Cuts VAT On All Food Items | RJR News - Jamaican News Online",
+        "published": "2025-01-10T00:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 139556,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2da42a8157d1c084c5d74525922b1cda46aafb5",
+    "url": "https://radiojamaicanewsonline.com/local/bahamas-cuts-vat-on-all-food-items",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T00:17:00.000+02:00",
+    "title": "Bahamas Cuts VAT On All Food Items | RJR News - Jamaican News Online",
+    "text": "Bahamian Prime Minister Philip \"Brave\" Davis has announced that the value-added tax rate on all food sold in stores would be reduced from ten per cent to five per cent.\nThe surprising measure, he said, is designed to offer immediate relief to families burdened by rising prices.\nDuring a recent address at the University of The Bahamas, the Prime Minister admitted that high prices exert a terrible pressure on families.\nHe said the value added tax cut would apply to all food sold in food stores, including fresh produce, frozen items, baby food, and snacks, though prepared foods in deli sections will not be included.\nThe announcement represents a shift for the Progressive Liberal Party, which has traditionally supported a low-rate, broad-based tax system with minimal exemptions, a model that has been praised for its efficiency and simplicity.\nHe stressed that the reduction would not impact the government's fiscal targets, saying improved revenue collection from large corporations and compliance measures have strengthened the country's fiscal position.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Davis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Progressive Liberal Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:20:37.939+02:00",
+    "updated": "2025-01-10T00:20:37.939+02:00"
+}

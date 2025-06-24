@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "fd47f747a6e30f7a2fc91dc1b67ec8a1b1b00b37",
+        "url": "https://ca.investing.com/news/stock-market-news/oil-healthcare-stocks-knock-european-shares-to-twoweek-lows-3755843",
+        "site_full": "ca.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ca.investing.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Financial News - Investing.com Canada",
+        "title": "Oil, healthcare stocks knock European shares to two-week lows By Reuters",
+        "title_full": "Oil, healthcare stocks knock European shares to two-week lows By Reuters",
+        "published": "2024-12-17T11:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i-invdn-com.investing.com/news/oil_800x533_L_1412175213.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fd47f747a6e30f7a2fc91dc1b67ec8a1b1b00b37",
+    "url": "https://ca.investing.com/news/stock-market-news/oil-healthcare-stocks-knock-european-shares-to-twoweek-lows-3755843",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-12-17T11:45:00.000+02:00",
+    "title": "Oil, healthcare stocks knock European shares to two-week lows By Reuters",
+    "text": "By Sruthi Shankar\n(Reuters) -European shares fell to two-week lows on Tuesday, led by energy and healthcare stocks, as investors awaited a slew of major central bank decisions later in the week.\nThe pan-European STOXX 600 index slipped 0.4% by 0924 GMT, trading at its lowest since Dec. 2.\nOil and gas stocks dropped 1.2% as crude prices nudged lower after China's economic data renewed demand concerns. [O/R] Pharma stocks fell 1.1%.\nWhile the Federal Reserve is widely expected to deliver a 25-basis-point interest rate cut on Wednesday, the focus will be the pace of easing next year as the U.S. economy appears to be on a steady footing. The Bank of Japan and the Bank of England's rate announcements are due on Thursday.\nWeighing on global stocks, the 10-year U.S. Treasury yield , the benchmark for global borrowing costs, touched its highest in more than three weeks at 4.41%. [US/]\n\"After Trump's election in 2016, the Fed reacted with more hawkish projections to factor in risks from higher fiscal spending. This is likely to happen again, with projections for 2025 cuts expected to be trimmed by one to two cuts, from previously four,\" said Gabriele Foa, portfolio manager at Algebris Investments.\nThe UK's FTSE 100 dropped 0.6% as the pound climbed after data showed British pay rose by more than expected in the three months to October, prompting investors to further rein in bets on rate cuts next year.\nTraders expect the BoE to stay on hold on Thursday.\n\"The stronger print has all but assured the Bank of England will hold rates steady on Thursday,\" said Matt Britzman, senior equity analyst at Hargreaves Lansdown (LON: HRGV ).\n\"Investors are now in wait-and-see mode, watching whether the labour market cools in the wake of the Budget, with February's rate cut prospects looking like a coin toss.\"\nMeanwhile, German business morale worsened more than expected in December, a survey from the Ifo Institute showed.\nZEW economic sentiment numbers for December are due later on Tuesday.\nShares of Airbus climbed 1.5% after Deutsche Bank (ETR: DBKGn ) upgraded the stock to \"buy\" from \"hold\".\nTelecom Italia (BIT: TLIT ) rose 3.7%, extending Monday's gains following a report CVC Capital Partners (WA: CPAP ) was considering purchasing Vivendi (EPA: VIV )'s stake in the Italian telecommunications company.\nBritain's Bunzl (LON: BNZL ) fell 4.4% after the business supplies distributor said stickier-than-anticipated deflation will have a slight impact on its annual profit, especially in its Continental Europe division.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sruthi Shankar",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bank of England",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of Japan",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Treasury",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "fd47f747a6e30f7a2fc91dc1b67ec8a1b1b00b37",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:31:49.767+02:00",
+    "updated": "2024-12-17T12:31:49.767+02:00"
+}

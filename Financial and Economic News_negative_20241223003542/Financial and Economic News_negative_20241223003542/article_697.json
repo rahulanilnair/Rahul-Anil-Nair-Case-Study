@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "cc21f8b4413271e25abd6b2b4cdf88377253daea",
+        "url": "https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models?&amp;web_view=true",
+        "site_full": "www.darkreading.com",
+        "site": "darkreading.com",
+        "site_section": "https://cyware.com/cyber-security-news-articles",
+        "site_categories": [
+            "hacking",
+            "tech"
+        ],
+        "section_title": "Cyber Security News Today | Articles on Cyber Security, Malware Attack updates | Cyware",
+        "title": "With 'TPUXtract,' Attackers Can Steal Orgs' AI Models",
+        "title_full": "With 'TPUXtract,' Attackers Can Steal Orgs' AI Models",
+        "published": "2024-12-13T18:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebd916c1d3d9badd/675ca6518adfae97715f0ff0/ai_chip-Daniel_Chetroni-Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+        "performance_score": 0,
+        "domain_rank": 3845,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cc21f8b4413271e25abd6b2b4cdf88377253daea",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models?&amp;web_view=true",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nate Nelson, Contributing Writer",
+    "published": "2024-12-13T18:34:00.000+02:00",
+    "title": "With 'TPUXtract,' Attackers Can Steal Orgs' AI Models",
+    "text": "A new side-channel attack method is a computationally practical way to infer the structure of a convolutional neural network — meaning that cyberattackers or rival companies can plagiarize AI models and take their data for themselves. [Nate Nelson, Contributing Writer](/author/nate-nelson) December 13, 2024 Researchers have demonstrated how to recreate a neural network using the electromagnetic (EM) signals emanating from the chip it runs on. The method, called \"TPUXtract,\" comes courtesy of North Carolina State University's Department of Electrical and Computer Engineering. Using many thousands of dollars worth of equipment and a novel technique called \"online template-building,\" a team of four managed to infer the hyperparameters of a convolutional neural network (CNN) — the settings that define its structure and behavior — running on a Google Edge Tensor Processing Unit (TPU), with 99.91% accuracy. Practically, TPUXtract enables a cyberattacker with no prior information to essentially steal an artificial intelligence (AI) model: They can recreate a model in its entirety and save the actual data it was trained on, for purposes of intellectual property (IP) theft or follow-on cyberattacks . How TPUXtract Works to Recreate AI Models The study was conducted on a Google Coral Dev Board, a single-board computer for machine learning (ML) on smaller devices: think edge, Internet of Things (IoT), medical equipment, automotive systems, etc. In particular, researchers paid attention to the board's Edge Tensor Processing Unit (TPU), the application-specific integrated circuit (ASIC) at the heart of the device that allows it to efficiently run complex ML tasks. Any electronic device like this, as a byproduct of its operations, will emit EM radiation, the nature of which will be influenced by the computations it performs. Knowing this, the researchers conducted their experiments by placing an EM probe on top of the TPU — removing any obstructions like cooling fans — and centering it on the part of the chip emanating the strongest EM signals. Then they fed the machine input data and recorded the signals it leaked . To begin to make sense of those signals, they first identified that before any data gets processed, a neural network quantizes — compresses — its input data. Only when the data is in a format suitable for the TPU does the EM signal from the chip shoot up, indicating that computations have begun. At this point, the researchers could begin mapping the EM signature of the model. But trying to estimate all of the dozens or hundreds of compressed layers that comprise the network at the same time would have been effectively impossible. Every layer in a neural network will have some combination of characteristics: It will perform a certain type of computation, have a certain number of nodes, etc. Importantly, \"the property of the first layer affects the 'signature,' or the side-channel pattern of the second layer,\" notes Ashley Kurian, one of the researchers. Thus, trying to understand anything about the second, 10th, or 100th layer becomes increasingly impossible, as it rests on all of the properties of what came before it. \"So if there are 'N' layers, and there are 'K' numbers of combinations [of hyperparameters] for each layer, then computing cost would have been N raised to K,\" she explains. The researchers studied neural networks with 28 to 242 layers (N) and estimated that K — the total number of possible configurations for any given layer — equaled 5,528. Instead of having to commit infinite computing power to the problem, they figured they could isolate and analyze each layer in turn. To recreate each layer of a neural network, the researchers built \"templates\" — thousands of simulated combinations of hyperparameters, and read the signals they gave off when processing data. Then they compared those results to the signals emitted by the model they were trying to approximate. The closest simulation would be considered correct. Then, they applied the same process to the next layer. \"Within a day, we could completely recreate a neural network that took weeks or months of computation by the developers,\" Kurian reports. Stolen AIs Lead to IP, Cybercrime Risk to Companies Pulling off TPUXtract isn't trivial. Besides a wealth of technical know-how, the process also demands a variety of expensive and niche equipment. The NCSU researchers used a Riscure EM probe station with a motorized XYZ table to scan the chip's surface, and a high sensitivity electromagnetic probe for capturing its weak radio signals. A Picoscope 6000E oscilloscope recorded the traces, Riscure's icWaves field-programmable gate array (FPGA) device aligned them in real-time, and the icWaves transceiver used bandpass filters and AM/FM demodulation to translate and filter out irrelevant signals. As tricky and costly as it may be for an individual hacker, Kurian says, \"It can be a competing company who wants to do this, [and they could] in a matter of a few days. For example, a competitor wants to develop [a copy of] ChatGPT without doing all of the work. This is something that they can do to save a lot of money.\" Intellectual property theft, though, is just one potential reason anyone might want to steal an AI model. Malicious adversaries might also benefit from observing the knobs and dials controlling a popular AI model, so they can probe them for cybersecurity vulnerabilities . And for the especially ambitious, the researchers also cited four studies that focused on stealing regular neural network parameters. Theoretically, those methods in combination with TPUXtract could be used to recreate the entirety of any AI model — parameters and hyperparameters in all. To combat these risks, the researchers suggested that AI developers could introduce noise into the AI inference process using dummy operations, or running random operations concurrently, or confuse analysis by randomizing the sequence of layers during processing. \"During the training process,\" says Kurian, \"developers will have to insert these layers, and the model should be trained to know that these noisy layers need not be considered.\" About the Author You May Also Like",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://philosophymindscience.org/index.php/TCHES/article/view/11923/11782",
+        "https://www.philosophymindscience.org/index.php/TCHES/article/view/11923/11782"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:59:06.137+02:00",
+    "updated": "2024-12-17T14:59:06.137+02:00"
+}

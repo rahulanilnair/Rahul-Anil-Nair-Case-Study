@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "2188e604521e45303662aef14b4f66466c6ae54d",
+        "url": "https://www.cnbc.com/2025/01/10/gold-prices-on-track-for-weekly-gain-us-data-on-tap.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://cnbc.com/markets",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
+        "title": "Gold prices on track for weekly gain; U.S. data on tap",
+        "title_full": "Gold prices on track for weekly gain; U.S. data on tap",
+        "published": "2025-01-10T06:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/107099354-1659665117700-gettyimages-1241971774-International_Gold_Prices_Fall.jpeg?v=1736481162&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 139,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2188e604521e45303662aef14b4f66466c6ae54d",
+    "url": "https://www.cnbc.com/2025/01/10/gold-prices-on-track-for-weekly-gain-us-data-on-tap.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T06:04:00.000+02:00",
+    "title": "Gold prices on track for weekly gain; U.S. data on tap",
+    "text": "Gold prices rebounded on Friday as uncertainty surrounding the incoming Trump administration's policies lifted safe-haven appeal, even as a stronger-than-expected U.S. employment data reinforced expectations the Federal Reserve might not cut interest rates as aggressively this year. Spot gold was up 0.5% to $2,688.40 per ounce, while U.S. gold futures rose 1% to $2,717.60. Gold prices briefly slipped to $2,663.09 an ounce after data showed the U.S. added 256,000 jobs last month, compared with economists' estimate of a rise of 160,000. The unemployment rate stood at 4.1%, compared with a forecast of 4.2%. Bullion prices, however, quickly rebounded and are now trading near their highest levels since Dec. 13, poised for a weekly gain of more than 1%. \"Gold's price action points to a lack of committed sellers of the metal; a diffidence well-learned from last year's remarkable rise,\" said Tai Wong, an independent metals trader. \"The momentum from the knee-jerk reaction faded quickly and the short-term traders and programs that sold reversed quickly.\" The dollar rallied while U.S. stock futures fell sharply after the jobs data. Markets show traders now expect the Fed to cut interest rates by just 30 basis points over the course of this year, compared with cuts worth about 45 basis points before the data. \"Gold is still acting resilient in the face of a much stronger-than-expected jobs report ... One of the factors that's been supporting gold is this uncertainty that we've seen going into the (U.S. presidential) inauguration,\" said David Meger, director of metals trading at High Ridge Futures. As President-elect Donald Trump's Jan. 20 inauguration approaches, investors are anxious about his vow to impose tariffs on a wide range of imports, fearing they could fuel inflation and further limit the Fed's ability to lower rates. While bullion is prized as a safeguard against inflation, high interest rates dull its allure as a non-yielding asset.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jigar Trivedi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reliance Securities",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2188e604521e45303662aef14b4f66466c6ae54d",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:16:37.620+02:00",
+    "updated": "2025-01-17T09:51:10.234+02:00"
+}

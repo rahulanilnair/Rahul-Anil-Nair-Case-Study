@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "6113a6d0c8973c9439b51752945b1014e07e1e77",
+        "url": "https://article.wn.com/view/2025/01/10/IREDA_shares_in_focus_after_Q3_PAT_jumps_27_YoY_to_Rs_425_cr_1",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/stocks",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Stocks",
+        "title": "IREDA shares in focus after Q3 PAT jumps 27% YoY to Rs 425 crore - Worldnews.com",
+        "title_full": "IREDA shares in focus after Q3 PAT jumps 27% YoY to Rs 425 crore - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6113a6d0c8973c9439b51752945b1014e07e1e77",
+    "url": "https://article.wn.com/view/2025/01/10/IREDA_shares_in_focus_after_Q3_PAT_jumps_27_YoY_to_Rs_425_cr_1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "IREDA shares in focus after Q3 PAT jumps 27% YoY to Rs 425 crore - Worldnews.com",
+    "text": "IREDA share price: In Q3FY25, total revenue from operations rose by 35.6% year-on-year, reaching Rs 1,698.45 crore, compared to Rs 1,252.85 crore in the same quarter of the previous financial year. read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://economictimes.indiatimes.com/markets/stocks/news/ireda-shares-in-focus-after-q3-pat-jumps-27-yoy-to-rs-425-crore/articleshow/117102927.cms",
+        "https://www.economictimes.indiatimes.com/markets/stocks/news/ireda-shares-in-focus-after-q3-pat-jumps-27-yoy-to-rs-425-crore/articleshow/117102927.cms"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:15:08.007+02:00",
+    "updated": "2025-01-10T07:15:08.007+02:00"
+}

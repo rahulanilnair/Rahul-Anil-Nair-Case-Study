@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "20ecc937f5f20a6996de242f1336f4020eefff2f",
+        "url": "https://www.airservicesaustralia.com/new-agreement-provides-airservices-australia-with-access-to-advanced-software-tool-to-enhance-airspace-management",
+        "site_full": "www.airservicesaustralia.com",
+        "site": "airservicesaustralia.com",
+        "site_section": "https://www.airservicesaustralia.com",
+        "site_categories": [],
+        "section_title": "Home - Airservices",
+        "title": "New agreement provides Airservices Australia with access to advanced software tool to enhance airspace management",
+        "title_full": "New agreement provides Airservices Australia with access to advanced software tool to enhance airspace management",
+        "published": "2025-01-10T02:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 122052,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "20ecc937f5f20a6996de242f1336f4020eefff2f",
+    "url": "https://www.airservicesaustralia.com/new-agreement-provides-airservices-australia-with-access-to-advanced-software-tool-to-enhance-airspace-management",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Raveena Carroll-Kenney",
+    "published": "2025-01-10T02:02:00.000+02:00",
+    "title": "New agreement provides Airservices Australia with access to advanced software tool to enhance airspace management",
+    "text": "Airservices Australia has signed an agreement that will allow it to use market-leading airspace management software developed in the busy skies of Europe to optimise the utilisation of Australian airspace.\nThe Local and sub-regional airspace management support system (LARA) developed by international air traffic management coordinating body EUROCONTROL is an airspace reservation and booking tool, which improves collaborative decision making between air navigation service providers, Defence and industry. It is already being used successfully across much of Europe.\nThe LARA tool has been rigorously tested and validated over its development cycle. Airservices has committed to conduct further security and system testing prior to the tool entering operational use.\nLARA will be the primary tool used in Australia’s first airspace management cell, the National Airspace Management Office in Brisbane, which will be jointly staffed by Airservices and Defence personnel when it becomes operational in early 2026.\nInterim Chief Executive Officer of Airservices Australia, Rob Sharp, said the agreement with EUROCONTROL was another step towards the future of integrated civil-military air traffic management systems in Australia.\n“The management of Australia’s airspace requires a balanced approach between the increasing demands of the civil aviation industry and military requirements,” Mr Sharp said.\n“In addition to facilitating real-time information sharing and coordination between civil and military airspace users, this system will optimise the use of airspace which will bring benefits ranging from enhanced safety to reduced fuel consumption by aircraft.”\nThe user-friendly LARA system will enable authorised users to conduct a range of functions, including viewing airspace reservations, reviewing planning and airspace status, and accessing a large-scale graphical representation of which airspace is active at any given time.\nRollout of the LARA tool to airspace users and authorities is expected in the second half of 2025, with completion targeted for early the following year.\n-ENDS-\nMedia contact: Phone 1300 619 341 or email media@airservicesaustralia.com .\nAbout Airservices\nAirservices Australia is the Federal Government-owned organisation responsible for the safety of 11 per cent of the world’s airspace and the provision of aviation rescue fire fighting services at Australia’s busiest airports. We work closely with our customers and industry to support the long-term growth of the aviation industry and are investing in technologies to position Australia at the forefront of innovation in the global aviation industry.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->aerospace engineering",
+        "Science and Technology->scientific research",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->computing and information technology",
+        "Social Issue->social networking",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rob Sharp",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Airspace Management Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "EUROCONTROL",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:02:16.775+02:00",
+    "updated": "2025-01-10T04:02:16.775+02:00"
+}

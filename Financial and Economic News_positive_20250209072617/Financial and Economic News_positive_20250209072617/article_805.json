@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "54b25cfe209d883f3774d78c9841184c59ab1558",
+        "url": "https://money.usnews.com/investing/news/articles/2025-01-10/tsmcs-fourth-quarter-revenue-handily-beats-market-forecast",
+        "site_full": "money.usnews.com",
+        "site": "usnews.com",
+        "site_section": "https://money.usnews.com/investing/cryptocurrency",
+        "site_categories": [
+            "investing",
+            "credit_debt_and_loans",
+            "finance",
+            "mutual_funds",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Today’s News About Bitcoin, Ethereum, Other Cryptocurrencies and Blockchain Technologies | U.S. News Investing",
+        "title": "TSMC's Fourth-Quarter Revenue Handily Beats Market Forecast",
+        "title_full": "TSMC's Fourth-Quarter Revenue Handily Beats Market Forecast",
+        "published": "2025-01-10T07:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/2b89530/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fbe%2Fe40facd3ce7ca71c3ab4a66de1c4a8%2Ftag%3Areuters.com%2C2025%3Anewsml_LYNXMPEL0904L%3A12025-01-10T053918Z_1_LYNXMPEL0904L_RTROPTP_3_TAIWAN-TSMC.JPG",
+        "performance_score": 0,
+        "domain_rank": 298,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54b25cfe209d883f3774d78c9841184c59ab1558",
+    "url": "https://money.usnews.com/investing/news/articles/2025-01-10/tsmcs-fourth-quarter-revenue-handily-beats-market-forecast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T07:39:00.000+02:00",
+    "title": "TSMC's Fourth-Quarter Revenue Handily Beats Market Forecast",
+    "text": "Reuters\nFILE PHOTO: People walk across the streets in front of TSMC Fab 18 at Southern Taiwan Science Park in Tainan, Taiwan December 5, 2024. REUTERS/Ann Wang/ File Photo\nTAIPEI (Reuters) - TSMC, the world's largest contract chipmaker, on Friday reported fourth-quarter revenue of T$868.42 billion ($26.36 billion), according to Reuters calculations, easily beating a market forecast, as the company reaps the benefit from artificial intelligence demand.\nAn LSEG SmartEstimate, drawn from 23 analysts, had predicted fourth-quarter revenue of T$853.57 billion.\nTaiwan Semiconductor Manufacturing Co (TSMC) is a major supplier to companies including Apple and Nvidia.\n($1 = 32.9530 Taiwan dollars)\n(Reporting by Ben Blanchard and Faith Hung; Editing by Tom Hogue)\nCopyright 2025 Thomson Reuters .\nTags: artificial intelligence , United States , Taiwan , Asia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->scientific research",
+        "Politics->government budget",
+        "Politics->economic policy",
+        "Politics->regulation of industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:37:51.009+02:00",
+    "updated": "2025-01-10T08:37:51.009+02:00"
+}

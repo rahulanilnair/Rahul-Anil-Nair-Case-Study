@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "2d7f444b5ca6e7b4d6324f2114b500224da6bca7",
+        "url": "https://www.brecorder.com/news/40338034/rupee-registers-marginal-decline-against-us-dollar",
+        "site_full": "www.brecorder.com",
+        "site": "brecorder.com",
+        "site_section": "https://www.brecorder.com/print",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_pk",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Print - Business Recorder",
+        "title": "Rupee registers marginal decline against US dollar",
+        "title_full": "Rupee registers marginal decline against US dollar",
+        "published": "2024-12-17T07:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.brecorder.com/large/2024/12/17162045467cfa1.jpg?r=162057",
+        "performance_score": 0,
+        "domain_rank": 13631,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2d7f444b5ca6e7b4d6324f2114b500224da6bca7",
+    "url": "https://www.brecorder.com/news/40338034/rupee-registers-marginal-decline-against-us-dollar",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Recorder Report",
+    "published": "2024-12-17T07:40:00.000+02:00",
+    "title": "Rupee registers marginal decline against US dollar",
+    "text": "[Markets](/markets)\n[Rupee registers marginal decline against US dollar](https://www.brecorder.com/news/40338034/rupee-registers-marginal-decline-against-us-dollar)\n- Currency settles at 278.27 against greenback in inter-bank market\nThe Pakistani rupee saw a marginal decline against the US dollar, depreciating 0.04% in the inter-bank market on Tuesday.\nAt close, the currency settled at 278.27 for a loss of Re0.10 against the greenback.\n[On Monday](https://www.brecorder.com/news/40337780/rupee-records-marginal-decline-against-us-dollar), the rupee had settled at 278.17, according to the State Bank of Pakistan (SBP).\nGlobally, [the US dollar held firm](https://www.brecorder.com/news/40338015/dollar-supported-as-bets-on-2025-rate-cuts-evaporate) and near recent peaks on Tuesday, on the eve of an expected interest rate cut in the United States, as traders ratchet long-term rate assumptions higher.\nThe friendless euro, which is heading for a calendar-year drop of nearly 5% on the dollar, was not far from the year’s lows at $1.0518.\nThe gap between US and German ten-year yields is 216 basis points and has widened nearly 70 bps in three months.\nThe Federal Reserve will announce its interest rate decision on Wednesday, and interest rate futures imply a 94% chance of a hike, even as services-sector activity leapt to a three-year high, according to an S&P Global purchasing managers survey.\nAccording to the CME FedWatch tool, after a cut on Wednesday, markets see about a 37% chance there will be either one 25 bp cut or none at all through the whole of 2025, up from about 21% a week earlier.\nBesides the Fed, the Bank of Japan, Bank of England and Norges Bank meet this week and are expected to stand pat on Thursday, while the Riksbank is seen cutting rates, perhaps by 50 basis points.\n[Oil prices](https://www.brecorder.com/news/40338014/oil-prices-in-holding-pattern-ahead-of-federal-reserve-decision), a key indicator of currency parity, nudged lower on Tuesday as China’s economic data renewed demand concerns, while investors remained cautious ahead of the US Federal Reserve’s interest rate decision.\nUS West Texas Intermediate crude was down 11 cents at $70.60 a barrel at 0802 GMT, while Brent crude futures eased 2 cents to $73.89 a barrel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "State Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:29:33.610+02:00",
+    "updated": "2024-12-17T13:29:33.610+02:00"
+}

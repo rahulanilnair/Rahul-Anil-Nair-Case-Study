@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "161dbca44cf15cb99909191d458ece02057c5f53",
+        "url": "https://reliefweb.int/report/world/most-donors-are-not-matching-their-local-funding-pledges-action",
+        "site_full": "reliefweb.int",
+        "site": "reliefweb.int",
+        "site_section": "https://reliefweb.int/updates",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Updates | ReliefWeb",
+        "title": "Most donors are not matching their local funding pledges with action - World | ReliefWeb",
+        "title_full": "Most donors are not matching their local funding pledges with action - World | ReliefWeb",
+        "published": "2024-12-17T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://reliefweb.int/modules/custom/reliefweb_meta/images/default.png",
+        "performance_score": 0,
+        "domain_rank": 1742,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "161dbca44cf15cb99909191d458ece02057c5f53",
+    "url": "https://reliefweb.int/report/world/most-donors-are-not-matching-their-local-funding-pledges-action",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T06:00:00.000+02:00",
+    "title": "Most donors are not matching their local funding pledges with action - World | ReliefWeb",
+    "text": "By\n[Henry Lewis](https://www.publishwhatyoufund.org/author/henry-lewis/) | Dec 17, 2024 | [Blog](https://www.publishwhatyoufund.org/category/blog/), [News](https://www.publishwhatyoufund.org/category/news/)\nMany bilateral donors have signed up to international agreements to take a more locally led approach and transfer a greater share of resources to local partners. But our new study finds that many of the same donors are not sharing any practical evidence of increased local funding.\n[Commitments Without Accountability](https://www.publishwhatyoufund.org/download/commitments-without-accountability/) highlights that four out of five donors do not have localisation strategies or clear definitions, targets, or methods for measuring progress in funding shifts. Without transparent measurement and reporting, stakeholders cannot determine if localisation commitments are being fulfilled or hold donors accountable.\nOf the five donors included in the study, the United States Agency for International Development (USAID) stands out as the only donor with a comprehensive target and public data measuring its progress toward local funding goals. While it is far from achieving its target to allocate 25% of direct funding to local partners by 2025, its structured approach can offer valuable lessons for other donors on tracking local funding.\nAustralia’s Department of Foreign Affairs and Trade has made some progress by developing dedicated documentation on locally led development which includes a definition and measurement indicators. The other donors in the study – Global Affairs Canada, the Netherlands’ Ministry of Foreign Affairs and the UK’s Foreign, Commonwealth and Development Office – have made slower progress on localisation.\nAll now have the opportunity to ensure their evolving strategies and systems support locally led development. Only then will we have the evidence to know if donor promises on localisation have been fulfilled.\nGary Forster, CEO of Publish What You Fund, said:\n“Donors have been talking the talk on local ownership and locally led development for twenty years. But without clear targets, definitions and measurement we have no way of knowing how this has translated into practice. Localisation is about more than just funding – but directing more resources to local organisations in the global south is a critical element.”\n“Enhanced transparency is vital for building understanding, partnerships and trust, and ultimately to make real progress on localisation. It’s time for donors to start walking the talk.”\nYou can read more about this study, Commitments without accountability: The challenge of tracking donor funding to local organisations, and our other work focusing on USAID’s measurement and reporting of local funding\n[here](https://www.publishwhatyoufund.org/projects/localization/#genesis-content).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.publishwhatyoufund.org/category/news/",
+        "https://www.publishwhatyoufund.org/download/commitments-without-accountability/",
+        "https://www.publishwhatyoufund.org/author/henry-lewis/",
+        "https://www.publishwhatyoufund.org/projects/localization/#genesis-content",
+        "https://www.publishwhatyoufund.org/category/blog/",
+        "https://publishwhatyoufund.org/category/blog/",
+        "https://publishwhatyoufund.org/author/henry-lewis/",
+        "https://publishwhatyoufund.org/projects/localization/#genesis-content",
+        "https://www.publishwhatyoufund.org/category/news",
+        "https://publishwhatyoufund.org/download/commitments-without-accountability/",
+        "https://www.publishwhatyoufund.org/download/commitments-without-accountability",
+        "https://www.publishwhatyoufund.org/category/blog",
+        "https://www.publishwhatyoufund.org/author/henry-lewis",
+        "https://publishwhatyoufund.org/category/news/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Henry Lewis",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "USAID",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:57:24.707+02:00",
+    "updated": "2024-12-17T13:57:24.707+02:00"
+}

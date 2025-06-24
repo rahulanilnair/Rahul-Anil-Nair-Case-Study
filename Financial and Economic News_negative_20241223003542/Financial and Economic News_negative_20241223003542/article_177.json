@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "aea7fab6aa18d0d883c19f381b62134c1accbfc8",
+        "url": "https://www.burlingtoncountytimes.com/story/news/local/south-jersey/2024/12/17/delaware-memorial-bridge-toll-rates-are-they-increasing-in-2025-rates-increasing-1-in-april/77021289007",
+        "site_full": "www.burlingtoncountytimes.com",
+        "site": "burlingtoncountytimes.com",
+        "site_section": "https://www.burlingtoncountytimes.com",
+        "site_categories": [
+            "pets",
+            "veterinary_medicine"
+        ],
+        "section_title": "Burlington County Times: Local News, Politics & Sports in Willingboro, NJ",
+        "title": "Fees are increasing for many Delaware Memorial Bridge drivers. What to know.",
+        "title_full": "Fees are increasing for many Delaware Memorial Bridge drivers. What to know.",
+        "published": "2024-12-17T12:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/12/16/PCHH/77025363007-delaware-memorial-bridge.jpg?auto=webp&crop=1023,577,x0,y95&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 48742,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aea7fab6aa18d0d883c19f381b62134c1accbfc8",
+    "url": "https://www.burlingtoncountytimes.com/story/news/local/south-jersey/2024/12/17/delaware-memorial-bridge-toll-rates-are-they-increasing-in-2025-rates-increasing-1-in-april/77021289007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Burlington County Times",
+    "published": "2024-12-17T12:06:00.000+02:00",
+    "title": "Fees are increasing for many Delaware Memorial Bridge drivers. What to know.",
+    "text": "Taking a toll: It costs more to cross the Delaware on these spans The increase will not affect rates under the New Jersey and Delaware E-ZPass program. That rate is currently $4.75 per car, the authority said in a statement Dec. 13.\nCommuter and discount plans also would not change.\nThe statement noted that other toll agencies, including the Atlantic City Expressway, are moving toward cashless operations “and the Authority needs to be prepared for that eventuality.\"\nE-ZPass users currently represent almost 80% of bridge users. The Delaware River & Bay Authority wants that figure to reach at least 90% of the bridge customers.\nThe toll hike is also intended to fund “an aggressive capital improvement program” in coming years, Cook said.\nA second toll hike would take effect “no earlier than January 1, 2027, and would affect all toll classifications,” according to the authority.\nIn addition to the bridge, the bi-state agency operates the Cape May-Lewes Ferry and the Forts Ferry Crossing.  It manages Millville Executive Airport and Cape May Airport, plus three Delaware airports.\nJim Walsh is a senior reporter with the Courier-Post, Burlington County Times and The Daily Journal. Email: Jwalsh@cpsj.com.\nFacebook\nTwitter\nEmail",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.courierpostonline.com/story/news/local/south-jersey/2023/03/15/atlantic-city-expressway-plans-change-to-new-toll-collection-system/70005403007/",
+        "https://www.courierpostonline.com/story/news/local/south-jersey/2023/03/15/atlantic-city-expressway-plans-change-to-new-toll-collection-system/70005403007",
+        "https://courierpostonline.com/story/news/local/south-jersey/2023/03/15/atlantic-city-expressway-plans-change-to-new-toll-collection-system/70005403007/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thomas Cook",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Delaware River & Bay Authority",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Memorial Bridge",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Jersey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Expressway",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "aea7fab6aa18d0d883c19f381b62134c1accbfc8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:17:50.696+02:00",
+    "updated": "2024-12-17T15:53:28.078+02:00"
+}

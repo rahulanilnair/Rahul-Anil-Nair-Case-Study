@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "aa036061ff8f6b3aca6e0f2fb2ee1416bd1ec5d6",
+        "url": "https://www.flchamber.com/florida-chamber-backed-insurance-reforms-continue-to-show-stabilizing-market",
+        "site_full": "www.flchamber.com",
+        "site": "flchamber.com",
+        "site_section": "http://www.flchamber.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Florida Chamber of Commerce",
+        "title": "Florida Chamber-Backed Insurance Reforms Continue to Show Stabilizing Market",
+        "title_full": "Florida Chamber-Backed Insurance Reforms Continue to Show Stabilizing Market",
+        "published": "2025-01-10T00:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 131153,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa036061ff8f6b3aca6e0f2fb2ee1416bd1ec5d6",
+    "url": "https://www.flchamber.com/florida-chamber-backed-insurance-reforms-continue-to-show-stabilizing-market",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Florida Chamber of Commerce",
+    "published": "2025-01-10T00:03:00.000+02:00",
+    "title": "Florida Chamber-Backed Insurance Reforms Continue to Show Stabilizing Market",
+    "text": "News\nFlorida Chamber-Backed Insurance Reforms Continue to Show Stabilizing Market\nLate last week, a Florida District Court of Appeals issued a significant ruling on property insurance. The court upheld a lower court’s decision stating that the plaintiff organization could not sue a Florida insurer under the state’s reformed Assignment of Benefits (AOB) law. This law eliminated AOBs in property insurance cases, a legislative effort championed by the Florida Chamber. This decision further exemplifies how Florida Chamber-led lawsuit abuse reforms over the past few years have been pivotal in curbing frivolous litigation to stabilize Florida’s insurance market and increase competition.\nAdditionally, according to a report released this week by the Florida Office of Insurance Regulation (OIR), and as previewed by Florida Insurance Commissioner Michael Yaworsky at the 2024 Florida Chamber Annual Insurance Summit, there are many positive indicators that the reforms are working:\n- Ten new companies have recently entered Florida’s property insurance market\n- Citizens Property Insurance Corporation, the state insurer of last resort, is getting smaller: there was a decrease in 428,650 Citizens policies between January and November 2024.\n- A decline in litigation, which drives insurance rates, across various metrics tracked by OIR.\n- 32 Florida companies filed for zero percent rate increases, while an additional 17 requested rate decreases in 2024.\nJoin the continued discussion about the status of Florida’s insurance market and upcoming legislative efforts during the 2025 legislative session, February 10-11 in Tallahassee, at the 2025 Legislative Fly In by registering HERE.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Yaworsky",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Florida Office of Insurance Regulation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Citizens Property Insurance Corporat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Florida District Court of Appeals",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:26:16.633+02:00",
+    "updated": "2025-01-10T04:26:16.633+02:00"
+}

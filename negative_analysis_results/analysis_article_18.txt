@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 18
+============================================================
+Timestamp: 2025-06-23 08:02:54
+Headline Summary: Turkey
+Key Highlights: USD483.8M deficit in November
+Final Sentiment: Neutral
+Confidence: 60%
+Impact Magnitude: Low
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The current neutral sentiment and medium confidence level seem too lenient given the significant gap between revenue and spending. The narrower deficit compared to October is a positive sign, but it does not justify the cautious tone of the current analysis. growth_analyst: The key content highlights demonstrate some positive movement in Turkey's fiscal balance with a narrower deficit compared to October. However, the overall fiscal situation remains concerning due to the significant gap between revenue and spending. I disagree with the current sentiment of neutrality as it underemphasizes the concerns regarding the fiscal balance.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Neutral sentiment.
+============================================================

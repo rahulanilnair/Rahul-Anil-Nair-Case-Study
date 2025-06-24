@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "6012011334803be035d8f377ec04f21a0462323b",
+        "url": "https://www.business-standard.com/markets/capital-market-news/information-technology-shares-gain-125011000270_1.html",
+        "site_full": "www.business-standard.com",
+        "site": "business-standard.com",
+        "site_section": "https://www.business-standard.com/rss/general-news.rss",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "",
+        "title": "Information Technology shares gain | Capital Market News - Business Standard",
+        "title_full": "Information Technology shares gain | Capital Market News - Business Standard",
+        "published": "2025-01-10T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+        "performance_score": 0,
+        "domain_rank": 1259,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6012011334803be035d8f377ec04f21a0462323b",
+    "url": "https://www.business-standard.com/markets/capital-market-news/information-technology-shares-gain-125011000270_1.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Business Standard",
+    "published": "2025-01-10T04:00:00.000+02:00",
+    "title": "Information Technology shares gain | Capital Market News - Business Standard",
+    "text": "Information Technology stocks were trading in the positive zone, with the BSE Information Technology index rising 669.45 points or 1.56% at 43661.89 at 09:42 IST.\nAmong the components of the BSE Information Technology index, Tata Consultancy Services Ltd (up 3.92%), LTIMindtree Ltd (up 3.37%),Tech Mahindra Ltd (up 2.46%),Wipro Ltd (up 1.57%),Mphasis Ltd (up 1.57%), were the top gainers. Among the other gainers were Infosys Ltd (up 1.4%), Persistent Systems Ltd (up 1.15%), Birlasoft Ltd (up 1.1%), HCL Technologies Ltd (up 0.74%), and Zensar Technologies Ltd (up 0.6%).\nOn the other hand, Tata Elxsi Ltd (down 7.93%), Netweb Technologies India Ltd (down 4.36%), and KPIT Technologies Ltd (down 4.32%) moved lower.\n At 09:42 IST, the BSE SmallCap was down 984.65 or 1.82% at 53036.35.\nThe BSE 150 MidCap Index index was down 193.07 points or 1.24% at 15391.38.\nAlso Read Nifty IT gains over 2%; TCS rallies 5% on strong order book, robust outlook Stock Market LIVE: Sensex 400 pts lower at 77,250; Nifty at 23,400; All sectors barring IT drag 1% Adani Wilmar shares slide 9% as Promoter begins partial stake sale via OFS Quadrant Future Tek allotment today: Check status, GMP, listing date India squad announcement for ENG series LIVE UPDATES: Will Suryakumar Yadav be picked for ODIs? The Nifty 50 index was down 86.9 points or 0.37% at 23439.6.\nThe BSE Sensex index was down 168.36 points or 0.22% at 77451.85.\nOn BSE,699 shares were trading in green, 2346 were trading in red and 107 were unchanged.\nPowered by Capital Market - Live News\nDisclaimer: No Business Standard Journalist was involved in creation of this content\nMore From This Section Valiant Communications wins order worth Rs 41.35 cr Surya Roshni gains on bagging order worth Rs 81-cr from BPCL JSW Steel's crude steel production rises 2% YoY in Q3 FY25 GTPL Hathway slides after PAT tumble 57% YoY to Rs 10-cr in Q3FY25 Godrej Properties acquires land parcel in Indore for developing premium residential units Don't miss the most important news and views of the day. Get them on our\nTelegram channel First Published: Jan 10 2025 | 10:00 AM IST\nExplore News Stock Market LIVE Stocks to Watch Today Market Today Latest News LIVE Standard Glass Lining IPO Gold-Silver Price Today Top FD rates in January 2025 Budget 2025 IPO News Business Standard at 50",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.me/bsindiaofficial",
+        "https://www.t.me/bsindiaofficial"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Capital Market News - Business Standard Information Technology",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tata Consultancy Services Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Netweb Technologies India Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zensar Technologies Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Persistent Systems Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "KPIT Technologies Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "HCL Technologies Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tech Mahindra Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "LTIMindtree Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tata Elxsi Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Birlasoft Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Infosys Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mphasis Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wipro Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "TCS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:43:55.709+02:00",
+    "updated": "2025-01-10T07:43:55.709+02:00"
+}

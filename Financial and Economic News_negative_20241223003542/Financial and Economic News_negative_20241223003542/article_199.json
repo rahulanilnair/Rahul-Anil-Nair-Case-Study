@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "2f3ecffe723121ebec46052d8feca3bde41530be",
+        "url": "https://www.rttnews.com/3497807/european-shares-decline-as-german-ifo-index-signals-tough-times-ahead.aspx?type=ts",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "https://www.rttnews.com/rss/todaystop.xml",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "RTT - Top Story",
+        "title": "European Shares Decline As German Ifo Index Signals Tough Times Ahead",
+        "title_full": "European Shares Decline As German Ifo Index Signals Tough Times Ahead",
+        "published": "2024-12-17T11:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2f3ecffe723121ebec46052d8feca3bde41530be",
+    "url": "https://www.rttnews.com/3497807/european-shares-decline-as-german-ifo-index-signals-tough-times-ahead.aspx?type=ts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T11:50:00.000+02:00",
+    "title": "European Shares Decline As German Ifo Index Signals Tough Times Ahead",
+    "text": "By RTTNews Staff Writer ✉ | Published: 12/17/2024 4:50 AM ET | European stocks hit two-week lows on Tuesday as investors looked ahead to a slew of major central bank decisions later in the week and watched closely the latest political developments in Germany and France.\nThe single European currency remained near the 1,05 level, a day after a survey showed business activity in the eurozone declined further in December.\nThe release of German IFO index also signaled rough times ahead, with the corresponding indicator falling to 84.7 in December from 85.7 in November.\nElsewhere, U.K. wage growth accelerated more than forecast in the three months to October, cementing expectations that the Bank of England will hold off cutting interest rates on Thursday.\nThe pan European STOXX 600 dropped 0.3 percent to 514.06 after closing 0.1 percent lower on Monday.\nThe German DAX was marginally lower and the U.K.'s FTSE 100 dropped 0.6 percent while France's CAC 40 traded flat with a positive bias.\nEnergy giant BP Plc fell about 1 percent in London and peer Shell gave up 1.6 percent as crude oil prices extended losses on China demand concerns.\nBunzl slumped 4.5 percent after the business supplies distributor said persistent deflation, particularly in continental Europe, will have a slight impact on its annual profit.\nCapita shares plummeted 8 percent. The outsourcing firm saw its revenue drop eight percent in the first 11 months of the year.\nAirbus shares advanced 1.5 percent in Paris after Deutsche Bank upgraded its rating on the stock to \"buy\" from \"hold\".\nThyssenkrupp nucera AG shares were up 9 percent after the German company logged its highest quarterly sales for its alkaline electrolysers.\nFor comments and feedback contact: editorial@rttnews.com\nBusiness News\nSlide Shows Biotech Stocks Facing FDA Decision In August 2024 Biotech Stocks Facing FDA Decision In June 2024 Biotech Stocks Facing FDA Decision In April 2024 Global Economics Weekly Update - December 09- 13, 2024 December 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "BP Plc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bunzl",
+                "sentiment": "none"
+            },
+            {
+                "name": "IFO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U.K.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:27:45.488+02:00",
+    "updated": "2024-12-17T20:02:00.731+02:00"
+}

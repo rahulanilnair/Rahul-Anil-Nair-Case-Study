@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "6ed4814a4d04ea309660cb013488a28ab3fb4410",
+        "url": "https://www.bastillepost.com/global/article/4471505-sudan-starts-distribution-of-china-donated-rice",
+        "site_full": "www.bastillepost.com",
+        "site": "bastillepost.com",
+        "site_section": "https://www.bastillepost.com/global",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "Bastillepost",
+        "title": "Sudan starts distribution of China-donated rice",
+        "title_full": "Sudan starts distribution of China-donated rice",
+        "published": "2025-01-10T05:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2025/01/8411507_1736488696002_a_FB.jpg",
+        "performance_score": 0,
+        "domain_rank": 68609,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ed4814a4d04ea309660cb013488a28ab3fb4410",
+    "url": "https://www.bastillepost.com/global/article/4471505-sudan-starts-distribution-of-china-donated-rice",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bastillepost",
+    "published": "2025-01-10T05:36:00.000+02:00",
+    "title": "Sudan starts distribution of China-donated rice",
+    "text": "Sudan on Wednesday began distributing 1,250 tonnes of rice donated by China to districts across the country, as part of efforts to alleviate food shortages and support vulnerable communities.\nThe rice was shipped to Port Sudan, the capital of eastern Sudan's Red Sea State, last month to support humanitarian response in the war-torn country.\nSudanese government officials and representatives of the Chinese Embassy in Sudan attended the launching ceremony in Port Sudan.\nAddressing the ceremony, Zhang Xianghua, charge d'affaires at the Chinese embassy, emphasized that the Chinese government is paying close attention to the humanitarian situation in Sudan and remains committed to offering assistance within its means.\nHe also expressed hope that this donation of rice would significantly contribute to alleviating the difficulties faced by the Sudanese people.\nSalwa Adam Benya, Sudan's humanitarian aid commissioner, expressed heartfelt gratitude to China for its valuable support, noting that the aid would be distributed to every state, ensuring that people across Sudan would benefit from the relief supplies.\n\"Sudan and China have a long-standing and deep friendship, and China has been a strong supporter of Sudan's development,\" she stressed.\nThe ongoing conflict between the Sudanese Armed Forces and the paramilitary Rapid Support Forces since mid-April 2023 has devastated Sudan's agricultural sector and exacerbated food insecurity, with many regions facing the threat of famine.\nAccording to official statistics, 28.9 million people in Sudan need humanitarian assistance due to an ongoing conflict.\nIn a report released last month, the UN estimated that more than 24.6 million people -- half of Sudan's population -- would likely face high levels of acute food insecurity as of May 2025.\n[](https://image.bastillepost.com/1138x/wp-content/uploads/global/2025/01/8411507_1736488696002_a.jpg.webp)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->agriculture",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Salwa Adam Benya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zhang Xianghua",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Port",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:50:09.430+02:00",
+    "updated": "2025-01-10T08:50:09.430+02:00"
+}

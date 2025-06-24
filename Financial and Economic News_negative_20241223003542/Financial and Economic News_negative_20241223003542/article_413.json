@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "5ba6a55c606edc90b199852d8eeba7aee904f326",
+        "url": "https://www.researchsquare.com/article/rs-5425175/v1",
+        "site_full": "www.researchsquare.com",
+        "site": "researchsquare.com",
+        "site_section": "https://researchsquare.com/rss.xml",
+        "site_categories": [],
+        "section_title": "Preprints",
+        "title": "Assessing the Financial Burden of Multimorbidity Among Patients Aged 30 and above in India",
+        "title_full": "Assessing the Financial Burden of Multimorbidity Among Patients Aged 30 and above in India",
+        "published": "2024-12-17T08:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5850,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5ba6a55c606edc90b199852d8eeba7aee904f326",
+    "url": "https://www.researchsquare.com/article/rs-5425175/v1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sudheer Kumar Shukla",
+    "published": "2024-12-17T08:33:00.000+02:00",
+    "title": "Assessing the Financial Burden of Multimorbidity Among Patients Aged 30 and above in India",
+    "text": "Background\nMultimorbidity is associated with significant out-of-pocket expenditures (OOPE) and catastrophic health expenditure (CHE), especially in low- and middle-income countries like India. Despite this, there is limited research on the financial burden of multimorbidity in outpatient and inpatient care, and cross-state comparisons of CHE are underexplored.\nMethods\nWe conducted a cross-sectional analysis using nationally representative data from the National Sample Survey 75th Round ‘Social Consumption in India: Health (2017-18)’, focusing on patients aged 30 and above in outpatient and inpatient care in India. We assessed multimorbidity prevalence, OOPE, CHE incidence, and CHE intensity. Statistical models, including linear, log-linear, and logistic regressions, were used to examine the financial risk, with a focus on non-communicable diseases (NCDs), healthcare facility choice, and socioeconomic status and Epidemiological Transition Levels (ETLs).\nResults\nMultimorbidity prevalence in outpatient care (6.1%) was six times higher than in inpatient care (1.1%). It was most prevalent among older adults, higher MPCE quintiles, urban patients, and those with NCDs. Multimorbidity was associated with higher OOPE, particularly in the rich quintile, patients seeking care from private providers, low ETL states, and rural areas. CHE incidence was highest in low ETL states, private healthcare users, poorest quintile, males, and patients aged 70 + years. CHE intensity, measured by mean positive overshoot, was greatest among the poorest quintile, low ETL states, rural, and male patients. Log-linear and logistic regressions indicated that multimorbidity patients with NCDs, those seeking private care, and those in low ETL states had higher OOPE and CHE risk. The poorest rural multimorbidity patients had the greatest likelihood of experiencing CHE. Furthermore, CHE intensity was significantly elevated among multimorbidity patients with NCDs (95% CI: 19.29–45.79), patients seeking care in private, poorest, and from low ETL states (95% CI: 7.36–35.79).\nConclusions\nThe high financial burden of OOPE and CHE among multimorbidity patients, particularly those with NCDs, underscores the urgent need for comprehensive health policies that address financial risk at the primary care level. To alleviate the financial burden among multimorbidity patients, especially in low-resource settings, it is crucial to expand public healthcare coverage, incorporate outpatient care into financial protection schemes, advocate for integrated care models and preventive strategies, establish standardized treatment protocols for reducing unnecessary medications linked to polypharmacy, and leverage the support of digital health technologies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:28:41.099+02:00",
+    "updated": "2024-12-17T13:28:41.099+02:00"
+}

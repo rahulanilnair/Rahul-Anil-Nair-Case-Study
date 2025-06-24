@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "44a9155bea81f241876219a3dacfc631e69014d4",
+        "url": "https://smestreet.in/limelight/msme-ministry-highlights-innovation-at-pravasi-bharatiya-diwas-2025-8606962",
+        "site_full": "smestreet.in",
+        "site": "smestreet.in",
+        "site_section": "https://smestreet.in/feed/",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "SME Street : Latest Posts",
+        "title": "MSME Ministry Highlights Innovation at Pravasi Bharatiya Diwas 2025",
+        "title_full": "MSME Ministry Highlights Innovation at Pravasi Bharatiya Diwas 2025",
+        "published": "2025-01-10T03:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img-cdn.thepublive.com/fit-in/1200x675/smstreet/media/media_files/2025/01/10/vzQtbuMR08PfnNk0Rp3k.jpg",
+        "performance_score": 0,
+        "domain_rank": 52803,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "44a9155bea81f241876219a3dacfc631e69014d4",
+    "url": "https://smestreet.in/limelight/msme-ministry-highlights-innovation-at-pravasi-bharatiya-diwas-2025-8606962",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SMEStreet Edit Desk",
+    "published": "2025-01-10T03:59:00.000+02:00",
+    "title": "MSME Ministry Highlights Innovation at Pravasi Bharatiya Diwas 2025",
+    "text": "The 18th edition of Pravasi Bharatiya Diwas was inaugurated by the Prime Minister of India, Shri Narendra Modi, on January 9, 2025, at Janata Maidan, Bhubaneswar, Odisha. The event with its theme as “Diaspora’s contribution to a Viksit Bharat” highlighted the pivotal role of the Indian diaspora in nation-building. The event was attended by various Ministers, officials, and a significant number of Pravasi Bharatiyas.\nMinister of State for MSME and Labour & Employment, Sushri Shoba Karandlaje, visited theme pavilions curated by the Ministry of MSME and its organisations. A prototype of Chandrayaan-3, developed by the Central Tool Room and Training Centre (CTTC), Bhubaneswar has been displayed. This Centre has been instrumental in the manufacturing of high-quality critical components, which have significantly contributed to the success of the mission Chandrayaan-3 and “Make in India” initiative.\nThe Minister also explored new technology demonstration centers, including AR-VR experience hubs, drone technologies, and solar panel manufacturing units. She engaged with Khadi and Village Industries artisans showcasing traditional crafts like Khadi Charkhas, looms, and Paper Mache. She interacted with the beneficiaries of the PM Vishwakarma Scheme. This scheme, launched by the Prime Minister of India, Shri Narendra Modi on 17th September, 2023, is aflagship Scheme of the Ministry of MSME for providing end-to-end support to the artisans & craftspeople, engaged in 18 trades.\nHighlighting India’s advancements in medical devices, aero engineering, water purification technologies, and indigenous crafts like Tussar silk and coir products, Sushri Karandlaje lauded the MSME sector’s theme pavilion, aptly titled “Charkha to Chandrayaan”.\nShe also interacted with members of the diaspora from Dubai, emphasizing their role in promoting Indian culture and craftsmanship globally. She stated that the diaspora has a crucial role in Hon’ble Prime Minister’s vision of achieving a “Viksit Bharat” by 2047. The Minister encouraged Pravasi Bharatiyas to reconnect with their roots and contribute actively to India’s growth story.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->national government",
+        "Politics->government",
+        "Politics->political development",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shri Nar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sushri Shoba Karandlaje",
+                "sentiment": "none"
+            },
+            {
+                "name": "Khadi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pravasi Bharatiya",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:46:13.854+02:00",
+    "updated": "2025-01-10T09:46:13.854+02:00"
+}

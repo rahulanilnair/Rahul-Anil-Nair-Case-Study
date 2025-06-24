@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "154fe8feaf24c647069f653f3f5e3c11a9604a78",
+        "url": "https://www.holyrood.com/news/view,ongoing-investment-needed-at-ferguson-marine-as-it-faces-uncertain-future",
+        "site_full": "www.holyrood.com",
+        "site": "holyrood.com",
+        "site_section": "https://www.holyrood.com/news.htm",
+        "site_categories": [
+            "education",
+            "business"
+        ],
+        "section_title": "\r\n\tRead the latest news from Scotish Politics and the Scottish Parliment | Holyrood Magazine\r\n",
+        "title": "Ongoing investment needed at Ferguson Marine as it faces ‘uncertain’ future",
+        "title_full": "Ongoing investment needed at Ferguson Marine as it faces ‘uncertain’ future",
+        "published": "2024-12-17T13:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.holyrood.com/siteimg/share/ugc-1/fullnews/news/22839/23146_original.jpg",
+        "performance_score": 0,
+        "domain_rank": 72543,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "154fe8feaf24c647069f653f3f5e3c11a9604a78",
+    "url": "https://www.holyrood.com/news/view,ongoing-investment-needed-at-ferguson-marine-as-it-faces-uncertain-future",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T13:27:00.000+02:00",
+    "title": "Ongoing investment needed at Ferguson Marine as it faces ‘uncertain’ future",
+    "text": "The MV Glen Sannox was delayed by several years | Alamy Ongoing investment needed at Ferguson Marine as it faces ‘uncertain’ future Share this page Ongoing investment in the state-owned Ferguson Marine shipyard is needed to make it competitive, the public spending watchdog has said. An Audit Scotland report has warned the future of the Port Glasgow yard remains uncertain as no work has been secured beyond the completion of the second of the two long-delayed ferries. The MV Glen Sannox was finally handed over to CalMac last month following years of delays and cost overruns, while the MV Glen Rosa is due to be delivered next September. But Ferguson Marine has no contracts for work beyond that and its only guaranteed income is funding from the Scottish Government. The yard has been invited to tender for a government contract to deliver the small vessel replacement programme. This could not be awarded directly due to UK subsidy laws. Deputy first minister Kate Forbes has said the government was “committed” to putting the yard back on a sustainable footing. Audit Scotland also raised concerns about poor governance and decision-making at the yard, particularly in relation to the payment of two employee exit packages of over £95,000 and changes to secondment contracts. Audit general Stephen Boyle said: “The future of the Ferguson Marine Port Glasgow shipyard remains uncertain. Currently the yard hasn’t secured any future work or income, beyond the delivery of the Glen Rosa. “We are again highlighting issues of inadequate governance and decision making. An independent review of governance arrangements needs to be swiftly actioned to ensure such poor decisions, without the right checks and balances, are not repeated.” The Scottish Government confirmed earlier this year that it would invest up to £14.2m in the yard over two years, assuming the proper legal, financial and commercial scrutiny processes are followed. That work was meant to be completed by autumn but no announcement has yet been made. Forbes said: “Officials have been working with the Board to explore options to improve productivity and, as previously set out, we are willing to invest up to £14.2m over two years, subject to due diligence and provided commercial standards are met. “The draft 2025/26 Scottish Budget allocates £46m to Ferguson Marine for the completion of Glen Rosa and to cover the yard’s planned capital investment, subject to parliamentary approval. “While we are already working with Ferguson Marine to strengthen governance arrangements, we note the Auditor General’s report and expect the board to carefully consider the points it raises.” Holyrood Newsletters Holyrood provides comprehensive coverage of Scottish politics, offering award-winning reporting and analysis: Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Glen Sannox",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kate Forbes",
+                "sentiment": "none"
+            },
+            {
+                "name": "Glen Rosa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ferguson Marine",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Port",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:53:40.650+02:00",
+    "updated": "2024-12-17T13:53:40.650+02:00"
+}

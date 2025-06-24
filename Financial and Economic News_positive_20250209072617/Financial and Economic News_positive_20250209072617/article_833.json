@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "e31c5e959ab040a5754927d7a9e1d314e10594bf",
+        "url": "https://www.cnbctv18.com/photos/market/tcs-share-price-tata-consultancy-services-rises-five-reasons-behind-the-surge-19537806.htm",
+        "site_full": "www.cnbctv18.com",
+        "site": "cnbctv18.com",
+        "site_section": "https://www.cnbctv18.com/photos/market",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business News Today - Read Business News, India News, LIVE Share Market News Updates, Economy, Sensex, NIFTY News",
+        "title": "TCS shares are top Nifty IT gainers post Q3 results: 5 key factors behind the surge",
+        "title_full": "TCS shares are top Nifty IT gainers post Q3 results: 5 key factors behind the surge",
+        "published": "2025-01-10T08:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.cnbctv18.com/uploads/2024/09/stock-market-2-2024-09-00c2311b5cce454ddf8315c8f3dded1a.jpg?im=FitAndFill,width=500,height=300",
+        "performance_score": 0,
+        "domain_rank": 5787,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e31c5e959ab040a5754927d7a9e1d314e10594bf",
+    "url": "https://www.cnbctv18.com/photos/market/tcs-share-price-tata-consultancy-services-rises-five-reasons-behind-the-surge-19537806.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CNBCTV18Live",
+    "published": "2025-01-10T08:27:00.000+02:00",
+    "title": "TCS shares are top Nifty IT gainers post Q3 results: 5 key factors behind the surge",
+    "text": "1: The stock has underperformed peers over the last one year. TCS +13% Infosys +29% HCLTech +31% Wipro +32%\n2: Infosys valuations caught up with TCS, both trade at 27x FY2e PE (historically Infosys traded at a discount).\n3: Q3 revenue miss, but largely inline with estimates and no downgrades.\n4: Deal wins and commentary upbeat - The management said that some improvement have been seen around discretionary spends in BFSI and retail. - The deal cycle has shrunk by a few weeks, which is positive sign for the future. - The current sentiment is more positive on CY25. - FY26 should be better than FY25 - Initial conversation on Client budgets suggest positive bias.\n5: Global brokerage firms CLSA has upgraded TCS, while HSBC said that the company's performance has bottomed out. CLSA has upgraded to 'Outperform' from its earlier 'Hold' rating, with a price target of ₹4,546 from ₹4,251 earlier. TCS valuation as now attractive both relative global/Indian peers and its five-year history. HSBC said that the performance seems to have bottomed out, though we still see downside risk to FY26 consensus; Hold with price target of ₹4,540.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "none"
+            },
+            {
+                "name": "CLSA",
+                "sentiment": "none"
+            },
+            {
+                "name": "HSBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:52:18.905+02:00",
+    "updated": "2025-01-10T08:52:18.905+02:00"
+}

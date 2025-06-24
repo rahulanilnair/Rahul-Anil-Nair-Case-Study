@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "430bed5be2fbd791d47b631c75b3d524fbd07de2",
+        "url": "https://bankingjournal.aba.com/2025/01/the-clearing-house-payment-value-on-rtp-network-up-nearly-95-in-2024",
+        "site_full": "bankingjournal.aba.com",
+        "site": "aba.com",
+        "site_section": "https://bankingjournal.aba.com/feed",
+        "site_categories": [
+            "credit_debt_and_loans",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "ABA Banking Journal",
+        "title": "The Clearing House: Value on RTP network up nearly 95% in 2024",
+        "title_full": "The Clearing House: Value on RTP network up nearly 95% in 2024",
+        "published": "2025-01-09T21:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bankingjournal.aba.com/wp-content/uploads/2024/09/Electornic-Payments-Generic-Graphic-.jpg",
+        "performance_score": 0,
+        "domain_rank": 9869,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "430bed5be2fbd791d47b631c75b3d524fbd07de2",
+    "url": "https://bankingjournal.aba.com/2025/01/the-clearing-house-payment-value-on-rtp-network-up-nearly-95-in-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABA Banking Journal Staff",
+    "published": "2025-01-09T21:45:00.000+02:00",
+    "title": "The Clearing House: Value on RTP network up nearly 95% in 2024",
+    "text": "The Clearing House reports that the total transaction value on its RTP network jumped 94% in 2024 from the previous year to $246 billion, while volume increased 38% to 343 million transactions. The network entered 2025 with a record 98 million transactions valued at $80 billion in Q4 2024, which TCH says is 12% volume growth and a 16% increase in value from the third quarter.\nThe growing number of banks and credit unions participating is another factor that contributed to increased activity on the RTP network, TCH officials said. The number of participating financial institutions on the RTP network grew 67% in 2024. Smaller banks, officials noted, view instant payments “as a positive influence on customer retention,” a way to “reclaim payment flows and keep funds in their customers’ bank accounts,” and to increase customer satisfaction.\nThe RTP network averages over 1 million payments per day.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCH",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:38:53.775+02:00",
+    "updated": "2025-01-10T00:38:53.775+02:00"
+}

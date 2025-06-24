@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "6ca537e6fb5970714ad5ddd8538ed093f5aea232",
+        "url": "https://www.southernminn.com/waseca_county_news/news/albert-lea-man-charged-over-theft-at-business-in-waseca-industrial-park/article_dea51f82-b14b-11ef-b288-f709b161d0f3.html",
+        "site_full": "www.southernminn.com",
+        "site": "southernminn.com",
+        "site_section": "https://www.southernminn.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "southernminn.com",
+        "title": "Albert Lea man charged over theft at business in Waseca industrial park | News | southernminn.com",
+        "title_full": "Albert Lea man charged over theft at business in Waseca industrial park | News | southernminn.com",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/d/ea/dea51f82-b14b-11ef-b288-f709b161d0f3/674eb9a9f2a24.preview.jpg?crop=1662%2C873%2C0%2C186&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 33305,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ca537e6fb5970714ad5ddd8538ed093f5aea232",
+    "url": "https://www.southernminn.com/waseca_county_news/news/albert-lea-man-charged-over-theft-at-business-in-waseca-industrial-park/article_dea51f82-b14b-11ef-b288-f709b161d0f3.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Albert Lea man charged over theft at business in Waseca industrial park | News | southernminn.com",
+    "text": "An Albert Lea man is facing felony counts of theft, burglary and receipt of stolen property after he reportedly stole thousands of dollars worth of copper wiring and tools from\" /",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Albert Lea",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:41:23.688+02:00",
+    "updated": "2024-12-20T14:11:30.514+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "50f4d2be098f276f7c8f64f1ab8b205b98243160",
+        "url": "https://dnyuz.com/2025/01/09/apple-says-siri-isnt-eavesdropping-and-selling-your-data",
+        "site_full": "dnyuz.com",
+        "site": "dnyuz.com",
+        "site_section": "https://www.dnyuz.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DNyuz &#8211; Latest Breaking News, U.S. and World Politics, Crime, Business, Science, Technology, Autos, Entertainment, Culture, Movie, Music, Sports.",
+        "title": "Apple says Siri isn't eavesdropping and selling your data",
+        "title_full": "Apple says Siri isn't eavesdropping and selling your data",
+        "published": "2025-01-10T03:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 13733,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "50f4d2be098f276f7c8f64f1ab8b205b98243160",
+    "url": "https://dnyuz.com/2025/01/09/apple-says-siri-isnt-eavesdropping-and-selling-your-data",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Quartz",
+    "published": "2025-01-10T03:14:00.000+02:00",
+    "title": "Apple says Siri isn't eavesdropping and selling your data",
+    "text": "Apple ( AAPL+0.20% ) said Siri user data is not being sold for marketing purposes after settling a proposed class action lawsuit accusing the voice assistant of eavesdropping on iPhone and other Apple device users.\n“Apple has never used Siri data to build marketing profiles, never made it available for advertising, and never sold it to anyone for any purpose,” the tech giant said in a statement Wednesday.\nLast week, Apple agreed to pay $95 million to settle a lawsuit alleging that Siri covertly recorded conversations for more than a decade — even when the voice assistant wasn’t activated using the trigger words, “Hey, Siri” — from users of its iPhones, iPads, watches, headphones, computers, and smart speakers. The lawsuit claimed that Apple then shared that data with advertisers.\nApple did not admit to any wrongdoing as part of the settlement, although some social media users interpreted the payout as confirmation of Apple using its voice assistant to spy on users.\nThe company said in its statement that Siri “has been engineered to protect user privacy and is the most private digital assistant.” Apple also underscored that it doesn’t keep audio recordings of Siri interactions unless users explicitly opt in to help improve Siri. Even then, the company said those recordings are used solely for that purpose.\nIf approved, the settlement would allow for tens of millions of Apple customers who owned devices from September 17, 2014, through December 31, 2024, to file claims.\nConsumers can receive up to $20 for every device they own equipped with Siri — with a cap at five devices per individual — although payments could be adjusted depending on how many claims are filed. Only a fraction of eligible customers are expected to file claims.\nThe settlement represents only a sliver of Apple’s nearly $94 billion net income in the last fiscal year.\n— William Gavin contributed reporting.\nThe post Apple says Siri isn’t eavesdropping and selling your data appeared first on Quartz .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->social sciences",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->products and services",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://qz.com/quote/AAPL",
+        "https://qz.com/apple-hey-siri-privacy-settlement-lawsuit-1851731818?utm_source=dlvr.it&#038;utm_medium=twitter&#038;_gl=1*14mvrjx*_ga*MTY1NjQyMDgwNC4xNzIxMDcwOTUy*_ga_V4QNJTT5L0*MTczNjQzMzgwOS40NTEuMS4xNzM2NDM1MDkyLjYwLjAuMA..",
+        "https://qz.com/apple-siri-data-advertising-eavesdropping-lawsuit-1851736061",
+        "https://x.com/EshopverseStore/status/1875387310692561028",
+        "https://qz.com/apple-q4-2024-earnings-report-iphone-16-intelligence-1851686204",
+        "https://www.apple.com/newsroom/2025/01/our-longstanding-privacy-commitment-with-siri/",
+        "https://www.qz.com/quote/AAPL",
+        "https://www.x.com/EshopverseStore/status/1875387310692561028",
+        "https://www.apple.com/newsroom/2025/01/our-longstanding-privacy-commitment-with-siri",
+        "https://apple.com/newsroom/2025/01/our-longstanding-privacy-commitment-with-siri/",
+        "https://www.qz.com/apple-hey-siri-privacy-settlement-lawsuit-1851731818?utm_source=dlvr.it&#038;utm_medium=twitter&#038;_gl=1*14mvrjx*_ga*MTY1NjQyMDgwNC4xNzIxMDcwOTUy*_ga_V4QNJTT5L0*MTczNjQzMzgwOS40NTEuMS4xNzM2NDM1MDkyLjYwLjAuMA..",
+        "https://www.qz.com/apple-q4-2024-earnings-report-iphone-16-intelligence-1851686204",
+        "https://qz.com/apple-hey-siri-privacy-settlement-lawsuit-1851731818",
+        "https://www.qz.com/apple-siri-data-advertising-eavesdropping-lawsuit-1851736061"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:49:27.335+02:00",
+    "updated": "2025-01-10T05:49:27.335+02:00"
+}

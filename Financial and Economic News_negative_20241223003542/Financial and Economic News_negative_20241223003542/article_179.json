@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "d19b65f8dbf475cf3a6dfd176f3332743d552b02",
+        "url": "https://english.aaj.tv/news/330393499/psx-rally-suddenly-halted-index-falls-to-113000-points",
+        "site_full": "english.aaj.tv",
+        "site": "aaj.tv",
+        "site_section": "https://www.aajenglish.tv/feeds/latest-news",
+        "site_categories": [],
+        "section_title": "Aaj TV English News - Latest News",
+        "title": "PSX rally suddenly halted, index falls to 113,000 points",
+        "title_full": "PSX rally suddenly halted, index falls to 113,000 points",
+        "published": "2024-12-17T06:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.aaj.tv/large/2024/12/17112459d43f2df.webp?r=112608",
+        "performance_score": 0,
+        "domain_rank": 106535,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d19b65f8dbf475cf3a6dfd176f3332743d552b02",
+    "url": "https://english.aaj.tv/news/330393499/psx-rally-suddenly-halted-index-falls-to-113000-points",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (Syed Safdar Abbas)",
+    "published": "2024-12-17T06:48:00.000+02:00",
+    "title": "PSX rally suddenly halted, index falls to 113,000 points",
+    "text": "PSX rally suddenly halted, index falls to 113,000 points\nPakistan Stock Exchange (PSX) rally halts abruptly. The KSE-100 index reached a new high of over 117,000 points within minutes of opening on the first day of the trading week.\nAfter closing at 116,169 on Monday, the market opened strong on Tuesday, with the index gaining 766 points to reach 116,936.\nThe index continued its upward trajectory, rising a further 64 points to surpass the 117,000 mark, setting a new record high.\nHowever, this positive trend reversed sharply shortly afterward. The index experienced a significant drop of over 2400 points, eventually settling at approximately 113,600.7.\nThis fifth consecutive rate cut by the SBP reflects a supportive monetary policy aimed at stimulating economic activity, driven by November’s inflation rate dropping to its lowest point since 2018 (4.9%).\nAnalysts predict this shift will draw investment away from fixed-income securities and into equities, further invigorating the market.\nFor the latest news, follow us on Twitter\n@Aaj_Urdu.\nWe are also on\nFacebook,\nInstagram\nand\nYouTube.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Pakistan Stock Exchange",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:19:16.301+02:00",
+    "updated": "2024-12-17T12:19:16.301+02:00"
+}

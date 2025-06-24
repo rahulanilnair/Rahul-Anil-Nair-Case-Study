@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "b562beb091a81c474ef32007f7701411070602f4",
+        "url": "https://dailyinterlake.com/news/2024/dec/17/tamp-down-on-government-data-collection-overreach",
+        "site_full": "dailyinterlake.com",
+        "site": "dailyinterlake.com",
+        "site_section": "https://dailyinterlake.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest stories | Ellington",
+        "title": "Tamp down on government data collection overreach",
+        "title_full": "Tamp down on government data collection overreach",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://hagadone.media.clients.ellingtoncms.com/static-4/dailyinterlake/images/default-social.jpg?v=2",
+        "performance_score": 0,
+        "domain_rank": 28213,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b562beb091a81c474ef32007f7701411070602f4",
+    "url": "https://dailyinterlake.com/news/2024/dec/17/tamp-down-on-government-data-collection-overreach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "None",
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Tamp down on government data collection overreach",
+    "text": "Tamp down on government data collection overreach\nThe Office of Public Instruction currently collects nearly 200 points of information for school accreditation, funding and assessing the quality of programming and student well-being. This data, which includes student data, is protected by federal and state privacy laws and our state constitution.\nDuring the 2023 legislative session HB 949, Generally revise education laws related to data governance, by Rep. Dave Bedey, was passed. This bill proposed to create “a strong and transparent education and workforce data governing board with authority over the linkage of education and workforce data.” But in reality, this amounts to veiled cradle-to-grave data collection on Montana citizens, especially our children.\nThe Education and Workforce Data Governing Board meeting on Dec. 9 suggested that the state government should collect more student information than our state and federal laws currently require.\nThe Legislature must sparingly and precisely identify what student information is demanded from local school districts about our children. Unfortunately, HB 949 was not crafted to surgically gather limited data. Instead, all student data, including personally identifiable data about minors, is sought to be gathered and shared across state government.\nThe attempted intrusion on children’s privacy by the government is unprecedented and unconscionable.\nA 2016 legislative performance audit was conducted based on concerns over burdensome data collection requirements and how the Office of Public Instruction maintains the individual privacy of students and their families. The audit found that, before my administration, the Office of Public Instruction did “not identify and reduce unnecessary data collection burdens on local school districts.” During my tenure, the privacy of our children’s information has been a top priority.\nThe audit results about over-collecting data, burdening our schools and protecting students’ personal information reflect my concerns about the implementation of HB 949. Efficient data collection, including not collecting unnecessary data and not challenging the privacy of families and students, benefits teachers by allowing them to focus on teaching their students instead of becoming data entry professionals.\nAs a very rural state, which the federal government considers frontier, a majority of our children’s information is masked to protect it from being linked to an individual and to protect privacy. The state must be cautious about gathering, linking and releasing information to track students across state government.\nMany Montana families do not have the opportunity or means to choose whether their children attend a public school or a private school. The government requires our children to attend school, and for many families, the only choice is our public schools. Some in government wish to require that our children’s private information be gathered, shared, stored, and analyzed across state government. This is directly opposed to Montana’s proud enshrinement of privacy rights in our constitution.\n“This is going in your permanent record” was a childhood threat that, as adults, we believed would never come true. Bills like HB 949 aim to bring that threat to life by tracking our children, and our citizens, from cradle to grave. Eternal vigilance to those privacy threats is necessary to ensure the freedoms and privacy rights of all Montanans.\nElsie Arntzen is Montana’s superintendent of public instruction.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b562beb091a81c474ef32007f7701411070602f4",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:43:58.160+02:00",
+    "updated": "2024-12-17T11:43:58.160+02:00"
+}

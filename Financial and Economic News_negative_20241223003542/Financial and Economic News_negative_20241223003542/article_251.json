@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "0edd32b27e1d83b20d54fc9e3167320ea3963e02",
+        "url": "https://www.tallahassee.com/story/opinion/2024/12/17/digital-privacy-law-would-hurt-floridas-small-businesses-opinion/76975238007",
+        "site_full": "www.tallahassee.com",
+        "site": "tallahassee.com",
+        "site_section": "https://www.tallahassee.com",
+        "site_categories": [
+            "real_estate",
+            "media",
+            "buying_selling_homes"
+        ],
+        "section_title": "Tallahassee - Home",
+        "title": "Proposed digital privacy law would hurt Florida’s small businesses like mine | Opinion",
+        "title_full": "Proposed digital privacy law would hurt Florida’s small businesses like mine | Opinion",
+        "published": "2024-12-17T12:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/12/14/PTAL/76975398007-us-capitol.jpg?auto=webp&crop=5999,3375,x0,y624&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 4901,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0edd32b27e1d83b20d54fc9e3167320ea3963e02",
+    "url": "https://www.tallahassee.com/story/opinion/2024/12/17/digital-privacy-law-would-hurt-floridas-small-businesses-opinion/76975238007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Bick, Tallahassee Democrat",
+    "published": "2024-12-17T12:06:00.000+02:00",
+    "title": "Proposed digital privacy law would hurt Florida’s small businesses like mine | Opinion",
+    "text": "For the past eight years, my family and I have run a fitness-focused app business that’s helping thousands of people lead healthier lives. We’re a digital company, so advertising is our lifeblood. And we’re not alone. According to a recent Advertiser Perceptions study, 83% of Florida small businesses use digital ads to find customers. We also generate revenue by selling other businesses ad space in our apps. So, it’s worrying that Congress — including representatives from our state — is considering a bill called the American Privacy Rights Act (APRA). I agree that people’s privacy is important. But APRA would overregulate the data that powers digital ads, making them less effective and hurting thousands of Florida small businesses that use them to grow. Contrary to what many lawmakers say, digital ads aren’t “surveillance.” Instead, they use basic data — things like consumers’ interests and online behavior — to send the right ads to the right audiences. That makes them effective and cost-efficient tools for small specialty businesses like mine. I’d be wasting money if I sent ads to the general public; I need to tell fitness-focused people about my fitness-focused digital tools so they will visit and buy from my online shop. Digital partners like Google can process data in real time to send my ads to the right people. That’s a triple win: I get new customers; I use my advertising budget efficiently, so I can spend money upgrading my apps and hiring more people; and fitness-enthusiasts learn about apps that can help them achieve their goals. Some lawmakers say APRA will only impact the biggest tech companies, but that’s not so. APRA applies to any business annually generating more than 200,000 data points — things like ad-clicks and downloads. But almost any business with a strong online presence surpasses that number. That means much of Florida’s thriving small-business community will be regulated the same as massive tech companies and data brokers. In fact, APRA will significantly impact small businesses whether or not they reach the 200,000 thresholds. Here’s why. APRA says covered businesses can only use data for the specific purpose for which a customer provided it. That means businesses like mine won’t be able to engage in basic marketing, like telling customers about new apps that — based on their past purchases from us — we think they’d like. That’s bad for our business, because we miss out on a personalized interaction with a customer and a possible sale. And it’s bad for our customers, who may miss out on an app they want. But here’s how APRA will really sting. Just like we do, most small businesses partner with bigger companies that process their data to do important things like send emails to the right audience. APRA’s data-use restrictions would make that processing illegal. So small businesses — both above and below the 200,000 thresholds — would lose their most effective marketing and advertising tools. For us, that’s a one-two punch. We’d have a harder time finding new customers and we’d lose ad revenue, because businesses wouldn’t’t be willing to waste their money buying ineffective ads. Finally, APRA contains a private right of action, which means anyone can sue a business alleging noncompliance with the law. Unfortunately, private right of action is an invitation to unprincipled lawyers looking to extract fees from small businesses. They accuse the business of breaking the law, then offer them the “choice” of paying a few-thousand-dollar settlement or engaging in a costly, time-consuming court case. Most businesses choose the settlement. I ask Florida’s Congressional delegation to carefully consider APRA’s consequences for businesses like mine, and to strive for more balanced and beneficial legislation. Chris Bick is founder and CEO of Dunedin, FL-based app developer Bickster. JOIN THE CONVERSATION Send letters to the editor (up to 200 words) or Your Turn columns (about 500 words) to [letters@tallahassee.com](mailto:letters@tallahassee.com). Please include your address for verification purposes only, and if you send a Your Turn, also include a photo and 1-2 line bio of yourself. You can also submit anonymous Zing!s at Tallahassee.com/Zing. Submissions are published on a space-available basis. All submissions may be edited for content, clarity and length, and may also be published by any part of the USA TODAY NETWORK.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:43:01.425+02:00",
+    "updated": "2024-12-17T12:43:01.425+02:00"
+}

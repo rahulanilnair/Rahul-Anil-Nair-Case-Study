@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 67
+============================================================
+Timestamp: 2025-06-23 08:44:16
+Headline Summary: Indoco Remedies shares plunge over 7% due to USFDA warning letter
+Key Highlights: USFDA warning letter related to compliance issues, significant contribution of Goa facility to revenue, commitment to addressing concerns and supplying products to customers in the US
+Final Sentiment: Negative
+Confidence: 70%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: While the negative sentiment is understandable given the decline in share price and potential disruptions, I believe the company\u2019s commitment to addressing the issues suggests a more optimistic outcome. The significant contribution of the Goa facility to revenue and the reaffirmed supply commitments to customers in the US mitigate the impact of the warning letter. growth_analyst: The negative sentiment is justified due to the decline in share price and potential disruptions to Indoco Remedies' operations. However, I partially agree with the current analysis as the significance of the Goa facility to revenue raises concerns, but Indoco Remedies' commitment to addressing the issues suggests a potential resolution.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Negative sentiment.
+============================================================

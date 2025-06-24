@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "0dcf7d3e0246298deceeb58e0eaee065c379ce2a",
+        "url": "https://www.moneycontrol.com/budget/union-budget-2025-fintechs-seek-measures-to-ease-credit-squeeze-article-12907031.html",
+        "site_full": "www.moneycontrol.com",
+        "site": "moneycontrol.com",
+        "site_section": "https://www.moneycontrol.com/author/e/news/business/real-estate",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest News | Latest Business News | BSE | IPO News - Moneycontrol.com",
+        "title": "Union Budget 2025: Fintechs seek measures to ease credit squeeze",
+        "title_full": "Union Budget 2025: Fintechs seek measures to ease credit squeeze",
+        "published": "2025-01-10T02:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241219063800_ministry-of-finance-PTI-file-photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 2299,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0dcf7d3e0246298deceeb58e0eaee065c379ce2a",
+    "url": "https://www.moneycontrol.com/budget/union-budget-2025-fintechs-seek-measures-to-ease-credit-squeeze-article-12907031.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anand J",
+    "published": "2025-01-10T02:52:00.000+02:00",
+    "title": "Union Budget 2025: Fintechs seek measures to ease credit squeeze",
+    "text": "Fintech startups are pinning hopes on the Union Budget, to be presented on February 1, to ease the credit crunch that has stifled growth. Non-banking financial companies (NBFCs) operated by these startups are grappling with fund squeeze as the Reserve Bank of India has tightened credit norms over the past two years. The founders are calling for budgetary measures to enhance access to cheaper credit to spur growth. &quot;All companies want more growth,&quot; said Bala Parthasarathy, chairman of Freo, a fintech startup. &quot;It is important that fintechs get more access to cheaper credit through budgetary measures.&quot; Their demands include continuing credit guarantee allocations for micro, small and medium enterprises (MSME) lending, a refinance window managed by the Small Industries Development Bank of India (SIDBI), and an exemption from tax deducted at source (TDS) on interest payments to NBFCs, aligning them with the treatment for banks. The industry is also hopeful about the creation of a dedicated &quot;India Fintech Fund&quot; for non-priority sector lending, akin to the National Bank for Agriculture and Rural Development (NABARD's) existing funds. “This would provide crucial support to fintech businesses struggling to secure commercial finance in their early stages. The industry expects all fintech lenders to have access to a low-cost wholesale funding facility so that end-users can benefit from lower prices,&quot; said Jatinder Handoo, CEO of the Digital Lenders Association of India (DLAI). The request is similar to the Micro Units Development and Refinance Agency (MUDRA) established for Micro Finance Institutions (MFIs). The RBI’s credit-tightening measures are aimed at curbing risks in the financial sector but, several fintech firms argue, they have disproportionately impacted their ability to raise capital from banks, their primary source of funds. Even banks are struggling to raise deposits for their lending, they say. This has hampered fintechs and NBFCs ability to lend and expand operations. While some of them have been able to raise primary equity capital, the overall funding environment for startups has been slow over the past couple of years. Fintech startups hope that in the Budget, the government will acknowledge their concerns and introduce measures to address the credit crunch.\",",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "Politics->government budget",
+        "Politics->economic policy",
+        "Social Issue->social problem",
+        "Social Issue->poverty"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bala Parthasarathy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fintech",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Small Industries Development Bank of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reserve Bank of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "NBFCs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:31:43.207+02:00",
+    "updated": "2025-01-10T05:31:43.207+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "6f4cfdf955e1988f3d295c376ac27a5a20ad879c",
+        "url": "https://kby.za.net/2025/01/10/airlink-resumes-flights-to-nampula-in-mozambique-after-assurances-that-aircraft-wont-be-seized",
+        "site_full": "kby.za.net",
+        "site": "kby.za.net",
+        "site_section": "https://www.kby.za.net",
+        "site_categories": [
+            "travel",
+            "africa"
+        ],
+        "section_title": "The Kimberley Prospector - Your Diamond Fields Community Newspaper",
+        "title": "Airlink resumes flights to Nampula in Mozambique after assurances that aircraft won't be seized",
+        "title_full": "Airlink resumes flights to Nampula in Mozambique after assurances that aircraft won't be seized",
+        "published": "2025-01-10T03:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 21248,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f4cfdf955e1988f3d295c376ac27a5a20ad879c",
+    "url": "https://kby.za.net/2025/01/10/airlink-resumes-flights-to-nampula-in-mozambique-after-assurances-that-aircraft-wont-be-seized",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RSS",
+    "published": "2025-01-10T03:33:00.000+02:00",
+    "title": "Airlink resumes flights to Nampula in Mozambique after assurances that aircraft won't be seized",
+    "text": "Airlink says its scheduled flights to and from Nampula in Mozambique will resume today. In a statement, it says the decision to resume operations … Read more: Airlink resumes flights to Nampula in Mozambique after assurances that aircraft won’t be seized",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->transport",
+        "Lifestyle and Leisure->travel and tourism",
+        "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Airlink",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:05:09.670+02:00",
+    "updated": "2025-01-10T04:05:09.670+02:00"
+}

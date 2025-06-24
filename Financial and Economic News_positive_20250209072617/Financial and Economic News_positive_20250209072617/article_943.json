@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "eb1d6b4a80837d4d517b875cccc6af7fc87f305b",
+        "url": "https://www.thetimes.com/business-money/entrepreneurs/article/we-believe-in-london-us-venture-capitalists-shrug-off-tax-rises-enterprise-network-zc3zzt35d",
+        "site_full": "www.thetimes.com",
+        "site": "thetimes.com",
+        "site_section": "https://www.thetimes.com",
+        "site_categories": [],
+        "section_title": "The Times &amp; The Sunday Times: breaking news &amp; today's latest headlines",
+        "title": "'We believe in London': US venture capitalists shrug off tax rises",
+        "title_full": "'We believe in London': US venture capitalists shrug off tax rises",
+        "published": "2025-01-10T08:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F265dfa28-c926-44fc-944f-034d870c6130.jpg?crop=1000%2C563%2C0%2C52&resize=1200",
+        "performance_score": 0,
+        "domain_rank": 2646,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eb1d6b4a80837d4d517b875cccc6af7fc87f305b",
+    "url": "https://www.thetimes.com/business-money/entrepreneurs/article/we-believe-in-london-us-venture-capitalists-shrug-off-tax-rises-enterprise-network-zc3zzt35d",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hannah Prevett",
+    "published": "2025-01-10T08:00:00.000+02:00",
+    "title": "'We believe in London': US venture capitalists shrug off tax rises",
+    "text": "It was a dream realised for Sarah Sclarsic and Sierra Peterson, two former Silicon Valley entrepreneurs, when they opened a London outpost of their venture capital firm in October.\nHowever, no sooner had they set up shop when the chancellor Rachel Reeves delivered her maiden budget announcing measures that entrepreneurs complained risked damaging the UK’s competitiveness on the world stage.\nThey included increasing capital gains tax (CGT) at the lower rate from 10 per cent to 18 per cent and from 20 per cent to 24 per cent at the higher rate. There were also changes to [business asset disposal relief](https://www.thetimes.com/article/can-i-offset-share-losses-against-cgt-when-i-sell-my-holiday-let-rkds6pwhg), also known as entrepreneurs’ relief, making it less generous, as well as an increase on CGT paid by institutional investors on “carried interest”,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Social Issue->social networking",
+        "Human Interest->anniversary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Sclarsic",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rachel Reeves",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CGT",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Silicon",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:35:33.849+02:00",
+    "updated": "2025-01-10T09:35:33.849+02:00"
+}

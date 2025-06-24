@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "1269efd83df17549eba60f03d6c934382d087908",
+        "url": "https://www.fox4now.com/cape-coral/game-changer-for-millions-medical-debt-to-vanish-from-credit-reports",
+        "site_full": "www.fox4now.com",
+        "site": "fox4now.com",
+        "site_section": "https://www.fox4now.com/news/local-news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Local News in Fort Myers, Cape Coral, Naples | Fox 4 News - Local News",
+        "title": "GAME CHANGER FOR MILLIONS: Medical debt to vanish from credit reports!",
+        "title_full": "GAME CHANGER FOR MILLIONS: Medical debt to vanish from credit reports!",
+        "published": "2025-01-10T06:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/f5a8658/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2Fd7%2Fae07e1d84b6e924c90b63d2cdc92%2Fposter-image-15.jpg",
+        "performance_score": 0,
+        "domain_rank": 25041,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1269efd83df17549eba60f03d6c934382d087908",
+    "url": "https://www.fox4now.com/cape-coral/game-changer-for-millions-medical-debt-to-vanish-from-credit-reports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emily Young",
+    "published": "2025-01-10T06:39:00.000+02:00",
+    "title": "GAME CHANGER FOR MILLIONS: Medical debt to vanish from credit reports!",
+    "text": "CAPE CORAL, Fla. — Millions of Americans are set to see a boost in their credit scores, thanks to new federal regulations from the Consumer Financial Protection Bureau (CFPB).\nWatch senior reporter Emily Young's full report here:\nStarting January 7, medical debt will no longer appear on credit reports—a change that could be life-changing for many, including for residents in Southwest Florida.\nFor Ashley Deal, owner of Cape Credit Repair, the connection between credit and everyday life is undeniable. “Your credit affects everything you do,” Deal explained. “If you want to refinance your vehicle or shop around for car insurance, your credit score matters.”\nRyan Smith, a Southwest Florida resident, knows firsthand the toll medical debt can take. After a shoulder dislocation left him with $10,000 in medical bills during a time when he was uninsured, his credit score dropped more than 100 points.\n“Your purchasing power and your credit score are your number one keys in life,” Smith said. “I have a business and need business credit cards, so this affected almost every area financially for me.”\nDesperate to repair the damage, Smith turned to Deal for help. But now, with the CFPB’s new rule, he may not need it. The regulation will remove medical debt from credit reports, potentially alleviating a significant burden for countless Americans.\nWhile the regulation officially takes effect on January 7, enforcement may take up to 60 days. Deal advises monitoring your credit report closely during this period. “If the medical debt doesn’t come off, file a complaint with the CFPB—they will investigate,” she said.\nHowever, Deal cautions that the removal of medical debt from credit reports does not absolve individuals from responsibility. “You are still liable for the debt,” she emphasized. “Creditors can still sue you, garnish your wages, or put a lien on your home.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->debt market",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->discrimination",
+        "Social Issue->social problem",
+        "Health->government health care",
+        "Health->health insurance",
+        "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emily Young",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashley Deal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ryan Smith",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Consumer Financial Protection Bureau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cape Credit Repair",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Southwest",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1269efd83df17549eba60f03d6c934382d087908",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:08:52.543+02:00",
+    "updated": "2025-01-10T09:08:52.543+02:00"
+}

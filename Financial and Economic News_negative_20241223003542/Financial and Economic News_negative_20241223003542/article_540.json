@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "ace11be90e3b9c2b6288a614a0b7b50d37e106ab",
+        "url": "https://www.newstalk.com/news/michael-oleary-soaring-flight-prices-have-nothing-to-do-with-holyhead-2117925",
+        "site_full": "www.newstalk.com",
+        "site": "newstalk.com",
+        "site_section": "https://www.newstalk.com/movies-booze",
+        "site_categories": [
+            "shopping",
+            "hobbies_and_interests",
+            "games"
+        ],
+        "section_title": "MOVIES &amp; BOOZE | Newstalk",
+        "title": "Michael O'Leary: Soaring flight prices have ‘nothing to do’ with Holyhead",
+        "title_full": "Michael O'Leary: Soaring flight prices have ‘nothing to do’ with Holyhead",
+        "published": "2024-12-17T13:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://media.radiocms.net/uploads/2024/12/17112442/Dublin-Airport-cap-010_90712843.jpg",
+        "performance_score": 0,
+        "domain_rank": 17622,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ace11be90e3b9c2b6288a614a0b7b50d37e106ab",
+    "url": "https://www.newstalk.com/news/michael-oleary-soaring-flight-prices-have-nothing-to-do-with-holyhead-2117925",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah McKenna Barry",
+    "published": "2024-12-17T13:49:00.000+02:00",
+    "title": "Michael O'Leary: Soaring flight prices have ‘nothing to do’ with Holyhead",
+    "text": "Flight prices are soaring due to Dublin Airport's passenger cap, the Ryanair boss has claimed. As Holyhead port routes remain suspended due to damage inflicted by Storm Darragh, many travellers are turning to air travel to return to Ireland this Christmas. Airline prices, however, have increased with some one-way Ryanair Gatwick to Dublin seats selling at over £500. Ryanair Group CEO Michael O'Leary said these soaring fares have \"nothing to do\" with the situation at Holyhead. Passenger cap On The Pat Kenny Show , Mr O'Leary blamed the passenger cap at Dublin Airport for the rising fares, which he described as \"ludicrous\". \"This Christmas at Dublin Airport, the airlines will offer 220,000 fewer seats than last year - that's a cut of about 10% in seats,\" he said. \"Airfares are already 20-25% higher than last year. \"We predicted that some flights would be charging £500 one-way, and that’s already sadly come to pass.\" 'This high-price Christmas gouging was inevitable.' Ryanair CEO Michael O'Leary on the high air fares people can expect if they fly back to Ireland over the Christmas, on [@PatKennyNT].[pic.twitter.com/Tn2EZWeOg0]— NewstalkFM (@NewstalkFM) [December 17, 2024] This increase is \"entirely avoidable\", according to the Ryanair boss, who blames the outgoing Transport Minister Eamon Ryan. \"We know there’s the annual pilgrimage home at Christmas but there are 220,000 fewer seats,\" he said. \"Therefore it’s inevitable if you have smaller supply and huge demand, prices across the piece will rise and higher prices will also rise.\" Mr O'Leary said if Ryanair kept seats in the region of £30 - £50, the late December flights would sell out in November. \"We put all flights on sale including those on the 20th, and 24th December,\" he said. \"The first seats on those flights were sold probably five or six months ago at £30, £40 or £50. \"As the flights fill, the remaining seats are sold at the highest fares.\" Rising fares Mr O'Leary claims increasing the fare as departure dates draw near is necessary to keep some seats available. \"People often ask, 'Why don’t you just keep the fares at £50 and sell them all?'\" he said. \"Well, because we’d be fully sold by the end of November. \"We have to price up closer to the date of departure to keep some seats available.\" Mr O'Leary said he plans on raising the passenger cap with the European Court of Justice. Feature image shows Michael O'Leary being interviewed by the media: Sasko Lazarov / © RollingNews.ie",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael O'Leary",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pat Kenny",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Holyhead",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ryanair Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Airport",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:08:10.486+02:00",
+    "updated": "2024-12-17T16:01:53.719+02:00"
+}

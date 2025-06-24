@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "62c42d595a41ef6d3e964ad75de84598fd6946e9",
+        "url": "https://www.thestar.com.my/news/nation/2025/01/10/unemployment-rate-drops-to-32-in-nov-2024-says-statistics-department",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "http://anotherbrickinwall.blogspot.com/",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Another Brick in the Wall",
+        "title": "Unemployment rate drops to 3.2% in Nov 2024, says Statistics Department | The Star",
+        "title_full": "Unemployment rate drops to 3.2% in Nov 2024, says Statistics Department | The Star",
+        "published": "2025-01-10T08:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2025/01/10/3110815.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2131,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "62c42d595a41ef6d3e964ad75de84598fd6946e9",
+    "url": "https://www.thestar.com.my/news/nation/2025/01/10/unemployment-rate-drops-to-32-in-nov-2024-says-statistics-department",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2025-01-10T08:27:00.000+02:00",
+    "title": "Unemployment rate drops to 3.2% in Nov 2024, says Statistics Department | The Star",
+    "text": "PUTRAJAYA: The number of unemployed in November 2024 decreased to 546,700 with an unemployment rate of 3.2%, according to the November 2024 Labour Force Statistics released Friday.\nThis marks a 0.9% drop from the 551,400 people unemployed in October 2024.\nChief Statistician Datuk Seri Dr Mohd Uzir Mahidin ( pic ) said Malaysia’s strong economic performance towards the end of 2024 contributed to greater stability in the country’s labour market by November 2024.\n\"Therefore, the labour force in November 2024 strengthened further with an increase of 0.1% to record 17.29 million people (October 2024: 17.27 million people). The labour force participation rate remained unchanged at 70.5%, as in the prior month,” he said in a statement Friday (Jan 10).\nHe added that the number of employed people showed an upward trend, increasing by 0.2% to 16.75 million people in November 2024 compared to 16.72 million in October 2024.\nHe said the majority of those employed in November 2024 were in the employees' category, constituting 74.9%, where this category experienced a marginal increase of 0.1%, bringing the total to 12.54 million people (October 2024: 12.53 million people).\nThere was also an upward trend in the category of own-account workers, with a 0.4% increase to 3.11 million people compared to 3.10 million people in October 2024.\nOn the unemployment situation in November, he stated that those who were available for work and actively seeking jobs, or the actively unemployed, comprised 79.8% of the total unemployed persons.\n\"This group registered a decrease of 0.9% to 436,200 people (October 2024: 440,000 people),\" it added.\nIn November 2024, the youth unemployment rate for those aged 15 to 24 stood at 10.4%, registering 300,600 unemployed youths (October 2024: 10.4%; 301,500 people).\nThe unemployment rate for youth aged 15 to 30 posted a decline of 0.1% point to 6.2%, with 415,600 unemployed youths compared to the preceding month (October 2024: 6.3%; 420,200 persons). - Bernama\nOpen Modal × Follow us on our official WhatsApp channel for breaking news alerts and key updates! Tags / Keywords: DOSM , Mohd Uzir , Labour Force , Employment , Unemployment\nFound a mistake in this article? Report it to us.\nWhat is the issue about? Spelling and grammatical error Factually incorrect Story is irrelevant This field is mandatory This field is mandatory Email (optional) Please enter valid email. Report issue Report issue Cancel Invalid captcha response. Please re-try again. Thank you for your report!\nRelated News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Labour Force Statistics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:43:01.050+02:00",
+    "updated": "2025-01-10T12:47:31.587+02:00"
+}

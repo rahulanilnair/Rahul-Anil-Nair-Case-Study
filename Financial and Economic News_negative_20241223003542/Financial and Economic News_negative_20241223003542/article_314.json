@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "4d666591659671fd7db1647027c8ce7515c0a3b6",
+        "url": "https://www.scrapmonster.com/news/aisi-us-raw-steel-output-slumped/1/94191",
+        "site_full": "www.scrapmonster.com",
+        "site": "scrapmonster.com",
+        "site_section": "https://www.scrapmonster.com/news",
+        "site_categories": [
+            "metals",
+            "business"
+        ],
+        "section_title": "Scrap Metal & Recycling News, Metal Market Prices & Mining News in United States",
+        "title": "AISI: U.S. Raw Steel Output Slumped",
+        "title_full": "AISI: U.S. Raw Steel Output Slumped",
+        "published": "2024-12-17T09:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 150817,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4d666591659671fd7db1647027c8ce7515c0a3b6",
+    "url": "https://www.scrapmonster.com/news/aisi-us-raw-steel-output-slumped/1/94191",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Ploumis",
+    "published": "2024-12-17T09:23:00.000+02:00",
+    "title": "AISI: U.S. Raw Steel Output Slumped",
+    "text": "SEATTLE (Scrap Monster): The most current weekly domestic production numbers released by the American Iron and Steel Institute (AISI) show a roughly 3.2% decline in U.S. weekly raw steel production for the week ending December 14, 2024. This is in comparison with the same week the previous year.\nDuring the week, 1.651 million net tons (NT) of domestic raw steel were produced in the US. The utilization rate of the domestic mill capabilities was 74.3%. It is important to remember that last year, during the same week, production reached 1.705 million NT, with a somewhat lower capacity utilization rate of 74.2%.\nALSO READ:\n[AISI Declared November SIMA Imports Data](/news/aisi-released-november-sima-imports-data/1/94090)\n[AISI Applauded House Passage of Water Resources Bill](/news/aisi-applauded-passage-of-water-resources-bill-by-the-house/1/94124)\nThe production of crude steel also decreased by a slight 1.0% from the week before. With a capability utilization rate of 75.1%, 1.668 million NT were produced in the previous week, ending on December 7, 2024.\nWith 682,000 net tons, the Southern region produced the most. Over the course of the week, the Great Lakes region produced 557,000 net tons. North East-126, Midwest-225, and Western-61 are the other regions' productions (in thousand net tons).\nAs of December 14, 2024, the adjusted year-to-date output was 83.836 million net tons, with a capability utilization rate of 75.7%. This represents a 2.3% decrease from the equivalent year-to-date period of 2023, when production was 85.832 million net tons with a capacity utilization rate of 76.0%.\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:02:47.933+02:00",
+    "updated": "2024-12-17T13:02:47.933+02:00"
+}

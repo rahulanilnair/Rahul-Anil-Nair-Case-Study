@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "480c9ea3f645892f64401bb78d1c0c369efae323",
+        "url": "https://news.nestia.com/detail/Malaysia's-blue-chips-see-some-buying-support-ahead-of-key-US-jobs-report/13189523",
+        "site_full": "news.nestia.com",
+        "site": "nestia.com",
+        "site_section": "https://news.nestia.com/en/list?tab&",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+        "title": "Malaysia's blue chips see some buying support ahead of key US jobs report | Nestia",
+        "title_full": "Malaysia's blue chips see some buying support ahead of key US jobs report | Nestia",
+        "published": "2025-01-10T08:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/201901/07/5c96a981e2df328035270e38261742b1_750x750.jpg",
+        "performance_score": 0,
+        "domain_rank": 108524,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "480c9ea3f645892f64401bb78d1c0c369efae323",
+    "url": "https://news.nestia.com/detail/Malaysia's-blue-chips-see-some-buying-support-ahead-of-key-US-jobs-report/13189523",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online - Business",
+    "published": "2025-01-10T08:00:00.000+02:00",
+    "title": "Malaysia's blue chips see some buying support ahead of key US jobs report | Nestia",
+    "text": "KUALA LUMPUR: Investors picked up beaten-down blue chips on Bursa Malaysia following the market rout earlier this week although the trading sentiment stayed cautious amid growing anxieties over inflation risk.The benchmark FBM KLCI was up 2.79 points to 1,603.6, as it bounced off the 1,600-point psychological support.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "FBM KLCI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:04:08.565+02:00",
+    "updated": "2025-01-10T08:04:08.565+02:00"
+}

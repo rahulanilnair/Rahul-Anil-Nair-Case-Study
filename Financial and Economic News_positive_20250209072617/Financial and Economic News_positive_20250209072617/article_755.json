@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "53f654c0904687c878c07c1e41a96e8810a5c491",
+        "url": "https://keyt.com/news/top-stories/2025/01/09/direct-relief-in-santa-barbara-brings-aid-to-fire-victims-displaced-by-fires-in-los-angeles",
+        "site_full": "keyt.com",
+        "site": "keyt.com",
+        "site_section": "https://live-keyt.pantheonsite.io/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News Channel 3-12",
+        "title": "Direct Relief in Santa Barbara brings aid to fire victims displaced by fires in Los Angeles | News Channel 3-12",
+        "title_full": "Direct Relief in Santa Barbara brings aid to fire victims displaced by fires in Los Angeles | News Channel 3-12",
+        "published": "2025-01-10T05:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://keyt.b-cdn.net/2025/01/direct-relief-.jpg",
+        "performance_score": 0,
+        "domain_rank": 20057,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "53f654c0904687c878c07c1e41a96e8810a5c491",
+    "url": "https://keyt.com/news/top-stories/2025/01/09/direct-relief-in-santa-barbara-brings-aid-to-fire-victims-displaced-by-fires-in-los-angeles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mina-wahab",
+    "published": "2025-01-10T05:18:00.000+02:00",
+    "title": "Direct Relief in Santa Barbara brings aid to fire victims displaced by fires in Los Angeles | News Channel 3-12",
+    "text": "LOS ANGELES, Calif.— The devastating fires out of Los Angeles hits close to home for many Santa Barbarans like Brea Burkholz.\n“We’re only about 60 to 80 miles away from where these fires hit. There's been a point in time where it's been us, you know, in Santa Barbara,” said Direct Relief Spokesperson Brea Burkholz.\nBurkholz says the scenes coming out of LA are heartbreaking— especially seeing residents from an Altadena assisted living center evacuated to unfamiliar territory.\n“The people who are most vulnerable in the face of a disaster were those that were most vulnerable the day before. So we're talking about the elderly. We're talking about the young. We're talking about those economically who are less well off. Some of these folks are just sitting in the hallways and it’s for their own safety but really a dire situation,” said Burkholz.\nThe fires in LA have destroyed thousands of structures — many of them homes— and have displaced thousands of residents. Some are mourning the loss of loved ones.\n“They're still in shock. They're trying to get their basic needs met. And we're here to try to help them do that,” said Burkholz.\nWith a van stocked with dozens of boxes, Direct Relief headed to LA to provide essential supplies for fire victims.\n“There are thousands of N-95 masks in here, hundreds of hygiene kits, hundreds of re-entry kits,” said Direct Relief Emergency Response Manager Staci Richard.\nThe personal care packs contain basic toiletries and hygiene kits.\nThe emergency backpacks go directly to first responders who are working in the shelters to provide medical care to evacuees.\nDirect Relief is also connecting with public health departments in LA County to coordinate the drop off of re-entry kits that will be of use to families when they check in on their homes in the coming weeks.\n “We have masks and gloves and Tyvek suits just to protect them from smoke and ash and, you know, chemicals that might be present,” said Staci Richard.\nDirect Relief says many sites that help people in emergencies, including the YMCA in Pacific Palisades, have burned down, so they’re filling in the gaps.\nThey’ve supplied the YMCA in Koreatown with masks and hygiene kits that people can pick up as needed.\nSo far, the team has visited several sites across la to drop off supplies including South Central, Montebello, Beverly Hills, and Westwood.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Social Issue->social problem",
+        "Social Issue->communities",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mina Wahab",
+                "sentiment": "none"
+            },
+            {
+                "name": "Burkholz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:10:04.032+02:00",
+    "updated": "2025-01-10T15:50:51.045+02:00"
+}

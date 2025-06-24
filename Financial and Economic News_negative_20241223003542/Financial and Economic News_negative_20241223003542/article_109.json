@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "94649872b12b5e7a44a4ae0fd16e94c65d4ea913",
+        "url": "https://www.livemint.com/market/stock-market-news/indian-banking-liquidity-deficit-hits-highest-in-six-months-11734429031502.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://www.livemint.com/industry/energy",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Energy News: Latest Energy News, Top Energy Industry News on Oil, Gas, Power Sector",
+        "title": "Indian Banking Liquidity Deficit Hits Highest in Six Months",
+        "title_full": "Indian Banking Liquidity Deficit Hits Highest in Six Months",
+        "published": "2024-12-17T09:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/market1_1733465997762_1733466008348.jpg",
+        "performance_score": 0,
+        "domain_rank": 1324,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "94649872b12b5e7a44a4ae0fd16e94c65d4ea913",
+    "url": "https://www.livemint.com/market/stock-market-news/indian-banking-liquidity-deficit-hits-highest-in-six-months-11734429031502.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "list.metadata.agency",
+    "published": "2024-12-17T09:20:00.000+02:00",
+    "title": "Indian Banking Liquidity Deficit Hits Highest in Six Months",
+    "text": "(Bloomberg) -- The liquidity deficit in the Indian banking system hit the highest in nearly six months on advance tax payments by companies and likely dollar sales by the central bank to curb rupee volatility. The banking system cash deficit, as measured by banks’ borrowings from the Reserve Bank of India, was at 1.5 trillion rupees ($17.7 billion) as of Monday, the highest since June 24, according to a Bloomberg Economics index. The RBI has been net selling dollars since October, which has resulted in a substantial drain on liquidity, according to IDFC First Bank Ltd. The banking liquidity may widen further on the prospect of the RBI intervening in the currency market to curb currency losses amid a rising trade deficit and a stronger dollar. The rupee hit a new record low of 84.9337 per dollar on Tuesday. The cash deficit widened even as the central bank has recently taken steps to boost banking liquidity, including a cut in the cash-reserve ratio and higher amounts of funds offered through so-called variable rate repo auctions. “Even after the CRR cut, at the most, the headline liquidity is likely to be neutral to marginally negative,” Standard Chartered Bank economist Anubhuti Sahay said. “More measures are required to boost or keep liquidity in surplus going forward, either through open-market-bond purchases, more term repos, FX swaps or another CRR cut.” Read: Dollar Selling by RBI Is Starving Indian Banks of Liquidity The cash shortfall pushed up the interbank weighted average call rate — a benchmark for overnight borrowing costs — to as much as 35 basis points above the central bank’s benchmark repo rate of 6.50%. Indian companies’ advance tax payments, which come due in the last month of each quarter, are adding to the liquidity strain. A typical increase in cash withdrawals from banks toward the end of the year due to festive demand is also contributing to the deficit. The latest round of quarterly advance tax outflows have drained the banking system of funds worth 1.4 trillion rupees, according to Gaura Sengupta, chief economist at IDFC First Bank Ltd. More stories like this are available on bloomberg.com ©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "94649872b12b5e7a44a4ae0fd16e94c65d4ea913",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:53:22.069+02:00",
+    "updated": "2024-12-17T11:53:22.069+02:00"
+}

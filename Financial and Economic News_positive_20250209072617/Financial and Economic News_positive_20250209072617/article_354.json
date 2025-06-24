@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "8c17e3dddd8f5e7f4ec6a8e02a11808f3ea879b9",
+        "url": "https://www.cbsnews.com/minnesota/video/talking-points-preview-another-push-for-legal-sports-betting-in-minnesota",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.cbsnews.com/minnesota/latest/rss/main",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Home - CBS Minnesota",
+        "title": "Talking Points preview: Another push for legal sports betting in Minnesota - CBS Minnesota",
+        "title_full": "Talking Points preview: Another push for legal sports betting in Minnesota - CBS Minnesota",
+        "published": "2025-01-09T23:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/09/41d92191-2c66-48f2-8772-8e0c95448de3/thumbnail/1200x630/49e8768a8654918bc227d3ac6cb2d012/2c43482bf5ee1657295e894155b73587.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c17e3dddd8f5e7f4ec6a8e02a11808f3ea879b9",
+    "url": "https://www.cbsnews.com/minnesota/video/talking-points-preview-another-push-for-legal-sports-betting-in-minnesota",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Minnesota",
+    "published": "2025-01-09T23:35:00.000+02:00",
+    "title": "Talking Points preview: Another push for legal sports betting in Minnesota - CBS Minnesota",
+    "text": "Starting next week, lawmakers in favor of sports gambling will be making another push at the State Capitol.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->political process",
+        "Politics->local government and authority",
+        "Social Issue->social problem",
+        "Social Issue->communities",
+        "Social Issue->demographics",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:21:25.963+02:00",
+    "updated": "2025-01-10T03:21:25.963+02:00"
+}

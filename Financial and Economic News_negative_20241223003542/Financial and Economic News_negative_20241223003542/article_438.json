@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "16b71fc483195568821b522dcd9ee804064411b6",
+        "url": "https://www.marca.com/en/technology/2024/12/17/67615a0522601d82218b459e.html",
+        "site_full": "www.marca.com",
+        "site": "marca.com",
+        "site_section": "https://www.marca.com/en",
+        "site_categories": [
+            "world_soccer",
+            "sports"
+        ],
+        "section_title": "MARCA - Sports News Today &amp; Live Sports in English",
+        "title": "Bill Gates warns about the three most dangerous things of artificial intelligence | Marca",
+        "title_full": "Bill Gates warns about the three most dangerous things of artificial intelligence | Marca",
+        "published": "2024-12-17T11:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ES",
+        "main_image": "https://phantom-marca.unidadeditorial.es/9b8477edd2aee2f98ce226054727e30b/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/17/17344336080660.jpg",
+        "performance_score": 0,
+        "domain_rank": 1708,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "16b71fc483195568821b522dcd9ee804064411b6",
+    "url": "https://www.marca.com/en/technology/2024/12/17/67615a0522601d82218b459e.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DYLAN HAYES",
+    "published": "2024-12-17T11:12:00.000+02:00",
+    "title": "Bill Gates warns about the three most dangerous things of artificial intelligence | Marca",
+    "text": "Technology Bill Gates warns about the three most dangerous things of artificial intelligence The tycoon reviews the impact of this technology on his blog\nFormer CEO of Microsoft, Bill Gates, gestures during the Clinton Global Initiative, on Tuesday, Sept. 24, 2024, in New York. DYLAN HAYES 17/12/2024 - 05:12 CST\nCompartir en Facebook\nCompartir en Twitter\nCompartir en Telegram\nCompartir en Whatsapp\nEnviar por email Technology. Elon Musk's new controversy as he goes against plastic recycling: \"It doesn't make sense\" Technology. Google introduces new features in Android: What do they involve? Bill Gates is aware of the enormous impact of artificial intelligence on today's technology industry. The tycoon is clear that it is an impressive advance that will greatly change our lives and that of the industry, but he also points to the dangers of AI. Specifically, in his blog, 'Gates Notes' , the founder of Microsoft highlights three major risks .\nThe first is how artificial intelligence can affect the economy. \"This technology could transform the nature of work and affect jobs in a wide range of industries,\" he said. Bill Gates also pointed out that even in administrative positions that have been \"safe from automation\" this impact can reach.\nAfter the quick hit to the economy, the next problem Bill Gates sees with AI is control. The mogul defines it this way: \"The difficulty of ensuring that AI systems remain aligned with human values and interests as they become more advanced\". Calibrating the evolution and direction of this technology seems key for the entrepreneur.\nThe third point of his presentation, much more catastrophic, is directly related to large-scale criminal aspects . If someone with bad intentions can use artificial intelligence to their advantage, they could be able, according to Bill Gates , to \"carry out cyberattacks, create biological weapons and compromise national security\" .\nThe difficult control of AI Bill Gates also does not hide the fact that artificial intelligence poses an additional challenge when it comes to controlling its advances. The Microsoft founder recalls that, for example, the development of nuclear weapons could obviously be monitored with \"physical security\", something almost impossible in the case of AI: \"It is almost impossible to detect or monitor and can be used behind closed doors\".\nIn any case, the businessman insisted on his commitment to AI : \"I firmly believe that advances in artificial intelligence and biotechnology could help make breakthrough treatments for deadly diseases , innovative solutions to climate change and high-quality education for all a reality. But optimism is not based on blind faith.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marca Bill Gates",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:37:19.691+02:00",
+    "updated": "2024-12-17T15:53:43.811+02:00"
+}

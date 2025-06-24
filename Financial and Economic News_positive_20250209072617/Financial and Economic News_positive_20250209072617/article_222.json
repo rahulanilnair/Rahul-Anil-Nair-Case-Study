@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "b26f5aacaee1bed6dde8595f747d0f4d53e046ce",
+        "url": "https://article.wn.com/view/2025/01/09/Gold_rates_up_Rs1300_per_tola",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://www.karachi.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Karachi latest news, current events, headlines",
+        "title": "Gold rates up Rs1,300 per tola - Worldnews.com",
+        "title_full": "Gold rates up Rs1,300 per tola - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b26f5aacaee1bed6dde8595f747d0f4d53e046ce",
+    "url": "https://article.wn.com/view/2025/01/09/Gold_rates_up_Rs1300_per_tola",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Gold rates up Rs1,300 per tola - Worldnews.com",
+    "text": "A representational image of gold jewellery. — AFP/File KARACHI: Gold prices rose by Rs1,300 per tola on Thursday in the local market following an increase in the international market. The All Sindh Saraf Jewellers",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:53:56.142+02:00",
+    "updated": "2025-01-10T01:53:56.142+02:00"
+}

@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "77d43e6f94c5e3ae3e59432238fdb6d4dcaa0529",
+        "url": "https://www.cnbc.com/2025/01/10/tsmc-beats-sales-estimates-as-ai-chip-boost-continues.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://www.biztoc.com",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "BizToc",
+        "title": "World's biggest chipmaker TSMC posts record 2024 revenue as AI boost continues",
+        "title_full": "World's biggest chipmaker TSMC posts record 2024 revenue as AI boost continues",
+        "published": "2025-01-10T09:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/107306739-16957422482023-09-26t152352z_1796005263_rc2eg3a6xozp_rtrmadp_0_usa-stocks.jpeg?v=1711468545&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 139,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 35,
+                "comments": 23,
+                "shares": 6
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "77d43e6f94c5e3ae3e59432238fdb6d4dcaa0529",
+    "url": "https://www.cnbc.com/2025/01/10/tsmc-beats-sales-estimates-as-ai-chip-boost-continues.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arjun Kharpal",
+    "published": "2025-01-10T09:08:00.000+02:00",
+    "title": "World's biggest chipmaker TSMC posts record 2024 revenue as AI boost continues",
+    "text": "Taiwan Semiconductor Manufacturing Co. posted December quarter revenue that topped analyst estimates, as the company continues to get a boost from the AI boom. The world's largest chip manufacturer reported fourth-quarter revenue of 868.5 billion New Taiwan dollars ($26.3 billion), according to CNBC calculations, up 38.8% year-on-year. That beat Refinitiv consensus estimates of 850.1 billion New Taiwan dollars. For 2024, TSMC's revenue totaled 2.9 trillion New Taiwan Dollars, its highest annual sales since going public in 1994. TSMC manufacturers semiconductors for some of the world's biggest companies, including Apple and Nvidia . TSMC is seen as the most advanced chipmaker in the world, given its ability to manufacture leading-edge semiconductors. The company has been helped along by the strong demand for AI chips, particularly from Nvidia, as well as ever-improving smartphone semiconductors. \"TSMC has benefited significantly from the strong demand for AI,\" Brady Wang, associate director at Counterpoint Research told CNBC. Wang said \"capacity utilization\" for TSMC's 3 nanometer and 5 nanometer processes — the most advanced chips — \"has consistently exceeded 100%.\" AI graphics processing units (GPUs), such as those designed by Nvidia, and other artificial intelligence chips are driving this demand, Wang said. Taiwan-listed shares of TSMC have risen 88% over the last 12 months. TSMC's latest sales figures may also give hope to investors that the the demand for artificial intelligence chips and services may continue into 2025. Foxconn , which assembles Apple's iPhones, reported its highest-ever fourth quarter revenue this week, as it notched strong demand for AI servers. Meanwhile, Microsoft this month said that it plans to spend $80 billion in its fiscal year to June on the construction of data centers that can handle artificial intelligence workloads. CNBC's Jordan Novet contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->economics",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TSMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taiwan Semiconductor Manufacturing Co.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "77d43e6f94c5e3ae3e59432238fdb6d4dcaa0529",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:37:13.054+02:00",
+    "updated": "2025-01-10T09:49:05.776+02:00"
+}

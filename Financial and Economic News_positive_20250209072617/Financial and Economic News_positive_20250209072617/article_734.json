@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "949c800e0deb774aa53ca2ef1820347b49c2be1a",
+        "url": "https://www.indianagazette.com/local_news/county-iccap-getting-110-000-toward-emergency-shelters/article_db8b998c-cebc-11ef-be58-b7adbe82c52f.html",
+        "site_full": "www.indianagazette.com",
+        "site": "indianagazette.com",
+        "site_section": "https://indianagazette.com/local_news",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Local News | indianagazette.com",
+        "title": "County, ICCAP getting $110,000 toward emergency shelters | Local News | indianagazette.com",
+        "title_full": "County, ICCAP getting $110,000 toward emergency shelters | Local News | indianagazette.com",
+        "published": "2025-01-09T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/e/b5/eb59b3ae-336e-53be-aac0-8aa45c620932/65a74f2ec90fd.image.png?crop=236%2C236%2C0%2C32&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 53221,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "949c800e0deb774aa53ca2ef1820347b49c2be1a",
+    "url": "https://www.indianagazette.com/local_news/county-iccap-getting-110-000-toward-emergency-shelters/article_db8b998c-cebc-11ef-be58-b7adbe82c52f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PATRICK CLOONAN pcloonan@indianagazette.net",
+    "published": "2025-01-09T07:00:00.000+02:00",
+    "title": "County, ICCAP getting $110,000 toward emergency shelters | Local News | indianagazette.com",
+    "text": "Indiana County will receive a $110,000 share of $5.5 million in new state Emergency Solutions Grant awards for municipalities and nonprofit organizations seeking to help homeless individuals and families find housing.\nIndiana County applied for those funds to provide financial and rental assistance through the Indiana County Community Action Program’s rapid rehousing program, as well as ICCAP’s use of Homeless Management Information System software.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->charity",
+        "Social Issue->homelessness",
+        "Social Issue->social services",
+        "Human Interest->ceremony"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Indiana County Community Action Program",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:59:32.300+02:00",
+    "updated": "2025-01-10T07:59:32.300+02:00"
+}

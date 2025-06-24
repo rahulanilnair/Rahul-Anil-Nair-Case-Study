@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "ddd362c17ff1f573ca3ff4af0f959ae417f4e5c1",
+        "url": "https://vietnamnews.vn/economy/1690440/viet-nam-laos-sign-cooperation-agreements-worth-billions-of-us-dollars.html",
+        "site_full": "vietnamnews.vn",
+        "site": "vietnamnews.vn",
+        "site_section": "https://vietnamnews.vn/topic/32nd-sea-games-cambodia-2023/16?p=3",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "\r\n    32nd SEA Games - Cambodia 2023 - Vietnam News | Politics, Business, Economy, Society, Life, Sports - VietNam News\r\n",
+        "title": "Việt Nam, Laos sign cooperation agreements worth billions of US dollars",
+        "title_full": "Việt Nam, Laos sign cooperation agreements worth billions of US dollars",
+        "published": "2025-01-10T08:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 14120,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ddd362c17ff1f573ca3ff4af0f959ae417f4e5c1",
+    "url": "https://vietnamnews.vn/economy/1690440/viet-nam-laos-sign-cooperation-agreements-worth-billions-of-us-dollars.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T08:42:00.000+02:00",
+    "title": "Việt Nam, Laos sign cooperation agreements worth billions of US dollars",
+    "text": "Minister of Planning and Investment Nguyễn Chí Dũng (middle) presents investment certificates to representatives from Vietnamese enterprises for their projects in Laos at an investment conference held in Vientiane on Thursday. — Photo baochinhphu.vn VIENTIANE — Several investment and cooperation agreements worth billions of dollars have been signed between Vietnamese and Lao agencies and companies in Vientiane on Thursday, witnessed by the Prime Ministers of both countries.\nPrime Minister Phạm Minh Chính is on a two-day working trip to the neighbouring country.\nHà Nội-based SDVIC Wind Power JSC increased its investment capital in the Savan1 Wind Power Plant project in Laos to US$32 million.\nMeanwhile, Vietnam Dairy Products JSC (Vinamilk) increased its investment in a dairy farm complex project in Laos to over $85 million.\nThe Military Bank (MB) raised its investment into an MB Laos Bank project to nearly 230 billion Lao kip ($10.5 million). The Vietnamese bank also signed agreements to arrange funding for the Savan1 Wind Power Plant and Xekong Thermal Power Plant.\nIn addition, the Lao Ministry of Planning and Investment issued a contract appendix to Việt Phương Investment Group JSC for a bauxite mining and alumina processing plant project in Laos, with a designed capacity of one million tonnes of alumina per year and a total investment of approximately $1 billion.\nThe ministry also signed a contract with the company for the development of five small hydropower projects in Kalum District, Sekong Province, with a total capacity of 180 megawatts and a total investment of $197 million.\nThe Lao Ministry of Energy and Mines granted a construction licence to the Vietnam National Chemical Group (Vinachem) for a potassium salt mining and processing project worth over $522 million.\nIn terms of cooperation agreements, a consulting contract surveying and planning the development of an airport system in Laos through 2030 and 2050 was signed between the Vietnamese Sovico Group JSC, Transport Engineering Design Incorporated (TEDI) and the Lao Ministry of Public Works and Transport and the Airports Corporation of Laos (AOL).\nVietnam Airlines and Lao Airlines also signed a memorandum of understanding to strengthen and expand bilateral cooperation.\nThe Lao Department of Livestock and Fisheries and the Viet Laos Agricultural Group Joint Stock Company signed a cooperation agreement to develop a high-tech aquaculture chain at Laos' hydropower reservoirs.\nA cooperation agreement to train a workforce for businesses in Laos was also signed between the Institute for Human Resource Development and International Cooperation (IHC), the Vietnam Business Association in Laos (AVILA) and the Young Entrepreneur Association of Laos (YEAL). — VNS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->government",
+        "Politics->international relations",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Phạm Minh Chính",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Military Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Laos",
+                "sentiment": "none"
+            },
+            {
+                "name": "Xekong Thermal Power Plant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Savan1 Wind Power Plant",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:07:12.580+02:00",
+    "updated": "2025-01-10T09:07:12.580+02:00"
+}

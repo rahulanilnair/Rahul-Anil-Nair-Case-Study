@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "a78fbe713a87492987c9774d2ffd71cc2d7e98d2",
+        "url": "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-ceo-satya-nadella-google-makes-more-money-on-windows-than-all-of-microsoft/116399017",
+        "site_full": "brandequity.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com",
+        "site_categories": [
+            "media",
+            "business",
+            "marketing",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n    Latest Business News | The Economic Times B2B",
+        "title": "Microsoft CEO Satya Nadella: Google makes more money on Windows than all of Microsoft, ET BrandEquity",
+        "title_full": "Microsoft CEO Satya Nadella: Google makes more money on Windows than all of Microsoft, ET BrandEquity",
+        "published": "2024-12-17T10:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-116399017,imgsize-867452,width-1200,height=765,overlay-etbrandequity/digital/microsoft-ceo-satya-nadella-google-makes-more-money-on-windows-than-all-of-microsoft.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a78fbe713a87492987c9774d2ffd71cc2d7e98d2",
+    "url": "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-ceo-satya-nadella-google-makes-more-money-on-windows-than-all-of-microsoft/116399017",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETBrandEquity.com",
+    "published": "2024-12-17T10:20:00.000+02:00",
+    "title": "Microsoft CEO Satya Nadella: Google makes more money on Windows than all of Microsoft, ET BrandEquity",
+    "text": "Microsoft CEO Satya Nadella recently disclosed that Google generates more revenue from Windows than Microsoft itself, casting a stark light on the ongoing search engine and browser wars.Nadella candidly discussed the company's strategic challenges during a recent podcast, declaring that \\\"Chrome became the dominant browser, which is a real travesty because we had won against Netscape only to lose to Google.\\\" He views the current moment as an opportunity for Microsoft to \\\"relitigate\\\" and potentially reclaim lost market share.The Microsoft leader acknowledged the open nature of the Windows ecosystem, which allows competing AI tools like OpenAI's ChatGPT and Google's Gemini equal access. Despite this apparent disadvantage, Nadella remains optimistic about Microsoft's future, stating, \\\"This is the best news for Microsoft shareholders—that we lost so badly that we can now go contest it and win back some share.\\\"Nadella also highlighted the evolving landscape of search technologies, noting that traditional search was a \\\"stateless experience,\\\" while new AI-driven agents like GPT are becoming \\\"stateful.\\\" He recognizes Google's current advantages, particularly its extensive distribution network on mobile and default placements on Apple and Android devices.In a notable aside, Nadella revealed his long-standing interest in securing an Apple search deal, expressing satisfaction that OpenAI ultimately obtained the partnership. \\\"I've been trying to get an Apple search deal for like 10 years,\\\" he said, \\\"and so when Tim finally did a deal with Sam, I was the most thrilled person.\\\"The Microsoft CEO remains pragmatic about the competitive AI landscape, describing it as \\\"very competitive\\\" but not a \\\"winner take all\\\" scenario, suggesting Microsoft is far from conceding its position in the rapidly evolving digital ecosystem.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:09:34.573+02:00",
+    "updated": "2024-12-17T13:09:34.573+02:00"
+}

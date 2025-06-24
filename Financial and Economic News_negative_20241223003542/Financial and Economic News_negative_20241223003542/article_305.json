@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "8b2e5acaee941990b19efe9ded06adc53839db34",
+        "url": "https://ca.investing.com/news/stock-market-news/hollywood-bowl-shares-fall-as-company-reports-pretax-profit-decline-3755922",
+        "site_full": "ca.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ca.investing.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Financial News - Investing.com Canada",
+        "title": "Hollywood Bowl shares fall as company reports pretax profit decline By Investing.com",
+        "title_full": "Hollywood Bowl shares fall as company reports pretax profit decline By Investing.com",
+        "published": "2024-12-17T12:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b2e5acaee941990b19efe9ded06adc53839db34",
+    "url": "https://ca.investing.com/news/stock-market-news/hollywood-bowl-shares-fall-as-company-reports-pretax-profit-decline-3755922",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T12:54:00.000+02:00",
+    "title": "Hollywood Bowl shares fall as company reports pretax profit decline By Investing.com",
+    "text": "Investing.com -- Hollywood Bowl Group PLC (LON: BOWL ) reported a decline in pretax profit for the fiscal year ending Sept. 30, despite a modest increase in revenue.\nThe bowling operator said on Tuesday that pretax profit dropped to 42.8 million pounds ($54.3 million), down from 45.1 million pounds in the prior year.\nThe company's shares fell more than 8% in London trading Tuesday.\nRevenue, however, rose to 230.4 million pounds from 215.1 million pounds, supported by strong customer demand and effective operational performance. On a like-for-like basis, revenue increased slightly by 0.2%.\n“Following a year of record levels of investment, our proven growth strategy continues to deliver strong returns,” CEO Stephen Burns said.\nIn its October fiscal year trading update, Hollywood Bowl anticipated adjusted EBITDA exceeding £65.0 million.\nNow, the company reported a slightly better-than-expected EBITDA of £67.7 million, partly due to stronger margins in Canada.\n“This is a good set of FY24s, noting the 4% beat on adj EBITDA, 50% of which should be repeatable,” RBC (TSX: RY ) Capital Markets analysts said.\n“The commentary on current trading is encouraging, with the roll-out very much on track. Some may have feared a bigger impact from NI - we view today's results as positive.”\nLooking ahead, Hollywood Bowl expressed confidence about its prospects for the new fiscal year, saying it remains well-positioned to advance its growth strategy.\nThe group added eight new centers during the year—four in Canada and four in the UK—bringing the total to 72 centers in the UK and 13 in Canada. RBC forecasts the company will add four new sites in the UK and two in Canada. The two Canadian sites are scheduled to open in the first half of the year.\nHollywood Bowl proposed a final ordinary dividend of 8.08 pence per share, compared with 8.54 pence last year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:58:03.554+02:00",
+    "updated": "2024-12-17T12:58:03.554+02:00"
+}

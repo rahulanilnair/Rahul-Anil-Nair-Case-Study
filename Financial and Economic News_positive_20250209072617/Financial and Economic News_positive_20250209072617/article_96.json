@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "6ca87051d239d3f955970d37dbc28e26f9610129",
+        "url": "https://www.aei.org/opportunity-social-mobility/cbo-finds-growing-benefits-reduced-poverty-far-more-than-official-measure-indicates",
+        "site_full": "www.aei.org",
+        "site": "aei.org",
+        "site_section": "https://www.aei.org",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "\n\tAmerican Enterprise Institute - AEI | The American Enterprise Institute, AEI, is a nonpartisan public policy research institute with a community of scholars and supporters committed to expanding liberty, increasing individual opportunity and strengthening free enterprise.",
+        "title": "CBO Finds Growing Benefits Reduced Poverty Far More than \"Official\" Measure Indicates",
+        "title_full": "CBO Finds Growing Benefits Reduced Poverty Far More than \"Official\" Measure Indicates",
+        "published": "2025-01-09T21:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3280,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ca87051d239d3f955970d37dbc28e26f9610129",
+    "url": "https://www.aei.org/opportunity-social-mobility/cbo-finds-growing-benefits-reduced-poverty-far-more-than-official-measure-indicates",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julia Cataneo",
+    "published": "2025-01-09T21:48:00.000+02:00",
+    "title": "CBO Finds Growing Benefits Reduced Poverty Far More than \"Official\" Measure Indicates",
+    "text": "A new Congressional Budget Office (CBO) report finds that counting tax credits and in-kind government benefits, among other measures, significantly reduces poverty when compared with the government’s Official Poverty Measure (OPM). The report, released on January 8 and titled “Reconciling the Official Poverty Measure and CBO’s Distributional Analysis of Household Income,” was requested by House Ways and Means Committee Chairman Jason Smith (R-MO), whose panel has jurisdiction over major anti-poverty benefits including cash welfare, disability benefits, and the child tax credit.\nThe flaws in the OPM are well documented . They include its failure to count rapidly-growing tax credits and in-kind benefit income , causing the OPM to overstate the incidence of poverty. As the CBO report notes, the OPM is derived using money income, which “includes most forms of cash income available to a family, such as wages and Social Security benefits, but does not include taxes, tax credits, or in-kind transfers, such as benefits from Medicare, Medicaid, and the Supplemental Nutrition Assistance Program (SNAP).” The CBO report reviews the effect of fixing that and other significant flaws in the OPM’s methodology, even as it suggests additional improvements are needed.\nHighlights of the CBO Report\nThe share of people with income below poverty, on average between 1979 and 2021, declines from 13.3 percent under the OPM to just 3.5 percent using CBO’s improved methodology:\nThe biggest improvements result from more accurately counting government benefit income:\nThe largest effects stem from differences in what counts as income. The income measure in CBO’s distributional analysis of income includes benefits from in-kind transfers (that is, transfers in the form of goods or services rather than cash), whereas the income measure (called money income) used to calculate the OPM does not. Including those benefits—particularly benefits from health-related in-kind transfers—increases income among low-income households and therefore reduces the number of people whose income falls below the poverty threshold.\nBy better counting benefits, unmarried households with children—who have the highest poverty rates under the OPM—had “close to zero percent” poverty rates in the last decade under the CBO methodology:\nOf the four types of households examined, unmarried households with children had the highest percentage of people with money income below the poverty threshold. That percentage decreased throughout the 1990s and then remained relatively steady—at around 15 percent—from 2000 onward. Those percentages were lower when taxes and in-kind transfers unrelated to health were included. When the measure of income included all in-kind transfers, close to zero percent of people had income below the poverty threshold since around 2010.\nBigger government benefits—not rising money income composed primarily of earnings from work—played an outsized role in lifting family incomes in recent decades, according to CBO:\nIn particular, the percentage of total income that is accounted for by money income decreased from 1979 to 2021, whereas the percentage of health-related in-kind transfers increased during that period, largely because of the rapid growth in the cost of health care benefits (see Figure 15). In 1979, money income accounted for nearly two-thirds of total income, and in-kind transfers (both health-related transfers and those unrelated to health) accounted for about one-third. In 2021, money income accounted for about one-quarter of total income, and in-kind transfers accounted for more than half.\nFor key lawmakers, that trend of growing dependence on government benefits is cause for concern. As Ways and Means Chairman Smith expressed in January 8 press release , the CBO report finds that “In 1979, families living below the poverty line earned about 60 percent of their income from work. In 2021, that number dropped to an all-time low of around 25 percent.” For him, that dynamic suggests the need to strengthen “incentives to seek a job like tying benefits to commonsense work requirements.” Such reforms may be included in Republican reconciliation legislation that advances later this year",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->welfare",
+        "Social Issue->social problem",
+        "Social Issue->poverty",
+        "Politics->government",
+        "Politics->economic policy",
+        "Politics->fundamental rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://waysandmeans.house.gov/2025/01/08/new-report-shows-more-americans-dependent-on-welfare-checks-at-the-expense-of-work/",
+        "https://www.cbo.gov/system/files/2025-01/60809-poverty.pdf",
+        "https://waysandmeans.house.gov/2025/01/08/new-report-shows-more-americans-dependent-on-welfare-checks-at-the-expense-of-work",
+        "https://www.waysandmeans.house.gov/2025/01/08/new-report-shows-more-americans-dependent-on-welfare-checks-at-the-expense-of-work/",
+        "https://cbo.gov/system/files/2025-01/60809-poverty.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jason Smith",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBO",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congressional Budget Office",
+                "sentiment": "negative"
+            },
+            {
+                "name": "House Ways and Means Committee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:43:42.506+02:00",
+    "updated": "2025-01-10T05:29:00.697+02:00"
+}

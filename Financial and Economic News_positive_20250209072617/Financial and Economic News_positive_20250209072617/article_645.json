@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "457fd74c29b2f1d4c763dea8e1326b3c3e0701f5",
+        "url": "https://leadership.ng/pensioners-receive-n16bn-in-kano",
+        "site_full": "leadership.ng",
+        "site": "leadership.ng",
+        "site_section": "https://nigeria.shafaqna.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "\r\n\t\tNigeria News (News Reader)\t",
+        "title": "Pensioners Receive N16bn In Kano",
+        "title_full": "Pensioners Receive N16bn In Kano",
+        "published": "2025-01-10T06:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://leadership.ng/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-27-at-11.34.45.jpeg",
+        "performance_score": 0,
+        "domain_rank": 19069,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "457fd74c29b2f1d4c763dea8e1326b3c3e0701f5",
+    "url": "https://leadership.ng/pensioners-receive-n16bn-in-kano",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abdulmumin Murtala",
+    "published": "2025-01-10T06:02:00.000+02:00",
+    "title": "Pensioners Receive N16bn In Kano",
+    "text": "Kano State Governor Abba Yusuf has flagged off the N5 billion third phase payment to pensioners in the state, which has totalled N16 billion since the coming\"/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Social Issue->elderly care",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abba Yusuf",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sunusi Bature Dawakin Tofa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kano State Pension Trust Fund",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "457fd74c29b2f1d4c763dea8e1326b3c3e0701f5",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:09:00.197+02:00",
+    "updated": "2025-01-10T08:53:49.970+02:00"
+}

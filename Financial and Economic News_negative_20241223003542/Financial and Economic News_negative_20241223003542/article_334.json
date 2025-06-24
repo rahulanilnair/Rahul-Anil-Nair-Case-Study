@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "85b591aee1de76b4a80f7b626dbcffadd9257d45",
+        "url": "https://www.rttnews.com/3496224/oracle-shares-hit-as-q2-misses-estimates-sees-q3-below-view.aspx?type=ern",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "http://www.rttnews.com/rss/earnings.xml",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "RTT - Earnings",
+        "title": "Oracle Shares Hit As Q2 Misses Estimates, Sees Q3 Below View",
+        "title_full": "Oracle Shares Hit As Q2 Misses Estimates, Sees Q3 Below View",
+        "published": "2024-12-10T17:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/articleimages/ustopstories/2024/december/oracle-10122024-lt.jpg",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "85b591aee1de76b4a80f7b626dbcffadd9257d45",
+    "url": "https://www.rttnews.com/3496224/oracle-shares-hit-as-q2-misses-estimates-sees-q3-below-view.aspx?type=ern",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-10T17:13:00.000+02:00",
+    "title": "Oracle Shares Hit As Q2 Misses Estimates, Sees Q3 Below View",
+    "text": "Shares of Oracle Corp. declined around 8 percent in the after-hours trading on Monday, and is currently down around 9 percent in the pre-market activity on the NYSE after the tech major's second-quarter earnings missed the market estimates, and also issued third-quarter outlook below the Street view.\nHowever, the quarterly profit and revenues increased from last year on continued demand for AI. The company projects increased revenues in its next quarter, as well as in fiscal 2025. The revenue growth projection for the third quarter is below analysts' estimates.\nFurther, the board of directors declared a quarterly cash dividend of $0.40 per share of outstanding common stock. The dividend will be paid on January 23 to stockholders on record as of January 9.\nOracle Chairman and CTO, Larry Ellison, said, \"Oracle Cloud Infrastructure trains several of the world's most important generative AI models because we are faster and less expensive than other clouds. And we just signed an agreement with Meta—for them to use Oracle's AI Cloud Infrastructure—and collaborate with Oracle on the development of AI Agents based on Meta's Llama models.\"\nIn its earnings call, the company said it expects third-quarter adjusted earnings of $1.41 to $1.47 per share, a growth of 4 percent to 6 percent from last year. The guidance is negatively impacted by $0.05 per share due to an investment loss in another company that Oracle is partial owner of. In constant currency, adjusted earnings are expected to grow between 7 percent to 9 percent and be between $1.50 and $1.54.\nAnalysts on average expect the company to report earnings of $1.50 per share, according to figures compiled by Thomson Reuters. Analysts' estimates typically exclude special items.\nTotal revenue are expected to grow from 7 percent to 9 percent on a reported basis, and from 9 percent to 11 percent in constant currency.\nAnalysts estimate total third-quarter revenues to grow 10.31 percent.\nTotal cloud revenue is expected to grow from 23 percent to 25 percent on a reported basis and from 25 percent to 27 percent in constant currency.\nOracle maintained that revenue growth will accelerate further in the coming quarters.\nFor fiscal year 2025, Oracle said it remains very confident and committed to full year total revenue growing double digit and full year total cloud infrastructure growing faster than the 50 percent reported last year.\nCloud revenue is projected to reach $25 billion this fiscal year.\nIn its second quarter, Oracle's net earnings grew 26 percent to $3.151 billion from prior year's $2.503 billion. Earnings per share increased 24 percent to $1.10 from $0.89 last year.\nAdjusted earnings were $4.21 billion or $1.47 per share for the period, compared to $3.76 billion or $1.34 per share a year ago. Analysts had expected the company to earn $1.48 per share.\nThe company's revenue for the quarter rose 8.6 percent to $14.059 billion from $12.941 billion last year.\nOracle's Cloud services and license support revenues were up 12 percent year-over-year to $10.81 billion, accounting for 77 percent of total revenue. Cloud license and on-premise license revenues were up 1 percent to $1.20 billion.\nThe company noted that record level AI demand drove Oracle Cloud Infrastructure revenue up 52 percent in the quarter, a much higher growth rate than any of its hyperscale cloud infrastructure competitors.\nOracle CEO, Safra Catz, added, \"Growth in the AI segment of our Infrastructure business was extraordinary—GPU consumption was up 336 percent in the quarter—and we delivered the world's largest and fastest AI SuperComputer scaling up to 65,000 NVIDIA H200 GPUs. With our remaining performance obligation (RPO) up 50 percent to $97 billion, we believe our already impressive growth rates will continue to climb even higher.\"\nOn the NYSE, Oracle shares closed Monday's regular trading at $190.45, down 0.65 percent. In the extended trading, shares fell 7.8 percent to $175.60.\nIn pre-market activity, the shares are at $174.14, down 8.56 percent.\nFor more earnings news, earnings calendar, and earnings for stocks, visit rttnews.com.\nFor comments and feedback contact: editorial@rttnews.com\nBusiness News\nDecember 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Larry Ellison",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oracle Corp.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CTO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:06:18.163+02:00",
+    "updated": "2024-12-17T13:06:18.163+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "c51ae2a5a80684a76c516ada69046f2dd6095d4f",
+        "url": "https://www.truthdig.com/news/health-wellness",
+        "site_full": "www.truthdig.com",
+        "site": "truthdig.com",
+        "site_section": "https://www.truthdig.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Truthdig - An Independent, Progressive Journal of News and Opinion.",
+        "title": "Health & Wellness - Truthdig",
+        "title_full": "Health & Wellness - Truthdig",
+        "published": "2024-12-11T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 9538,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c51ae2a5a80684a76c516ada69046f2dd6095d4f",
+    "url": "https://www.truthdig.com/news/health-wellness",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Kiel; ProPublica",
+    "published": "2024-12-11T02:00:00.000+02:00",
+    "title": "Health & Wellness - Truthdig",
+    "text": "Economic Justice Billionaire’s Secret: A Decades-Old Medicare Loophole Paul Kiel / ProPublica Dec 11, 2024 On Wall Street, some of the most powerful people in finance have found a way to opt out of paying Medicare taxes. Dig deeper ( 14 Min. Read )\nEar to the Ground Does the United Healthcare Assassination Augur a New Age of Political Violence? Christopher Ketcham / Truthdig Dec 10, 2024 The delighted reaction to the murder of a CEO points to a rise in radicalization. Dig deeper ( 4 Min. Read )\nCourts & Law U.S. Continues To Pump Billions Into International Drug War Mattha Busby / Filter Dec 10, 2024 Since 1971, the U.S. has spent more than $1 trillion on the War on Drugs, through a law enforcement-focused approach that has continued despite evidence it doesn't work. Dig deeper ( 4 Min. Read )\nHealth & Wellness Nine States Poised To Shrink Medicaid Coverage Phil Galewitz / KFF Health News Dec 4, 2024 More than 3 million adults would be at immediate risk of losing coverage if Republicans reverse the expansion of federal Medicaid funding. Dig deeper ( 4 Min. Read )\nEnvironment The Formaldehyde Failure Sharon Lerner, Al Shaw / ProPublica Dec 3, 2024 Though it causes more cancer than any other toxic air pollutant, little is being done to curb the risk posed by the ubiquitous gas. Dig deeper ( 16 Min. Read )\nEconomic Justice The Face of N.Y. State’s Cannabis Loan Fund Facing Foreclosure Rosalind Adams / THE CITY Nov 29, 2024 All eyes were on Roland Conner when he opened Smacked, but in a fate experienced by other store operators, his deal’s costly requirements are threatening his dreams. Dig deeper ( 13 Min. Read )\nOpinion ‘No Family More Evil’ Fights On Matt Bivens / Truthdig Nov 27, 2024 Some members of the notorious Sackler family have returned to blaming doctors for the opioid crisis. Are they even wrong? Dig deeper ( 6 Min. Read )\n13 photos TD Original Photo Essay: The Murder of Chief Merong Allen Myers / Truthdig Nov 27, 2024 The Amazon rainforest is one of the most dangerous places in the world to be an Indigenous water and land protector. Dig deeper\nOpinion RFK Jr. and the Elites’ Big Lie Dean Baker / Beat the Press Nov 25, 2024 The HHS nominee is right to target a system that overpays specialists and leaves the rest of us footing the bill. Dig deeper ( 4 Min. Read )\nHealth & Wellness Bird Flu Is Ripping Through Northwest Farms, but Workers Are Rarely Tested Rachel Spacek / InvestigateWest Nov 22, 2024 Farmworker advocates, health experts say more robust monitoring needed to prevent spread of illness. Dig deeper ( 10 Min. Read )\nBooks ‘Keep Her Body from Pain and Her Mind from Worry’ Stephanie Gorton / History News Network Nov 22, 2024 A history of the birth-control movement in literature. Dig deeper ( 10 Min. Read )\nBusiness & Economy Here and There, Organic Farming Still Thrives in Heart of U.S. Corn Country Keith Schneider / The New Lede Nov 20, 2024 Not everyone is willing to concede that a growing global population requires use of the chemicals in agriculture. Dig deeper ( 6 Min. Read )",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christopher Ketcham",
+                "sentiment": "none"
+            },
+            {
+                "name": "Phil Galewitz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Health & Wellness - Truthdig Economic Justice",
+                "sentiment": "negative"
+            },
+            {
+                "name": "United Healthcare",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:13:55.000+02:00",
+    "updated": "2024-12-17T15:13:55.000+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "a8502d7ecd33e1587f2e687994782a686327c2c6",
+        "url": "https://www.scmp.com/business/banking-finance/article/3294174/toymaker-bloks-surges-82-hong-kong-debut-after-sizzling-ipo-reception",
+        "site_full": "www.scmp.com",
+        "site": "scmp.com",
+        "site_section": "http://scmp.com/live",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_hk",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News | South China Morning Post",
+        "title": "Toymaker Bloks surges 82% in Hong Kong debut after sizzling IPO reception | South China Morning Post",
+        "title_full": "Toymaker Bloks surges 82% in Hong Kong debut after sizzling IPO reception | South China Morning Post",
+        "published": "2025-01-10T06:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/01/10/6a576a02-0a5c-4f82-af2f-f26a727a5853_fa7cc34e.jpg?itok=I1ItmJdT&amp;v=1736482759",
+        "performance_score": 0,
+        "domain_rank": 569,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a8502d7ecd33e1587f2e687994782a686327c2c6",
+    "url": "https://www.scmp.com/business/banking-finance/article/3294174/toymaker-bloks-surges-82-hong-kong-debut-after-sizzling-ipo-reception",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aileen Chuang",
+    "published": "2025-01-10T06:35:00.000+02:00",
+    "title": "Toymaker Bloks surges 82% in Hong Kong debut after sizzling IPO reception | South China Morning Post",
+    "text": "Shares of Chinese toymaker Bloks Group surged as much as 82 per cent in their Hong Kong market debut after its initial public offering (IPO) attracted huge demand from retail and institutional investors.\\nThe shares first changed hands at HK$109.60 versus the IPO price of HK$60.35 when trading began at 9.30am local time. They rose to as high as HK$109.90 before closing at HK$85 on Friday, valuing the maker of Ultraman and Transformers figurines at HK$20.8 billion (US$2.7 billion). The Hang Seng Index slipped 0.9 per cent.\\nThe Shanghai-based firm raised HK$1.6 billion of net proceeds by selling 27.7 million shares to investors, pricing the IPO at the top end of the HK$55.65 to HK$60.35 range, according to stock exchange filings.\\nRetail investors in Hong Kong submitted orders for 6,000 times the shares allocated to them, making it the second hottest IPO in the city since media publisher Most Kwai Chung attracted 6,289 times of subscription in its IPO in 2018. Bids from global funds reached 38.6 times, Bloks said.\\n\\n“Investors took note of the success in other companies in the toy and retail sectors,” said Dickie Wong, executive director at Kingston Securities. The stock exchange’s shortened IPO settlement cycles may have also helped create a “buying rush phenomenon”, he added.\\nThe group is riding on the popularity seen in other Chinese retailers. Pop Mart’s trendy toy Labubu has enjoyed big success globally, helping power a 330 per cent rally in its Hong Kong-listed shares in the past year. Revenue at budget variety goods retailer Miniso Group has also risen on the back of collaborations with global brands like Harry Potter, Disney and Barbie.\\nFounder Zhu Weisong, who is also the chairman and CEO, said the listing was an “important node” in its corporate history after reaching its 10th anniversary two weeks ago. “[The listing] is also a new starting point,” he said during the listing ceremony at the stock exchange.\\nBloks plans to use the IPO proceeds to enhance research and development in product designs, invest in production resources and enrich its intellectual properties in its portfolio.\\nDespite rapid growth in revenue in recent years, it has been unprofitable since at least 2021, according to its prospectus. Losses widened 28 per cent to 257.9 million yuan (US$35.2 million) in the first six months of 2024 from the same period a year earlier.\\nGoldman Sachs and Huatai International were the IPO sponsors. Greenwoods Asset Management Hong Kong and UBS Asset Management were among the cornerstone investors.\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:07:19.733+02:00",
+    "updated": "2025-01-10T11:27:05.876+02:00"
+}

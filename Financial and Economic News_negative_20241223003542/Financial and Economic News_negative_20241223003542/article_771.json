@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "3d50c89dc3a7225f9ae256b73bbe0e25d6d695ac",
+        "url": "https://www.devdiscourse.com/article/technology/3197647-eu-slaps-meta-with-251m-fine-over-data-breach",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "EU Slaps Meta with €251M Fine over Data Breach | Technology",
+        "title_full": "EU Slaps Meta with €251M Fine over Data Breach | Technology",
+        "published": "2024-12-17T12:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_08_2024_05_09_04_6325806.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9119,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d50c89dc3a7225f9ae256b73bbe0e25d6d695ac",
+    "url": "https://www.devdiscourse.com/article/technology/3197647-eu-slaps-meta-with-251m-fine-over-data-breach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T12:49:00.000+02:00",
+    "title": "EU Slaps Meta with €251M Fine over Data Breach | Technology",
+    "text": "EU Slaps Meta with €251M Fine over Data Breach\nThe European Union's data privacy regulator has fined Meta 251 million euros for a data breach affecting 29 million Facebook accounts globally. The breach was reported to Ireland's Data Protection Commission six years ago, impacting 3 million EU accounts, and has since been remedied by Meta.\n- Country:\n- Ireland\nThe European Union's foremost data privacy authority has imposed a substantial fine of 251 million euros on Meta, the parent company of Facebook. This decision follows two separate investigations into a personal data breach.\nThe investigation was initiated six years ago when Meta reported a data breach to Ireland's Data Protection Commission (DPC). This breach affected approximately 29 million Facebook accounts worldwide, including around 3 million based within the European Union.\nMeta addressed and rectified the breach shortly after it was discovered, according to the DPC. At current exchange rates, one dollar is equivalent to 0.9527 euros.\n(With inputs from agencies.)\nALSO READ\n[Ireland's Election Dilemma: Centre-Right Coalition Partner Search Begins](/article/politics/3178062-irelands-election-dilemma-centre-right-coalition-partner-search-begins)[Ireland's Political Crossroads: Coalition Talks Intensify Post-Election](/article/politics/3179248-irelands-political-crossroads-coalition-talks-intensify-post-election)[Political Chess in Ireland: A Coalition Balancing Act](/article/politics/3179169-political-chess-in-ireland-a-coalition-balancing-act)[Ireland Women's Cricket Team Triumphs Over Bangladesh in Historic T20I Whitewash](/article/sports-games/3188105-ireland-womens-cricket-team-triumphs-over-bangladesh-in-historic-t20i-whitewash)[Storm Darragh: UK and Ireland Battered by Powerful Winds and Rain](/article/science-environment/3185659-storm-darragh-uk-and-ireland-battered-by-powerful-winds-and-rain)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "European Union",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Data Protection Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook",
+                "sentiment": "none"
+            },
+            {
+                "name": "DPC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:22:01.049+02:00",
+    "updated": "2024-12-17T15:22:01.049+02:00"
+}

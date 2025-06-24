@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "5a7223adee63ad632dba255634c012f2950f8903",
+        "url": "https://www.newsbreak.com/reuters-555486/3718835831064-oil-healthcare-stocks-push-european-shares-to-two-week-lows",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Reuters}&#x27;s Home Page | NewsBreak",
+        "title": "Oil, healthcare stocks push European shares to two-week lows",
+        "title_full": "Oil, healthcare stocks push European shares to two-week lows",
+        "published": "2024-12-17T10:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2RuuOS_0xUBBHzd00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3600,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a7223adee63ad632dba255634c012f2950f8903",
+    "url": "https://www.newsbreak.com/reuters-555486/3718835831064-oil-healthcare-stocks-push-european-shares-to-two-week-lows",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-17T10:25:00.000+02:00",
+    "title": "Oil, healthcare stocks push European shares to two-week lows",
+    "text": "By Reuters ,\n1 hours ago\n(Reuters) - European shares fell to two-week lows on Tuesday, led by energy and healthcare stocks, as investors awaited a slew of major central bank decisions later in the week.\nThe pan-European STOXX 600 index slipped 0.5% by 0815 GMT, trading at its lowest since Dec. 2.\nOil & gas stocks dropped 1.3% as crude prices nudged lower after China's economic data renewed demand concerns. [O/R]\nPharma stocks fell 1.2%.\nThe Federal Reserve's monetary policy decision on Wednesday is widely expected to result in a 25-bps rate reduction, but focus will on the pace of easing next year as the U.S. economy appears to be on a steady footing. The Bank of Japan and the Bank of England's rate announcements are due on Thursday.\nInvestors will also focus on German Ifo business climate index and ZEW economic sentiment numbers for December later on Tuesday.\nShares of Airbus climbed 1.6% after Deutsche Bank upgraded the stock to \"buy\" from \"hold\".\nBritain's Bunzl fell 5% after the business supplies distributor said stickier-than-anticipated deflation will have a slight impact on its annual profit, especially in its Continental Europe division.\n(Reporting by Sruthi Shankar in Bengaluru; Editing by Sherry Jacob-Phillips)\n1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2RuuOS_0xUBBHzd00",
+        "https://img.particlenews.com/image.php?url=2RuuOS_0xUBBHzd00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=2RuuOS_0xUBBHzd00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2RuuOS_0xUBBHzd00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bank of England",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of Japan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Deutsche Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Airbus",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bunzl",
+                "sentiment": "none"
+            },
+            {
+                "name": "ZEW",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:28:59.827+02:00",
+    "updated": "2024-12-17T11:28:59.827+02:00"
+}

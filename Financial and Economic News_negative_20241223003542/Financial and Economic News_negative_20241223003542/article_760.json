@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "9ca7ccc4f3232b6b899d19f5a914a382cec10fdb",
+        "url": "https://www.ehn.org/houston-councilmember-challenges-city-s-plastic-recycling-2670459910.html",
+        "site_full": "www.ehn.org",
+        "site": "ehn.org",
+        "site_section": "https://ehn.org/feeds/biodiversity.rss",
+        "site_categories": [
+            "home_and_garden",
+            "environmental_safety"
+        ],
+        "section_title": "EHN",
+        "title": "Houston councilmember challenges city's plastic recycling partnership with ExxonMobil",
+        "title_full": "Houston councilmember challenges city's plastic recycling partnership with ExxonMobil",
+        "published": "2024-12-17T14:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets.rbl.ms/55350977/origin.jpg",
+        "performance_score": 0,
+        "domain_rank": 28967,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ca7ccc4f3232b6b899d19f5a914a382cec10fdb",
+    "url": "https://www.ehn.org/houston-councilmember-challenges-city-s-plastic-recycling-2670459910.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EHN Curators",
+    "published": "2024-12-17T14:33:00.000+02:00",
+    "title": "Houston councilmember challenges city's plastic recycling partnership with ExxonMobil",
+    "text": "James Bruggers reports for Inside Climate News .\nIn short:\nCouncilmember Letitia Plummer’s report argues that pyrolysis, a form of chemical recycling, promotes fossil fuel extraction and creates hazardous emissions. The report recommends Houston reduce single-use plastics and expand traditional mechanical recycling instead of relying on pyrolysis. Critics, including Air Alliance Houston, say chemical recycling is misleading and doesn’t effectively address the plastic waste crisis. Key quote:\n“We’re very excited about this development—the first real movement we’ve seen from the City to take a serious look” at chemical recycling.\n— Jennifer Hadayia, executive director of Air Alliance Houston.\nWhy this matters:\nChemical recycling is touted as a solution to plastic waste, but it often results in more pollution and fossil fuel consumption. Prioritizing waste reduction and mechanical recycling can protect communities from harmful emissions and create more sustainable waste management solutions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://insideclimatenews.org/news/13122024/houston-city-council-member-questions-exxonmobil-plastic-recycling/",
+        "https://www.insideclimatenews.org/news/13122024/houston-city-council-member-questions-exxonmobil-plastic-recycling/",
+        "https://insideclimatenews.org/news/13122024/houston-city-council-member-questions-exxonmobil-plastic-recycling"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:18:52.623+02:00",
+    "updated": "2024-12-17T15:18:52.623+02:00"
+}

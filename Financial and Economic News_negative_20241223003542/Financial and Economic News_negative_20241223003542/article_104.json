@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "fb5f8d1ef4ce3590b04e35e79460d6f0c85b23dc",
+        "url": "https://www.thestar.com.my/business/business-news/2024/12/17/fbm-klci-extends-losses-dipping-below-the-1600-point-mark",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://thestar.com.my/news/latest",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Latest - News | The Star",
+        "title": "FBM KLCI extends losses, dipping below the 1,600-point mark | The Star",
+        "title_full": "FBM KLCI extends losses, dipping below the 1,600-point mark | The Star",
+        "published": "2024-12-17T11:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/12/17/3073936.JPG",
+        "performance_score": 0,
+        "domain_rank": 2197,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fb5f8d1ef4ce3590b04e35e79460d6f0c85b23dc",
+    "url": "https://www.thestar.com.my/business/business-news/2024/12/17/fbm-klci-extends-losses-dipping-below-the-1600-point-mark",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2024-12-17T11:18:00.000+02:00",
+    "title": "FBM KLCI extends losses, dipping below the 1,600-point mark | The Star",
+    "text": "KUALA LUMPUR: The FBM KLCI ended sharply lower for the second consecutive session, amid mixed regional markets.\nThe 30-stock index closed down 9.52 points, or 0.59% at 1,597.33 after moving between its intraday high of 1,606.81 and low of 1,594.51.\nIn the broader market, losers outnumbered gainers 704 to 346, with three billion shares worth RM2.44bil changing hands.\nThe KLCI-segment stocks were overwhelmingly negative, with 20 losers and seven gainers.\nPETRONAS Chemicals fell 20 sen to RM4.78, single-handedly taking 2.3120 points off the FBM KLCI. Press Metal dropped 17 sen to RM4.86, contributing 2.0241 points to the index’s decline, while Hong Leong Bank lost 32 sen to RM20.12, pushing the index lower by 1.0024 points.\nTenaga Nasional and PETRONAS Gas climbed eight sen each to RM13.80 and RM17.46 respectively.\nOn the broader market, BLD Plantation jumped 56 sen to RM11.44, United Plantations added 40 sen to RM32.40, Dutch Lady eased 26 sen to RM30.30 and Hong Leong Industries fell 24 sen to RM14.24.\nOn the forex market, the ringgit was down 0.38% against the greenback to 4.4695.\nBrent crude fell 67 cents to US$73.24 a barrel while US West Texas Intermediate (WTI) declined 78 cents to US$69.93 per barrel.\nElsewhere in the region, Japan’s Nikkei 225 closed down 0.24%, South Korea’s Kospi fell 1.29%, China’s CSI 300 Index gained 0.26% and Hong Kong’s Hang Seng Index declined 0.48%.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:52:25.214+02:00",
+    "updated": "2024-12-17T11:52:25.214+02:00"
+}

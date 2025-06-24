@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "152d9e0696628480c42637d8b041605f5d2a14fc",
+        "url": "https://dataconomy.com/2024/12/17/here-is-why-cvs-and-unitedhealth-shares-fell-so-hard-today",
+        "site_full": "dataconomy.com",
+        "site": "dataconomy.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "tech",
+            "databases"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Here's Why CVS And UnitedHealth Shares Fell So Hard Today - Dataconomy",
+        "title_full": "Here's Why CVS And UnitedHealth Shares Fell So Hard Today - Dataconomy",
+        "published": "2024-12-17T12:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://dataconomy.com/wp-content/uploads/2024/12/Heres-why-CVS-and-UnitedHealth-shares-fell-so-hard-today.jpg",
+        "performance_score": 0,
+        "domain_rank": 25965,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "152d9e0696628480c42637d8b041605f5d2a14fc",
+    "url": "https://dataconomy.com/2024/12/17/here-is-why-cvs-and-unitedhealth-shares-fell-so-hard-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kerem Gülen",
+    "published": "2024-12-17T12:47:00.000+02:00",
+    "title": "Here's Why CVS And UnitedHealth Shares Fell So Hard Today - Dataconomy",
+    "text": "Shares of pharmacy benefit managers (PBMs) tumbled after President-elect Donald Trump announced plans to eliminate what he termed “horrible middlemen” in the drug industry. CVS Health Corp., UnitedHealth Group Inc., and Cigna Group saw declines as investors reacted to these comments, which signal ongoing political scrutiny in the sector.\nInsurer stocks fall as Trump vows to “knock out middlemen” Trump’s remarks came during a press conference held at his Mar-a-Lago club in Palm Beach, Florida. He emphasized the role of middlemen in inflating drug prices and stated: “We’re going to knock out the middleman.” Specifically targeting the largest PBMs, which control significant portions of the U.S. pharmacy benefit market, Trump’s statement followed a dinner with leaders from Pfizer Inc. and Eli Lilly & Co., where discussions focused on high drug costs in the U.S. Compared to other countries, Americans pay significantly more for medications, a discrepancy Trump aims to address.\nThe stock performance reflected investor concerns, with CVS shares dropping as much as 5.35%, Cigna falling 2.6%, and UnitedHealth declining 3.54%. A report from BNN Bloomberg indicated that Congress is contemplating measures that could alter how PBMs are compensated, further prompting a response from stock markets. In light of these potential policy changes, the Pharmaceutical Care Management Association, representing PBMs, warned that such moves would raise overall costs.\nBitcoin at $107,822: Trump’s crypto move could change global finance",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://unsplash.com/photos/white-blue-and-orange-medication-pill-KltoLK6Mk-g",
+        "https://www.bnnbloomberg.ca/business/2024/12/16/trump-middleman-remark-sinks-cvs-unitedhealth-cigna-shares/",
+        "https://www.bnnbloomberg.ca/business/2024/12/16/trump-middleman-remark-sinks-cvs-unitedhealth-cigna-shares",
+        "https://www.unsplash.com/photos/white-blue-and-orange-medication-pill-KltoLK6Mk-g",
+        "https://bnnbloomberg.ca/business/2024/12/16/trump-middleman-remark-sinks-cvs-unitedhealth-cigna-shares/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UnitedHealth Group Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "CVS Health Corp.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eli Lilly & Co.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pfizer Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cigna Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:27:05.974+02:00",
+    "updated": "2024-12-17T19:55:40.842+02:00"
+}

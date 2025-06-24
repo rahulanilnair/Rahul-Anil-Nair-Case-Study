@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "28f33b47fa0ecdd992759fad7c6e158b3a436460",
+        "url": "https://gazette.com/news/us-world/boeing-says-it-is-donating-1-million-to-trump-presidential-inaugural-fund/article_7e1034ee-9e5b-5db0-b978-76edd8410af7.html",
+        "site_full": "gazette.com",
+        "site": "gazette.com",
+        "site_section": "http://gazette.com/news",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "News | gazette.com",
+        "title": "Boeing says it is donating $1 million to Trump presidential inaugural fund | U.S. & World | gazette.com",
+        "title_full": "Boeing says it is donating $1 million to Trump presidential inaugural fund | U.S. & World | gazette.com",
+        "published": "2025-01-09T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/d7/ed768b4d-c998-553f-a297-43015827579d/678040ce7de49.image.jpg?crop=800%2C420%2C0%2C60&amp;resize=800%2C420&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 5521,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "28f33b47fa0ecdd992759fad7c6e158b3a436460",
+    "url": "https://gazette.com/news/us-world/boeing-says-it-is-donating-1-million-to-trump-presidential-inaugural-fund/article_7e1034ee-9e5b-5db0-b978-76edd8410af7.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "STAFF",
+    "published": "2025-01-09T07:00:00.000+02:00",
+    "title": "Boeing says it is donating $1 million to Trump presidential inaugural fund | U.S. & World | gazette.com",
+    "text": "By David Shepardson\nWASHINGTON (Reuters) -Boeing is donating $1 million to U.S. President-elect Donald Trump's inauguration, a spokesperson for the U.S. planemaker said on Thursday.\nBoeing is joining many major U.S. companies including General Motors, Ford, Microsoft and Meta in donating for the Jan. 20 event.\nThe planemaker previously donated $1 million to the last three presidential inaugurations, including Trump's first in 2017.\nAmerican Airlines separately confirmed on Thursday it is also donating $1 million.\nIn 2016, Trump extracted a promise from Boeing that the cost of replacing Air Force One would not exceed $4 billion, and the company has since lost more than $2 billion on the significantly delayed program to deliver two new presidential aircraft.\nBoeing also faces continuing tougher oversight by the Federal Aviation Administration, a year after a door panel missing four key bolts flew off a new Alaska Airlines 737 MAX 9 in mid-air.\nTrump's nominee to head the Transportation Department, Sean Duffy, told Reuters last month he wanted to make sure \"we have safe planes coming out of Boeing.\" The FAA announced a new audit of Boeing in October. The Senate Commerce Committee will hold a confirmation hearing for Duffy on Wednesday.\n(Reporting by David Shepardson; Editing by Chris Reese and Jamie Freed)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->political campaigns",
+        "Politics->political candidates",
+        "Politics->national elections",
+        "Human Interest->high society"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "28f33b47fa0ecdd992759fad7c6e158b3a436460",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:02:11.481+02:00",
+    "updated": "2025-01-10T04:02:11.481+02:00"
+}

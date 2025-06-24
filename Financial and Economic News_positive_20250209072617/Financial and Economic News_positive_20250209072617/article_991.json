@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "e6beb952443760468d2be3bb18ec93a6ec274784",
+        "url": "https://seekingalpha.com/article/4748648-unemployment-claims-drop-to-11-month-low?source=feed_all_articles",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "https://seekingalpha.com/index.rdf",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "mutual_funds"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "Unemployment Claims Drop To 11-Month Low",
+        "title_full": "Unemployment Claims Drop To 11-Month Low",
+        "published": "2025-01-10T09:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1224254311/image_1224254311.jpg?io=getty-c-w1536",
+        "performance_score": 0,
+        "domain_rank": 1110,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e6beb952443760468d2be3bb18ec93a6ec274784",
+    "url": "https://seekingalpha.com/article/4748648-unemployment-claims-drop-to-11-month-low?source=feed_all_articles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advisor Perspectives Charts",
+    "published": "2025-01-10T09:00:00.000+02:00",
+    "title": "Unemployment Claims Drop To 11-Month Low",
+    "text": "By Jennifer Nash\nIn the week ending January 4th, initial jobless claims fell to their lowest level since February 2024. Initial jobless claims were at a seasonally adjusted level of 201,000, a decrease of 10,000 from the previous week's\nBy Jennifer Nash\nIn the week ending January 4th, initial jobless claims fell to their lowest level since February 2024. Initial jobless claims were at a seasonally adjusted level of 201,000, a decrease of 10,000 from the previous week's",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Nash",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:46:59.956+02:00",
+    "updated": "2025-01-10T09:46:59.956+02:00"
+}

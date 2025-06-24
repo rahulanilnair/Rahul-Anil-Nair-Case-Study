@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "510c3d1bfac17b0c35c2b5d6b35f2d0ce79d7b79",
+        "url": "https://www.cbsnews.com/pittsburgh/video/pennsylvania-water-authority-removes-lien-wipes-away-8000-in-back-bills-after-kdka-investigation",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - CBS Pittsburgh",
+        "title_full": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - CBS Pittsburgh",
+        "published": "2025-01-10T01:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/01/10/b1ac2c27-6885-4fdc-8a0a-3bed03ac8418/thumbnail/1200x630/6761d7ae9f105f01cf0c4378e4e53ebf/5076bf14175ac4a05b8a8291f8e74148.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "510c3d1bfac17b0c35c2b5d6b35f2d0ce79d7b79",
+    "url": "https://www.cbsnews.com/pittsburgh/video/pennsylvania-water-authority-removes-lien-wipes-away-8000-in-back-bills-after-kdka-investigation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Pittsburgh",
+    "published": "2025-01-10T01:56:00.000+02:00",
+    "title": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - CBS Pittsburgh",
+    "text": "A homeowner said the North Huntingdon Sewage Municipal Authority decided to remove the lien on his home and wipe away the $8,000 in back bills after a KDKA investigation. Meghan Schiller has more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->demographics",
+        "Social Issue->social services",
+        "Social Issue->poverty"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:41:15.810+02:00",
+    "updated": "2025-01-10T03:41:15.810+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "1c2370e7c255cb20bd4d86a0b1c03a1103dd19a5",
+        "url": "https://www.newsbreak.com/news/3752730635495-four-hospitals-from-allegheny-health-network-get-awarded-by-healthgrades",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/monroeville-pa",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Monroeville, PA Local News and More | NewsBreak",
+        "title": "Four hospitals from Allegheny Health Network get awarded by Healthgrades - NewsBreak",
+        "title_full": "Four hospitals from Allegheny Health Network get awarded by Healthgrades - NewsBreak",
+        "published": "2025-01-09T23:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/43DwZ9_0y1Kq1CN00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c2370e7c255cb20bd4d86a0b1c03a1103dd19a5",
+    "url": "https://www.newsbreak.com/news/3752730635495-four-hospitals-from-allegheny-health-network-get-awarded-by-healthgrades",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "beavercountyradio.com",
+    "published": "2025-01-09T23:04:00.000+02:00",
+    "title": "Four hospitals from Allegheny Health Network get awarded by Healthgrades - NewsBreak",
+    "text": "7 hours ago (Photo Provided with Release) (Pittsburgh, PA) According to a release from Allegheny Health Network, four of their hospitals received Healthgrades’ 2024 and 2025 clinical quality and patient experience awards. AHN Allegheny General Hospital was given a top fifty hospital in America for cardiac surgery and a top one hundred hospital in America for cardiovascular care. AHN Allegheny General Hospital was also the best hospital in Western Pennsylvania for cardiac surgery, according to Healthgrades’ ratings. AHN Jefferson Hospital in Jefferson Hills, AHN Allegheny Valley Hospital in Natrona Heights and AHN Wexford Hospital also got Healthgrade awards for treatment of patients. Read full article\nRead in NewsBreak 8",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health facility",
+        "Health->health organisation",
+        "Health->hospital",
+        "Human Interest->ceremony",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:38:33.051+02:00",
+    "updated": "2025-01-10T01:38:33.051+02:00"
+}

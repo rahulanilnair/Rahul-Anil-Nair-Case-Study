@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "7b9785aacb6b85ea5860bb97062c0170bb847234",
+        "url": "https://money.usnews.com/investing/news/articles/2025-01-09/oil-set-for-third-straight-weekly-gain-on-winter-fuel-demand",
+        "site_full": "money.usnews.com",
+        "site": "usnews.com",
+        "site_section": "https://money.usnews.com/investing/cryptocurrency",
+        "site_categories": [
+            "investing",
+            "credit_debt_and_loans",
+            "finance",
+            "mutual_funds",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Today’s News About Bitcoin, Ethereum, Other Cryptocurrencies and Blockchain Technologies | U.S. News Investing",
+        "title": "Oil Set for Third Straight Weekly Gain on Winter Fuel Demand",
+        "title_full": "Oil Set for Third Straight Weekly Gain on Winter Fuel Demand",
+        "published": "2025-01-10T04:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/b3bb9e1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F0f%2F2c249e36727e4a88f491331b3bec91%2Ftag%3Areuters.com%2C2025%3Anewsml_LYNXMPEL0901Z%3A12025-01-10T021018Z_1_LYNXMPEL0901Z_RTROPTP_3_GLOBAL-OIL.JPG",
+        "performance_score": 0,
+        "domain_rank": 298,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7b9785aacb6b85ea5860bb97062c0170bb847234",
+    "url": "https://money.usnews.com/investing/news/articles/2025-01-09/oil-set-for-third-straight-weekly-gain-on-winter-fuel-demand",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T04:10:00.000+02:00",
+    "title": "Oil Set for Third Straight Weekly Gain on Winter Fuel Demand",
+    "text": "Reuters\nFILE PHOTO: A pumpjack operates at the Vermilion Energy site in Trigueres, France, June 14, 2024. REUTERS/Benoit Tessier/File photo\n(Reuters) - Oil prices rose in early Asian trade and were on track for a third straight week of gains with icy conditions in parts of the United States and Europe driving up fuel demand for heating.\nBrent crude futures climbed 24 cents, or 0.3%, to $77.16 a barrel at 0138 GMT. U.S. West Texas Intermediate crude futures gained 26 cents, or 0.4%, to $74.18.\nOver the three weeks ending Jan. 10, Brent has advanced 5.9% while WTI has jumped 6.9%.\nAnalysts at JPMorgan attributed the gains to growing concern over supply disruptions due to tightening sanctions, amid low oil stockpiles, freezing temperatures in many parts of the U.S. and Europe and improving sentiment regarding China's stimulus measures.\nThe U.S. weather bureau expects central and eastern parts of the country to experience below-average temperatures. Many regions in Europe have also been hit by extreme cold and will likely continue to experience a colder-than-usual start to the year, which JPMorgan analysts expect to boost demand.\n\"We anticipate a significant year-over-year increase in global oil demand of 1.6 million barrels a day in the first quarter of 2025, primarily boosted by ... demand for heating oil, kerosene, and LPG,\" JPMorgan said in a note on Friday.\nMeanwhile, the premium of the front-month Brent contract over the six-month contract reached its widest since August this week, potentially indicating supply tightness at a time of rising demand.\nOil prices have rallied despite the U.S. dollar strengthening for six straight weeks. A stronger dollar typically weighs on prices, as it makes purchases of crude expensive outside the United States.\nSupplies could be further hit as U.S. President Joe Biden is expected to announce new sanctions targeting Russia's economy this week in a bid to bolster Ukraine's war effort against Moscow before President-elect Donald Trump takes office on Jan. 20. A key target of sanctions so far has been Russia's oil industry.\n(Reporting by Sudarshan Varadhan; Editing by Sonali Paul)\nCopyright 2025 Thomson Reuters .\nTags: United States , Middle East , international trade , United Kingdom , Europe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "JPMorgan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Trigueres",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:09:51.023+02:00",
+    "updated": "2025-01-10T05:09:51.023+02:00"
+}

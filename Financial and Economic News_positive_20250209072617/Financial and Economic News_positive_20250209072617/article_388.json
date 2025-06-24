@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "96c26a2122de05f2e3c4dbcff610b0f684e56b89",
+        "url": "https://www.usnews.com/news/world/articles/2025-01-09/zelenskiy-says-meeting-of-allies-pledges-2-billion-in-aid",
+        "site_full": "www.usnews.com",
+        "site": "usnews.com",
+        "site_section": "https://www.usnews.com/news?top_nav_news",
+        "site_categories": [
+            "social",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "U.S. News - Breaking National and World News",
+        "title": "Zelenskiy Says Meeting of Allies Pledges $2 Billion in Aid",
+        "title_full": "Zelenskiy Says Meeting of Allies Pledges $2 Billion in Aid",
+        "published": "2025-01-10T03:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/c53d7d1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff0%2Ffc5ba0dab45116c7b2c56bd9b0733f%2Ftag%3Areuters.com%2C2025%3Anewsml_LYNXMPEL09013%3A12025-01-10T011045Z_1_LYNXMPEL09013_RTROPTP_3_UKRAINE-CRISIS-USA.JPG",
+        "performance_score": 0,
+        "domain_rank": 298,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96c26a2122de05f2e3c4dbcff610b0f684e56b89",
+    "url": "https://www.usnews.com/news/world/articles/2025-01-09/zelenskiy-says-meeting-of-allies-pledges-2-billion-in-aid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T03:10:00.000+02:00",
+    "title": "Zelenskiy Says Meeting of Allies Pledges $2 Billion in Aid",
+    "text": "Reuters\nUkraine's President Volodymyr Zelenskiy attends a press conference at the Ukraine Defense Contact Group meeting at Ramstein Air Base, Germany, January 9, 2025. REUTERS/Heiko Becker\n(Reuters) - Ukrainian President Volodymyr Zelenskiy said the latest in a series of meetings with Kyiv's Western allies in Germany had resulted in pledges of an additional $2 billion in military assistance to help it fight the war against Russia.\nZelenskiy, speaking to My-Ukraina television channel after Thursday's meeting, gave few details of the assistance, but that 34 countries had pledged support in different aspects of the 34-month-old war.\n\"We had a very good meeting, a very good result. There was $2 billion in additional packages of support to Ukraine,\" he said in a video posted on the television channel's Telegram account.\nThe aid covered air defence, information technology, demining, naval forces, air forces and artillery.\n\"And all this will strengthen Ukraine,\" Zelenskiy said.\nThe president gave no details on which countries had made the pledges.\nU.S. Secretary of State Antony Blinken had earlier said that Washington would provide Ukraine with an additional $500 million in military aid, including air defence missiles, air-to-ground munitions and support equipment for F-16 fighter jets.\nZelenskiy attended the meeting at Ramstein and then met Italian Prime Minister Giorgia Meloni in Rome, where he said he discussed upgrading Ukraine's air defences against Russian attacks and efforts to form a united position on moving forward to a resolution of the war.\nMORE:\nPlaces the U.S. Government Warns Not to Travel Right Now\n(Reporting by Ron Popeski; Editing by Michael Perry)\nCopyright 2025 Thomson Reuters .\nPhotos You Should See - Sept. 2024\nView All 24 Images Join the Conversation See Comments Tags: Ukraine , Russia , Europe\nRead More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->international organisation",
+        "Politics->foreign aid",
+        "Politics->political development",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelenskiy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Antony Blinken",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heiko Becker",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ramstein Air Base",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:53:09.936+02:00",
+    "updated": "2025-01-10T03:53:09.936+02:00"
+}

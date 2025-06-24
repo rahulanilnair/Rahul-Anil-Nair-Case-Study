@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "96711fafdaa987c568b6847749241ba19e849997",
+        "url": "https://freerepublic.com/focus/f-chat/4284928/posts",
+        "site_full": "freerepublic.com",
+        "site": "freerepublic.com",
+        "site_section": "http://www.freerepublic.com/tag/*/feed.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest Articles",
+        "title": "Biden administration seeks to punish oil companies",
+        "title_full": "Biden administration seeks to punish oil companies",
+        "published": "2024-12-17T11:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 4458,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96711fafdaa987c568b6847749241ba19e849997",
+    "url": "https://freerepublic.com/focus/f-chat/4284928/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MtnClimber",
+    "published": "2024-12-17T11:41:00.000+02:00",
+    "title": "Biden administration seeks to punish oil companies",
+    "text": "Fines and reparations? In a more just world, those would be levied against the governments that try to punish the very entities that have done us the most good.\nThe Washington Free Beacon recently reported that the Biden administration’s stunningly unjust Department of Justice “quietly weighed in on litigation pending before the Supreme Court this week, siding with liberal cities and states that are seeking to force the nation's largest oil companies to pay billions of dollars in damages for global warming.”\nBiden’s Solicitor General, Elizabeth Prelogar, is pushing the Supreme Court to give its imprimatur to the notion that states can make laws mandating that oil companies pay “the costs of global climate change.” Prelogar is also urging SCOTUS to “allow Democratic states to pursue their individual lawsuits against the various companies.”\nThe Beacon also noted that the lawsuits against the big oil companies “are being assisted by the California law firm Sher Edling, which was founded in 2016 to wage war on oil companies via novel legal methods,” and has “received nearly $14 million in donations wired through the so-called Collective Action Fund for Accountability, a shadowy pass-through group that isn't required to publicly disclose its donors.”\nMandating that companies that provide the vast majority of the world’s energy pay for any possible harm that energy production has caused the planet is the worst idea in the history of the world. And that may be an understatement. First off, “global warming” is unproven, impossible to separate from normal planetary processes. Second, we don’t even know if it is occurring. Third, we have no idea if it is “man-caused,” let alone caused by fossil fuel companies. Fourth, there are numerous “experts” who believe that, if it is occurring, it would be a net benefit to the planet.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Biden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Elizabeth Prelogar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:45:37.161+02:00",
+    "updated": "2024-12-17T14:45:37.161+02:00"
+}

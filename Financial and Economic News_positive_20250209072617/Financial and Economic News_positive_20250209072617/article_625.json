@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "2651ba965076ce33039d7285df5a2a4a38dcc5fb",
+        "url": "https://www.zawya.com/en/capital-markets/bonds/lebanons-bonds-rally-as-parliament-elects-first-president-since-2022-kl18zb3j",
+        "site_full": "www.zawya.com",
+        "site": "zawya.com",
+        "site_section": "https://www.zawya.com/en/special-coverage/the-future-of-cryptos",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "All news in The Future of Cryptos - Zawya",
+        "title": "Lebanon's bonds rally as parliament elects first president since 2022",
+        "title_full": "Lebanon's bonds rally as parliament elects first president since 2022",
+        "published": "2025-01-10T02:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://static.zawya.com/view/acePublic/alias/contentid/image.171109093755CRZW/6/171109093755crzw-jpg.jpeg?f=3%3A2",
+        "performance_score": 0,
+        "domain_rank": 5161,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2651ba965076ce33039d7285df5a2a4a38dcc5fb",
+    "url": "https://www.zawya.com/en/capital-markets/bonds/lebanons-bonds-rally-as-parliament-elects-first-president-since-2022-kl18zb3j",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marc Jones",
+    "published": "2025-01-10T02:04:00.000+02:00",
+    "title": "Lebanon's bonds rally as parliament elects first president since 2022",
+    "text": "RELATED TOPICS FIXED INCOME LEBANON MARKETS POLITICS BONDS RELATED COMPANIES International Monetary Fund Africa A World Bank Hizballah Lebanese government PHOTO\nLONDON - Lebanese government bonds extended their three-month-long rally on Thursday as the crisis-ravaged country's parliament voted in a new head of state for the first time since 2022.\nLebanese lawmakers elected army chief Joseph Aoun as president. It came after 12 failed previous attempts to pick a president and boosted hopes that the country might finally be able to start addressing its dire economic woes.\nIts battered international bonds have almost trebled in value since September, when the regional conflict with Israel weakened Lebanese armed group Hezbollah, long viewed as an obstacle to overcoming its political paralysis.\nThose bonds, which have been in default since 2020, rallied shortly after Aoun's victory was announced and stood around 1.3 cents higher on the day at just over 16 cents on the dollar as local trading wound down.\nOne bondholder described Aoun's election as \"a very positive development\" in the broader context of the ceasefire with Israel, the downfall of Bashar al-Assad in Syria and strong support for Lebanon both regionally and internationally.\n\"We expect the government formation to be relatively quick so they can start to work on reforms towards a deal with the IMF and banking sector restructuring,\" said Ted Pincus at Switzerland-based fund Mangart.\nWith economic support from Saudi Arabia, UAE, France, the United States and others also on the table, \"Lebanon's future now looks a lot brighter,\" he added.\nROAD TO RECOVERY\nLebanon's bonds have risen steadily in recent months, although they remain some of the lowest-priced government bonds in the world, reflecting the scale of its difficulties.\nWith an economy and financial system still reeling from a collapse in 2019, Beirut is in dire need of international support to rebuild from the recent conflict, which the World Bank estimates to have cost the country $8.5 billion.\nHasnain Malik, an analyst at financial research firm Tellimer, said Aoun's victory was \"the first necessary step on a very long road to recovery\".\nAoun now needs to appoint a prime minister and assemble a cabinet that can retain the support of parliament, resuscitate long-delayed reforms and help Lebanon secure international financial support.\nOn the downside, the voting process demonstrated that despite its weakened military capability, Hezbollah remains a key political force.\nThe 61-year-old Aoun fell short of the required support in Thursday's first round of parliamentary voting and only succeeded in a second round, reportedly after a meeting with Hezbollah and Amal party MPs.\n\"That presents significant ongoing risk to any new PM and cabinet, which need to maintain the confidence of a majority of parliament,\" Malik said.\n(Additional reporting by Karin Strohecker; Editing by Gareth Jones and Hugh Lawson)\nDisclaimer: The content of this article is syndicated or provided to this website from an external third party provider. We are not responsible for, and do not control, such external websites, entities, applications or media publishers. The body of the text is provided on an “as is” and “as available” basis and has not been edited in any way. Neither we nor our affiliates guarantee the accuracy of or endorse the views or opinions expressed in this article. Read our full disclaimer policy here .\n© ZAWYA 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->debt market",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->political candidates",
+        "Politics->national elections",
+        "Politics->political process",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joseph Aoun",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:54:25.292+02:00",
+    "updated": "2025-01-10T08:09:34.956+02:00"
+}

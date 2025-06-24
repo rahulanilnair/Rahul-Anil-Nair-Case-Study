@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "6bb13f959d6fee1bf92042b4108d769097916d44",
+        "url": "https://www.bnnbloomberg.ca/business/politics/2024/12/17/bank-of-finland-cuts-economic-outlook-as-uncertainty-weighs",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://www.bnnbloomberg.ca/business",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business - BNN Bloomberg",
+        "title": "Bank of Finland Cuts Economic Outlook as Uncertainty Weighs",
+        "title_full": "Bank of Finland Cuts Economic Outlook as Uncertainty Weighs",
+        "published": "2024-12-17T11:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/62FK2WLQTOZU7MFOOF7QROOYBM.jpg?smart=true&amp;auth=9ba727ff4a202d1ffdc64cde41e0afd00f845eef1721c6000b25f48e7d0ce9d7&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2772,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6bb13f959d6fee1bf92042b4108d769097916d44",
+    "url": "https://www.bnnbloomberg.ca/business/politics/2024/12/17/bank-of-finland-cuts-economic-outlook-as-uncertainty-weighs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Leo Laikola",
+    "published": "2024-12-17T11:00:00.000+02:00",
+    "title": "Bank of Finland Cuts Economic Outlook as Uncertainty Weighs",
+    "text": "Finnish economy will expand less next year than previously forecast, the Nordic country’s central bank said, citing uncertainty in the global economy and tepid domestic demand. The Nordic economy will probably grow 0.8% in 2025, following a contraction of about 0.5% this year, the Bank of Finland said on Tuesday. In September, the central bank projected the Finnish economy will gain 1.1% next year, before the expansion will accelerate to 1.8% in 2026. “Consumer spending will recover slowly to begin with, as consumers’ confidence in the economy is weak, unemployment still rising and fiscal policy growing tighter,” said Juuso Vanhala, Bank of Finland’s head of forecasting. “On the other hand, interest rates are expected to come down further, which will support consumption and investment.” The central bank’s 2025 growth view is gloomier than the 1.6% median projection compiled by Bloomberg. Following three consecutive quarters of meager growth this year, most economists are penciling in a more pronounced recovery in 2025 on the back of rising purchasing power as inflation slows and the European Central Bank cuts borrowing costs. Finland’s economy has been one of Europe’s worst performers since before the pandemic. It took a blow from the freezing of trade with neighboring Russia as a result of the Kremlin’s full-scale invasion of Ukraine while sluggish demand for its key exports by top trading partners Germany and Sweden has also been a drag. The Bank of Finland forecasts exports to “gradually pick up from 2025 onwards” as the economies of Finland’s markets abroad are set to pick up pace and the worldwide cuts in interest rates spur demand. However, “subdued growth in the euro area economy will curb the improvement in Finland’s exports.” Finnish Finance Ministry is expected to unveil its latest forecast for next year on Thursday following its projection in September when it saw 1.7% growth in 2025. ©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Juuso Vanhala",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bank of Finland Cuts Economic Outlook",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:12:51.849+02:00",
+    "updated": "2024-12-17T12:12:51.849+02:00"
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "346c57a0dc3f12c25ec45deffffd610c96a2d873",
+        "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/budget-2025-tax-cuts-sops-on-pharma-incs-wish-list/117100940",
+        "site_full": "pharma.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://pharma.economictimes.indiatimes.com/news",
+        "site_categories": [
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Pharma News | Pharma Sector News | Pharma News India",
+        "title": "Budget 2025: Tax cuts, sops on Pharma Inc's wish list",
+        "title_full": "Budget 2025: Tax cuts, sops on Pharma Inc's wish list",
+        "published": "2025-01-10T03:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-117100940,imgsize-39242,width-1200,height=765,overlay-etpharma/news/pharma-industry/budget-2025-tax-cuts-sops-on-pharma-incs-wish-list.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "346c57a0dc3f12c25ec45deffffd610c96a2d873",
+    "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/budget-2025-tax-cuts-sops-on-pharma-incs-wish-list/117100940",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETPharma.com",
+    "published": "2025-01-10T03:24:00.000+02:00",
+    "title": "Budget 2025: Tax cuts, sops on Pharma Inc's wish list",
+    "text": "New Delhi: Higher spending towards public healthcare, incentives for research and development and tax exemptions for more life-saving drugs are among the key demands of pharmaceutical and hospital sector executives ahead of the upcoming Union budget.Healthcare industry executives said expanding the list of life-saving drugs eligible for GST/import duty exemptions will help improve affordability for patients. They want all oncology medications to get the benefit. Hospital operators urged the government to reduce customs duties on essential medical equipment and consumables. Tax rates on essential medicines in India vary depending on the type of medicines and whether they are imported or not.\\\"Increasing public healthcare spending to at least 2.5per cent of GDP is crucial for strengthening our infrastructure and ensuring universal coverage,\\\" said Fortis Healthcare managing director and chief executive Ashutosh Raghuvanshi.Organisation of Pharmaceutical Producers of India director-general Anil Matai urged the government to explore methods to incentivise R&D investments, such as tax deductions on R&D expenses, research-linked incentives for multinationals and corporate tax concessions to accelerate.\\\"Recognising the high-risk, long-gestation nature of R&D, we suggest extending the scope of Section 115BAB of the Income Tax Act, 1961 to companies solely engaged in pharmaceutical research and development and providing a 200per cent deduction rate on R&D expenditures,\\\" he said. This section of the I-T Act allowed manufacturing entities registered on or after October 1, 2019, to opt for a lower corporate tax rate of 15per cent, provided they started manufacturing operations by March 31, 2024. Sudharahan Jain, secretary-general of the Indian Pharmaceutical Alliance, said incentives for AI research in the pharmaceutical sector should be introduced, building on the support announced in Budget 2023 for AI Centres of Excellence and medical device training. \\\"The Indian pharmaceutical industry is at a pivotal moment, and poised for growth, targeting $120-130 billion by 2030 and $450 billion by 2047. This will position India among the top 5 innovators and No 1 in volume. To achieve this, the Union budget 2025-2026 should prioritise innovation, ease of doing business, and policies that strengthen the life sciences ecosystem,\\\" he said.Himanshu Baid, MD, Poly Medicure, said the government may consider standardising the GST rate of 12per cent across all medical devices as it would simplify the tax structure, ensuring consistency and ease of doing business.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Health->government health care",
+        "Health->health insurance",
+        "Health->health treatment and procedure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anil Matai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pharma Inc",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Organisation of Pharmaceutical Producers of India",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:03:09.529+02:00",
+    "updated": "2025-01-10T04:32:37.822+02:00"
+}

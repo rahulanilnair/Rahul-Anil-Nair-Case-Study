@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "fc1c6e59fa9f372ff4c50a99fd142ec4ef2cbf85",
+        "url": "https://www.uppermichiganssource.com/2025/01/09/cfpb-eliminate-medical-debts-credit-reports",
+        "site_full": "www.uppermichiganssource.com",
+        "site": "uppermichiganssource.com",
+        "site_section": "https://www.uppermichiganssource.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News",
+        "title": "CFPB to eliminate medical debts from credit reports",
+        "title_full": "CFPB to eliminate medical debts from credit reports",
+        "published": "2025-01-09T23:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/LTRVF65IJ5AOHPI5F2EUCRBGWQ.jpg?auth=c195ca0dd99b50567cd91f00b467d1dc5792618f2497e92c2d47a887cb8ef3f8&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 25167,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fc1c6e59fa9f372ff4c50a99fd142ec4ef2cbf85",
+    "url": "https://www.uppermichiganssource.com/2025/01/09/cfpb-eliminate-medical-debts-credit-reports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wluctv6",
+    "published": "2025-01-09T23:57:00.000+02:00",
+    "title": "CFPB to eliminate medical debts from credit reports",
+    "text": "CFPB to eliminate medical debts from credit reports\nUPPER PENINSULA, Mich. (WLUC) - A new ruling from the Consumer Financial Protection Bureau (CFPB) is set to eliminate unpaid medical bills from credit reports.\nThe change is set to go into effect in the next 60 days. The Chief Home Mortgage Officer from Range Bank, Brian Syrjala, says consumers could see an increase in their credit score and possibly more.\n“With this, they could qualify for more loan programs, programs with less fees, or even in some cases better interest rates. As far as loan qualifying is concerned, if medical debts are not on the credit report, borrowers could qualify for a higher payment,” Syrjala said.\nSyrjala says medical bills alone do not determine whether or not you will be accepted for a loan or mortgage. The reason for this change is that the CFPB finds medical debts ‘provide little predictive value to lenders about borrowers’ ability to repay other debts.’\nThe Senior Commercial Lender for Embers Credit Union, Julie Olson, says if your credit score does go up, it is a positive for you and the bank.\n“Higher credit scores are beneficial for both the borrower and the financial institution. The borrower will benefit by having better credit terms in terms of interest rate and length of the loan. The credit union will benefit because the risk profile of the borrower is lower,” Olson said.\nDespite medical bills being removed Syrjala says your ability to pay bills will still have an effect on your credit score.\n“The medical bills are still out there and they’re still going to be the responsibility of the borrower. It’s just more of how we qualify them moving forward and the impact it will have. It’s still going to impact them it just may not impact them in this financial transaction,” Syrjala said.\nSyrjala said while this ruling will go into effect in March, the impacts of this change could be seen more clearly by the summer.\nCopyright 2025 WLUC. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->government health care",
+        "Health->health insurance",
+        "Economy, Business and Finance->debt market",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Syrjala",
+                "sentiment": "none"
+            },
+            {
+                "name": "Julie Olson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Consumer Financial Protection Bureau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Embers Credit Union",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "UPPER PENINSULA",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:29:03.933+02:00",
+    "updated": "2025-01-10T02:29:03.933+02:00"
+}

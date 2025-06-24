@@ -1,0 +1,12 @@
+{
+  "total_files_processed": 5,
+  "successful_evaluations": 5,
+  "batch_timestamp": "2025-06-23T15:06:10.630535",
+  "average_scores": {
+    "average_overall_quality": 8.0,
+    "average_coherence": 9.0,
+    "average_evidence": 7.6,
+    "average_completeness": 8.0,
+    "average_consistency": 8.6
+  }
+}

@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "b43bc2e698a39189fa34b1d2d67348fe87d89eca",
+        "url": "https://www.rte.ie/news/business/2025/0110/1489940-global-airline-revenue-set-to-surpass-1-trillion-in-2025",
+        "site_full": "www.rte.ie",
+        "site": "rte.ie",
+        "site_section": "https://www.rte.ie/feeds/rss/?index=/news/business/&limit=20",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business",
+        "title": "Global airline revenue set to top $1 trillion in 2025",
+        "title_full": "Global airline revenue set to top $1 trillion in 2025",
+        "published": "2025-01-10T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://img.rasset.ie/002069fc-1600.jpg",
+        "performance_score": 0,
+        "domain_rank": 1971,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b43bc2e698a39189fa34b1d2d67348fe87d89eca",
+    "url": "https://www.rte.ie/news/business/2025/0110/1489940-global-airline-revenue-set-to-surpass-1-trillion-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gill Stedman",
+    "published": "2025-01-10T07:00:00.000+02:00",
+    "title": "Global airline revenue set to top $1 trillion in 2025",
+    "text": "Revenue across the global airline industry is set to surpass one trillion US dollars for the first time in 2025, a new report predicts.\nThe paper published by global aviation finance company Avolon forecasts that this revenue growth will be driven by the Asia-Pacific region.\nIt predicts that more seats will be added to schedules in this region than all other regions combined in 2025.\nThe report states that the sector is heading back towards pre-pandemic levels of profitability.\nThis is partly due to lower oil prices last year, which helped to more than offset a 19% increase in maintenance costs and an 8% rise in labour costs.\nThe report forecasts that the sector's net profit will increase 16% this year to $36 billion.\nIt expects this will help airlines recoup the pandemic losses of 2020 and 2021.\nAccording to Avolon, the markets that were first to recover - North America and Europe - are still growing, but at a slower pace, while Asia-Pacific gains momentum.\nThe report states that securing aircraft for expansion and fleet replacement will continue to be a major challenge in 2025, with slots for new aircraft sold out beyond 2030.\n\"In this environment, lessors will benefit from continuing strength in lease rates and valuations as airlines compete for scarce aircraft,\" said Andy Cronin, CEO of Avolon.\n\"Those lessors with strong balance sheets and attractive orderbooks of new technology aircraft are best placed to outperform and serve the growth needs of the world's airlines,\" he added.\nHaving declined in 2024, the report predicts that new deliveries will increase by 20% in 2025 with over 1,400 aircraft to be delivered.\nDespite increasing deliveries, it expects Airbus and Boeing to continue to struggle to hit their targets to ramp up production.\n\"The structural under-supply of new aircraft is driving aviation industry market dynamics,\" the report states.\n\"Airbus and Boeing's next production slots are not available until the 2030s, meaning airlines will continue to extend leases and in-service life to meet their fleet plans.\"\nOn the issue of sustainability, the report highlight that aviation generates 2% of global emissions.\n\"Governments have a strong role to play in setting coordinated global policies that attract private investment both in sustainable aviation fuel production, and transformative new technologies such as hydrogen and electric-powered flight,\" the report states.\n\"IATA estimates that $4.7 trillion is needed to fund aviation's transition.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->population and census",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:01:14.957+02:00",
+    "updated": "2025-01-10T08:01:14.957+02:00"
+}

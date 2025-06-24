@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "3c62b17f4d350bbe60b4b401e846c312b4554602",
+        "url": "https://www.khaleejtimes.com/business/tech/ireland-fines-meta-over-250-million-euros-over-facebook-hacks",
+        "site_full": "www.khaleejtimes.com",
+        "site": "khaleejtimes.com",
+        "site_section": "https://www.khaleejtimes.com/world",
+        "site_categories": [
+            "media",
+            "top_news_qa",
+            "top_news_pk",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Khaleej Times World News, Latest International News Headlines",
+        "title": "Ireland fines Meta over 250 million euros over Facebook hacks - News | Khaleej Times",
+        "title_full": "Ireland fines Meta over 250 million euros over Facebook hacks - News | Khaleej Times",
+        "published": "2024-12-17T15:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3336,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3c62b17f4d350bbe60b4b401e846c312b4554602",
+    "url": "https://www.khaleejtimes.com/business/tech/ireland-fines-meta-over-250-million-euros-over-facebook-hacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-12-17T15:56:00.000+02:00",
+    "title": "Ireland fines Meta over 250 million euros over Facebook hacks - News | Khaleej Times",
+    "text": "An Irish regulator helping police European Union (EU) data privacy said Tuesday it had fined Facebook-owner Meta 251 million euros ($263 million) for a data protection failure that saw Facebook accounts hacked.\nThe Data Protection Commission (DPC) criticised Meta for a security flaw in its video upload function which hackers were able to exploit to gain full access to other users' Facebook profiles.\nOver a two-week period in 2018, unauthorised users were able to hack into around 29 million Facebook accounts globally.\nStay up to date with the latest news. Follow KT on WhatsApp Channels.\nThe personal data involved included email addresses, phone numbers, locations, and places of work.\n\"The failure to build in data protection requirements throughout the design and development cycle can expose individuals to very serious risks and harms, including a risk to the fundamental rights and freedoms of individuals,\" said Graham Doyle, the regulator's head of communications.\n\"By allowing unauthorised exposure of profile information, the vulnerabilities behind this breach caused a grave risk of misuse of these types of data,\" he added.\nMeta Ireland and its US parent company remedied the breach shortly after its discovery, the DPC said, and reported the issue to the regulator in September 2018.\nIt is the latest fine in a series issued to the US social media giant and its rivals, as global regulators crack down on tech companies.\nIn September, the DPC fined Meta 91 million euros for failing to put measures in place to protect users' password data and for taking too long to alert the regulator of the issue.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://whatsapp.com/channel/0029Va5dROu3bbUxk7Jh2503",
+        "https://www.whatsapp.com/channel/0029Va5dROu3bbUxk7Jh2503"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3c62b17f4d350bbe60b4b401e846c312b4554602",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:29:01.510+02:00",
+    "updated": "2024-12-17T16:29:01.510+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "01edd49484e75745f9bce7eede3460ab9b74254c",
+        "url": "https://www.wkyc.com/video/news/politics/national-politics/biden-announces-federal-government-will-cover-california-wildfire-recovery-costs-for-180-days/95-e1432100-0ee7-4498-8e10-cee3cfc3312f",
+        "site_full": "www.wkyc.com",
+        "site": "wkyc.com",
+        "site_section": "https://www.wkyc.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News Headlines | wkyc.com",
+        "title": "Biden announces federal government will cover California wildfire recovery costs for 180 days | wkyc.com",
+        "title_full": "Biden announces federal government will cover California wildfire recovery costs for 180 days | wkyc.com",
+        "published": "2025-01-09T23:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.wkyc.com/assets/WKYC/images/668bb690-9ebe-4cef-ae57-b01331484ec0/20250109T220008/668bb690-9ebe-4cef-ae57-b01331484ec0_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 5801,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01edd49484e75745f9bce7eede3460ab9b74254c",
+    "url": "https://www.wkyc.com/video/news/politics/national-politics/biden-announces-federal-government-will-cover-california-wildfire-recovery-costs-for-180-days/95-e1432100-0ee7-4498-8e10-cee3cfc3312f",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Author wkyc com",
+    "published": "2025-01-09T23:57:00.000+02:00",
+    "title": "Biden announces federal government will cover California wildfire recovery costs for 180 days | wkyc.com",
+    "text": "Biden announces federal government will cover California wildfire recovery costs for 180 days\nThe federal government will cover debris removal, temporary shelter, first responder shelter and other costs to aid the Los Angeles area impacted by wildfires.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->economic policy",
+        "Politics->government",
+        "Social Issue->discrimination",
+        "Social Issue->welfare",
+        "Social Issue->social problem",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:00:16.573+02:00",
+    "updated": "2025-01-10T01:00:16.573+02:00"
+}

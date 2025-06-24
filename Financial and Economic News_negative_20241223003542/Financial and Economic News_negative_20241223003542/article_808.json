@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "d4f408c45bbe33df2abdb2e04ec1ebc34d46f69b",
+        "url": "https://www.bbc.co.uk/news/articles/czr36842nd6o",
+        "site_full": "www.bbc.co.uk",
+        "site": "bbc.co.uk",
+        "site_section": "https://www.bbc.co.uk/news/articles",
+        "site_categories": [
+            "media",
+            "top_news_cz",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_at",
+            "top_news_tw",
+            "top_news_pt",
+            "top_news_pl",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_rs",
+            "top_news_bg",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_pe",
+            "top_news_eg",
+            "top_news_sk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_ma",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_fr",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Home - BBC News",
+        "title": "Waspi: Fury as women hit by state pension age rise are denied payouts - BBC News",
+        "title_full": "Waspi: Fury as women hit by state pension age rise are denied payouts - BBC News",
+        "published": "2024-12-17T14:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b99a/live/3d3aebe0-bc72-11ef-9817-c9f9b634553a.jpg",
+        "performance_score": 0,
+        "domain_rank": 94,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 21,
+                "comments": 20,
+                "shares": 28
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d4f408c45bbe33df2abdb2e04ec1ebc34d46f69b",
+    "url": "https://www.bbc.co.uk/news/articles/czr36842nd6o",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bbcnews",
+    "published": "2024-12-17T14:58:00.000+02:00",
+    "title": "Waspi: Fury as women hit by state pension age rise are denied payouts - BBC News",
+    "text": "Fury as women hit by pension age rise denied payouts\nImage source, Getty Images Kevin Peachey Cost of living correspondent Published 17 December 2024, 12:58 GMT Updated 4 minutes ago Campaigners have reacted with fury to the government's \"unjustified\" rejection of compensation for women hit by changes to the state pension age.\nThey say 3.6 million women born in the 1950s were not properly informed of the rise in state pension age to bring them into line with men.\nWork and Pensions Secretary Liz Kendall apologised for a delay in sending letters, but has rejected any kind of financial payouts.\nNine months ago, a parliamentary ombudsman recommended compensation of between £1,000 and £2,950 to each of those affected.\nThe Women Against State Pension Inequality (Waspi) campaign described the government's decision as an \"insult\".\n\"The government has today made an unprecedented political choice to ignore the clear recommendations of an independent watchdog,\" said Angela Madden, who chairs the campaign group.\n\"This is a bizarre and totally unjustified move which will leave everyone asking what the point of an ombudsman is if ministers can simply ignore their decisions.\"\nThe Waspi campaign had called for payments of at least £10,000 each.\nBut Kendall said there was evidence that there was \"considerable awareness\" of the changes to the pension age.\nShe also said that there was no evidence of \"direct financial loss\" resulting from the government's decision.\n\"Given the vast majority of women knew the state pension age was increasing, the government does not believe paying a flat rate to all women at a cost of up to £10.5bn would be fair or proportionate to taxpayers,\" she said.\nHow the saga unfolded The age at which people receive the state pension has been increasing as people live longer, and currently stands at 66 for men and women.\nBut for decades, men had received their state pension at 65 and women at the age of 60.\nUnder the 1995 Pensions Act a timetable was drawn up to equalise the age at which men and women could draw their state pension. The plan was to raise the qualifying age for women to 65 and to phase in that change from 2010 to 2020.\nBut the coalition government of 2010 decided to speed that up. Under the 2011 Pensions Act the new qualifying age of 65 for women was brought forward to 2018.\nThe increases have been controversial. Campaigners claim women born in the 1950s have been treated unfairly by the rapid changes and the way they were communicated to those affected.\nMany thousands said they had no idea they would have to wait longer to receive their state pension, and had suffered financial and emotional distress as a result.\nRelated topics Pensioners Department for Work & Pensions Money Personal finance Cost of Living Pensions",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Angela Madden",
+                "sentiment": "none"
+            },
+            {
+                "name": "Liz Kendall",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:28:35.034+02:00",
+    "updated": "2024-12-17T15:28:35.034+02:00"
+}

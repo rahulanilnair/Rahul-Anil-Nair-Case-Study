@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "4ba6958aaf42c62caf5782921f280db7e8de8ba3",
+        "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-122-3776762",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://www.investing.com/news/stock-market-news",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Stock Market News - Investing.com",
+        "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.22% By Investing.com",
+        "title_full": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.22% By Investing.com",
+        "published": "2024-12-17T06:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXNPEB7T0F9_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1187,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4ba6958aaf42c62caf5782921f280db7e8de8ba3",
+    "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-122-3776762",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T06:45:00.000+02:00",
+    "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.22% By Investing.com",
+    "text": "Investing.com – Saudi Arabia stocks were lower after the close on Tuesday, as losses in the Insurance , Agriculture & Food and Industrial Investment sectors led shares lower.\nAt the close in Saudi Arabia, the Tadawul All Share fell 1.22%.\nThe best performers of the session on the Tadawul All Share were Savola Group (TADAWUL: 2050 ), which rose 9.89% or 2.75 points to trade at 30.55 at the close. Meanwhile, Arriyadh Development Co. (TADAWUL: 4150 ) added 3.92% or 1.15 points to end at 30.50 and Bawan (TADAWUL: 1302 ) was up 3.84% or 2.00 points to 54.10 in late trade.\nThe worst performers of the session were Almarai Company (TADAWUL: 2280 ), which fell 4.27% or 2.60 points to trade at 58.30 at the close. Jahez International Company for Information Systems Technology SCJSC (TADAWUL: 6017 ) declined 4.23% or 1.35 points to end at 30.55 and United Int Transportation Company (TADAWUL: 4260 ) was down 3.71% or 2.90 points to 75.20.\nFalling stocks outnumbered advancing ones on the Saudi Arabia Stock Exchange by 243 to 75 and 18 ended unchanged.\nShares in Arriyadh Development Co. (TADAWUL: 4150 ) rose to 3-years highs; gaining 3.92% or 1.15 to 30.50. Shares in Bawan (TADAWUL: 1302 ) rose to 5-year highs; up 3.84% or 2.00 to 54.10.\nCrude oil for January delivery was down 1.67% or 1.18 to $69.53 a barrel. Elsewhere in commodities trading, Brent oil for delivery in February fell 0.99% or 0.73 to hit $73.18 a barrel, while the February Gold Futures contract fell 0.48% or 12.71 to trade at $2,657.29 a troy ounce.\nEUR/SAR was down 0.17% to 3.94, while USD/SAR unchanged 0.00% to 3.76.\nThe US Dollar Index Futures was up 0.10% at 106.67.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Jahez International Company for Information Systems Technology SCJSC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Agriculture & Food and Industrial Investment",
+                "sentiment": "none"
+            },
+            {
+                "name": "United Int Transportation Company",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arriyadh Development Co.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Almarai Company",
+                "sentiment": "none"
+            },
+            {
+                "name": "Savola Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:30:11.203+02:00",
+    "updated": "2024-12-17T15:30:11.203+02:00"
+}

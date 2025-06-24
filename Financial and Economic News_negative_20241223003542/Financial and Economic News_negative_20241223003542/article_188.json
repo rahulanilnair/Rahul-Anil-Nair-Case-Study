@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "d19070c9bbc3d72b299573ac6196e8039395cea6",
+        "url": "https://worldnewsera.com/news/microstrategy-gives-back-earlier-gains-following-bitcoin-proxys-inclusion-in-nasdaq-100-index-and-qqq-etf",
+        "site_full": "worldnewsera.com",
+        "site": "worldnewsera.com",
+        "site_section": "https://worldnewsera.com/feed",
+        "site_categories": [],
+        "section_title": "WorldNewsEra",
+        "title": "MicroStrategy gives back earlier gains following bitcoin proxy’s inclusion in Nasdaq-100 index and ‘QQQ’ ETF",
+        "title_full": "MicroStrategy gives back earlier gains following bitcoin proxy’s inclusion in Nasdaq-100 index and ‘QQQ’ ETF",
+        "published": "2024-12-17T05:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/107051661-1650986786982-gettyimages-1239811110-BITCOIN_MIAMI_2022.jpeg?v=1732218292&w=1920&h=1080",
+        "performance_score": 0,
+        "domain_rank": 52658,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d19070c9bbc3d72b299573ac6196e8039395cea6",
+    "url": "https://worldnewsera.com/news/microstrategy-gives-back-earlier-gains-following-bitcoin-proxys-inclusion-in-nasdaq-100-index-and-qqq-etf",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Evelyn Blackwell",
+    "published": "2024-12-17T05:23:00.000+02:00",
+    "title": "MicroStrategy gives back earlier gains following bitcoin proxy’s inclusion in Nasdaq-100 index and ‘QQQ’ ETF",
+    "text": "[News](../)\nMicroStrategy gives back earlier gains following bitcoin proxy’s inclusion in Nasdaq-100 index and ‘QQQ’ ETF\nMichael Saylor, chairman and CEO of MicroStrategy, speaks during the Bitcoin 2022 conference in Miami on April 7, 2022.\nEva Marie Uzcategui | Bloomberg | Getty Images\nShares of [MicroStrategy](//www.cnbc.com/quotes/MSTR/) were higher Monday after Nasdaq [announced the bitcoin proxy will join the tech-heavy Nasdaq-100 index](//www.cnbc.com/2024/12/13/bitcoin-proxy-microstrategy-to-join-the-nasdaq-100-and-heavily-traded-qqq-etf.html).\nThe stock was last lower by less than 1%, after jumping as much as 7% earlier.\nNasdaq rebalances its [Nasdaq-100](//www.cnbc.com/quotes/.NDX/) index every year. The companies flagged for inclusion are mostly based on the market cap rankings as of the final trading day of November. The stocks also need to meet a liquidity requirement and have a certain number of free floating shares.\nThe index inclusion, which takes effect Dec. 23, comes after MicroStrategy’s massive surge this year. In 2024, the stock is up 547%, far outpacing the [S&P 500’s](//www.cnbc.com/quotes/.SPX/) 26.9% advance, as the price of bitcoin scales to all-time highs. Bitcoin last traded around $105,900.66, up 2.6% on the day.\nMSTR year to date\nThe addition also means MicroStrategy will be included in the popular [Invesco QQQ Trust ETF](//www.cnbc.com/quotes/QQQ/), which tracks the Nasdaq-100. This will likely lead to passive inflows for MicroStrategy stock, potentially giving it another boost.\nMichael Saylor, the company’s founder and chairman, also announced on social media site X on Monday morning that MicroStrategy has bought an additional 15,350 BTC for about $1.5 billion, or roughly $100,386 per coin. It now holds 439,000 bitcoin.\nMicroStrategy has been building its bitcoin reserves for years, making it a proxy for the digital currency.\n“MSTR’s Bitcoin buying program is unprecedented on street, and makes it the largest corporate owner of Bitcoin (2% of supply equivalent to $44Bn market value),” Bernstein analyst Gautam Chhugani wrote Monday. “Inclusion in Nasdaq100 further improves MSTR’s market liquidity, further expanding its capital flywheel and Bitcoin buying program.”\nSubscribe [to CNBC PRO](//www.cnbc.com/application/pro/) for exclusive insights and analysis, and live business day programming from around the world.\n[World News](/)||\n[Latest News](/news)||\n[U.S. News](../us-news)\n[Source link](//www.cnbc.com/2024/12/16/microstrategy-shares-jump-as-bitcoin-proxy-will-join-nasdaq-100-index-and-qqq-etf.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eva Marie Uzcategui",
+                "sentiment": "none"
+            },
+            {
+                "name": "Michael Saylor",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MicroStrategy",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:23:31.228+02:00",
+    "updated": "2024-12-17T12:23:31.228+02:00"
+}

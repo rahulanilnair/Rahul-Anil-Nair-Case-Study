@@ -1,0 +1,67 @@
+{
+    "thread": {
+        "uuid": "5d20416f38b41b5badce2866d95b3fee1e9d3cca",
+        "url": "https://english.aaj.tv/news/330393577/ireland-fines-meta-251m-euros-over-facebook-hacks",
+        "site_full": "english.aaj.tv",
+        "site": "aaj.tv",
+        "site_section": "https://www.aajenglish.tv/feeds/latest-news",
+        "site_categories": [],
+        "section_title": "Aaj TV English News - Latest News",
+        "title": "Ireland fines Meta 251m euros over Facebook hacks",
+        "title_full": "Ireland fines Meta 251m euros over Facebook hacks",
+        "published": "2024-12-17T11:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.aaj.tv/large/2024/12/171908315ef6d8f.webp?r=190841",
+        "performance_score": 0,
+        "domain_rank": 104631,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d20416f38b41b5badce2866d95b3fee1e9d3cca",
+    "url": "https://english.aaj.tv/news/330393577/ireland-fines-meta-251m-euros-over-facebook-hacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (AFP)",
+    "published": "2024-12-17T11:08:00.000+02:00",
+    "title": "Ireland fines Meta 251m euros over Facebook hacks",
+    "text": "Ireland fines Meta 251m euros over Facebook hacks\nAn Irish regulator helping police European Union data privacy said Tuesday it had fined Facebook-owner Meta 251 million euros ($263 million) for a data protection failure that saw Facebook accounts hacked.\nThe Data Protection Commission (DPC) criticised Meta for a security flaw in its video upload function which hackers were able to exploit to gain full access to other users’ Facebook profiles.\nOver a two week period in 2018, unauthorised users were able to hack into around 29 million Facebook accounts globally.\nThe personal data involved included email addresses, phone numbers, locations and places of work.\n“The failure to build in data protection requirements throughout the design and development cycle can expose individuals to very serious risks and harms, including a risk to the fundamental rights and freedoms of individuals,” said Graham Doyle, the regulator’s head of communications.\n“By allowing unauthorised exposure of profile information, the vulnerabilities behind this breach caused a grave risk of misuse of these types of data,” he added.\nMeta Ireland and its US parent company remedied the breach shortly after its discovery, the DPC said, and reported the issue to the regulator in September 2018.\nIt is the latest fine in a series issued to the US social media giant and its rivals, as global regulators crack down on tech companies.\nIn September, the DPC fined Meta 91 million euros for failing to put measures in place to protect users’ password data and for taking too long to alert the regulator of the issue.\nFor the latest news, follow us on Twitter\n@Aaj_Urdu.\nWe are also on\nFacebook,\nInstagram\nand\nYouTube.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5d20416f38b41b5badce2866d95b3fee1e9d3cca",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:26:33.050+02:00",
+    "updated": "2024-12-17T16:26:33.050+02:00"
+}

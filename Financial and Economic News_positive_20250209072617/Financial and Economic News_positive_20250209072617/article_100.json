@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "a4a999774d5826d1db6bc439456db696c9e81a56",
+        "url": "https://www.archyworldys.com/these-countries-donated-one-billion-dollars-to-ukraine",
+        "site_full": "www.archyworldys.com",
+        "site": "archyworldys.com",
+        "site_section": "https://www.archyworldys.com",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Home - Archyworldys",
+        "title": "These countries donated one billion dollars to Ukraine -",
+        "title_full": "These countries donated one billion dollars to Ukraine -",
+        "published": "2025-01-09T18:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 93272,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a4a999774d5826d1db6bc439456db696c9e81a56",
+    "url": "https://www.archyworldys.com/these-countries-donated-one-billion-dollars-to-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyworldyscom",
+    "published": "2025-01-09T18:26:00.000+02:00",
+    "title": "These countries donated one billion dollars to Ukraine -",
+    "text": "Ukraine received one billion dollars from Japan and Great Britain .\nPublika.az reports that Ukrainian Prime Minister Denis Shmygal said so.\nIt was noted that these funds will be used to pay for expenses in the social and humanitarian fields.\n“Ukraine was allocated 1 billion dollars from Japan and Great Britain. The tranche was purchased with the guarantee of these states under the DPL program of the World Bank ,” – wrote Shmygal on the “Telegram” channel.\nAdam\n(function (d, s, id) {\nvar js, fjs = d.getElementsByTagName(s)[0];\nif (d.getElementById(id)) return;\njs = d.createElement(s);\njs.id = id;\njs.src = “//connect.facebook.net/az_AZ/sdk.js#xfbml=1&version=v2.7&appId=”;\nfjs.parentNode.insertBefore(js, fjs);\n}(document, ‘script’, ‘facebook-jssdk’));\n#countries #donated #billion #dollars #Ukraine",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Politics->economic sanction",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Denis Shmygal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ukrainia",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:45:11.695+02:00",
+    "updated": "2025-01-10T00:45:11.695+02:00"
+}

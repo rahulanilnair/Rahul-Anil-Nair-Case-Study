@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "9cd85fea86ab801f485fcbf1b6f8575fc4023ac5",
+        "url": "https://www.miragenews.com/household-spending-rises-with-black-friday-1388841",
+        "site_full": "www.miragenews.com",
+        "site": "miragenews.com",
+        "site_section": "https://www.miragenews.com/disclaimer",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Disclaimer | Mirage News",
+        "title": "Household Spending Rises With Black Friday Sales: Australia | Mirage News",
+        "title_full": "Household Spending Rises With Black Friday Sales: Australia | Mirage News",
+        "published": "2025-01-09T16:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2018%2F01%2F07%2F20%2F56%2Fgraph-3068300_960_720.jpg",
+        "performance_score": 0,
+        "domain_rank": 10896,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9cd85fea86ab801f485fcbf1b6f8575fc4023ac5",
+    "url": "https://www.miragenews.com/household-spending-rises-with-black-friday-1388841",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mirage News",
+    "published": "2025-01-09T16:38:00.000+02:00",
+    "title": "Household Spending Rises With Black Friday Sales: Australia | Mirage News",
+    "text": "Household spending rose 0.4 per cent in November, according to seasonally adjusted figures released today by the Australian Bureau of Statistics (ABS).\nThis follows a 0.9 per cent rise in October and a 0.2 per cent fall in September.\nSix out of the nine spending categories rose in November, mostly driven by Black Friday sales.\nRobert Ewing, ABS head of business statistics, said: \"Black Friday boosted sales in Recreation and culture by 0.9 per cent, making it the largest contributor to overall spending growth. Spending in cinemas continued to grow strongly, with major releases such as Wicked, Gladiator II and Moana 2 all opening in November.\n\"Spending on Clothing and footwear and Furnishings and household equipment also rose by 1.8 per cent and 0.8 per cent respectively.\n\"Growth in these categories drove the 0.4 per cent rise in discretionary spending. Strength in new vehicle purchases also contributed to higher discretionary spending, with the Federal Chamber of Automotive Industries reporting a notable rise in SUV sales in November.\"\nSep-2024 (%) | Oct-2024 (%) | Nov-2024 (%) | |\n---|---|---|---|\nFood | 0.6 | 0.3 | 0.8 |\nAlcoholic beverages and tobacco | -1.8 | -0.5 | -1.2 |\nClothing and footwear | -1.3 | 1.2 | 1.8 |\nFurnishings and household equipment | 0.6 | 0.6 | 0.8 |\nHealth | 0.7 | 1.0 | 0.7 |\nTransport | -0.7 | 0.7 | 0.3 |\nRecreation and culture | -1.1 | 2.1 | 0.9 |\nHotels, cafes and restaurants | 0.2 | 1.1 | 0.0 |\nMiscellaneous goods and services | -0.3 | 0.9 | -1.1 |\nTotal | -0.2 | 0.9 | 0.4 |\nHousehold spending grew in most states and territories. The highest percentage rises were seen in Queensland (+0.7 per cent), Victoria (+0.5 per cent), South Australia (+0.5 per cent) and Western Australia (+0.5 per cent), while the Australian Capital Territory and Tasmania fell 0.4 per cent and 0.2 per cent respectively.\nSep-2024 (%) | Oct-2024 (%) | Nov-2024 (%) | |\n---|---|---|---|\nNSW | -0.9 | 1.2 | 0.2 |\nVic. | -0.6 | 0.9 | 0.5 |\nQld | 0.5 | 0.5 | 0.7 |\nSA | -0.4 | 1.3 | 0.5 |\nWA | 1.0 | 0.8 | 0.5 |\nTas. | 0.5 | 0.8 | -0.2 |\nNT | -0.3 | 1.0 | 0.2 |\nACT | -0.8 | 0.9 | -0.4 |\n[here](https://www.miragenews.com/household-spending-rises-with-black-friday-1388841/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Ewing",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Chamber of Automotive Industries",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9cd85fea86ab801f485fcbf1b6f8575fc4023ac5",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:13:47.721+02:00",
+    "updated": "2025-01-10T03:13:47.721+02:00"
+}

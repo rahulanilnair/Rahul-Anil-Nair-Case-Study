@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "41ad380a08be6cf6cc4e6a75a248ba651e821c7c",
+        "url": "https://retailwire.com/amazon-workers-holiday-season-strike",
+        "site_full": "retailwire.com",
+        "site": "retailwire.com",
+        "site_section": "https://www.retailwire.com",
+        "site_categories": [
+            "marketing",
+            "business"
+        ],
+        "section_title": "RetailWire - Insights &amp; Trends from Retail Industry Experts",
+        "title": "Amazon Workers Threaten Holiday Season Strike: ‘The Clock Is Ticking’",
+        "title_full": "Amazon Workers Threaten Holiday Season Strike: ‘The Clock Is Ticking’",
+        "published": "2024-12-16T21:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 20453,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "41ad380a08be6cf6cc4e6a75a248ba651e821c7c",
+    "url": "https://retailwire.com/amazon-workers-holiday-season-strike",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Morine",
+    "published": "2024-12-16T21:58:00.000+02:00",
+    "title": "Amazon Workers Threaten Holiday Season Strike: ‘The Clock Is Ticking’",
+    "text": "Amazon workers at a New York delivery station and warehouse have signaled they are willing to initiate a holiday season strike over various concerns, as Common Dreams reported.\nThe workers in question — those who work in delivery station DBK4 in Queens, and those who work at warehouse JFK8 on Staten Island — are seeking a living wage , safer working conditions, increased job security via protection from arbitrary terminations, and a baseline of dignity and respect as employees.\nJFK8 Previously Made Headlines as First-Ever Amazon Warehouse To Unionize In 2022, the workers of JFK8 grabbed nationwide media attention as they voted, by a margin of 2,654 to 2,131, to unionize. As The Guardian reported at the time, this represented the first time Amazon would have to deal with a labor union within its purview.\nHowever, the intervening years have proven difficult for the JFK8 workers, as a first union contract has yet to be signed. Citing data from a 2022 Bloomberg Law analysis, ABC News pointed out that the average time for a new union to sign its first contract was 465 days. As of Dec. 13, nearly 990 days had passed without JFK8 workers having done so.\nBeing represented by the International Brotherhood of Teamsters (IBT), it now appears that JFK8 Amazon workers have had enough and are considering a strike.\n“Amazon is pushing its workers closer to the picket line by failing to show them the respect they have earned,” Teamsters General President Sean M. O’Brien said in a statement . “We’ve been clear: Amazon has until December 15 to come to the table and bargain for a contract. If these white-collar criminals want to keep breaking the law, they better get ready for a fight.”\nTeamsters Indicate a Strike Ahead if Amazon Doesn’t Sit Down to the Bargaining Table In a Dec. 13 post shared to X , the IBT indicated that a strike action could be called for if Amazon continues to show opposition to creating that first contract with its unionized workforce.\n“We, the workers at the JFK8 Amazon Fulfillment Center, have authorized the Amazon Labor Union-IBT Local 1 and the Teamsters Amazon National Negotiating Committee to call a ULP strike if Amazon doesn’t meet its legal obligation to bargain by Dec. 15,” the post stated. “Amazon, the clock is ticking!”\nThe stated Dec. 15 deadline for contract negotiations has passed, but as of midday Dec. 16, there has been little further development. The IBT X account has been active in the interim, however, indicating it had raised over $15,000 of a $50,000 goal to create a strike solidarity fund thus far.\nAmazon Fights Back Against Accusations From Teamsters Speaking to ABC News, Amazon spokesperson Eileen Hards made the company’s position clear.\n“For more than a year now, the Teamsters have continued to intentionally mislead the public — claiming that they represent ‘thousands of Amazon employees and drivers.’ They don’t, and this is another attempt to push a false narrative,” Hards said.\n“The truth is that the Teamsters have actively threatened, intimidated, and attempted to coerce Amazon employees and third-party drivers to join them, which is illegal and is the subject of multiple pending unfair labor practice charges,” Hards continued.\nFor its part, the IBT denied Hards’ allegations.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://abcnews.go.com/US/amazon-workers-authorize-strike-companys-unionized-warehouse/story?id=116767350",
+        "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-now-it-takes-465-days-to-sign-a-unions-first-contract",
+        "https://x.com/amazonlabor/status/1867713870858539086",
+        "https://www.commondreams.org/news/amazon-holiday-strike",
+        "https://www.theguardian.com/technology/2022/apr/01/amazon-union-groups-see-hope-workers-vote-alabama-new-york",
+        "https://teamster.org/2024/12/amazon-teamsters-vote-to-authorize-strike-at-two-major-nyc-warehouses/",
+        "https://commondreams.org/news/amazon-holiday-strike",
+        "https://abcnews.go.com/US/amazon-workers-authorize-strike-companys-unionized-warehouse/story",
+        "https://www.x.com/amazonlabor/status/1867713870858539086",
+        "https://www.teamster.org/2024/12/amazon-teamsters-vote-to-authorize-strike-at-two-major-nyc-warehouses/",
+        "https://teamster.org/2024/12/amazon-teamsters-vote-to-authorize-strike-at-two-major-nyc-warehouses",
+        "https://www.news.bloomberglaw.com/bloomberg-law-analysis/analysis-now-it-takes-465-days-to-sign-a-unions-first-contract",
+        "https://theguardian.com/technology/2022/apr/01/amazon-union-groups-see-hope-workers-vote-alabama-new-york",
+        "https://www.abcnews.go.com/US/amazon-workers-authorize-strike-companys-unionized-warehouse/story?id=116767350"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Amazon",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Staten Island",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:39:18.156+02:00",
+    "updated": "2024-12-17T11:39:18.156+02:00"
+}

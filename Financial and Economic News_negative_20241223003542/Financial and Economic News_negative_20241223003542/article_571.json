@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "f30951dc25ffa7917f1da5a5b1c85a4c77fa61a9",
+        "url": "https://ph.investing.com/news/stock-market-news/bofa-says-stock-market-is-flashing-sell-signal-1583183",
+        "site_full": "ph.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ph.investing.com/news/stock-market-news",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Stock Market News - Investing.com PH",
+        "title": "BofA says stock market is flashing 'sell' signal By Investing.com",
+        "title_full": "BofA says stock market is flashing 'sell' signal By Investing.com",
+        "published": "2024-12-17T06:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f30951dc25ffa7917f1da5a5b1c85a4c77fa61a9",
+    "url": "https://ph.investing.com/news/stock-market-news/bofa-says-stock-market-is-flashing-sell-signal-1583183",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T06:06:00.000+02:00",
+    "title": "BofA says stock market is flashing 'sell' signal By Investing.com",
+    "text": "Investing.com -- Bank of America’s Global Fund Manager Survey (FMS) for December signals a potential “sell” moment for risk assets, with cash levels falling to a three-year low and investor sentiment turning sharply bullish.\nThe report notes that the average cash allocation among fund managers has dropped to 3.9% of assets under management (AUM), triggering BofA’s “FMS Cash Rule” contrarian indicator.\nAccording to the rule, cash allocations at or below 4% historically indicate a “sell signal” for global equities. December marks the second such trigger in three months.\nBofA strategists highlight that previous instances of cash levels this low, such as in early 2002 and February 2011, coincided with significant market tops.\n“Since 2011, there have been 12 prior \"sell\" signals which saw global equity (ACWI) returns of -2.4% in the 1 month after and -0.7% in the 3 months after the \"sell\" signal was triggered,” strategists led by Michael Hartnett said in a note.\nThe note points to a “super-bullish sentiment” among fund managers, driven by optimism around US growth prospects under “Trump 2.0” policy expectations and a Federal Reserve seen as poised to cut rates. Equity allocations surged to their highest levels since January 2022.\nBofA observes that investors are “playing Q1 risk asset ‘overshoot,’” favoring long positions in commodities, resources, and European or emerging market stocks. At the same time, they are also hedging against a potential “hard landing” surprise by increasing exposure to cash, bonds, consumer staples, and short positions in US stocks, technology, and banks.\nThe survey also reveals record-high allocations to US stocks and global banks, while European equities saw their largest underweight positioning since October 2022. Allocation to commodities dropped to its lowest level since mid-2017.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Hartnett",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Investing.com Investing.com",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BofA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bank of America",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:16:38.178+02:00",
+    "updated": "2024-12-17T14:16:38.178+02:00"
+}

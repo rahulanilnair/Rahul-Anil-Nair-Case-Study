@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "5c2e3087e92b590ac1c74bc7a295a46e97daefb6",
+        "url": "https://money.usnews.com/investing/news/articles/2025-01-09/malaysias-november-industrial-production-up-3-6-above-forecast",
+        "site_full": "money.usnews.com",
+        "site": "usnews.com",
+        "site_section": "http://www.usnews.com/rss/usnews.rss",
+        "site_categories": [
+            "investing",
+            "credit_debt_and_loans",
+            "finance",
+            "mutual_funds",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "U.S. News",
+        "title": "Malaysia's November Industrial Production up 3.6%, Above Forecast",
+        "title_full": "Malaysia's November Industrial Production up 3.6%, Above Forecast",
+        "published": "2025-01-10T06:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 298,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c2e3087e92b590ac1c74bc7a295a46e97daefb6",
+    "url": "https://money.usnews.com/investing/news/articles/2025-01-09/malaysias-november-industrial-production-up-3-6-above-forecast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T06:05:00.000+02:00",
+    "title": "Malaysia's November Industrial Production up 3.6%, Above Forecast",
+    "text": "KUALA LUMPUR (Reuters) - Malaysia's industrial production rose 3.6% from a year earlier in November, above market expectations, government data showed on Friday.\nNovember's factory output had been forecast to expand 2.6%, according to a Reuters poll.\nOctober's factory output was revised down to 2.0% from 2.1%.\n(Reporting by Danial Azhar; Editing by Martin Petty)\nCopyright 2025 Thomson Reuters .\nTags: Asia , Malaysia , mining",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:08:53.127+02:00",
+    "updated": "2025-01-10T07:08:53.127+02:00"
+}

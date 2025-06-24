@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "1f9ba7ed5278edf30193e99e9d7a0eec0f2cf2be",
+        "url": "https://www.myfxbook.com/news/german-ifo-business-confidence-worsens-in-december/32020",
+        "site_full": "www.myfxbook.com",
+        "site": "myfxbook.com",
+        "site_section": "https://www.myfxbook.com/news/mixed-trend-in-asian-markets",
+        "site_categories": [],
+        "section_title": "Forex News | Myfxbook",
+        "title": "German Ifo Business Confidence Worsens In December",
+        "title_full": "German Ifo Business Confidence Worsens In December",
+        "published": "2024-12-17T12:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.mfbcdn.net/images/news/32020/mobile.webp",
+        "performance_score": 0,
+        "domain_rank": 30260,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f9ba7ed5278edf30193e99e9d7a0eec0f2cf2be",
+    "url": "https://www.myfxbook.com/news/german-ifo-business-confidence-worsens-in-december/32020",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews",
+    "published": "2024-12-17T12:36:00.000+02:00",
+    "title": "German Ifo Business Confidence Worsens In December",
+    "text": "German Ifo Business Confidence Worsens In December\n(RTTNews) - Business sentiment in Germany fell to the weakest level since 2020 in December as firms were more skeptical about the economic outlook, survey results from the ifo Institute showed on Tuesday, amid the prospect of trade rifts with the U.S. and the uncertainty surrounding domestic economic policies.\nThe ifo business climate index fell to 84.7 in December from 85.6 in the previous month. This was the lowest score since May 2020 and was also below economists' forecast of 85.5.\nThe weakness of the German economy has become chronic, ifo President Clemens Fuest said.\nCompanies assessed their current situation as better but they were more pessimistic about the outlook. The current situation index climbed unexpectedly to 85.1 from 84.3 a month ago. The score was seen at 84.0.\nMeanwhile, the expectations index declined to 84.4 from 87.0 in the previous month. The reading was expected to advance to 87.5.\nIn manufacturing, business climate declined markedly. Companies were less satisfied with their current situation and their expectations turned significantly gloomier.\nThe order situation in manufacturing deteriorated further. Moreover, production cutbacks were announced.\nIn the service sector, business climate worsened in December. This was due to noticeably more skeptical expectations. Nonetheless, their current situation assessment was somewhat better.\nWhile the catering sector reported positive Christmas business, the transport and logistics sector was concerned about the coming months. In trade, business morale failed to continue its upward trend of the previous two months. Companies were less satisfied with current business. Pessimism also increased with regard to the outlook.\nIn construction, business confidence improved in December. Although companies were slightly more positive about their current situation, their expectations worsened.\n\"A weak Ifo index shows that German businesses have become more worried about the country's growth outlook,\" ING economist Carsten Brzeski said.\nCapital Economics forecast the German economy to grow by less than 0.5 percent in 2025.\n\"We suspect that GDP will grow next year as rising real incomes and looser monetary policy give spending a boost,\" Capital Economics' economist Jack Allen-Reynolds said.\nCommerzbank is looking for a modest 0.2 percent expansion in the German GDP next year.\nThe bank's economist Jorg Kramer attributed the problems mainly to manufacturing, which is suffering from deep structural crisis.\n\"As a result, the falling ECB interest rates are unlikely to have a significant positive impact on the economy,\" Kramer said.\n\"After stagnation in the winter half-year, we expect only a weak upward movement.\"\nThe [Purchasing Managers' survey](https://www.rttnews.com/3497512/german-private-sector-activity-continues-to-shrink.aspx) results released on Monday showed that the German private sector continued to shrink in December but at a slower pace due to a slight rebound in services activity. The composite output index registered 47.8 in December, up from November's nine-month low of 47.2.\nIn the third quarter, the largest euro area [economy](https://www.rttnews.com/3492415/germany-narrowly-skirts-recession-in-q3.aspx) grew marginally by 0.1 percent after a contraction, preventing a technical recession.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.rttnews.com/3492415/germany-narrowly-skirts-recession-in-q3.aspx",
+        "https://www.rttnews.com/3497512/german-private-sector-activity-continues-to-shrink.aspx",
+        "https://rttnews.com/3492415/germany-narrowly-skirts-recession-in-q3.aspx",
+        "https://rttnews.com/3497512/german-private-sector-activity-continues-to-shrink.aspx"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clemens Fuest",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1f9ba7ed5278edf30193e99e9d7a0eec0f2cf2be",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:47:02.713+02:00",
+    "updated": "2024-12-17T12:47:02.713+02:00"
+}

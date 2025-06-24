@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "51824270b38dcd25790c8e7f406ea23294d78c3a",
+        "url": "https://www.binance.com/en/square/post/01-09-2025-fed-governor-bowman-supports-recent-rate-cut-amid-inflation-concerns-18724570932922",
+        "site_full": "www.binance.com",
+        "site": "binance.com",
+        "site_section": "https://www.binance.com/en/square/news",
+        "site_categories": [
+            "tech",
+            "finance",
+            "email"
+        ],
+        "section_title": "Top Cryptocurrency News Today | Binance Square",
+        "title": "Fed Governor Bowman Supports Recent Rate Cut Amid Inflation Concerns",
+        "title_full": "Fed Governor Bowman Supports Recent Rate Cut Amid Inflation Concerns",
+        "published": "2025-01-10T00:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AR",
+        "main_image": "https://public.bnbstatic.com/images/common/feed-og-image-2.png",
+        "performance_score": 0,
+        "domain_rank": 815,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51824270b38dcd25790c8e7f406ea23294d78c3a",
+    "url": "https://www.binance.com/en/square/post/01-09-2025-fed-governor-bowman-supports-recent-rate-cut-amid-inflation-concerns-18724570932922",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Binance News",
+    "published": "2025-01-10T00:43:00.000+02:00",
+    "title": "Fed Governor Bowman Supports Recent Rate Cut Amid Inflation Concerns",
+    "text": "According to Odaily, Federal Reserve Governor Michelle Bowman expressed her support for last month's interest rate cut on Thursday, describing it as the \"final step\" in the Fed's monetary policy adjustment due to rising inflation risks. Bowman emphasized the need for caution in future actions, stating, \"We should also avoid preemptively judging the future policies of the new administration.\" She made these remarks in a prepared speech for the California Bankers Association. This marks the first time Bowman has made such statements since becoming a leading candidate for the Fed's top bank regulatory position. Earlier this week, Vice Chair for Supervision Michael Barr announced his resignation effective by the end of next month. Bowman noted, \"This year will see a change in the leadership of banking institutions, which I expect will translate into shifts in priorities and approaches.\" She reiterated her consistent call for more targeted regulatory measures and a more \"pragmatic\" approach to policy-making.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michelle Bowman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Barr",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "negative"
+            },
+            {
+                "name": "California Bankers Association",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:48:55.733+02:00",
+    "updated": "2025-01-10T01:48:55.733+02:00"
+}

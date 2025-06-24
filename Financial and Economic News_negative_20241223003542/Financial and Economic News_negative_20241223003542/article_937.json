@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "1a3c55008d3fa8d5fc4be64fefd6a651dd985d50",
+        "url": "https://punchng.com/nmdpra-seals-eight-delta-filling-stations-for-under-dispensing-others",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://punchng.com/fashola-and-obi-on-japa",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Fashola and Obi on japa",
+        "title": "NMDPRA seals eight Delta filling stations for under-dispensing, others",
+        "title_full": "NMDPRA seals eight Delta filling stations for under-dispensing, others",
+        "published": "2024-12-17T16:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+        "performance_score": 0,
+        "domain_rank": 5915,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a3c55008d3fa8d5fc4be64fefd6a651dd985d50",
+    "url": "https://punchng.com/nmdpra-seals-eight-delta-filling-stations-for-under-dispensing-others",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dele Ogunyemi",
+    "published": "2024-12-17T16:10:00.000+02:00",
+    "title": "NMDPRA seals eight Delta filling stations for under-dispensing, others",
+    "text": "The Nigerian Midstream and Downstream Petroleum Regulatory Authority has sealed eight petroleum retail outlets in Warri and environs in Delta State following reported cases bordering on under-dispensing, operating without valid licences, poor safety culture and poor housekeeping.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dele Ogunyemi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Victor Ohwodiasa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NMDPRA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ifiekporo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ughoton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ubeji",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1a3c55008d3fa8d5fc4be64fefd6a651dd985d50",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:11:34.358+02:00",
+    "updated": "2024-12-17T23:43:46.367+02:00"
+}

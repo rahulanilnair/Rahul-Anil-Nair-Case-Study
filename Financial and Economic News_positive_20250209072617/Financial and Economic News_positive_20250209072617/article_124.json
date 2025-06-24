@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "54ddcce577de355ed9635c79482ddc270e7b7539",
+        "url": "https://article.wn.com/view/2025/01/09/QCB_s_foreign_reserves_rise_369_in_December",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/fiat-currencies",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - FIAT Currencies",
+        "title": "QCB's foreign reserves rise 3.69% in December - Worldnews.com",
+        "title_full": "QCB's foreign reserves rise 3.69% in December - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54ddcce577de355ed9635c79482ddc270e7b7539",
+    "url": "https://article.wn.com/view/2025/01/09/QCB_s_foreign_reserves_rise_369_in_December",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "QCB's foreign reserves rise 3.69% in December - Worldnews.com",
+    "text": "QNADohaQatar Central Bank (QCB) has announced a significant",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market",
+        "Politics->government budget",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Central Bank",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:01:13.615+02:00",
+    "updated": "2025-01-10T01:01:13.615+02:00"
+}

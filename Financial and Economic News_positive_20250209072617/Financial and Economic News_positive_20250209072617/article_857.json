@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "872c60e1e336dcbf1921004f9450bc4d5fc2d433",
+        "url": "https://www.malaymail.com/news/malaysia/2025/01/10/pm-anwar-hopes-petros-petronas-hydrogen-energy-venture-can-meet-may-deadline-for-facilitation/162704",
+        "site_full": "www.malaymail.com",
+        "site": "malaymail.com",
+        "site_section": "https://www.malaymail.com/homepage",
+        "site_categories": [
+            "television",
+            "business",
+            "entertainment",
+            "media",
+            "sports",
+            "tech",
+            "marketing",
+            "climbing",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": " Malay Mail | Breaking News, Malaysia, World, Lifestyle News ",
+        "title": "PM Anwar hopes Petros, Petronas hydrogen energy venture can meet May deadline for facilitation | Malay Mail",
+        "title_full": "PM Anwar hopes Petros, Petronas hydrogen energy venture can meet May deadline for facilitation | Malay Mail",
+        "published": "2025-01-10T08:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.malaymail.com/malaymail/uploads/images/2025/01/10/thumbs/400x400/254721.jpg",
+        "performance_score": 0,
+        "domain_rank": 6478,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "872c60e1e336dcbf1921004f9450bc4d5fc2d433",
+    "url": "https://www.malaymail.com/news/malaysia/2025/01/10/pm-anwar-hopes-petros-petronas-hydrogen-energy-venture-can-meet-may-deadline-for-facilitation/162704",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Malay Mail",
+    "published": "2025-01-10T08:16:00.000+02:00",
+    "title": "PM Anwar hopes Petros, Petronas hydrogen energy venture can meet May deadline for facilitation | Malay Mail",
+    "text": "> PUTRAJAYA, Jan 10 — Prime Minister Datuk Seri Anwar Ibrahim has expressed hope that the clean hydrogen energy and decarbonisation collaboration project between Sarawak Economic Development Corporation Energy (SEDCE), Petroleum Sarawak Bhd (Petros) and a Japanese consortium could be facilitated by May this year.\nPetros, Petronas subsidiary CCS Ventures Sdn Bhd and Japanese consortium parties, comprising Japan Petroleum Exploration Co Ltd, JGC Holdings Corporation and Kawasaki Kisen Kaisha Ltd, signed a storage site agreement (SSA) for the M3 depleted field offshore Sarawak, Malaysia, on Feb 26, 2024.\nThe SSA not only enables the feasibility studies of the CO2 storage sites starting with the M3 depleted field (M3 CCS Project), but also the planning of the CO2 storage site development, including onshore terminals and transportation pipelines, as well as assessment of its techno-commercial feasibility.\nAnwar, who is also the finance minister, said the collaboration is expected to succeed, particularly as Sarawak Premier Tan Sri Abang Johari Tun Openg has given his assurances regarding the project's development, along with the support of Japan's Prime Minister Shigeru Ishiba.\n“We will hope to facilitate this as soon as possible, to be able to meet some deadlines, let's say by May when we meet either in Tokyo or in Kuala Lumpur,” he said after the joint press remarks with Ishiba in conjunction with the Japanese premier’s two-day official visit to Malaysia which started yesterday.\nAnwar also thanked Japan for its long-standing relations with Petronas in the area of liquefied natural gas, with Japanese companies now involved in the country’s carbon capture utilisation storage via Petronas’ clean energy policy and through the delivery of carbon-neutral LNG cargo to Shikoku Electric Power and Hiroshima Gas.\nCommenting briefly on the rare earth elements (REE) sector, Anwar said he hopes to get Japan's involvement in the development of an REE processing plant.\nDuring the joint-press remarks, Anwar said he had mentioned the formation of the Asean Energy Grid linking Laos, Thailand, Malaysia, and Singapore, and the initiative by Sarawak for an undersea energy cable from Sarawak to Peninsular Malaya and Singapore. “This requires participation from Japan, other than the countries involved,” he added.\nAnwar earlier emphasised that trade and investment issues have been a top priority during the visit by Japan's Prime Minister and his delegation, alongside matters pertaining to higher education.\nIshiba said Japan has agreed that it would strengthen collaboration with Asean in the area of supply chain resilience.\n“We also agreed to deepen cooperation on the Asia Zero Emissions Community (AZEC) and to advance collaboration in the area of green transformation between the two nations. To ensure energy security and achieve decarbonisation, we will enhance cooperation in areas such as ammonia-fuelled gas turbines, CCS (carbon capture and storage), hydrogen, and LNG. This will include cooperation in Sarawak,” he said.\nIshiba, currently on a two-day official visit to Malaysia, was accorded a formal welcoming ceremony at the Perdana Putra Complex today.\nMalaysia’s ties with Japan have grown from strength to strength with the elevation of bilateral relations to a Comprehensive Strategic Partnership in December 2023.\nJapan is a key economic partner for Malaysia, with a total of 2,821 manufacturing projects involving Japanese participation implemented in Malaysia as of June 2024. These projects represented investments worth RM105.2 billion and have generated employment for almost 345,000 people. — Bernama\n<",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Petros",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Datuk Seri Anwar Ibrahim",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tan Sri Abang Johari Tun Openg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Petronas",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Japan Petroleum Exploration Co Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kawasaki Kisen Kaisha Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "JGC Holdings Corporation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Petroliam Nasional Bhd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Petroleum Sarawak Bhd",
+                "sentiment": "none"
+            },
+            {
+                "name": "CCS Ventures Sdn Bhd",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PUTRAJAYA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sarawak",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:56:30.934+02:00",
+    "updated": "2025-01-11T03:04:59.225+02:00"
+}

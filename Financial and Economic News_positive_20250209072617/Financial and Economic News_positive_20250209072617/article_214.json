@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "2fbd0d8e90ad346bd4f96d920d5ffae01cf67eda",
+        "url": "https://democraticunderground.com/10143369969",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/index.php",
+        "site_categories": [],
+        "section_title": "Democratic Underground: Forums for U.S. Liberals and Democrats",
+        "title": "Wall Street Bonuses to Jump by Double Digits at Big Banks",
+        "title_full": "Wall Street Bonuses to Jump by Double Digits at Big Banks",
+        "published": "2025-01-10T00:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 11084,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fbd0d8e90ad346bd4f96d920d5ffae01cf67eda",
+    "url": "https://democraticunderground.com/10143369969",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mahatmakanejeeves",
+    "published": "2025-01-10T00:51:00.000+02:00",
+    "title": "Wall Street Bonuses to Jump by Double Digits at Big Banks",
+    "text": "Source: Bloomberg, via Yahoo! FinanceWall Street Bonuses to Jump by Double Digits at Big Banks] Katherine Doherty Thu, January 9, 2025 at 4:31 PM EST • 3 min read (Bloomberg) -- Atop Wall Street’s largest investment banks, executives are locking in plans to award traders and dealmakers their biggest bonus increases since the pandemic, with 10% hikes — or more — coming for many desks, according to people briefed on the plans. ... At Bank of America Corp., that’s the average increase in store for investment bankers and traders handling stocks and fixed-income products, people with direct knowledge of the decisions said, asking not to be named discussing personnel matters. At Morgan Stanley and larger rival JPMorgan Chase & Co., bonuses will rise more than 10% for traders, people familiar with their deliberations said. And for JPMorgan’s investment bankers, bonuses will rise roughly 15%. Among senior industry executives, it’s broadly expected that Goldman Sachs Group Inc. will go even further for some of its trading desks. Spokespeople for all of the banks declined to comment. The raises follow two years of industrywide restraint while investment banks struggled to maintain the flurry of trading and dealmaking they handled at the height of the coronavirus pandemic. On most desks a year ago, relatively tepid increases weren’t enough to keep up with inflation. Now, managers are planning increases that reflect an upturn in business, as well as some optimism for the year ahead. After all, revenue from trading at the four firms rose less than 10% in last year’s first nine months. Lifting bonuses faster can help ensure that employees stick around for more business to come. {snip}Read more: https://finance.yahoo.com/news/wall-street-bonuses-jump-double-203843394.html\nthey got TARP and then gave out bonuses using our tax dollars. If a few of these greed-lizards had wound up in stir, this wouldn't be happing now.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bloomberg",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Goldman Sachs Group Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of America Corp.",
+                "sentiment": "none"
+            },
+            {
+                "name": "JPMorgan Chase & Co.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Morgan Stanley",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:50:23.062+02:00",
+    "updated": "2025-01-10T01:50:23.062+02:00"
+}

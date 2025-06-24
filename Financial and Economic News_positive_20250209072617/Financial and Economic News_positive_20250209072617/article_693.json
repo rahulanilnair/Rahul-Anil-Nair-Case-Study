@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "9dda85a343d0a4b573fa8e8ab94867961253f655",
+        "url": "https://www.wgrz.com/video/news/local/as-seen-on-tv/olean-secures-federal-grant-to-revitalize-west-state-street/71-3d079e86-90f9-49d5-8059-02b4ce03c3a6",
+        "site_full": "www.wgrz.com",
+        "site": "wgrz.com",
+        "site_section": "https://wgrz.com/billsfuture",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Future of the Bills | Buffalo, New York | wgrz.com",
+        "title": "Olean secures federal grant to revitalize West State Street | wgrz.com",
+        "title_full": "Olean secures federal grant to revitalize West State Street | wgrz.com",
+        "published": "2025-01-10T06:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.wgrz.com/assets/WGRZ/images/2691e73b-b7ae-423c-8cc3-edbb6c6b2828/20250110T041629/2691e73b-b7ae-423c-8cc3-edbb6c6b2828_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 10642,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9dda85a343d0a4b573fa8e8ab94867961253f655",
+    "url": "https://www.wgrz.com/video/news/local/as-seen-on-tv/olean-secures-federal-grant-to-revitalize-west-state-street/71-3d079e86-90f9-49d5-8059-02b4ce03c3a6",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Author wgrz com",
+    "published": "2025-01-10T06:12:00.000+02:00",
+    "title": "Olean secures federal grant to revitalize West State Street | wgrz.com",
+    "text": "Skip Navigation\nNavigation\nNews\nBack\nVERIFY\nSearch\nSearch:\nSearch\nRight Now\nBuffalo, NY »\n17°\nBuffalo, NY »\nAdvertise With Us\nRecalls\nVOTE\nBusiness First\nMost Buffalo\nWhat 2 Do\nUnknown Stories of WNY\nFuture of the Bills\nSign up for newsletter\ncommUNITY\nClosings\nInstagram\nMental Health\nSelfless Among Us\n2 Investigates\n2 Investigates\nBreaking News\nMore (\n) »\nOlean secures federal grant to revitalize West State Street\nThe city will receive $25 million in funding from the Federal government.\nBefore You Leave, Check This Out\nWGRZ would like to send you push notifications about the latest news and weather.\nNotifications can be turned off anytime in the browser settings.\nNo Thanks\nAllow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Instagram\nMental Health",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:32:19.959+02:00",
+    "updated": "2025-01-10T07:32:19.959+02:00"
+}

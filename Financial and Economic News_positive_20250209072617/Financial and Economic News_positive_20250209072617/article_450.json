@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "efd02a6765836fb77040fd904bd1b02269e832f1",
+        "url": "http://global.chinadaily.com.cn/a/202501/10/WS67806e91a310f1265a1d9ff8.html",
+        "site_full": "global.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://global.chinadaily.com.cn",
+        "site_categories": [
+            "travel"
+        ],
+        "section_title": "Global Edition",
+        "title": "Equipment renewal policy boost for consumption - Chinadaily.com.cn",
+        "title_full": "Equipment renewal policy boost for consumption - Chinadaily.com.cn",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 631,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "efd02a6765836fb77040fd904bd1b02269e832f1",
+    "url": "http://global.chinadaily.com.cn/a/202501/10/WS67806e91a310f1265a1d9ff8.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "赵满丰",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Equipment renewal policy boost for consumption - Chinadaily.com.cn",
+    "text": "Visitors wait to taste beer at a food service exhibition in Changsha, Hunan province, in September. [Photo/Xinhua] The National Development and Reform Commission and the Ministry of Finance issued a joint notice on Wednesday about intensifying the implementation of large-scale equipment renewal and consumer goods trade-in policies in 2025. This is among the first of the favorable policies meant to boost domestic demand in the new year.\nIn 2024, China's national economy showed signs of recovery, but insufficient consumer capacity remained a problem. From January to November 2024, the total retail sales of consumer goods increased by only 3.5 percent year-on-year. The growth rate of investment remained low; in particular, private investment lacked momentum. According to the notice, the government is required to provide subsidies for consumers purchasing new digital products.\nMoreover, equipment renewal and consumer good trade-ins are expected to revitalize the existing market, particularly giving green and smart home consumption a boost.\nThe notice also proposes regulating the trading of secondhand goods, accelerating reuse levels and supporting the recycling and disposal of electrical and electronic products. These measures will further promote the development of the circular economy, improve the efficiency of the domestic logistics system, drive the development of new models and enhance the service of durable consumer goods, thereby improving the safety and resilience of industry supply chains.\nTo make this policy more effective, further supporting work needs to be done at the macroeconomic level. For example, it's necessary to solve the unemployment problem and increase people's incomes, so that consumption will increase, providing internal momentum for the economic cycle. Employment and income are the key to boosting consumption and investment.\nThey are the fundamental guarantee for intensifying efforts to expand the new policy in 2025. It's also advisable to further improve the distribution system, placing greater emphasis on people's livelihoods, and increase residents' marginal propensity to consume. Additionally, expanding the coverage of social welfare systems, improving the operation and management system of social security funds, and strengthening the construction of social security systems will also help by stabilizing residents' expectations.\n- 21ST CENTURY BUSINESS HERALD",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->economics",
+        "Science and Technology->scientific standards"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ministry of Finance",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:27:06.109+02:00",
+    "updated": "2025-01-17T12:18:28.813+02:00"
+}

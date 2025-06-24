@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "cd336aae2d576b6824c18bad252879ef703894b7",
+        "url": "https://www.newsbreak.com/news/3751570963166-new-year-new-laws-pay-raises-ptsd-coverage-minimum-wage-increase-and-health-reforms-hit-pennsylvania-and-new-jersey",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/lititz-pa",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Lititz, PA Local News and More | NewsBreak",
+        "title": "New year, new laws: Pay raises, PTSD coverage, minimum wage increase, and health reforms hit Pennsylvania and New Jersey - NewsBreak",
+        "title_full": "New year, new laws: Pay raises, PTSD coverage, minimum wage increase, and health reforms hit Pennsylvania and New Jersey - NewsBreak",
+        "published": "2025-01-09T08:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Ru5v2_0y0ADCi500",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 3,
+                "shares": 14
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cd336aae2d576b6824c18bad252879ef703894b7",
+    "url": "https://www.newsbreak.com/news/3751570963166-new-year-new-laws-pay-raises-ptsd-coverage-minimum-wage-increase-and-health-reforms-hit-pennsylvania-and-new-jersey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mahoningmatters.com",
+    "published": "2025-01-09T08:12:00.000+02:00",
+    "title": "New year, new laws: Pay raises, PTSD coverage, minimum wage increase, and health reforms hit Pennsylvania and New Jersey - NewsBreak",
+    "text": "22 hours ago As residents of Pennsylvania and New Jersey began 2025, several new laws took effect, including expanded access to health care and pay raises for top government officials. In its most recent legislative session, Pennsylvania lawmakers passed 217 bills - fewer than in recent years, according to Spotlight PA. Some laws took effect Jan. 1, while others will roll out later in the year. Read full article\nRead in NewsBreak 91",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Politics->local government policy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->communities",
+        "Social Issue->social services",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:11:12.335+02:00",
+    "updated": "2025-01-10T02:11:12.335+02:00"
+}

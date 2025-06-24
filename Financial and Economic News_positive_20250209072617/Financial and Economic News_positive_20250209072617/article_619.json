@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "7fe8b545777b6bf9a2ce0826249d6cd42abe1881",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/tcs-shares-jump-over-4-in-early-trade-on-signs-of-demand-revival/article69083468.ece",
+        "site_full": "www.thehindubusinessline.com",
+        "site": "thehindubusinessline.com",
+        "site_section": "https://www.thehindubusinessline.com/feeder/default.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business News Today, Latest Market News, Finance News",
+        "title": "TCS shares jump over 4% in early trade on signs of demand revival - The Hindu BusinessLine",
+        "title_full": "TCS shares jump over 4% in early trade on signs of demand revival - The Hindu BusinessLine",
+        "published": "2025-01-10T06:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://bl-i.thgim.com/public/incoming/w09aq8/article69083477.ece/alternates/LANDSCAPE_1200/2025-01-09T104552Z_1512786682_RC2NF5A7YVPY_RTRMADP_3_TCS-RESULTS.JPG",
+        "performance_score": 0,
+        "domain_rank": 3068,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fe8b545777b6bf9a2ce0826249d6cd42abe1881",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/tcs-shares-jump-over-4-in-early-trade-on-signs-of-demand-revival/article69083468.ece",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T06:24:00.000+02:00",
+    "title": "TCS shares jump over 4% in early trade on signs of demand revival - The Hindu BusinessLine",
+    "text": "Shares of India’s top software services exporter Tata Consultancy Services jumped 4% in early trade on Friday, as investors cheered its assessment that there are early signs of a demand revival.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:47:25.808+02:00",
+    "updated": "2025-01-10T09:49:53.164+02:00"
+}

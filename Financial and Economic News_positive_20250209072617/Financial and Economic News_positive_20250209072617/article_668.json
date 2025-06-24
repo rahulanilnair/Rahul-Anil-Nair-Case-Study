@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "4043c709fc00820768fd09c4fe838e746cd51db0",
+        "url": "https://utahpolicy.com/news-release/73041-gov-cox-signs-executive-order-to-streamline-permitting-and-empower-utahns-to-build-a-future-of-abundance",
+        "site_full": "utahpolicy.com",
+        "site": "utahpolicy.com",
+        "site_section": "https://www.utahpolicy.com",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Utah Policy - Raising Our Political IQ",
+        "title": "Gov. Cox signs executive order to streamline permitting and empower Utahns to build a future of abundance",
+        "title_full": "Gov. Cox signs executive order to streamline permitting and empower Utahns to build a future of abundance",
+        "published": "2025-01-10T03:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 161714,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4043c709fc00820768fd09c4fe838e746cd51db0",
+    "url": "https://utahpolicy.com/news-release/73041-gov-cox-signs-executive-order-to-streamline-permitting-and-empower-utahns-to-build-a-future-of-abundance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Release",
+    "published": "2025-01-10T03:26:00.000+02:00",
+    "title": "Gov. Cox signs executive order to streamline permitting and empower Utahns to build a future of abundance",
+    "text": "As part of his inauguration this week, Gov. Cox signed an executive order aimed at streamlining permitting processes, reducing unnecessary regulatory burdens and empowering Utahns to build the critical infrastructure that will shape the state’s future. This order underscores the governor’s commitment to ensuring Utah remains a leader in quality of life, economic strength and innovation.\nGov. Cox drew on his personal experiences as a business owner in rural Utah, recounting his work to expand telecommunications access to communities across the state. “I think about the days when we laid fiber optic lines to places like Scofield and Beaver Mountain. Back then, permitting was streamlined and collaboration was the norm,” Gov. Cox said. “We can do it again. It shouldn’t take years to get approval for a project that benefits our communities and strengthens our economy.”\nThe executive order directs the Utah Department of Environmental Quality (DEQ) and the Division of Oil, Gas, and Mining (DOGM) to identify ways to expand and enhance permitting by rule and general permitting . These approaches allow streamlined approvals for projects while maintaining high environmental and public health standards. The order also requires DEQ to evaluate and improve the processes for plantwide applicability limitation (PAL) permits, a tool that provides flexibility to Utah businesses while encouraging innovation and protecting air quality.\nUnder the executive order, DEQ and DOGM will engage stakeholders, examine successful permitting frameworks from other states and assess opportunities to increase efficiency, reduce redundancies and enhance clarity in the permitting process. Interim progress reports are due to the governor by July 1, 2025, with final reports by October 1, 2025.\nPermitting reform has garnered support across the state. Tyler Clancy, representing District 60 in the Utah House of Representatives, is a proponent of permitting efficiency and praised the governor’s action. “Gov. Cox’s executive order on permitting reform is a bold step that showcases why Utah leads the nation in innovation and forward-thinking governance,” Clancy said. “By streamlining processes and reducing red tape, this reform reflects our shared values of creating a brighter, more prosperous future for every Utahn.”\nThis executive order reflects the broader focus of the governor’s second-term priorities. In his inaugural address yesterday, Gov. Cox called for Utahns to embrace a culture of building — whether that means infrastructure, housing, faith or community. “If we want a future where the American Dream is available for the next generation, we must be builders: one family, one neighborhood and one community at a time,” he said.\n“The focus of this executive order is to empower Utahns to take the lead in creating the world we want for our children and grandchildren,” Gov. Cox said. “It’s about a future of freedom, opportunity and abundance — built here.”\nFurther details on the governor’s second term priorities, along with the text of the executive order, are available on the Governor’s Office website at www.governor.utah.gov .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->executive (government)",
+        "Politics->economic policy",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://governor.utah.gov/wp-content/uploads/Executive-Order-2025.01.07-Expanding-and-Improving-Permitting-Efficiency-at-DEQ-and-DOGM.pdf",
+        "http://www.governor.utah.gov/",
+        "http://governor.utah.gov/",
+        "https://www.governor.utah.gov/wp-content/uploads/Executive-Order-2025.01.07-Expanding-and-Improving-Permitting-Efficiency-at-DEQ-and-DOGM.pdf",
+        "http://www.governor.utah.gov"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cox",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scofield",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:17:54.696+02:00",
+    "updated": "2025-01-10T07:17:54.696+02:00"
+}

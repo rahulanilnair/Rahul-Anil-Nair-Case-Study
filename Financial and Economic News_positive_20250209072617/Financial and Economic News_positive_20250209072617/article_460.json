@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "f9813b758c03079dc351dc3aeccb2bceaef62445",
+        "url": "https://www.newsbreak.com/news/3753437035251-110-million-mixed-use-project-to-bring-over-200-homes-to-downtown-dayton-centre-city-building-set-to-get-renovated",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/troy-oh",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Troy, OH Local News and More | NewsBreak",
+        "title": "$110 million mixed-use project to bring over 200 homes to downtown Dayton, Centre City Building set to get renovated - NewsBreak",
+        "title_full": "$110 million mixed-use project to bring over 200 homes to downtown Dayton, Centre City Building set to get renovated - NewsBreak",
+        "published": "2025-01-10T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4PIYRN_0y22g5Tv00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f9813b758c03079dc351dc3aeccb2bceaef62445",
+    "url": "https://www.newsbreak.com/news/3753437035251-110-million-mixed-use-project-to-bring-over-200-homes-to-downtown-dayton-centre-city-building-set-to-get-renovated",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hellen Patton",
+    "published": "2025-01-10T01:30:00.000+02:00",
+    "title": "$110 million mixed-use project to bring over 200 homes to downtown Dayton, Centre City Building set to get renovated - NewsBreak",
+    "text": "By Hellen Patton ,\n3 hours ago Dayton, Ohio – In a key step meant to revive Dayton’s urban scene, the Montgomery County Land Bank is scheduled to purchase and get prepared the historic Centre City Building for a big renovation project. Approved on January 8 by the City Commission, the Land Bank will start pre-development work required to give this famous building new life. Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business restructuring",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hellen Patton",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "City Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:32:23.440+02:00",
+    "updated": "2025-01-10T04:47:38.441+02:00"
+}

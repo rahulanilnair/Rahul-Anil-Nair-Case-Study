@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "87fdc283ead3d8f2ce0e94b80638379bf9b9fd79",
+        "url": "https://www.newsbreak.com/newsnation-2045693/3753399819857-kroger-agrees-to-pay-110m-to-kentucky-in-opioid-settlement",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/newsnation-2045693",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NewsNation&#x27;s Home Page | NewsBreak",
+        "title": "Kroger agrees to pay $110M to Kentucky in opioid settlement - NewsBreak",
+        "title_full": "Kroger agrees to pay $110M to Kentucky in opioid settlement - NewsBreak",
+        "published": "2025-01-10T01:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/20V0aW_0y20JFyN00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "87fdc283ead3d8f2ce0e94b80638379bf9b9fd79",
+    "url": "https://www.newsbreak.com/newsnation-2045693/3753399819857-kroger-agrees-to-pay-110m-to-kentucky-in-opioid-settlement",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joseph Choi",
+    "published": "2025-01-10T01:04:00.000+02:00",
+    "title": "Kroger agrees to pay $110M to Kentucky in opioid settlement - NewsBreak",
+    "text": "By Joseph Choi The Hill ,\n2 hours ago\nThe Kroger Company has agreed to pay Kentucky $110 million to settle a lawsuit filed last year alleging it pumped millions of doses of opioids into the state over the course of more than a decade.\nKentucky Attorney General Russell Coleman (R) announced the settlement Thursday, saying the money was payment for Kroger’s “role in the devastating drug crisis.”\nAt least 20 people suspected of looting during LA fires “Kroger and its more than 100 pharmacies across Kentucky were responsible for roughly 444 million opioid doses coming into our Commonwealth over a 13-year period. That’s more than 100 opioid doses for every man, woman and child in Kentucky,” said Coleman.\nColeman filed the lawsuit against Kroger in February 2024, alleging the grocery chain had failed to monitor for suspicious opioid orders and had also fulfilled opioid prescriptions in violation of Kentucky state law.\nAccording to the announcement of the settlement, half of the settlement will be distributed among Kentucky’s counties and cities according to a “pre-determined formula,” while the other half will be entrusted to the Kentucky Opioid Abatement Advisory Commission.\nIn 2022, Kentucky ranked seventh among U.S. states and D.C. in terms of drug overdose mortality rates, with the Centers for Disease Control and Prevention finding the state had a overdose mortality rate of 53.2 per 100,000.\nThe Hill has reached out to The Kroger Company for comment.\nCopyright 2025 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to NewsNation.\n2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->corporate governance and csr",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social problem",
+        "Social Issue->poverty",
+        "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=20V0aW_0y20JFyN00",
+        "https://www.newsnationnow.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=20V0aW_0y20JFyN00",
+        "https://www.newsnationnow.com/us-news/west/20-arrested-looting-la-fires/",
+        "https://www.img.particlenews.com/image.php?url=20V0aW_0y20JFyN00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=20V0aW_0y20JFyN00",
+        "https://newsnationnow.com",
+        "https://img.particlenews.com/image.php",
+        "https://newsnationnow.com/us-news/west/20-arrested-looting-la-fires/",
+        "https://www.newsnationnow.com/us-news/west/20-arrested-looting-la-fires"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joseph Choi The Hill",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Russell Coleman",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kroger Company",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Commonwealth",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:45:41.257+02:00",
+    "updated": "2025-01-10T03:45:41.257+02:00"
+}

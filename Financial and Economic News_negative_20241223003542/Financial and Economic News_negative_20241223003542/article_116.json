@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "012c84ed0674a9acca75c25b5828f2f33c3efa20",
+        "url": "https://www.adweek.com/media/ozy-media-new-media-era",
+        "site_full": "www.adweek.com",
+        "site": "adweek.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "marketing",
+            "advertising",
+            "business"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Ozy Media Epitomized an Era. Its Collapse Marks a New One. ",
+        "title_full": "Ozy Media Epitomized an Era. Its Collapse Marks a New One. ",
+        "published": "2024-12-17T09:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.adweek.com/wp-content/uploads/sites/3/2021/10/carlos_watson.jpg?w=600&amp;h=315&amp;crop=1",
+        "performance_score": 0,
+        "domain_rank": 928,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "012c84ed0674a9acca75c25b5828f2f33c3efa20",
+    "url": "https://www.adweek.com/media/ozy-media-new-media-era",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Stenberg",
+    "published": "2024-12-17T09:37:00.000+02:00",
+    "title": "Ozy Media Epitomized an Era. Its Collapse Marks a New One. ",
+    "text": "Publishing News Ozy Media Epitomized an Era. Its Collapse Marks a New One. Digital media startups of the last decade prized scale above all else—including reality\nBy Mark Stenberg\nThe stage is set! Advertisers, don't miss this cultural moment. ADWEEK House The Big Game is headed to New Orleans on February 7. RSVP .\nThe cofounder of the digital publisher Ozy Media , Carlos Watson, was sentenced on Monday to nearly a decade in prison because of a bombshell revelation that he and his business partner, Samir Rao, had sought to defraud investors by lying about key financial information.\nWatson, who pleaded not guilty, disputed the charges, claiming that he had only been engaged in the same kind of corporate salesmanship expected of any founder during the digital media landrush of the last decade.\n“The quantum of dishonesty in this case is exceptional,” U.S. District Judge Eric Komitee said in issuing the sentence in federal court in Brooklyn, New York.\nWhile his plea failed to sway the jury, Watson is not wrong—he is hardly the only media executive ever to put his finger on a crucial scale.\nOzy Media Is Returning in Its ‘Lazarus Moment,’ Founder Carlos Watson Says\nIn fact, for all its bluster about objectivity, the media industry is rife with contradictory figures, malleable metrics, and self-fulfilling truths.\nEvery relevant point of comparison in the market—traffic, subscribers, views, revenue—is calculated in the manner most flattering to a given company. And when these data points disagree, hard facts become pliant conversations.\nWatson and Ozy Media, which launched in 2013, were part of a broader wave of digital media firms that played a similar game, aiming to win market share in an actively expanding industry.\nAt the time, investors gravitated toward publishers with the greatest odds of success, which encouraged founders to paint the rosiest portrait possible of their business. And so long as the market continued to grow, a figure that was falsely inflated today by tomorrow could well be true.\nThe sheer scale of the era reflects these motivations. Founders raised hundreds of millions of dollars, valuations soared into the billions, and companies spent lavishly on labor, real estate, amenities, and moon shots.\nBut by early 2022, the delirium began to lift. Social media platforms began sending far fewer readers to publishers, capital became more expensive, and investors began seeking returns. Patience for growth was replaced by demand for profit, and media companies unable to deliver buckled and collapsed with alarming speed.\nOzy Media shuttered just months before this correction began, but it is not hard to imagine that it would have been among its casualties. Watson was, after all, looking to raise $40 million—on top of the $83 million it had collected up to that point—when he and Rao conspired to impersonate a YouTube executive.\nThe deflation of the industry has caused significant harm. Tens of thousands of journalists have lost their jobs, and trust in the media has declined significantly. Phrases like clickbait and fake news—byproducts of an era that prioritized sensation over substance—have been slow to die out if they ever will.\nBut as in all down markets, there are reasons for optimism.\nThe media industry, now chastened, has begun to rightly prioritize the needs of its audience over those of venture capitalists. Without the inflated scale provided by the platforms, publishers now have fewer but deeper relationships with their paying audiences.\nOnce bitten, investors are likewise more capable of spotting warning signs. The media startups of this decade are lean affairs that prioritize expertise and profitability. There is a healthy skepticism that now runs through the space, and things too good to be true are treated as such.\nThis heightened sense of scrutiny did not come exclusively from the collapse of Ozy Media, but the publisher and its downfall might well serve as its symbolic scapegoat. For that, the industry might actually have Watson to thank.\nEnjoying Adweek's Content? Register for More Access! Register\nMark Stenberg @markstenberg3 mark.stenberg@adweek.com Mark Stenberg is Adweek's senior media reporter.\nRecommended articles Popular Now Week of October 28 Cable News Ratings: MSNBC Enjoys Week-to-Week Gains Ahead of the Election Havas Is Officially a Public Company Inside Alisyn Camerota’s Quiet Departure From CNN WPP CEO Mark Read Tells Staff Omnicom-IPG Deal Is ‘Good News For Us’ Betches and the NFL Announce Content Partnership to Expand the Sport’s Younger, Female Cohort Upcoming Webinars Best Practices for Creator Campaigns Tuesday, December 17, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carlos Watson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Eric Komitee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samir Rao",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:56:35.389+02:00",
+    "updated": "2024-12-17T12:11:10.724+02:00"
+}

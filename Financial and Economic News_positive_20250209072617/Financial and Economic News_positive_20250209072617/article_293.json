@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "56d3c01b8e0e015e66595e5bf328689672b93dbb",
+        "url": "https://www.si.com/nfl/chargers/los-angeles-chargers-atlanta-falcons-trade-kyle-pitts",
+        "site_full": "www.si.com",
+        "site": "si.com",
+        "site_section": "https://www.si.com",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "Sports Illustrated",
+        "title": "Chargers could fill glaring hole with huge Falcons trade",
+        "title_full": "Chargers could fill glaring hole with huge Falcons trade",
+        "published": "2025-01-10T02:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2485,h_1397,x_757,y_147/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/charger_report/01jh6s7x7b25ahqqv3ej.jpg",
+        "performance_score": 0,
+        "domain_rank": 1166,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56d3c01b8e0e015e66595e5bf328689672b93dbb",
+    "url": "https://www.si.com/nfl/chargers/los-angeles-chargers-atlanta-falcons-trade-kyle-pitts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Schmidt",
+    "published": "2025-01-10T02:27:00.000+02:00",
+    "title": "Chargers could fill glaring hole with huge Falcons trade",
+    "text": "Chargers could fill glaring hole with huge Falcons trade\nThe Los Angeles Chargers are headed to the playoffs and will be battling the Houston Texans this Saturday, and that's all well and good.\nThe Chargers went 11-6 in Jim Harbaugh's first season at the helm and definitely have a promising future.\nHowever, in spite of Los Angeles' success this year, it obviously has some major holes that need to be addressed this offseason, the most significant of which is finding more playmakers for quarterback Justin Herbert.\nOutside of Ladd McConkey, Herbert has been very limited in terms of his weaponry this season, which doesn't come as much of a surprise given the mass exodus of Chargers offensive talent that occurred last offseason.\nLuckily, Los Angeles is slated to have ample cap room to sign some pieces in free agency, but the Chargers could—and should—also explore the trade market.\nWhile wide receivers are always the most popular names, the Bolts could also stand to upgrade at tight end, and in that department, a very interesting name coud be available this March: Atlanta Falcons tight end Kyle Pitts.\nPitts is preparing to enter the final year of his deal and hasn't quite lived up to the hype after racking up over 1,000 yards during his rookie campaign back in 2021.\nThat doesn't mean Pitts has been bad, as the 24-year-old did manage to catch 47 passes for 602 yards and four touchdowns this season, and that was with a less than ideal quarterback situation.\nPut Pitts in an offense led by Herbert, and there is a chance he could establish himself as one of the NFL's top tight ends once again.\nConsidering how disenchanted Atlanta seems to be with Pitts, there seems to be a sizeable chance that the Chargers would be able to land the former first-round pick without giving up a whole lot in return.\nWill Dissly has been solid this season, but his ceiling is not nearly as high as that of Pitts, who stands 6-foot-6 and possesses incredible athleticism.\nLos Angeles can afford to take a gamble on Pitts. If things don't work out, the Bolts can just let him walk in free agency next year.\nMore Los Angeles Chargers News:\n[Ezekiel Elliott Updates: Will RB actually play for Chargers in NFL playoffs?](https://www.si.com/nfl/chargers/ezekiel-elliott-updates-los-angeles-chargers-texans-nfl-playoffs)\n[Los Angeles Chargers named fit for Chiefs star free agent](https://www.si.com/nfl/chargers/los-angeles-chargers-latest-news/los-angeles-chargers-named-fit-kansas-city-chiefs-nick-bolton)\n[Texans GM reveals massive take on Chargers' Justin Herbert](https://www.si.com/nfl/chargers/texans-nick-caserio-massive-take-los-angeles-chargers-justin-herbert)\n[Chargers urged to cut ties with key offensive weapon](https://www.si.com/nfl/chargers/los-angeles-chargers-urged-cut-ties-gus-edwards)\n[Chargers pitched as trade destination for Browns' Myles Garrett](https://www.si.com/nfl/chargers/los-angeles-chargers-trade-destination-cleveland-browns-myles-garrett)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->american football",
+        "Sport->sports transaction",
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Justin Herbert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ladd McConkey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jim Harbaugh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Los Angeles Chargers",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Atlanta Falcons",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:39:05.649+02:00",
+    "updated": "2025-01-10T02:39:05.649+02:00"
+}

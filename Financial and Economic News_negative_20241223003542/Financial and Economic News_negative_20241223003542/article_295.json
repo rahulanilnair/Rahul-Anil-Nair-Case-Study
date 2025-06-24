@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "aa8b914de4634c6c69d5e694d7f2d0c6af8e5609",
+        "url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-plunges-over-1-00-points-as-bearish-sentiment-grips-markets-2651044-2024-12-17",
+        "site_full": "www.indiatoday.in",
+        "site": "indiatoday.in",
+        "site_section": "https://indiatoday.in",
+        "site_categories": [
+            "religion",
+            "media",
+            "catholicism",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_kw",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - India Today",
+        "title": "Sensex plunges over 1,000 points as bearish sentiment grips markets",
+        "title_full": "Sensex plunges over 1,000 points as bearish sentiment grips markets",
+        "published": "2024-12-17T09:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202412/bears-dominated-the-market-172912818-16x9_0.png?VersionId=jXnfBmrXgk2T.weKf1GKQCRLXa_v7Mr.",
+        "performance_score": 0,
+        "domain_rank": 1760,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa8b914de4634c6c69d5e694d7f2d0c6af8e5609",
+    "url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-plunges-over-1-00-points-as-bearish-sentiment-grips-markets-2651044-2024-12-17",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indiatoday",
+    "published": "2024-12-17T09:59:00.000+02:00",
+    "title": "Sensex plunges over 1,000 points as bearish sentiment grips markets",
+    "text": "Sensex plunges over 1,000 points as bearish sentiment grips markets\nThe S&P BSE Sensex lost 1064.12 points to end the day at 80,684.45, while the NSE Nifty50 was down 332.25 points to close at 24,336.00.\nIn Short\n- Sensex drops 1,064 points, Nifty down 332 points\n- Bearish sentiment due to key policy decisions by US Fed\n- Widespread sectoral declines, led by metals and auto stocks\nBenchmark stock market indices extended their losses and closed lower on Tuesday after [major sectoral indices plunged throughout the day](https://www.indiatoday.in/business/story/market-crash-down-reason-why-sensex-falls-over-800-points-nifty-3-key-factors-for-fall-2650872-2024-12-17) as bearish sentiment prevailed.\nThe S&P BSE Sensex lost 1064.12 points to end the day at 80,684.45, while the NSE Nifty50 was down 332.25 points to close at 24,336.00.\nVinod Nair, Head of Research, Geojit Financial Services said that widespread pessimism prevails across all sectors ahead of key policy decisions from the US Fed, BoJ, and BoE.\n\"While the market has already factored in a 25bps cut from the US Fed, it remains vigilant for any hawkish signals. The BoJ and BoE are largely expected to maintain their current rates for the year. Concurrently, the INR has depreciated to an all-time low, and a record-high trade deficit is exacerbating the pressure. FII outflows persist due to rising US bond yields and a strengthening dollar, further contributing to the prevailing pessimism,\" he added.\nMarket sentiment was dampened by concerns over a widening trade deficit, which reached a record high of $37.8 billion in November.\n\"This raised fears about the rupee's stability and prompted selling pressure across multiple sectors, particularly in autos, banks, and metals. Investors are now closely monitoring the upcoming US Federal Reserve meeting for potential impacts on global markets,\" said Vaibhav Vidwani, Research Analyst, Bonanza.\nThe stock market witnessed selling pressure across all sectors, with notable declines in metal, auto, and energy stocks. Although the broader indices also closed in negative territory, their losses were relatively less severe.\n\"The large-cap segment bore the brunt of the selling pressure, while the broader indices displayed relative resilience. This trend highlights a renewed selling spree by Foreign Institutional Investors (FIIs) ahead of the US Federal Reserve meeting. Moving forward, a decisive break below the 24,300 mark could hinder the recovery and potentially drag the index toward 24,000. In this cautious market environment, traders are advised to adopt a hedged strategy and wait for clarity,\" said Ajit Mishra – SVP, Research, Religare Broking Ltd.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vinod Nair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Geojit Financial Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Head of Research",
+                "sentiment": "none"
+            },
+            {
+                "name": "US Fed",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:54:54.042+02:00",
+    "updated": "2024-12-17T12:54:54.042+02:00"
+}

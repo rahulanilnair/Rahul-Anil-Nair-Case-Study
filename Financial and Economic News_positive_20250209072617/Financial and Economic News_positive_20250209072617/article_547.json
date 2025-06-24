@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "1c436c8b02a9ac13752c2a53b50503edb0ca2415",
+        "url": "https://babel.ua/en/news/114353-norway-will-allocate-over-2-billion-to-ukraine-in-2025-this-is-the-largest-norwegian-aid-in-history",
+        "site_full": "babel.ua",
+        "site": "babel.ua",
+        "site_section": "https://babel.ua/en/news",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "The latest news from Ukraine and the world, fresh and actual | Бабель",
+        "title": "Norway will allocate over €2 billion to Ukraine in 2025. This is the largest Norwegian aid in history",
+        "title_full": "Norway will allocate over €2 billion to Ukraine in 2025. This is the largest Norwegian aid in history",
+        "published": "2025-01-09T19:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://babel.ua/static/content/nqyjccwr/thumbs/1200x630/0/f0/aadd608980d2f5f7ee3942cc912eef00.jpg?v=3590",
+        "performance_score": 0,
+        "domain_rank": 49362,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c436c8b02a9ac13752c2a53b50503edb0ca2415",
+    "url": "https://babel.ua/en/news/114353-norway-will-allocate-over-2-billion-to-ukraine-in-2025-this-is-the-largest-norwegian-aid-in-history",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@theBabelUA",
+    "published": "2025-01-09T19:52:00.000+02:00",
+    "title": "Norway will allocate over €2 billion to Ukraine in 2025. This is the largest Norwegian aid in history",
+    "text": "In 2025, Norway will allocate the largest military assistance in its history — over €2 billion — specifically to Ukraine.\nThis [was reported by](https://www.facebook.com/rustemumerov.ua/posts/pfbid02qEucSHLauwHCNDQeyqi7JYoMztqJq6nXbMocAPdSAeCF6Wke5bmqvUfNkmPonHivl?locale=uk_UA) the Minister of Defense of Ukraine Rustem Umerov after a meeting with the Head of the Ministry of Defense of Norway Arild Gram at a meeting of the Contact Group on Defense Issues of Ukraine (\"Ramstein\").\nThese agreements will bring cooperation between the countries to a new level, Rustem Umerov emphasized.\nAccording to him, they have already discussed priority areas of spending.\nThe Ukrainian minister emphasized that they also paid attention to strengthening the air defense system — this is a critical area, and Ukraine is counting on Norwayʼs support.\nIn addition, Norway will continue to invest in the Ukrainian defense-industrial complex and joint projects, in particular in the production of ammunition.\nIn addition, the ministers of the countries discussed a new mechanism of cooperation — the \"Norwegian model\", which will complement the already successful \"Danish model\" and strengthen our defense capabilities. Rustem Umerov did not specify what the \"Norwegian model\" of assistance to Ukraine would entail.\n- Norway recently joined\n[the \"Danish format\" of support](https://babel.ua/en/news/112684-norway-will-finance-the-production-of-ukrainian-weapons)— direct financing of the production of weapons and equipment in Ukraine, and also allocated more than $240 million to[strengthen the fleet](https://babel.ua/en/news/113634-ukraine-will-receive-over-240-million-from-norway-to-strengthen-its-fleet).\nFor more news and in-depth stories from Ukraine please [follow us on X](https://x.com/UaBabel).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->international relations",
+        "Politics->foreign aid",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/rustemumerov.ua/posts/pfbid02qEucSHLauwHCNDQeyqi7JYoMztqJq6nXbMocAPdSAeCF6Wke5bmqvUfNkmPonHivl?locale=uk_UA",
+        "https://x.com/UaBabel",
+        "https://www.facebook.com/rustemumerov.ua/posts/pfbid02qEucSHLauwHCNDQeyqi7JYoMztqJq6nXbMocAPdSAeCF6Wke5bmqvUfNkmPonHivl",
+        "https://www.x.com/UaBabel",
+        "https://facebook.com/rustemumerov.ua/posts/pfbid02qEucSHLauwHCNDQeyqi7JYoMztqJq6nXbMocAPdSAeCF6Wke5bmqvUfNkmPonHivl?locale=uk_UA"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rustem Umerov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ministry of Defense of Norway Arild Gram",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ramstein",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:52:16.259+02:00",
+    "updated": "2025-01-10T05:52:16.259+02:00"
+}

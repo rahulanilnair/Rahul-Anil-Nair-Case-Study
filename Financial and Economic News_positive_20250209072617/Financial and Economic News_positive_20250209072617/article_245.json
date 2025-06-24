@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "2059deae0ae46c38d975440bce8441584e87c019",
+        "url": "https://ross.house.gov/2025/1/congresswoman-ross-announces-more-than-13-million-for-the-wake-forest-mobility-hub",
+        "site_full": "ross.house.gov",
+        "site": "house.gov",
+        "site_section": "https://ross.house.gov/media",
+        "site_categories": [],
+        "section_title": "Media | Representative Deborah Ross",
+        "title": "Congresswoman Ross Announces More Than $13 Million for the Wake Forest Mobility Hub | Press Releases | Representative Deborah Ross",
+        "title_full": "Congresswoman Ross Announces More Than $13 Million for the Wake Forest Mobility Hub | Press Releases | Representative Deborah Ross",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ross.house.gov/vendor/_accounts/deborahross/images/img-share-twitter.png",
+        "performance_score": 0,
+        "domain_rank": 448,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2059deae0ae46c38d975440bce8441584e87c019",
+    "url": "https://ross.house.gov/2025/1/congresswoman-ross-announces-more-than-13-million-for-the-wake-forest-mobility-hub",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Congresswoman Ross Announces More Than $13 Million for the Wake Forest Mobility Hub | Press Releases | Representative Deborah Ross",
+    "text": "Today, Congresswomen Deborah Ross (NC-02) announced $13.2 million in federal funding for the Wake Forest S-Line Mobility Hub (Mobility Hub) through a grant from the Department of Transportation (DOT).\nThe North Carolina Department of Transportation, in partnership with the Town of Wake Forest, will use the grant to construct a mobility hub to connect the community to various modes of transportation, including passenger rail, bus services, and pedestrian facilities. Once completed, the Mobility Hub will ensure easy connection for travelers using various modes of transportation, as well as improve safety for passengers transferring from one form of travel to another.\nIn December, Congresswoman Ross [led members of the North Carolina delegation](https://ross.house.gov/_cache/files/e/8/e8bb0f6a-a675-4db1-aa78-fdd792842970/DF0725A232C781DE3E23023FB58FC5A7.ncdot-wake-forest-s-line-mobility-hub-letter-dec.-2024-final.pdf) in supporting a DOT Rebuilding American Infrastructure with Sustainability and Equity (RAISE) Grant for the project.\n“As North Carolina continues to grow, our state needs a transportation system that meets the needs of every resident,” said Congresswoman Ross. “This mobility hub will help connect people in Wake County to jobs, opportunities, and services. I’m grateful to DOT for prioritizing this essential funding, and I’ll continue fighting for investments that modernize our public transit, create jobs, and propel local economic growth.”\nRepresentative Ross was joined by Senator Tillis (R-NC), Representatives Don Davis (NC-01), Valerie Foushee (NC-04), Richard Hudson (NC-09), and former Representative Wiley Nickel (NC-13) in supporting the grant.\nFull text of the letter is available [here](https://ross.house.gov/_cache/files/e/8/e8bb0f6a-a675-4db1-aa78-fdd792842970/DF0725A232C781DE3E23023FB58FC5A7.ncdot-wake-forest-s-line-mobility-hub-letter-dec.-2024-final.pdf).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->political process",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->transport",
+        "Social Issue->public housing",
+        "Social Issue->communities",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deborah Ross",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wake Forest Mobility Hub",
+                "sentiment": "negative"
+            },
+            {
+                "name": "North Carolina Department of Transportation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:07:48.325+02:00",
+    "updated": "2025-01-10T02:07:48.325+02:00"
+}

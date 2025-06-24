@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "e5cebb328020020a8f00c9c852f7c5744fe95220",
+        "url": "https://futures.webershandwick.com/2024/12/17/fraud-expert-claims-four-key-pillars-of-risk-threaten-consumer-and-merchant-circle-of-trust",
+        "site_full": "futures.webershandwick.com",
+        "site": "webershandwick.com",
+        "site_section": "https://futures.webershandwick.com/feed",
+        "site_categories": [],
+        "section_title": "FUTURES &#8211; ON AI",
+        "title": "Fraud Expert Claims Four Key Pillars of Risk Threaten Consumer and Merchant Circle of Trust",
+        "title_full": "Fraud Expert Claims Four Key Pillars of Risk Threaten Consumer and Merchant Circle of Trust",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 34486,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e5cebb328020020a8f00c9c852f7c5744fe95220",
+    "url": "https://futures.webershandwick.com/2024/12/17/fraud-expert-claims-four-key-pillars-of-risk-threaten-consumer-and-merchant-circle-of-trust",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "zapier",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "Fraud Expert Claims Four Key Pillars of Risk Threaten Consumer and Merchant Circle of Trust",
+    "text": "Trust is a balancing act as companies, banks and merchants collaborate to make everyday financial life and commerce a reality.\nFeaturespace Chief Operating Officer Tim Vanderham told PYMNTS in an interview that this balance revolves around one point.\n“When we think of this interconnected, interwoven circle of trust,” as transactions flow domestically or globally, “the consumer has to be put at the center,” he said.\nThe conversation was part of the “What’s Next in Payments” series on trust and payments — and how trust can cement the bonds between financial service firms and their customers.\nFour Threats\nPYMNTS defined four main threats to that trust: credit risk; payments risk; counterparty risk; and fraud/security risk. Beyond the consumer, the other stakeholders in a transaction include the financial institution serving as the counterparty (in, say, an account-to-account transaction) and the merchant or enterprise with whom the consumer is doing business.\n“Putting the consumer at the center means ensuring that you understand what the fraud vectors might be at each one of those touch points,” Vanderham said. “And it means looking to minimize the risk while optimizing the consumer experience,” with a frictionless flow of funds whether the situation is face-to-face or a card-not-present transaction.\nFraudsters are hardly sitting still, and they are poking and prodding at all these stakeholders to see where there may be weaknesses to be exploited, perhaps even posing as fraudulent merchants.\n“Half of households have been victim to scams through the past several years,” Vanderham said, adding that 30% of those victims have switched FIs in the wake of the scams, and half have considered switching, mainly because they expect fraud detection and monitoring technologies to be in place.\nUsing Behavioral Analytics\nFeaturespace developed an “out-of-the-box” solution powered by advanced technologies — including artificial intelligence and machine learning — to spot scams and to reduce incidences of burgeoning attack vectors such as check fraud, he said.\n“But the bad actors will go somewhere else,” Vanderham said. “As we shut down one door, they’ll go find a window. As you go through credit risk, payment risk and counterparty risk,” having the consumer at the middle means assessing everything from geography to industry in anticipation of what might be coming next.\nFeaturespace uses adaptive behavioral analytics to model behavior at an account level, which “keeps pace with fraud modality shifts,” he said.\nAsked by PYMNTS whether FIs must change their mindsets about embracing advanced technologies and using behavioral analytics to combat fraud, Vanderham said the technologies offer a 360-degree view of the customer — and by extension can use data to let more transactions through, a benefit that would not be in place with point solutions.\n“When you think about artificial intelligence and machine learning, and then leveraging a foundational model and gen AI capabilities over top of a foundational model, we’ve seen really good lift in fighting fraud,” he said.\nAs he told PYMNTS, it’s “really important for us as a fraud platform provider working with FIs to stay on the forefront of technology so that we can stay ahead of the fraudsters.”\nThe post Fraud Expert Claims Four Key Pillars of Risk Threaten Consumer and Merchant Circle of Trust appeared first on PYMNTS.com.\n{Categories} _Category: Implications{/Categories}\n{URL}https://www.pymnts.com/news/security-and-risk/2024/fraud-expert-claims-four-key-pillars-of-risk-threaten-consumer-and-merchant-circle-of-trust/{/URL}\n{Author}PYMNTS{/Author}\n{Image}{/Image}\n{Keywords}Security & Fraud,artificial intelligence,Banks,behavioral analytics,Featured News,Featurespace,fraud,GenAI,Innovation,News,PYMNTS News,pymnts tv,scams,Security,Technology,Tim Vanderham,video,WhatsNextInPaymentsSeries,What’s Next in Payments: The Payments Circle Of Risk 2024{/Keywords}\n{Source}Implications{/Source}\n{Thumb}{/Thumb}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:35:10.295+02:00",
+    "updated": "2024-12-17T15:35:10.295+02:00"
+}

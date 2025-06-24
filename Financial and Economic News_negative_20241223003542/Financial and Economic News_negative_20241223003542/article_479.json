@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "a8f2de17c41427496d4c9032ba5fee4667c162cc",
+        "url": "https://www.bnnbloomberg.ca:443/investing/2024/12/17/bofa-says-stocks-flash-sell-signal-after-cash-holdings-tumble",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://bnnbloomberg.ca/investing",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Investing Insights, Market Trends News and Analysis – BNN Bloomberg",
+        "title": "BofA Says Stocks Flash Sell Signal After Cash Holdings Tumble",
+        "title_full": "BofA Says Stocks Flash Sell Signal After Cash Holdings Tumble",
+        "published": "2024-12-17T12:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/XOVM6F7CXWD6XFIUQLLLQOVR7E.jpg?smart=true&amp;auth=f052dc658cd9245fd4227348855f8743a76871959f776384a0d1e7455a26ab61&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2772,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a8f2de17c41427496d4c9032ba5fee4667c162cc",
+    "url": "https://www.bnnbloomberg.ca:443/investing/2024/12/17/bofa-says-stocks-flash-sell-signal-after-cash-holdings-tumble",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sagarika Jaisinghani",
+    "published": "2024-12-17T12:38:00.000+02:00",
+    "title": "BofA Says Stocks Flash Sell Signal After Cash Holdings Tumble",
+    "text": "Fund managers have been reducing cash holdings to a record low and pouring money into US stocks, triggering a metric that Bank of America Corp. says could be a signal to sell global equities. Cash as a percentage of total assets under management dropped to 3.9% in December, a move that in the past has been followed by losses on the MSCI All-Country World Index, strategist Michael Hartnett said. Allocation to US equities surged to a record high of net 36% overweight, according to the BofA survey. Analysts have for months been attempting to pinpoint the end of the global stock rally that has been fueled by optimism around robust US economic growth, dovish central banks and wagers of a revival in the Chinese economy. Since 2011, every time the BofA sell signal was triggered, the MSCI All-Country World Index handed investors losses of 2.4% in the following month. Investors have piled into US stocks this year on bets that President-elect Donald Trump’s proposed America First policies would boost domestic corporate profits. Hartnett said fund managers were “positioned for a ‘US inflation boom’ next year on prospects of pro-growth policies.” Fund managers viewed a pickup in Chinese growth as the most bullish prospect in 2025, while a global trade war would be the most bearish catalyst, the survey showed. Below are some notable findings in the poll, which was conducted from Dec. 6 to Dec. 12, and canvassed 171 participants with $450 billion in assets: - Exposure to cash fell to net 14% underweight in December, a record low, from 4% overweight last month, the survey shows - A net 7% of respondents expect a stronger economy, compared with a net 4% predicting weaker growth last month - Global recession triggered by a trade war is considered the biggest tail risk, followed by inflation driving Federal Reserve interest rate hikes - Investors are the most overweight on the US relative to eurozone equities since June 2012 ©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Hartnett",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bank of America Corp.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a8f2de17c41427496d4c9032ba5fee4667c162cc",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:50:57.142+02:00",
+    "updated": "2024-12-17T13:50:57.142+02:00"
+}

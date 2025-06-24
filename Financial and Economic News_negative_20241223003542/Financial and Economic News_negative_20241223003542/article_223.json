@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "e256750277f8aa7f31052225bf5c563b9fa64e0e",
+        "url": "https://www.livemint.com/companies/news/rs-1-lakh-cr-of-aif-investments-structured-to-circumvent-financial-regulations-sebi-s-narayan-11734431343258.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://www.livemint.com/opinion/columns",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Mint Columns: Opinion & Expert Views from the Policy, Business & Finance.",
+        "title": "₹1 lakh cr of AIF investments structured to circumvent financial regulations: Sebi’s Narayan",
+        "title_full": "₹1 lakh cr of AIF investments structured to circumvent financial regulations: Sebi’s Narayan",
+        "published": "2024-12-17T09:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_4_1733465206851_1733465215415.png",
+        "performance_score": 0,
+        "domain_rank": 1324,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e256750277f8aa7f31052225bf5c563b9fa64e0e",
+    "url": "https://www.livemint.com/companies/news/rs-1-lakh-cr-of-aif-investments-structured-to-circumvent-financial-regulations-sebi-s-narayan-11734431343258.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "list.metadata.agency",
+    "published": "2024-12-17T09:59:00.000+02:00",
+    "title": "₹1 lakh cr of AIF investments structured to circumvent financial regulations: Sebi’s Narayan",
+    "text": "Mumbai, Dec 17 (PTI) About a fifth of all investments by AIFs has been structured to circumvent existing financial regulations like the ones on non-performing assets classification, Sebi’s whole-time member Ananth Narayan G said on Tuesday. In a consultation paper floated in January, Sebi had pegged the circumvention by the industry at ₹30,000 crore. The year also saw the Reserve Bank acting strongly against banks’ AIF investments by asking for higher provisioning on such bets because of such concerns. Addressing an event on Alternative Investment Funds (AIFs) organized by CII here, Narayan said the industry has been pressing for light-touch regulations, but made it clear that it is the structuring of the funds for circumventing existing laws which is a deterrent on the same. \\\"’...of the ₹4.5 lakh crore of investments (by AIFs), around ₹1 lakh crore...has been questionable in terms of the regulatory intent behind those investments,\\\" he said. \\\"More than 20 per cent of the drawdown is not a small number. And this is just what we’ve seen,\\\" the Sebi WTM added. The circumventions include NPA recognition norms prescribed by RBI, ones relating to bankruptcy laws and stressed asset resolutions, and even those under Foreign Exchange Management Act, he said. Sebi has been trying to act in a \\\"focused manner\\\" on this, Narayan said, adding that deploying the code of conduct on the industry wherein it lays down simple dos and donts, are among the efforts it has undertaken. He said the code of conduct laid down last year is working \\\"reasonably well\\\" and there is a case for offering more flexibility to the industry. Some of the regulatory restrictions put in place earlier because of fear of circumventions can now be relaxed, like tranching, where it has allowed it in case of government and multilateral agencies, he said. \\\"This can be even expanded further as long as we get collective comfort around checks and balances to ensure this is not being misused,\\\" he said, hinting that broadening the framework on share pledges beyond the infrastructure sector can also be in the offing. Sebi is aware that AIF is a goose laying golden eggs and while it does not intend to kill it through regulations, it also wants to ensure that this is sustainable. \\\"We can’t be greedy and try and produce more eggs than is sustainable. We don’t want to kill this goose which is laying golden eggs,\\\" he said. He asked the industry participants to adopt the concept of accredited investors, where an investor declares that he or she is aware of the risks that bets on AIFs entail, so that Sebi is able to offer them more room for flexibility. Narayan also wondered why all such investor-friendly requirements are coming from the AIF industry, and not from the investors themselves, and added that in the absence of that, Sebi cannot accede to the industry demands around dilution of investor norms which is the capital markets regulator’s core mandate. He said the accredited investor is also a global practice and asked for adoption of the model in India as well. On the issue of valuations, Narayan expressed concerns around potential conflict of interest and pitched for independent entities putting a value on the unlisted securities. He also said that registering the fund managers, rather than just the funds as is being followed right now, can be of help from an ease of doing business perspective and pointed to a nearly 45 per cent reduction in time taken for approvals in the case of foreign portfolio investor regulations through similar measures.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narayan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reserve Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e256750277f8aa7f31052225bf5c563b9fa64e0e",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:33:15.427+02:00",
+    "updated": "2024-12-17T12:33:15.427+02:00"
+}

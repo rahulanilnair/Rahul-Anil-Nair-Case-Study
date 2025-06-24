@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "d9c89506ae8807d38ab3e7cc6bad45e3e7caf59c",
+        "url": "https://www.newsbreak.com/wibc-1608515/3753166992024-winning-gary-lottery-ticket-is-worth-2-million",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wibc-1608515",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WIBC&#x27;s Home Page | NewsBreak",
+        "title": "Winning Gary Lottery Ticket Is Worth $2 Million - NewsBreak",
+        "title_full": "Winning Gary Lottery Ticket Is Worth $2 Million - NewsBreak",
+        "published": "2025-01-09T22:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/41Incc_0y1mX7NU00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d9c89506ae8807d38ab3e7cc6bad45e3e7caf59c",
+    "url": "https://www.newsbreak.com/wibc-1608515/3753166992024-winning-gary-lottery-ticket-is-worth-2-million",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sascha Nixon",
+    "published": "2025-01-09T22:56:00.000+02:00",
+    "title": "Winning Gary Lottery Ticket Is Worth $2 Million - NewsBreak",
+    "text": "By Sascha Nixon ,\n3 hours ago\nSource: Radio One Digital / Radio One Digital\nGARY, Ind. — The Hoosier Lottery says a ticket recently purchased in Gary, Indiana, is now worth $2 million!\nThis ticket matched all five balls – with a Power Play of 2X – Wednesday night. Winning numbers were 1, 20, 36, 38, and 43, with a Powerball of 24.\nSo, if you recently bought a lotto ticket at the Brady’s This Is It on West 25th Avenue, you may want to see if you are now a millionaire.\nLucky ticket holders can learn more by calling the Hoosier Lottery Customer Service line at 1-800-955-6886.\n5",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=41Incc_0y1mX7NU00",
+        "https://img.particlenews.com/image.php?url=1CEmG7_0y1mX7NU00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=41Incc_0y1mX7NU00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1CEmG7_0y1mX7NU00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1CEmG7_0y1mX7NU00",
+        "https://www.img.particlenews.com/image.php?url=1CEmG7_0y1mX7NU00",
+        "https://www.img.particlenews.com/image.php?url=41Incc_0y1mX7NU00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=41Incc_0y1mX7NU00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sascha Nixon",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Radio One Digital / Radio One Digital\nGARY",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Hoosier Lottery Customer Service",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:46:13.185+02:00",
+    "updated": "2025-01-10T02:21:38.045+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "d474d405f9ae41f07cb1a1a15f02c5ab96b73fbf",
+        "url": "https://time.news/the-rate-of-credit-card-delinquency-is-increasing",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://www.time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "title": "The rate of credit card delinquency is increasing",
+        "title_full": "The rate of credit card delinquency is increasing",
+        "published": "2024-12-17T14:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 74567,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d474d405f9ae41f07cb1a1a15f02c5ab96b73fbf",
+    "url": "https://time.news/the-rate-of-credit-card-delinquency-is-increasing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "time news",
+    "published": "2024-12-17T14:40:00.000+02:00",
+    "title": "The rate of credit card delinquency is increasing",
+    "text": "2024-12-17 05:22:00\nBy Luisa Garcia Pelatti\nThe bank delinquency rate in Puerto Rico remained at 1.73% in the third quarter, the lowest level since 2006, according to data from the Federal Deposit Insurance Corporation (FDIC). A year ago, the default rate was 2.10%. Delinquencies have been declining since the third quarter of 2020, after a slight recovery at the start of the pandemic. Defaults exceeded 10% between 2009 and 2012.\nDefaults, which decreased in most banking portfolios, increased, however, in credit card debt, which went from 1.68% in the third quarter of last year to 2.26% this year. The data shows consumers are struggling to pay off credit card debt as savings accumulated during the pandemic have been depleted and savings rates have fallen sharply. Over the past two years, credit card portfolio defaults have increased.\nThe total value of bad debts amounted to $462.5 million in the second quarter, slightly above the previous quarter’s figure.\nThe highest default rate is recorded in the mortgage portfolio, 2.82%, which however is the lowest since 2006. In the second quarter of last year, mortgage defaults amounted to 3.58%. In 2020 it had been above 10%.\nA loan is considered delinquent if there has been a failure to pay principal or interest for a period of more than 90 days.\nRelated\n#rate #credit #card #delinquency #increasing",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sincomillas.com/?attachment_id=140635",
+        "https://sincomillas.com/?attachment_id=140636",
+        "https://sincomillas.com/",
+        "https://www.sincomillas.com/?attachment_id=140636",
+        "https://www.sincomillas.com/?attachment_id=140635"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luisa Garcia Pelatti",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Deposit Insurance Corporation",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDIC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Puerto",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:49:50.291+02:00",
+    "updated": "2024-12-17T14:49:50.291+02:00"
+}

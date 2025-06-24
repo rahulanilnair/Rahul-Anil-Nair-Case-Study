@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "3de41ad4f7e367aaaa132b3ccda6b377d63f3112",
+        "url": "https://lethbridgenewsnow.com/2025/01/09/pay-raise-for-alberta-mlas",
+        "site_full": "lethbridgenewsnow.com",
+        "site": "lethbridgenewsnow.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Pay raise for Alberta MLAs",
+        "title_full": "Pay raise for Alberta MLAs",
+        "published": "2025-01-10T02:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://d2ksr9467jthww.cloudfront.net/20250110000116/60a243e7-1dab-43c4-ad04-99ec76250009.jpg",
+        "performance_score": 0,
+        "domain_rank": 119571,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3de41ad4f7e367aaaa132b3ccda6b377d63f3112",
+    "url": "https://lethbridgenewsnow.com/2025/01/09/pay-raise-for-alberta-mlas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sheldon Spackman",
+    "published": "2025-01-10T02:18:00.000+02:00",
+    "title": "Pay raise for Alberta MLAs",
+    "text": "Pay raise for Alberta MLAs\nEDMONTON Alberta United Conservative members of the legislature have voted to boost MLA salaries for the first time since 2013.\nChief government whip Shane Getson says the annual pay raise, which begins in April but is retroactive to the start of the year, is “reasonable.”\nIt is to line up with the province’s average public service rate increase, which, if calculated today, would mean a 2.5 per cent bump.\nThe current annual base salary for MLAs is almost $121,000, with added pay tied to extra responsibilities like cabinet positions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->local government and authority",
+        "Politics->government budget",
+        "Politics->government",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shane Getson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:48:47.508+02:00",
+    "updated": "2025-01-10T03:48:47.508+02:00"
+}

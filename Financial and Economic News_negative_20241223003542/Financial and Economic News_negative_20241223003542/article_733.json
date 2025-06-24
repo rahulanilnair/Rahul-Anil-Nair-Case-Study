@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "666778d4cf17cb59cc63f8d520ba1272d4bff6c0",
+        "url": "https://www.barrons.com/news/dr-congo-sues-apple-over-alleged-illegal-mineral-exploitation-3bc703e0?refsec=topics_afp-news",
+        "site_full": "www.barrons.com",
+        "site": "barrons.com",
+        "site_section": "https://www.barrons.com/news",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "AFP (Agence France-Press) | Barron's",
+        "title": "DR Congo Sues Apple Over Alleged Illegal Mineral Exploitation | Barron's",
+        "title_full": "DR Congo Sues Apple Over Alleged Illegal Mineral Exploitation | Barron's",
+        "published": "2024-12-17T15:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 1324,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "666778d4cf17cb59cc63f8d520ba1272d4bff6c0",
+    "url": "https://www.barrons.com/news/dr-congo-sues-apple-over-alleged-illegal-mineral-exploitation-3bc703e0?refsec=topics_afp-news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guillaume DAUDIN",
+    "published": "2024-12-17T15:01:00.000+02:00",
+    "title": "DR Congo Sues Apple Over Alleged Illegal Mineral Exploitation | Barron's",
+    "text": "Text size DR Congo on Tuesday filed a criminal case against European subsidiaries of tech giant Apple, accusing them of illegally using \"blood minerals\" in its supply chain.\nThe Democratic Republic of the Congo alleges that Apple has bought contraband supplies from the country's conflict-racked east and Rwanda, zones in which the materials are alleged to be mined illegally and then integrated into global supply chains before ending up in tech devices.\nApple's French and Belgian units also deployed deceptive commercial practices to persuade consumers that its supply chains were clean, according to a statement from lawyers representing the DRC.\nAFP has learned that complaints against Apple have been lodged in Paris and Brussels with the allegations encompassing war crimes, laundering, forgery and deception.\nLast April, the legal team asked Apple CEO Tim Cook, along with Apple subsidiaries in France, about the potential inclusion of pillaged minerals in the company’s supply chain but did not receive substantive responses.\nThe DRC's Washington-based lawyer Robert Amsterdam described the case as constituting a \"first salvo\" of judicial actions.\n\"Color Apple red, and not green. It is a trillion-dollar company that must be assumed to know the consequences of its actions. Enough with denials of accountability and hiding behind the false narrative of supply chain defenses!\", he said.\nParis-based lawyer William Bourdon said the criminal complaints constitute \"a first step towards making one of the biggest players in tech accountable for its policy of endless enrichment at the cost of the most serious of crimes staining African supply chains.\"\nBrussels lawyer Christophe Marchand added that \"these complaints filed against Apple are a matter of great public interest at a time when European countries, consumers and non-governmental organizations are increasing their scrutiny of international supply chains.\"\nComputer chips and tech devices require a wide array of minerals and specialty metals.\nThe lawyers said that the scale and duration of the alleged activities have caused \"unfathomable harm and suffering\" for civilians, fuelling violence and conflict by financing militias and terrorist groups and contributing to forced child labour and environmental devastation.\nThey also cited investigations by the United Nations, the US State Department and international NGOs such as Global Witness to document the scale of the problem.\nThe lawyers said they have written to European Commission President Ursula von der Leyen to inform her of the criminal complaints and to request a dialogue on the EU’s role in working towards accountability and an end to armed violence in sub-Saharan Africa’s mineral supply chains.\nApple last year said it had \"no reasonable basis for concluding\" its products contain illegally exported minerals from conflict-hit zones. The tech giant has insisted it carefully verifies the origin of materials in its output.\nRwanda has also dismissed the allegations as unfounded.\n\"This is just the latest blow by the DRC government, which is constantly seeking to divert attention to Rwanda with false accusations,\" Rwandan government spokeswoman Yolande Makolo told AFP.\nDR Congo's mineral-rich east has been racked by violence since the 1990s, with tensions worsening since a renewed offensive in late 2021 of Rwandan-backed M23 rebels in the DRC province of North Kivu.\nKinshasa has accused Rwanda of using M23 to take control of resource-rich eastern DRC.\ngd/mat/lrb/cw",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "666778d4cf17cb59cc63f8d520ba1272d4bff6c0",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:10:35.159+02:00",
+    "updated": "2024-12-17T15:10:35.159+02:00"
+}

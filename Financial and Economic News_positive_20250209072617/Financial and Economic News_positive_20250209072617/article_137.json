@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "239e607ac2025c37e7d6eb138fbd9ee397967755",
+        "url": "https://www.newsbreak.com/newsweek-500152/3753224410921-why-irs-will-owe-some-americans-extra-money-on-top-of-tax-refund",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/newsweek-500152",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "title": "Why IRS Will Owe Some Americans Extra Money on Top of Tax Refund - NewsBreak",
+        "title_full": "Why IRS Will Owe Some Americans Extra Money on Top of Tax Refund - NewsBreak",
+        "published": "2025-01-09T23:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4LVVND_0y1qAlDY00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "239e607ac2025c37e7d6eb138fbd9ee397967755",
+    "url": "https://www.newsbreak.com/newsweek-500152/3753224410921-why-irs-will-owe-some-americans-extra-money-on-top-of-tax-refund",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T23:38:00.000+02:00",
+    "title": "Why IRS Will Owe Some Americans Extra Money on Top of Tax Refund - NewsBreak",
+    "text": "By Claire Dickey ,\n1 hours ago Return processing delays can be frustrating for taxpayers, but it means the IRS may owe people extra money. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:09:43.423+02:00",
+    "updated": "2025-01-10T01:09:43.423+02:00"
+}

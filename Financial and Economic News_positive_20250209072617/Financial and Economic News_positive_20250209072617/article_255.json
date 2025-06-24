@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "4077eaf32f827bf7c9bcd56188f8c42c9931f090",
+        "url": "https://indonesia.shafaqna.com/EN/AL/7342036",
+        "site_full": "indonesia.shafaqna.com",
+        "site": "shafaqna.com",
+        "site_section": "http://indonesia.shafaqna.com/rss.xml",
+        "site_categories": [
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Indonesia Berita (News reader) | ",
+        "title": "Digital media VAT seen raising over P102 billion",
+        "title_full": "Digital media VAT seen raising over P102 billion",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "ID",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 30276,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4077eaf32f827bf7c9bcd56188f8c42c9931f090",
+    "url": "https://indonesia.shafaqna.com/EN/AL/7342036",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Digital media VAT seen raising over P102 billion",
+    "text": "bworldonline.com - 11 hours ago Digital media VAT seen raising over P102 billion THE value-added tax (VAT) on digital media and advertising is projected to bring the government P102.12 billion in revenue by 2029, a Department of Finance (DoF) official said. “We hope that… a lot of the DSPs (Digital Service Providers) will comply, so that we really reap the benefits of this measure,” DoF director and Organization [ ]\nRead on the original site",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://bworldonline.com/economy/2025/01/09/645846/digital-media-vat-seen-raising-over-p102-billion/",
+        "https://www.bworldonline.com/economy/2025/01/09/645846/digital-media-vat-seen-raising-over-p102-billion/",
+        "https://bworldonline.com/economy/2025/01/09/645846/digital-media-vat-seen-raising-over-p102-billion"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Digital Service Providers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Finance",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:15:25.266+02:00",
+    "updated": "2025-01-10T02:15:25.266+02:00"
+}

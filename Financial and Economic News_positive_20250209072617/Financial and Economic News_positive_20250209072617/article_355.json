@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "5c51656270f708753662b3d7d902cf3613846645",
+        "url": "https://www.deadlinenews.co.uk/2025/01/09/edinburgh-set-to-introduce-tourist-tax-with-move-the-first-of-its-kind-in-scotland",
+        "site_full": "www.deadlinenews.co.uk",
+        "site": "deadlinenews.co.uk",
+        "site_section": "https://www.deadlinenews.co.uk",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Deadline News, Scotland&#039;s leading press and picture agency",
+        "title": "Edinburgh set to introduce tourist tax with move the first of its kind in Scotland",
+        "title_full": "Edinburgh set to introduce tourist tax with move the first of its kind in Scotland",
+        "published": "2025-01-09T16:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 43632,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c51656270f708753662b3d7d902cf3613846645",
+    "url": "https://www.deadlinenews.co.uk/2025/01/09/edinburgh-set-to-introduce-tourist-tax-with-move-the-first-of-its-kind-in-scotland",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alekia Gill",
+    "published": "2025-01-09T16:36:00.000+02:00",
+    "title": "Edinburgh set to introduce tourist tax with move the first of its kind in Scotland",
+    "text": "THE City of Edinburgh Council has announced plans to declare a visitor levy on the city, which will be the very first in Scotland.\nThe tax, which will be set at 5% of the cost of accommodation, will potentially take effect from 24 July 2026.\nOffer proposals on the levy will be considered by councillors later this week and will include a five-night cap and a transition period of four months.\nResponses to the tax have been varied, with some saying tourists are likely to be put off since the price of visiting Edinburgh is already reaching sky-high limits .\nPhoto by Adam Wilson on Unsplash This levy is similar to those seen in cities such as Amsterdam, Barcelona, Paris, and Rome, and is proposed to improve facilities largely used by visitors, such as cultural events, festivals, and the promotion of the city.\nThe City of Edinburgh Council states that the Visitor Levy for Edinburgh scheme will “enhance and improve the city of Edinburgh”.\n£50m is projected to be generated annually which would go towards projects that boost tourism and benefit both visitors and locals.\nLast year, the Scottish Tourism Alliance stated that business owners are placed under pressure to enforce the levy, and a council report states that 51% of businesses believed that a 5% charge was too high, or that there shouldn’t be a tax at all.\nAdditionally, a 2019 YouGov survey about previous proposals for a £2 nightly levy reveals that only 26% of the public supported the potential scheme.\nAfter a 12-week public consultation, the council made slight adjustments to offer recommendations, such as including temporary campsites and parks in the levy, and giving admin support to accommodation providers, but for the cost of 2% of their visitor levy income.\nCouncil leade r Jane Meagher said: “This is the moment we have been working towards – a once in a lifetime opportunity to sustain and enhance Edinburgh’s position as one of the most beautiful, enjoyable destinations in the world.\n“With income of up to £50m expected once it is established, the funding could provide Edinburgh with the single biggest injection of new funding this side of the millennium, providing a unique opportunity to further improve and protect all that makes Edinburgh the incredible destination it is today.\n“We’ll be able to use funds to help us manage tourism sustainably and boost projects which benefit the experience of visitors and residents.\n“I’m looking forward to working with councillors to agree the scheme this month, which will allow further work to be carried out on the details of Edinburgh’s new levy.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.edinburgh.gov.uk/",
+        "https://yougov.co.uk/",
+        "https://edinburgh.gov.uk/",
+        "https://yougov.co.uk",
+        "https://www.edinburgh.gov.uk",
+        "https://www.yougov.co.uk/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adam Wilson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Edinburgh Council",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:21:37.122+02:00",
+    "updated": "2025-01-10T03:21:37.122+02:00"
+}

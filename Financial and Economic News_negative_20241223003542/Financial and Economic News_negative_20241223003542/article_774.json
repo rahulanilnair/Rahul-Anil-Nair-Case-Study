@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "9eeba64baaea680d30f9eb507110f20f57dbe41f",
+        "url": "https://www.freshplaza.com/latin-america/article/9688811/popular-citrus-fruits-are-getting-more-expensive-in-ukraine",
+        "site_full": "www.freshplaza.com",
+        "site": "freshplaza.com",
+        "site_section": "https://www.freshplaza.com/latin-america",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FreshPlaza: Global Fresh Produce and Banana News",
+        "title": "Popular citrus fruits are getting more expensive in Ukraine",
+        "title_full": "Popular citrus fruits are getting more expensive in Ukraine",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Various/FruitVarious_FP_img_0290.jpg?preset=OgImage",
+        "performance_score": 0,
+        "domain_rank": 19789,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9eeba64baaea680d30f9eb507110f20f57dbe41f",
+    "url": "https://www.freshplaza.com/latin-america/article/9688811/popular-citrus-fruits-are-getting-more-expensive-in-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Popular citrus fruits are getting more expensive in Ukraine",
+    "text": "Prices for oranges in Ukraine have risen by 15-20% compared to last year, now ranging from €1.8 to €2.7 per kilogram. Mandarins are priced between €2 and €2.7 per kilogram, while clementines, a hybrid of oranges and mandarins, cost 1.13-1.36 euros per kilogram.\nCitrus fruits in Ukraine are primarily imported from Egypt, Turkey, Spain, South Africa, and Greece. Egypt, a leader in citrus production and exports, has recently started its season of shipments. Turkey is also an important supplier, although it cannot meet the full demand for citrus fruits in Europe. Additionally, the decline in citrus exports from Argentina, caused by export issues, is impacting the overall market.\nClimate changes have affected citrus harvests in some producing countries. However, the situation in Egypt remains stable. In Argentina, citrus exports have reached their lowest level in 10 years, with 12% of lemon imports coming from Argentina. Despite this, competition among main exporters prevents significant price hikes for lemons.\nThe rising cost of citrus fruits is also linked to increased logistics expenses, especially due to higher fuel prices and energy supply issues in Ukraine.\nAs for persimmons, they are imported to Ukraine from Turkey, Spain, and Israel.\n\"Although there are persimmon orchards in Ukraine, particularly in Zakarpattia, they cannot meet domestic demand, but the trees are growing and producing fruit. Unfortunately, this year, persimmons are 20-30% more expensive due to poor harvests in producing countries,\" Maksym Hopka, an analyst at the Ukrainian Agribusiness Club concluded.\nSource: [ukr.radio](https://ukr.radio/news.html?newsID=106077)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ukr.radio/news.html?newsID=106077",
+        "https://www.ukr.radio/news.html?newsID=106077",
+        "https://ukr.radio/news.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:22:19.120+02:00",
+    "updated": "2024-12-17T15:22:19.120+02:00"
+}

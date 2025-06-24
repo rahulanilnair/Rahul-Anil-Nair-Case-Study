@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 65
+============================================================
+Timestamp: 2025-06-23 08:42:54
+Headline Summary: Apellis downgraded at Goldman Sachs, here
+Key Highlights: Analysts from several banks downgraded Apellis amid concerns over declining sales and increasing competition.
+Final Sentiment: Negative
+Confidence: 80%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: While the current analysis indicates a negative sentiment, I disagree as it underestimates the significance of growing competition in the market. Additionally, declining sales should not be solely viewed as a reason for downgrading, but rather as an opportunity for Apellis to reassess and adapt its strategies. Further review is needed. growth_analyst: My assessment is that the negative sentiment surrounding Apellis outweighs the positives due to declining sales and increased competition. The current confidence level of 80% seems conservative in light of multiple analyst downgrades. sentiment_analyst: I disagree with the current negative sentiment and confidence level as there are other analyst comments that indicate a positive outlook on Apellis sales growth. While competition is increasing, some analysts see an opportunity for Apellis to improve its market share. Furthermore, the downgrade by Citi and JPMorgan could be seen as a vote of confidence in the company
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Negative sentiment.
+============================================================

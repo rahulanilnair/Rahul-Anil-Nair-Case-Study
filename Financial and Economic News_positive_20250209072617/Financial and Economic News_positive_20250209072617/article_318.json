@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "e5fe2f265eb1a614b9963c781ab21d35fde03368",
+        "url": "https://www.binance.com/en/square/post/01-09-2025-block-poised-to-join-s-p-500-as-first-bitcoin-holding-company-18726100727082",
+        "site_full": "www.binance.com",
+        "site": "binance.com",
+        "site_section": "https://www.binance.com/en/square/news",
+        "site_categories": [
+            "tech",
+            "finance",
+            "email"
+        ],
+        "section_title": "Top Cryptocurrency News Today | Binance Square",
+        "title": "Block Poised to Join S&P 500 as First Bitcoin-Holding Company",
+        "title_full": "Block Poised to Join S&P 500 as First Bitcoin-Holding Company",
+        "published": "2025-01-10T01:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AR",
+        "main_image": "https://public.bnbstatic.com/images/common/feed-og-image-2.png",
+        "performance_score": 0,
+        "domain_rank": 815,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e5fe2f265eb1a614b9963c781ab21d35fde03368",
+    "url": "https://www.binance.com/en/square/post/01-09-2025-block-poised-to-join-s-p-500-as-first-bitcoin-holding-company-18726100727082",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Binance News",
+    "published": "2025-01-10T01:33:00.000+02:00",
+    "title": "Block Poised to Join S&P 500 as First Bitcoin-Holding Company",
+    "text": "According to PANews, Matthew Sigel, Head of Digital Asset Research at VanEck, stated on the X platform that fintech company Block is likely to become the first company in the S&P 500 to hold\n[Bitcoin](/trade/BTC_USDT?contentId=18726100727082). To be included in the index, a company must meet six major criteria: a market capitalization exceeding $18 billion, a public float of more than 10%, positive earnings in the most recent quarter and a cumulative positive GAAP earnings over the last four quarters, high liquidity, a listing duration of at least 12 months, and a U.S.-based headquarters.\nBlock met the final criterion of earnings after releasing its first-quarter 2024 financial report. However, inclusion in the S&P 500 is not strictly formulaic and is ultimately decided by the index committee. Historically, companies meeting all requirements have been included within 3 to 21 months, with LULU being an exception, taking 65 months.\nIndustry diversification is one of the factors considered by the index committee, aiming to maintain an industry composition broadly consistent with the economic landscape. Although the term \"consistent with the industry economy\" is not explicitly defined, the S&P Total Market Index can serve as a reference: the financial sector currently represents 13.9% of the S&P 500, compared to 14.6% in the broader index, indicating potential room for growth in the financial sector.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->scientific research",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Sigel",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Digital Asset Research",
+                "sentiment": "negative"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "negative"
+            },
+            {
+                "name": "LULU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:52:01.821+02:00",
+    "updated": "2025-01-10T02:52:01.821+02:00"
+}

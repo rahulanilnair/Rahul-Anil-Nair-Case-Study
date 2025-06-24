@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "503dc5704db20956b3ef3a25e3fd457d90175e6e",
+        "url": "https://www.dailyitem.com/wire/massachusetts-budget-writers-expect-to-collect-2-4-billion-from-millionaires-tax-in-fy26/article_fc5396be-abcd-536b-876a-bbb4909d2982.html",
+        "site_full": "www.dailyitem.com",
+        "site": "dailyitem.com",
+        "site_section": "http://www.dailyitem.com/search/?f=rss&amp;t=article&amp;c=podcasts&amp;l=50&amp;s=start_time&amp;sd=desc",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "www.dailyitem.com - RSS Results",
+        "title": "Massachusetts budget writers expect to collect $2.4 billion from 'Millionaires tax' in FY26",
+        "title_full": "Massachusetts budget writers expect to collect $2.4 billion from 'Millionaires tax' in FY26",
+        "published": "2025-01-09T23:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 21076,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "503dc5704db20956b3ef3a25e3fd457d90175e6e",
+    "url": "https://www.dailyitem.com/wire/massachusetts-budget-writers-expect-to-collect-2-4-billion-from-millionaires-tax-in-fy26/article_fc5396be-abcd-536b-876a-bbb4909d2982.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Van Buskirk - Boston Herald (TNS)",
+    "published": "2025-01-09T23:02:00.000+02:00",
+    "title": "Massachusetts budget writers expect to collect $2.4 billion from 'Millionaires tax' in FY26",
+    "text": "BOSTON — State budget writers in Massachusetts expect to collect $2.4 billion in revenue from a surtax on incomes over $1 million dubbed the “Fair Share Amendment” in fiscal year 2026, a massive haul that can be tapped to fund transportation and education initiatives.\nLegislative leaders and Healey’s top budget writer agreed to cap surtax spending in fiscal year 2026 at $1.95 billion, or about $650 million more than was available for the budget for the current fiscal year. Collections from the so-called millionaire’s tax above that amount would be placed in a reserve account.\nNext year’s projected intake is also slightly larger than the $2.2 billion the 4% surtax generated in fiscal year 2024, according to the Healey administration.\n“The increase in available resources from surtax is also critically important, aligning our estimates with the strong performance we saw in FY24 in surtax and making it possible to continue to use this resource for transformative investment in our education and transportation systems,” Administration and Finance Secretary Matthew Gorzkowicz said in a statement Thursday.\nGorzkowciz and top Democrats in the House and Senate expect an overall budget growth of 2.2% from fiscal year 2025 to 2026 and said the state is projected to bring in more than $41 billion in total tax revenues.\nHouse budget writer Rep. Aaron Michlewitz said the agreed-upon revenue estimate will allow officials to “collectively construct a reasonable and suitable budget for the upcoming fiscal year.”\n“By being ever watchful of the commonwealth’s finances and basing the budget on a judicious consensus revenue figure, we will be able to make fiscally sound decisions over the next few months as we work to make the critical investments that our constituents deserve,” the North End Democrat said.\nIn fiscal year 2025, budget writers agreed to spend only $1.3 billion in surtax revenue, with the rest shuttled to a reserve fund for future use. Elected officials approved $726 million in spending for education proposals and $537 million for transportation projects.\nHealey is expected to tease out details of her fiscal year 2026 budget proposal — which will include ideas for using the surtax revenue — at her second State of the Commonwealth address next week. The budget must be filed by Jan. 22 under the state’s constitution.\n----",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Gorzkowicz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Healey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "503dc5704db20956b3ef3a25e3fd457d90175e6e",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:11:48.918+02:00",
+    "updated": "2025-01-10T00:11:48.918+02:00"
+}

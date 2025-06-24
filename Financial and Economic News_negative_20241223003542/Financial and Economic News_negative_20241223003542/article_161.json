@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "2066b7263bb7db6bc78618578d77106e1e4ccd11",
+        "url": "https://www.barrons.com/news/german-business-morale-slips-to-lowest-point-in-over-four-years-2610ba63?refsec=topics_afp-news",
+        "site_full": "www.barrons.com",
+        "site": "barrons.com",
+        "site_section": "https://www.barrons.com/news",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "AFP (Agence France-Press) | Barron's",
+        "title": "German Business Morale Slips To Lowest Point In Over Four Years | Barron's",
+        "title_full": "German Business Morale Slips To Lowest Point In Over Four Years | Barron's",
+        "published": "2024-12-17T12:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 1319,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2066b7263bb7db6bc78618578d77106e1e4ccd11",
+    "url": "https://www.barrons.com/news/german-business-morale-slips-to-lowest-point-in-over-four-years-2610ba63?refsec=topics_afp-news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP - Agence France Presse",
+    "published": "2024-12-17T12:04:00.000+02:00",
+    "title": "German Business Morale Slips To Lowest Point In Over Four Years | Barron's",
+    "text": "FROM AFP NEWS German Business Morale Slips To Lowest Point In Over Four Years By AFP - Agence France Presse December 17, 2024 Order Reprints Print Article Text size ADDS ZEW investor morale indicator\nGerman business confidence fell in December, a closely watched survey showed Tuesday, reaching its lowest level since the start of the coronavirus pandemic.\nThe Ifo institute's confidence barometer, based on a survey of around 9,000 companies, declined to 84.7 points from 85.6 points in November.\nThe indicator was at its lowest level since May 2020, when Europe was reeling from the impact of pandemic shutdowns.\n\"The weakness of the German economy has become chronic,\" Ifo president Clemens Fuest said in a statement.\nOverall, companies in Germany assessed the current situation as better, but were more pessimistic about the outlook for Europe's largest economy.\nSentiment in the key manufacturing sector pursued its downward trend. Businesses were \"less satisfied\" with current conditions and \"significantly gloomier\" about the future.\nOrder intake had faltered and production cutbacks had been announced, the Ifo said.\nIn the service sector and in trade the mood also became darker. Only in construction did businesses' overall confidence improve, according to the survey.\nWith industry struggling, Germany is sliding towards a second straight year in recession, according to government forecasts.\nManufacturers \"lack a light at the end of the tunnel, which is why the years-long downward trend in production is now increasingly leading to job cuts\", said Philipp Scheuermeyer, analyst at the public lender KfW.\n\"Germany is again the sick man of Europe,\" while the Ifo reading indicated \"rough times ahead\", ING bank analyst Carsten Brzeski said.\n\"The country is stuck between cyclical and structural headwinds and is struggling to agree on a way out\" after the collapse of the government last month, Brzeski said.\nThe return to office in the United States of Donald Trump, who has threatened to increase tariffs on imports, and political turmoil in neighbouring France, had added to Germany's list of woes, Brzeski said.\n\"Any US tariffs would hit an already suffering sector,\" he added.\nSweeping cuts to red tape and corporate taxes by a new Republican administration in Washington would have an \"even more important\" impact on Germany's relative competitiveness, he said.\nHope lay in a \"more modest\" tariff policy in the US and greater political clarity following Germany's anticipated election on February 23, he said.\n\"The more optimistic scenario includes a new government that agrees on structural reforms, investments and looser fiscal policy,\" Brzeski said.\nThe prospect of a more business-friendly government after the elections boosted German investor morale, according to a key survey also published Tuesday.\nThe ZEW institute's closely watched economic expectations index increased to 15.7 points in December, up 8.3 points.\nThe prospect of further interest rate cuts by the European Central Bank in the new year, after a significant reduction in borrowing costs over recent months, also buoyed the indicator, ZEW president Achim Wambach said.\nsea/sr/cw\nThe Barron's news department was not involved in the creation of the content above. This article was produced by AFP. For more information go to AFP.com .\n© Agence France-Presse READ MORE FROM BARRON’S Pfizer Stock Rises as Drug Giant Sees 2025 Revenue of $61 Billion to $64 Billion Affirm Stock Is Falling. Here’s Why. EVgo Stock Is Tanking. An Early Investor Is Selling Shares.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clemens Fuest",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2066b7263bb7db6bc78618578d77106e1e4ccd11",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:12:58.109+02:00",
+    "updated": "2024-12-17T15:52:26.254+02:00"
+}

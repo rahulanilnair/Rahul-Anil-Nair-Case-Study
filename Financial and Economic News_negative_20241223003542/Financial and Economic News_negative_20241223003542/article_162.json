@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ac8c9f2f6086ef1cb41e04cffa9bc098734db35c",
+        "url": "https://www.business-money.com/announcements/festive-cheer-in-short-supply-as-company-insolvencies-jump-13-month-on-month",
+        "site_full": "www.business-money.com",
+        "site": "business-money.com",
+        "site_section": "https://www.business-money.com",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Business Finance &amp; Banking News | Business Money Magazine",
+        "title": "Festive cheer in short supply as company insolvencies jump 13% month-on-month",
+        "title_full": "Festive cheer in short supply as company insolvencies jump 13% month-on-month",
+        "published": "2024-12-17T12:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 132501,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac8c9f2f6086ef1cb41e04cffa9bc098734db35c",
+    "url": "https://www.business-money.com/announcements/festive-cheer-in-short-supply-as-company-insolvencies-jump-13-month-on-month",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iris",
+    "published": "2024-12-17T12:04:00.000+02:00",
+    "title": "Festive cheer in short supply as company insolvencies jump 13% month-on-month",
+    "text": "New data published today by the Insolvency Service shows the number of registered company insolvencies in November 2024 was 1,966. This was 13% higher than in October 2024 (1,743) but 12% lower than the same month in the previous year (2,243 in November 2023).\nMark Ford, partner in the Restructuring & Recovery team at professional services firm Evelyn Partners comments: “Today’s gloomy update on company insolvencies underlines the difficult tightrope that many businesses currently need to navigate. Coming hot on the heels of the news on Friday that the economy had shrunk in October for the second month in a row and wider concerns about the government’s plan for growth, festive cheer is in short supply for many businesses at the moment.\n“Unfortunately, as we head into 2025 businesses are unlikely to see the challenging trading conditions easing anytime soon. The new year sees the significant tax hikes announced by the Chancellor in the last Budget come into effect which will leave many firms in a perilous position. Business leaders from multiple industries have been vocal about the need to consider increasing prices or cutting jobs to remain competitive given upcoming increases to employer National Insurance contributions and the minimum wage.\n“Those operating in labour-intensive sectors, such as hospitality and retail, will be most impacted by the tax hikes. Businesses in these industries will be hoping for a good final week of trading before Christmas to put them in a good stead for the typically challenging start to a new year.\n“Even before the Budget tax hikes were announced, some businesses were already under significant strain and saddled with debt following a long period of high borrowing costs, high inflation and low consumer confidence. For some businesses it is only a matter of time before they run out of cash and cease trading. In this difficult business environment it has never been more important for business owners to regularly challenge their business plans, be ready to take difficult decisions and ensure the effective management of cash.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gov.uk/government/statistics/company-insolvencies-november-2024/commentary-company-insolvency-statistics-november-2024",
+        "https://gov.uk/government/statistics/company-insolvencies-november-2024/commentary-company-insolvency-statistics-november-2024"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Ford",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Insolvency Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "Evelyn Partners",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:12:59.111+02:00",
+    "updated": "2024-12-17T12:12:59.111+02:00"
+}

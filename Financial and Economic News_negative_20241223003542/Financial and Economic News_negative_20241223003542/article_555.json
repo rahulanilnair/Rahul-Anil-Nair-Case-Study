@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "592da3026c5cce370f71d3b23b5b635e28a80034",
+        "url": "https://iclg.com/news/22065-meta-agrees-to-aud-50-million-settlement-following-cambridge-analytica-scandal",
+        "site_full": "iclg.com",
+        "site": "iclg.com",
+        "site_section": "https://iclg.com/briefing",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "ICLG | Latest Briefings | ICLG",
+        "title": "Meta agrees to AUD 50 million settlement following Cambridge Analytica scandal",
+        "title_full": "Meta agrees to AUD 50 million settlement following Cambridge Analytica scandal",
+        "published": "2024-12-16T21:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://iclg.com/uploads/pages/images/meta-agrees-to-aud-50-million-settlement-following-cambridge-analytica-scandal_0_Mv3WOM4LW9he7rxsyJNq4Ek2TawaCpg9BxIV2pYC.jpg",
+        "performance_score": 0,
+        "domain_rank": 21479,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "592da3026c5cce370f71d3b23b5b635e28a80034",
+    "url": "https://iclg.com/news/22065-meta-agrees-to-aud-50-million-settlement-following-cambridge-analytica-scandal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ICLG_GLG",
+    "published": "2024-12-16T21:00:00.000+02:00",
+    "title": "Meta agrees to AUD 50 million settlement following Cambridge Analytica scandal",
+    "text": "Meta agrees to AUD 50 million settlement following Cambridge Analytica scandal\nRecord-breaking sum will compensate more than 300,000 Australian users of the social-media platform.\nFacebook parent Meta Platforms has this morning (17 December) agreed to an AUD 50 million (GPB 26 million) settlement with the Office of the Australian Information Commissioner (OAIC) to resolve the misuse of Australian Facebook users' data in connection with the Cambridge Analytica scandal, which breached the Competition and Consumer Act 2010 and the Privacy Act 1988.\nThe agreement brings the curtain down on proceedings initiated by the OAIC in March 2020 and represents a critical milestone in [data privacy](https://iclg.com/practice-areas/data-protection-laws-and-regulations) enforcement in Australia. The case centred on allegations that the personal information of more than Australian Facebook users was improperly disclosed to the ‘This is Your Digital Life’ app between November 2013 and December 2015, with the app's access to user data putting personal information at risk of being shared with third parties.\nMost notably, data was shared with now-defunct UK political consulting firm Cambridge Analytica, which was allegedly used to influence political campaigns, including the 2016 US presidential election and the UK Brexit referendum. Public backlash over the revelations led to Cambridge Analytica’s closure in 2018, and the incident has now become a commonplace point of reference in debates over data privacy and corporate accountability. In 2019 [a USD 5 billion settlement](https://www.cdr-news.com/categories/competition-business-crime/9916-ftc-lays-down-the-law-for-facebook/) was agreed between Facebook and the US Federal Trade Commission.\nLARGEST PRIVACY SETTLEMENT IN AUSTRALIA\nAustralian Information Commissioner Elizabeth Tydd hailed the settlement as a major victory. “Today’s settlement represents the largest ever payment dedicated to addressing concerns about the privacy of individuals in Australia,” she said in a statement. “It represents a substantive resolution of privacy concerns raised by the Cambridge Analytica matter, gives potentially affected Australians an opportunity to seek redress through Meta’s payment programme, and brings to an end a lengthy court process.”\nThis outcome follows a court-ordered mediation process that began in February 2024 and ran concurrently with Federal Court proceedings. As part of the enforceable undertaking (EU), Meta has agreed to establish a payment scheme for affected users, overseen by an independent third-party administrator, to be appointed in early 2025. Applications for the payouts are expected to open in the second quarter of the year for users who held an account between 2 November 2013 and 17 December 2015, were present in Australia for more than 30 days during that period and who either installed the ‘This is Your Digital Life’ app or were Facebook friends with someone who did.\nTHE LEGAL IMPLICATIONS\nThe settlement marks a shift in how privacy violations are addressed in Australia. Since the OAIC launched its action in 2020, penalties for serious or repeated privacy violations under the Privacy Act 1988 have increased substantially, with the maximum penalties now including fines of up to AUD 50 million, three times the value of any benefit obtained through misuse of information, or 30% of a company’s adjusted turnover during the relevant period, whichever is greater. Previously, the maximum fine available to regulators was just AUD 1.7 million (GBP 850,000)\nCommissioner Tydd continued: “The payment scheme is a significant amount that demonstrates that all entities operating in Australia must be transparent and accountable in the way they handle personal information. Australians need assurance that whenever they provide their personal information to an organisation, they are protected by the Privacy Act wherever that information goes.”\nA Meta spokesperson described the settlement as a pragmatic resolution to a protracted legal dispute. “We settled on a no admissions basis, as it is in the best interest of our community and shareholders that we close this chapter on allegations that relate to past practices no longer relevant to how Meta's products or systems work today,” the spokesperson said.\nTHE PARTIES\nIn the various court proceedings in Australian Information Commissioner v Facebook preceding this morning’s settlement, the Commissioner was represented by Ruth Higgins SC of Banco Chambers, Thomas Prince of New Chambers and Emma Bathurst of 5th Floor St James’ Hall, instructed by the Australian Government Solicitor.\nFacebook was represented by Noel Hutley of 5th Floor St James’ Hall and Sebastian Hartford Davis of Banco Chambers, instructed by King & Wood Mallesons.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cdr-news.com/categories/competition-business-crime/9916-ftc-lays-down-the-law-for-facebook/",
+        "https://www.cdr-news.com/categories/competition-business-crime/9916-ftc-lays-down-the-law-for-facebook",
+        "https://cdr-news.com/categories/competition-business-crime/9916-ftc-lays-down-the-law-for-facebook/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:10:26.714+02:00",
+    "updated": "2024-12-17T14:10:26.714+02:00"
+}

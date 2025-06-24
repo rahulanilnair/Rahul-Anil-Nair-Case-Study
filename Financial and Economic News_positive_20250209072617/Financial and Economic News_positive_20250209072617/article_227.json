@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "46e0321e9ace1c97075780cfc36a355dcc194614",
+        "url": "https://www.huschblackwell.com/newsandinsights/strike-averted-longshoremen-usmx-reach-tentative-agreement-on-all-terms",
+        "site_full": "www.huschblackwell.com",
+        "site": "huschblackwell.com",
+        "site_section": "https://www.huschblackwell.com/newsandinsights",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "\r\n\tThought Leadership in Law | Husch Blackwell\r\n",
+        "title": "Strike Averted: Longshoremen, USMX Reach Tentative Agreement on All Terms | Husch Blackwell",
+        "title_full": "Strike Averted: Longshoremen, USMX Reach Tentative Agreement on All Terms | Husch Blackwell",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.huschblackwell.com/images/_wbmanaged/01_0925_intltradestrikeaverted_1200x628_wbc_socialimage_209988.jpg",
+        "performance_score": 0,
+        "domain_rank": 60354,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "46e0321e9ace1c97075780cfc36a355dcc194614",
+    "url": "https://www.huschblackwell.com/newsandinsights/strike-averted-longshoremen-usmx-reach-tentative-agreement-on-all-terms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Strike Averted: Longshoremen, USMX Reach Tentative Agreement on All Terms | Husch Blackwell",
+    "text": "The International Longshoremen’s Association (ILA) and the United States Maritime Alliance (USMX) announced a tentative agreement on a new six-year contract. Both parties described the deal as a “win-win,” addressing the final contentious issue of automation. The agreement reportedly protects current ILA jobs while establishing a framework to implement new technologies, such as semi-automated rail-mounted gantry cranes, that will create new jobs and modernize ports, enhancing safety and efficiency. The current contract will remain in effect until ILA and USMX members review the tentative terms and ratify the new agreement.\nThe tentative agreement comes just six days before a second ILA strike was set to take place on January 15, 2025. A three-day strike took place in October, which caused a surge in shipping prices and cargo backlogs at 36 ports on the East and Gulf Coasts. The longshoremen then returned to work after employers agreed to a 62% wage increase over six years, tabling automation-related terms until January 2025.\nContact us\nIf you have questions about the ILA/USMX agreement or other related matters, please contact Julie Maurer, James Duncan, or your Husch Blackwell attorney.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Labor"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Labor->employment",
+        "Labor->labour relations",
+        "Labor->collective agreements"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "USMX",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:55:14.138+02:00",
+    "updated": "2025-01-10T01:55:14.138+02:00"
+}

@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "3dae4cff6308b5c723d32911cd1c80c135b440a9",
+        "url": "https://ceb.sharecast.com/balita/internasyonal-nga-ekonomiya/eurozone-trade-surplus-shrinks-more-than-expected--18332599.html",
+        "site_full": "ceb.sharecast.com",
+        "site": "sharecast.com",
+        "site_section": "https://ceb.sharecast.com/balita/internasyonal-nga-ekonomiya",
+        "site_categories": [],
+        "section_title": "Tibuuk nga lista sa mga istorya pinaagi sa kategorya nga International Economic - Sharecast.com",
+        "title": "Ang surplus sa pamatigayon sa Eurozone mikunhod labaw pa sa gipaabot",
+        "title_full": "Ang surplus sa pamatigayon sa Eurozone mikunhod labaw pa sa gipaabot",
+        "published": "2024-12-17T12:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://img.s3wfg.com/web/img/images_uploaded/b/6/dl-europe-ecb-european-central-bank-euro-eur-generic-unsplash.jpg",
+        "performance_score": 0,
+        "domain_rank": 62132,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3dae4cff6308b5c723d32911cd1c80c135b440a9",
+    "url": "https://ceb.sharecast.com/balita/internasyonal-nga-ekonomiya/eurozone-trade-surplus-shrinks-more-than-expected--18332599.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Benjamin Chiou",
+    "published": "2024-12-17T12:18:00.000+02:00",
+    "title": "Ang surplus sa pamatigayon sa Eurozone mikunhod labaw pa sa gipaabot",
+    "text": "Ang surplus sa pamatigayon sa Eurozone mikunhod labaw pa sa gipaabot\nThe eurozone trade surplus shrank substantially in October, according to figures from Eurostat on Tuesday, with the balance falling to its second-lowest level in 14 months.\nThe single-currency region recorded a trade balance of €6.8bn for the month, compared with a revised €11.6bn for September, which was lowered from the initial estimate of €12.5bn.\nThis came in well below the consensus forecast of €11.7bn and marked a reduction from the €9.4bn surplus recorded in October 2023. This was the second-lowest surplus since August 2023, with the balance falling to just €4.1bn in August 2024.\nThe month-on-month change was mainly due to a smaller surplus for chemicals and related products (from €21.7bn to €19.2bn) and machineries and vehicles (from €13.4bn to €11.9bn) and an increase in the deficit for energy (from €22.1bn to €25.5bn).\nExports from the eurozone totalled €254bn in October, up 2.1% on the same month last year, while imports rose 3.2% to €247.2bn.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Eurostat",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:25:23.700+02:00",
+    "updated": "2024-12-17T12:25:23.700+02:00"
+}

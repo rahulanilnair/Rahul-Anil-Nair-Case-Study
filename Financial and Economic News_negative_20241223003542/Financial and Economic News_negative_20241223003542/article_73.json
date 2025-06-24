@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "7e60ae5f700bbc88a4aad5552bd523c30cc8137a",
+        "url": "https://ng.investing.com/news/analyst-ratings/tinders-verification-hurdles-pose-risks-for-match-group-stock-recovery-93CH-1679242",
+        "site_full": "ng.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ng.investing.com/news/analyst-ratings",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Stock Analyst Ratings: Upgrades and Downgrades - Investing.com NG",
+        "title": "Tinder’s verification hurdles pose risks for Match Group stock recovery By Investing.com",
+        "title_full": "Tinder’s verification hurdles pose risks for Match Group stock recovery By Investing.com",
+        "published": "2024-12-17T03:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXMPEE2S13S_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e60ae5f700bbc88a4aad5552bd523c30cc8137a",
+    "url": "https://ng.investing.com/news/analyst-ratings/tinders-verification-hurdles-pose-risks-for-match-group-stock-recovery-93CH-1679242",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T03:30:00.000+02:00",
+    "title": "Tinder’s verification hurdles pose risks for Match Group stock recovery By Investing.com",
+    "text": "On Tuesday, Jefferies made a significant adjustment to its stance on Match Group (NASDAQ: MTCH ), downgrading the stock from Buy to Hold and reducing the price target to $32 from the previous $40.\nThe decision comes as Match Group's popular dating app Tinder experiences a decline in monthly active users (MAUs), with a loss of 3 million users since the first quarter of 2024. Currently trading at a P/E ratio of 13.91 and generating $993.09M in EBITDA, InvestingPro analysis suggests the stock is trading below its Fair Value.\nThe firm pointed to new verification requirements as a potential obstacle, which could make it harder for the company to achieve its second-half 2025 improvement goals and MAU acceleration into 2026 and 2027. Additionally, there is a noted consumer shift in the online dating scene, moving from the traditional \"swipe\" model to a \"prompt\" based interaction.\nInvestingPro data reveals that 5 analysts have recently revised their earnings expectations downward, though the company maintains a perfect Piotroski Score of 9, indicating strong financial fundamentals.\nDespite the downward trend, Jefferies acknowledged the continued success of Hinge, another app within the Match Group portfolio, which could attract private equity interest. This factor, along with Hinge's performance, might provide some stability to Match Group's stock value.\nThe revised price target of $32 is based on an 8x EBITDA valuation, which reflects the firm's tempered expectations for Match Group's near-term growth prospects. The analyst's comments suggest a cautious outlook on the stock, considering the challenges ahead and the lack of clear catalysts that could drive the share price higher in the immediate future.\nMatch Group investors will be watching closely as the company navigates these headwinds and adapts to the evolving preferences of online daters. The lowered price target and rating downgrade reflect a notable shift in market sentiment towards the company's stock. For deeper insights into Match Group's valuation and growth prospects, including 8 additional ProTips and comprehensive financial analysis, visit InvestingPro .\nIn other recent news, Match Group has been the subject of multiple analyst adjustments. New Street Research downgraded Match Group from Buy to Neutral due to concerns over Tinder's monetization challenges.\nMeanwhile, Deutsche Bank (ETR: DBKGn ) maintained a Buy rating, highlighting the company's AI-driven growth and a price target of $38.\nEvercore ISI kept an Outperform rating but reduced the price target to $35.\nTruist Securities also adjusted its outlook, reducing the price target to $34 while retaining a Hold rating.\nLastly, Stifel revised its stock price target to $36, maintaining a Hold rating.\nThese adjustments come in the wake of Match Group's recent investor day, where the company outlined its plans, including AI initiatives and a $1.5 billion share repurchase program. The company also announced a $0.19 quarterly dividend and a growth projection for Hinge, another brand under Match Group, to reach $1 billion in revenue by fiscal year 2027.\nHowever, analysts have expressed caution due to the slower growth at Tinder and extended recovery timelines. Despite these concerns, Match Group's financial health remains strong, with a robust gross profit margin of 72.44% and revenue growth of 6.12% over the last twelve months. These are recent developments in the company's performance and outlook.\nThis article was generated with the support of AI and reviewed by an editor. For more information see our T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Match Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:43:48.348+02:00",
+    "updated": "2024-12-17T11:43:48.348+02:00"
+}

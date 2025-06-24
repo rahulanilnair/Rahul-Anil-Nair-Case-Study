@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "b55064b477214d4fb81e529a14424cade65b93ab",
+        "url": "https://www.techtarget.com/searchbusinessanalytics/tip/Use-LLMs-for-data-analysis-to-improve-business-operations",
+        "site_full": "www.techtarget.com",
+        "site": "techtarget.com",
+        "site_section": "https://searchmicroservices.techtarget.com/rss/ContentSyndication.xml",
+        "site_categories": [
+            "javascript",
+            "tech"
+        ],
+        "section_title": "Reverse proxy vs. load balancer: How do they compare?",
+        "title": "How LLMs can improve data analysis | TechTarget",
+        "title_full": "How LLMs can improve data analysis | TechTarget",
+        "published": "2025-01-09T20:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.techtarget.com/rms/onlineimages/container_g1202673226.jpg",
+        "performance_score": 0,
+        "domain_rank": 451,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b55064b477214d4fb81e529a14424cade65b93ab",
+    "url": "https://www.techtarget.com/searchbusinessanalytics/tip/Use-LLMs-for-data-analysis-to-improve-business-operations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Burke",
+    "published": "2025-01-09T20:18:00.000+02:00",
+    "title": "How LLMs can improve data analysis | TechTarget",
+    "text": "Large language models can augment data analysis, crunching more information and identifying deeper insights than data professionals can on their own. But LLMs are unreliable tools for non-analysts, and even trained analysts should use them cautiously.\nOff-the-shelf LLMs are not ready to perform the role of a data analytics tool. They can't accurately or consistently answer detailed questions about the meanings of data sets. Automated LLM functions require training on the correct data sets to generate the most accurate results; it's up to analysts to ensure that outputs are secure, accurate and ethically sound.\nHow LLMs improve data analysis LLMs can analyze structured numerical data. They can calculate statistics, look for trends and identify anomalies. But data analysts should only use LLMs for this type of data if they limit the tool to look only at data in specific files and confine answers to material within those files.\nText analysis An even better use of LLMs is to take advantage of their facility with language. Data analysts can use an LLM to accelerate text analysis and -- if it is multimodal and can interpret spoken language -- oral inputs. LLMs can transcribe spoken word inputs, translate languages and analyze the results by doing the following:\nHighlighting categories of words. Looking for commonalities among comments such as similar language, or references to the same people or things. Providing semantic scoring of inputs based on defined categories of words. For example, being angry, despairing, engaged or credulous. Pointing out contextual information associated with use of specific words or images. Visual media analysis If an LLM is trained with the ability to parse visual media, it can analyze the content of pictures, charts and videos. LLMs can follow straightforward prompts, such as looking for a specific kind of object -- say, how many hats are in a picture. They can also identify subtle elements, such as the prevalence of different color palettes across TikTok videos with a given hashtag.\nLLMs can help analysts combine inherently unstructured data with structured data sets by converting free text, audio or video media into specific numerical data. Trained multimedia LLMs can also generate visualizations of data sets, ranging from traditional line or bar charts to word clouds and heat maps.\nPredictive analytics. LLMs can allow analysts to analyze non-textual data, and, critically, to integrate those results with the analysis of standard numerical data. The combination broadens the reach of predictive analytics by enabling it to spot more trends. For example, an LLM would be able to identify patterns across media platforms more easily than human analysts could.\nLLMs can tease out words in the data, understand the context of words and assign sets of words to themes. Using that information, analysts can then adjust the LLM model training for subsequent predictive analytics operations.\nExamples of data analysis with LLMs Analysts can use LLMs to provide insights and improve business operations in several ways.\nIdentify actions based on customer feedback LLMs can help analysts understand patterns and trends in customer sentiment about specific products, services, store locations or staff. Analysts can use LLMs to analyze data from fixed-choice surveys, emails to sales teams and support desks, support and sales chat logs, social media postings and content from podcasts or product review videos. Companies can use the results to improve their operations and address shortcomings in their service or product portfolios.\nData analysts will not see LLMs replace their jobs anytime soon. Identify business development opportunities Analysts using LLMs can harvest data from sources including competitor websites, relevant social media channels and their own support channels. The information can help identify new product or service opportunities, open new stores or websites, move into new locations or form new partnerships with other companies.\nIdentify potential threats Governments and corporations can analyze the content of material posted in public. The information can help augment data from other sources to spot potential security threats.\nWill LLMs replace data analysts? Data analysts will not see LLMs replace their jobs anytime soon.\nData professionals must learn more about what LLMs can do and how to keep the models honest. In the meantime, LLMs will be able to assist analysts, but not replace them. Organizations need analysts to craft prompts carefully and verify the accuracy of all outputs -- that is, until developers can consistently produce LLMs that don't make up data, present made-up data as real or make up conclusions not driven by the data.\nJohn Burke is CTO and principal research analyst with Nemertes Research. With nearly two decades of technology experience, he has worked at all levels of IT, including end-user support specialist, programmer, system administrator, database specialist, network administrator, network architect and systems architect. His focus areas include AI, cloud, networking, infrastructure, automation and cybersecurity.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information science",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://medium.com/@tag.kumail/unlocking-the-power-of-ai-analyzing-images-with-lm-studio-on-windows-e983c6e00d5a",
+        "https://www.medium.com/@tag.kumail/unlocking-the-power-of-ai-analyzing-images-with-lm-studio-on-windows-e983c6e00d5a"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:10:19.241+02:00",
+    "updated": "2025-01-10T01:10:19.241+02:00"
+}

@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "141e82515bb992a56c19ee191ea595a3cdcc25a4",
+        "url": "https://www.tribuneindia.com/news/world/omans-minister-of-commerce-congratulates-india-for-its-economic-growth-says-impressive-transformation-over-the-last-20-years",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/world",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "World News Today: International Breaking News, Global Headlines | Tribune India",
+        "title": "Omans Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - The Tribune",
+        "title_full": "Omans Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - The Tribune",
+        "published": "2025-01-09T22:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdjMTBkNTcwLWNlYzItMTFlZi1hZjY1LTgxNTQ1YzNlMTFiMS5qcGc=",
+        "performance_score": 0,
+        "domain_rank": 4367,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "141e82515bb992a56c19ee191ea595a3cdcc25a4",
+    "url": "https://www.tribuneindia.com/news/world/omans-minister-of-commerce-congratulates-india-for-its-economic-growth-says-impressive-transformation-over-the-last-20-years",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2025-01-09T22:16:00.000+02:00",
+    "title": "Omans Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - The Tribune",
+    "text": "Oman's Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years\nMuscat [Oman], January 10 (ANI): Oman's Minister of Commerce, Industry, and Investment Promotion, Qais bin Mohammad Al Yousef, on Thursday lauded India's economic growth and congratulated its leadership for the country's remarkable transformation over the past two decades.\nDuring a media interaction in Oman's capital of Muscat, Oman's commerce minister said, \"Actually, we congratulate India on what it has achieved--honestly, the growth, impressive growth, impressive transformation over the last 20 years. So we congratulate your leadership, and the people of India; you have worked hard to achieve economic growth. the middle sector has grown; the growth in your digital transformation, even in many aspects, in science and technology. So we congratulate you for what you have achieved and wish the people and government of India all the best.\"\nOn the Comprehensive Economic Partnership Agreement between India and Oman, the minister said, \"The Comprehensive Economic Partnership Agreement is still under negotiation. We have had several rounds and we are having one round coming up. And then we will see how it progresses. So things are still progressing.\"\n\"In terms of the G20, we were invited and we are very appreciative to the government of India for inviting the Sultan of Oman to be a guest country attending the G20. Honestly, the Sultan of Oman, and the Ministry of Commerce, made sure that we and the other government agencies attended all the meetings and participated actively. And what you have been able to achieve in that G20 has been significant. And we think that especially when it comes to the Comprehensive Economic Partnership Agreement, it was negotiated and discussed several times during at least my visits during the G20,\" he added.\nOn the India-Middle East-Europe economic corridor, he said, \"Any sort of project that can ease business and trade is always welcome. And we have to see how it progresses. But at the moment, you know, shipping and logistics are essential elements of connecting and connectivity and also have an impact on the cost of doing business. So that's always welcome.\"\nIn terms of how the joint statement between India and Oman was progressing, the minister said, \"We are having a joint commission meeting this month, in January, if things go as planned. This will be one of the items on the agenda to discuss the progress on various aspects. But I can let you know that there is a lot of interest from Indian investors in Oman. And we've had several, I would say, larger investors having interest in Oman. And they're already planning for the future. They're already seeing the opportunity, if this CEPA takes place, they're not waiting for it to happen. They're very shrewd. And they're already planning...And that's why India is one of the top three, four countries that are interested in investing in Oman.\" (ANI)\n(The story has come from a syndicated feed and has not been edited by the Tribune Staff.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Qais bin Mohammad Al Yousef",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Commerce",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:49:33.857+02:00",
+    "updated": "2025-01-10T00:49:33.857+02:00"
+}

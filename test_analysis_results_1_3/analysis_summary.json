@@ -1,0 +1,62 @@
+[
+  {
+    "article_id": 1,
+    "original_article_id": "FIN-001",
+    "headline": "Tesla crushes Q3 expectations with record profits, but Musk warns of 'turbulent times ahead",
+    "final_sentiment": "Neutral",
+    "confidence": 60,
+    "impact_magnitude": "Medium",
+    "agreement_level": "Strong",
+    "rounds_to_consensus": 1,
+    "analysis_file": "test_analysis_results_1_3\\analysis_article_1.txt",
+    "history_file": "test_discussion_history_1_3\\discussion_history_article_1.txt"
+  },
+  {
+    "article_id": 2,
+    "original_article_id": "FIN-002",
+    "headline": "Small biotech CureGen soars on FDA approval, analysts remain skeptical",
+    "final_sentiment": "Negative",
+    "confidence": 60,
+    "impact_magnitude": "Low",
+    "agreement_level": "Strong",
+    "rounds_to_consensus": 1,
+    "analysis_file": "test_analysis_results_1_3\\analysis_article_2.txt",
+    "history_file": "test_discussion_history_1_3\\discussion_history_article_2.txt"
+  },
+  {
+    "article_id": 3,
+    "original_article_id": "FIN-003",
+    "headline": "Amazon announces 'transformational' AI venture, but at massive cost",
+    "final_sentiment": "Neutral",
+    "confidence": 83,
+    "impact_magnitude": "Medium",
+    "agreement_level": "Strong",
+    "rounds_to_consensus": 4,
+    "analysis_file": "test_analysis_results_1_3\\analysis_article_3.txt",
+    "history_file": "test_discussion_history_1_3\\discussion_history_article_3.txt"
+  },
+  {
+    "article_id": 4,
+    "original_article_id": "FIN-004",
+    "headline": "Regional bank FirstState posts record earnings amid industry turmoil",
+    "final_sentiment": "Positive",
+    "confidence": 80,
+    "impact_magnitude": "Medium",
+    "agreement_level": "Strong",
+    "rounds_to_consensus": 5,
+    "analysis_file": "test_analysis_results_1_3\\analysis_article_4.txt",
+    "history_file": "test_discussion_history_1_3\\discussion_history_article_4.txt"
+  },
+  {
+    "article_id": 5,
+    "original_article_id": "FIN-005",
+    "headline": "China tech giant ByteDance reports stellar growth, regulatory clouds remain",
+    "final_sentiment": null,
+    "confidence": 88,
+    "impact_magnitude": null,
+    "agreement_level": "Weak",
+    "rounds_to_consensus": 5,
+    "analysis_file": "test_analysis_results_1_3\\analysis_article_5.txt",
+    "history_file": "test_discussion_history_1_3\\discussion_history_article_5.txt"
+  }
+]

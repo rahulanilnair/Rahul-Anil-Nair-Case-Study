@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 4
+============================================================
+Timestamp: 2025-06-23 18:18:55
+Headline Summary: Regional bank FirstState posts record earnings amid industry turmoil
+Key Highlights: Record Q2 earnings of $3.20 per share, up 45%
+Final Sentiment: Positive
+Confidence: 60%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: growth_analyst: While FirstState Bank's record earnings are impressive, the fact that they are posting these gains despite industry turmoil suggests that the market is being overly optimistic. I believe a more balanced view would acknowledge both the positive earnings report and the potential risks in the industry. sentiment_analyst: While FirstState Bank's record Q2 earnings of $3.20 per share are certainly positive news, I believe the current sentiment is somewhat overstated given the industry-wide turmoil. However, the strong earnings report suggests that the bank has navigated challenges relatively well. Therefore, I partially agree with the current sentiment but would adjust confidence and impact ratings to reflect a more nuanced view.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Positive sentiment.
+============================================================

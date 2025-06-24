@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "23fff6ad2790556be14a28fe1e704404c29c7c7f",
+        "url": "https://www.necn.com/news/business/money-report/nvidia-falls-deeper-into-correction-territory-as-broadcom-rally-continues/3416974",
+        "site_full": "www.necn.com",
+        "site": "necn.com",
+        "site_section": "https://www.necn.com",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "NECN &#8211; New England local news, weather, breaking news",
+        "title": "Nvidia falls deeper into correction territory as Broadcom rally continues",
+        "title_full": "Nvidia falls deeper into correction territory as Broadcom rally continues",
+        "published": "2024-12-17T12:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 10223,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23fff6ad2790556be14a28fe1e704404c29c7c7f",
+    "url": "https://www.necn.com/news/business/money-report/nvidia-falls-deeper-into-correction-territory-as-broadcom-rally-continues/3416974",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@NECN",
+    "published": "2024-12-17T12:54:00.000+02:00",
+    "title": "Nvidia falls deeper into correction territory as Broadcom rally continues",
+    "text": "Nvidia shares fell in premarket trade on Tuesday as Broadcom continued its rapid surge higher. Broadcom shares have rallied 40% in the last five days. In contrast, Nvidia has fallen 5%. Despite Nvidia’s recent fall, its stock is still up more than 160% for the year. Broadcom has risen more than 120% in the same time frame. Nvidia shares fell in premarket trading on Tuesday, as Broadcom continued its rapid surge higher.\nNvidia stock was down about 1.8% in premarket trading at 10:47 a.m. London time. On Monday, the company a entered correction territory — broadly defined as the point when a stock falls 10% or more from an all-time high close.\nNvidia hit its closing high of $148.88 last month.\nIn a tale of two chip stocks, Broadcom shares were 1.9% higher at 10:50 a.m. London time in premarket trade. Over the past five days alone, Broadcom shares have rallied 40%, while those of Nvidia have surrendered 5%.\nBullishness around Broadcom has been fuelled by the company’s release last week of fourth-quarter earnings that exceeded expectations and a revenue outlook for the current quarter that beat forecasts. A number of Wall Street brokers, including Goldman Sachs, have raised their price targets on Broadcom’s stock recently.\nBroadcom shares have risen more than 120% this year to date, while Nvidia’s stock has added more than 160% over the same period.\nNvidia’s graphics processing units (GPUs) have proven extremely popular as the silicon of choice for training the huge models, such as those developed by OpenAI.\nBroadcom’s specialty lies in custom AI chips that the company is developing for hyperscalers, which are large cloud computing companies.\n“We see an opportunity over the next three years in AI,” Broadcom CEO Hock Tan told investors during the company’s earnings call last week. “Massive specific hyperscalers have begun their respective journeys to develop their own custom AI accelerators.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnbc.com/2024/12/16/nvidia-falls-into-correction-territory-down-more-than-10percent-from-its-record-close.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/quotes/NVDA&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/2024/12/12/broadcom-avgo-earnings-report-q4-2024-.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/quotes/AVGO&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/2024/12/16/broadcom-shares-rise-goldman-sachs-has-higher-conviction.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/2024/12/16/broadcom-shares-rise-goldman-sachs-has-higher-conviction.html",
+        "https://cnbc.com/quotes/NVDA&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://cnbc.com/quotes/AVGO&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://www.cnbc.com/2024/12/12/broadcom-avgo-earnings-report-q4-2024-.html",
+        "https://www.cnbc.com/2024/12/16/nvidia-falls-into-correction-territory-down-more-than-10percent-from-its-record-close.html",
+        "https://cnbc.com/2024/12/16/nvidia-falls-into-correction-territory-down-more-than-10percent-from-its-record-close.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://cnbc.com/2024/12/16/broadcom-shares-rise-goldman-sachs-has-higher-conviction.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825",
+        "https://cnbc.com/2024/12/12/broadcom-avgo-earnings-report-q4-2024-.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108076825"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "23fff6ad2790556be14a28fe1e704404c29c7c7f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:18:01.480+02:00",
+    "updated": "2024-12-17T14:18:01.480+02:00"
+}

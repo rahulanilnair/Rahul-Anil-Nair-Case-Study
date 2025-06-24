@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "d9d4388dfde6a0720cbbc654242d3e36a9d4b44c",
+        "url": "https://www.morningstar.com/news/marketwatch/2024121713/the-little-known-reason-that-the-fed-will-continue-to-lower-rates-in-2025",
+        "site_full": "www.morningstar.com",
+        "site": "morningstar.com",
+        "site_section": "https://www.morningstar.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Market Headlines | Morningstar",
+        "title": "The little-known reason that the Fed will continue to lower rates in 2025 | Morningstar",
+        "title_full": "The little-known reason that the Fed will continue to lower rates in 2025 | Morningstar",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "performance_score": 0,
+        "domain_rank": 1869,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d9d4388dfde6a0720cbbc654242d3e36a9d4b44c",
+    "url": "https://www.morningstar.com/news/marketwatch/2024121713/the-little-known-reason-that-the-fed-will-continue-to-lower-rates-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "The little-known reason that the Fed will continue to lower rates in 2025 | Morningstar",
+    "text": "By Mark Hulbert\nCurrent rates are significantly contractionary\nIt's a good bet that the Federal Reserve will cut interest rates not only at this week's meeting but in 2025 as well.\nThat's because current rates are significantly contractionary, according to sophisticated statistical models that estimate what the real short-term interest rate should be in order to be neither expansionary nor contractionary.\nThis hypothetical rate is known as R-Star, or the natural rate of interest. R-Star currently is 0.8%, according to one of the leading models for estimating this rate, as calculated by the New York Federal Reserve bank. In contrast, the inflation-adjusted fed-funds rate is 1.9% (using an estimate of one-year expected inflation from the Cleveland Federal Reserve bank).\nThe real federal-funds rate may not be the proper rate to compare to R-Star, but other short-term rates tell a similar story. The one-year real Treasury yield, for example, currently is 0.7 of a percentage point higher than R-Star.\nThe accompanying graph plots the history of R-Star and the one-year real Treasury yield over the past two decades. You will notice that, for most of the past two decades, the one-year real interest rate has been below R-Star - averaging 1.4 percentage points below, in fact, since 2003. Even if we ignore the COVID years of 2020 through 2022, which most everyone would agree were exceptional, the one-year rate has averaged 1.2 percentage points below R-Star. So the current one-year real rate, relative to R-Star, is close to being three percentage points higher than average.\nNote that this conclusion comes with many qualifications. R-Star is not directly observable, and different models provide different estimates. In addition, expected inflation (which is used to calculate the current real one-year rate) also is not directly observable, and must be estimated. Qualifications aside, though, it seems clear that current short-term real interest rates are much higher than average.\nWhy R-Star may be coming down\nFurthermore, according to some researchers, R-Star may be lower than we think. One such researcher is Ricardo Caballero, an economics professor at MIT. He recently argued that there are two main reasons why R-Star is likely to decline.\nThe first is \"unprecedented levels of sovereign indebtedness\" and the consequent need to encourage the private sector to be willing to lend governments the money. While the conventional wisdom is that this means interest rates must rise, Cabellero argues just the opposite is the case. \"As the saying goes, 'a small loan is the borrower's problem; a large loan is the lender's problem.' In this case, the issue lies not with lenders but with aggregate demand. The primary deficits of heavily indebted countries are unlikely to sustain aggregate demand indefinitely. Consequently, lower interest rates will be necessary to encourage the private sector to fill the demand gap.\"\nThe second reason that Caballero thinks R-Star will decline is that he believes the risk premium - the difference between equities' and fixed income's expected returns - will have to soon rise from its current low level. Equities must provide a higher expected return than Treasurys in order to induce investors to incur their risk, and yet currently the S&P 500's SPX earnings yield (the inverse of the P/E ratio) is below that of the 10-year Treasury yield - 3.9% versus 4.4%. Given that stocks' earnings yield is already so much lower than its historical average, an increase in the risk premium is more likely to come from lower interest rates.\nA TIPS ladder\nTo the extent this analysis is correct, TIPS yields may be coming down in the near future and, if so, you may soon lose the opportunity that has existed in recent months to construct a guaranteed inflation-adjusted 30-year payout rate of over 4%. I have discussed this opportunity on several recent occasions, building on the groundbreaking work of Allan Roth, founder of Wealth Logic, an advisory firm.\nThe key to locking in this attractive inflation-adjusted payout rate is building a ladder of individual TIPS that mature each year between now and 30 years from now. By doing that at today's rates, according to calculations at TIPSLadder.com, you can lock in an inflation-adjusted payout of 4.5% annualized. When I wrote about TIPS ladders in July 2023, the comparable 30-year inflation-adjusted payout rate was 4.3% annualized.\nIf you have been wanting to construct such a ladder and have been putting it off, you may want to proceed sooner rather than later.\nMark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com.\n-Mark Hulbert\nThis content was created by MarketWatch, which is operated by Dow Jones & Co. MarketWatch is published independently from Dow Jones Newswires and The Wall Street Journal.\n(END) Dow Jones Newswires\n12-17-24 0428ET\nCopyright (c) 2024 Dow Jones & Company, Inc. More in Markets View All Markets Brief: Stocks Are Getting Expensive. Should You Sell? Plus: Fed decision looms, more inflation data, and market timing. Dan Kemp and Frank Lee Dec 16, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:50:00.672+02:00",
+    "updated": "2024-12-17T11:50:00.672+02:00"
+}

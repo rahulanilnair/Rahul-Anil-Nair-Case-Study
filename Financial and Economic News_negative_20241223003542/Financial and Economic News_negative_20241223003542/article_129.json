@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "021c6437a11a63129a4cc6cd14c7ad88cba618a7",
+        "url": "https://www.meadvilletribune.com/news/gas-prices-fall-in-meadville-area/article_80a63a2e-bbcd-11ef-93fb-9733f08dd816.html",
+        "site_full": "www.meadvilletribune.com",
+        "site": "meadvilletribune.com",
+        "site_section": "https://meadvilletribune.com/readerschoice",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "meadvilletribune.com",
+        "title": "Gas prices fall in Meadville area | News | meadvilletribune.com",
+        "title_full": "Gas prices fall in Meadville area | News | meadvilletribune.com",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/assets/v3/editorial/9/ea/9ea49ef8-21c7-11ef-8f8e-4fd5a421105e/5453cac98de24.image.jpg?crop=1648%2C865%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 42908,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "021c6437a11a63129a4cc6cd14c7ad88cba618a7",
+    "url": "https://www.meadvilletribune.com/news/gas-prices-fall-in-meadville-area/article_80a63a2e-bbcd-11ef-93fb-9733f08dd816.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Meadville Tribune",
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Gas prices fall in Meadville area | News | meadvilletribune.com",
+    "text": "Gas prices drooped by about 10 cents per gallon in the Meadville area at many outlets over the past week to reach $3.40 a gallon.\nThe prices remained above the state average, which dropped by about 4 cents per gallon to average $3.22 Monday, according to gasoline price website [GasBuddy.com](http://GasBuddy.com).\nPrices in Pennsylvania are 2.1 cents per gallon lower than a month ago and 20.7 cents per gallon lower than a year ago, according to GasBuddy. According to price reports, the station in Pennsylvania with the cheapest gas had it priced at $2.35 while the most expensive was $3.99.\nThe national average price of gasoline has risen 0.8 cents per gallon in the last week, averaging $2.98. The national average is down 7.5 cents per gallon from a month ago and 7.1 cents per gallon lower than a year ago.\n“As we edge closer to the end of the year, we’re seeing momentum for falling gas prices weaken, which is typical as the national average generally bottoms out between Thanksgiving and Christmas,” said Patrick De Haan, head of petroleum analysis at GasBuddy. “With oil prices rising back above $70 last week, gas prices may have less potential to drop much further, though there may be a second window of lower prices in January or February in some areas, but even that won’t last long. While several states saw gas prices cycle last week, marked by a big jump in prices after a large decline, those that did see hefty jumps should see prices drift a bit lower, potentially making a second run at the season’s lowest prices. The West Coast, including California, should continue to see prices drift lower, but with just a few weeks left in 2024, all attention turns to 2025. GasBuddy’s 2025 Fuel Outlook, among the nation’s most accurate fuel price forecasts, will be released in the coming weeks, offering motorists a glimpse into gas prices for the coming year.”\nPrices from around the region:\n• Andover, Ohio: Average price is $2.97 per gallon.\n• Ashtabula, Ohio: Prices as low as $2.85 per gallon.\n• Conneaut Lake: Average price is $3.46 per gallon.\n• Edinboro: Average price is $3.39 per gallon.\n• Erie: Average price is $3.39 per gallon, with prices as low as $3.25.\n• Mercer: Average price is $3.49 per gallon.\n• New Castle: Average price is $3.25 per gallon.\n• Oil City: Average price is $3.50 per gallon.\n• Pittsburgh: Average price is $3.40 per gallon.\n• Warren: Average price is $3.60 per gallon.\n• Waterford: Prices as low as $3.32 per gallon.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://GasBuddy.com",
+        "http://www.GasBuddy.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Patrick De Haan",
+                "sentiment": "none"
+            },
+            {
+                "name": "GasBuddy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:03:40.662+02:00",
+    "updated": "2024-12-17T12:03:40.662+02:00"
+}

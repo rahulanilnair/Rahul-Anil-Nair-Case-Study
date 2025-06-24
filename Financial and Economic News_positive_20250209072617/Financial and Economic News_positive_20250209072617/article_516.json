@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "3cd243f35f1a2684690acacb0e42de24b0daa92a",
+        "url": "https://beamstart.com/news/biden-administration-gives-additional-500-17364740",
+        "site_full": "beamstart.com",
+        "site": "beamstart.com",
+        "site_section": "https://beamstart.com",
+        "site_categories": [
+            "hobbies_and_interests",
+            "investors_and_patents"
+        ],
+        "section_title": "BEAMSTART - Global Entrepreneurship Community",
+        "title": "Biden administration gives additional $500 mn in military aid to Ukraine - 'Business Standard' News Summary (India) | BEAMSTART",
+        "title_full": "Biden administration gives additional $500 mn in military aid to Ukraine - 'Business Standard' News Summary (India) | BEAMSTART",
+        "published": "2025-01-10T01:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://beamstart.com/image/aHR0cHM6Ly9ic21lZGlhLmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9fbWVkaWEvYnMvaW1nL2FydGljbGUvMjAyNC0wNi8xMi90aHVtYi9maXRhbmRmaWxsLzEyMDBYNjMwLzE3MTgxNTk3MDQtOTA3My5qcGc=",
+        "performance_score": 0,
+        "domain_rank": 124654,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3cd243f35f1a2684690acacb0e42de24b0daa92a",
+    "url": "https://beamstart.com/news/biden-administration-gives-additional-500-17364740",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Business Standard",
+    "published": "2025-01-10T01:21:00.000+02:00",
+    "title": "Biden administration gives additional $500 mn in military aid to Ukraine - 'Business Standard' News Summary (India) | BEAMSTART",
+    "text": "Quick Summary: Zelenskyy called the Kursk offensive one of our biggest wins, which has cost Russia and North Korea, which sent soldiers to help Russia, thousands of troops.\nGlobally, countries including the US have ramped up weapons production as the Ukraine war exposed that all of those stockpiles were woefully unprepared for a major conventional land war.\nUnless there is another aid package approved, the Biden administration will leave about $3.85 billion in congressionally authorized funding for any future arms shipments to Ukraine.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->defence",
+        "Politics->international relations",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->mankind",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:26:33.322+02:00",
+    "updated": "2025-01-10T05:26:33.322+02:00"
+}

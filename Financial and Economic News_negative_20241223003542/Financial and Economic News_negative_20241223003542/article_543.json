@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "6ab2e40ee41ee5ae6c1b5a1cf8e57f49ef2fc2f8",
+        "url": "https://thedailyguardian.com/67-of-sewer-and-septic-tank-workers-in-india-from-scheduled-caste-reveals-government-data",
+        "site_full": "thedailyguardian.com",
+        "site": "thedailyguardian.com",
+        "site_section": "https://thedailyguardian.com/feed/",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Latest News Today:Breaking News|Entertainment News|Business News|Politics News|Sports News|English news-TheDailyGuardian",
+        "title": "67% of Sewer and Septic Tank Workers in India from Scheduled Caste, Reveals Government Data",
+        "title_full": "67% of Sewer and Septic Tank Workers in India from Scheduled Caste, Reveals Government Data",
+        "published": "2024-12-17T08:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://thedailyguardian.com/wp-content/uploads/2024/12/Official-Data-Highlights-Disparities-in-Workforce-Representation.jpg",
+        "performance_score": 0,
+        "domain_rank": 53530,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ab2e40ee41ee5ae6c1b5a1cf8e57f49ef2fc2f8",
+    "url": "https://thedailyguardian.com/67-of-sewer-and-septic-tank-workers-in-india-from-scheduled-caste-reveals-government-data",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TheDailyGuardian",
+    "published": "2024-12-17T08:56:00.000+02:00",
+    "title": "67% of Sewer and Septic Tank Workers in India from Scheduled Caste, Reveals Government Data",
+    "text": "[+](javascipt:void(0);)\nAccording to official data, over 67% of sewer and septic tank workers (SSWs) in India belong to the Scheduled Caste category. In a written response to a question in the Lok Sabha, Union Minister of State for Social Justice and Empowerment Ramdas Athawale revealed that out of 54,574 validated sewer and septic tank workers profiled under the ‘National Action for Mechanised Sanitation Ecosystem’ (NAMASTE) scheme, 37,060 are from the Scheduled Caste category.\nThe statistics further indicate that 15.73% of the workers belong to the Other Backward Classes (OBCs), 8.31% are from the Scheduled Tribes (STs), while only 8.05% come from the General category. In total, 57,758 workers across 33 states and Union Territories have been profiled, with 54,574 validated. Data integration for states like Odisha and Tamil Nadu into the central NAMASTE database is currently underway.\nThe NAMASTE scheme, launched in 2023-24 by the Ministry of Social Justice and Empowerment in collaboration with the Ministry of Housing and Urban Affairs (MoHUA), aims to ensure the safety, dignity, and empowerment of sanitation workers. Various measures have been implemented under this initiative to enhance worker safety and provide socio-economic opportunities.\nTo date, a total of 16,791 Personal Protective Equipment (PPE) kits and 43 Safety Devices Kits for Emergency Response Sanitation Units (ERSUs) have been distributed. Additionally, Ayushman cards for health insurance have been issued to 13,604 beneficiaries. Capital subsidies totaling ₹13.96 crore have been provided to 503 workers and their dependents for sanitation-related projects, while an additional ₹2.85 crore has been released to 226 beneficiaries from the manual scavenger category for alternative self-employment projects.\nTo raise awareness about the hazards of unsafe cleaning practices, 837 workshops have been conducted since the scheme’s launch. Efforts to mechanize sanitation work and reduce hazardous manual cleaning have also been prioritized. Under the Swachh Bharat Mission Urban (SBM-U) 2.0, MoHUA has sanctioned ₹371 crore to 26 states and Union Territories for the procurement of 2,585 desludging vehicles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ministry of Housing and Urban Affairs",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Social Justice",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Tamil Nadu",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:08:26.021+02:00",
+    "updated": "2024-12-17T14:08:26.021+02:00"
+}

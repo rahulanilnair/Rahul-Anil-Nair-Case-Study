@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "fe9bac6c1c954e064eb07180fe7cea5e3481689a",
+        "url": "https://newsghana.com.gh/air-cargo-sees-strong-growth-in-november-2024-despite-global-challenges-iata-reports",
+        "site_full": "newsghana.com.gh",
+        "site": "newsghana.com.gh",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Air Cargo Sees Strong Growth in November 2024 Despite Global Challenges, IATA Reports | News Ghana",
+        "title_full": "Air Cargo Sees Strong Growth in November 2024 Despite Global Challenges, IATA Reports | News Ghana",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GH",
+        "main_image": "https://newsghana.com.gh/wp-content/uploads/2015/09/wpid-air-cargo-418x215.jpg",
+        "performance_score": 0,
+        "domain_rank": 48712,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fe9bac6c1c954e064eb07180fe7cea5e3481689a",
+    "url": "https://newsghana.com.gh/air-cargo-sees-strong-growth-in-november-2024-despite-global-challenges-iata-reports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@https://twitter.com/rogeragambire",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Air Cargo Sees Strong Growth in November 2024 Despite Global Challenges, IATA Reports | News Ghana",
+    "text": "Global air cargo demand surged by 8.2% in November 2024 compared to the same month the previous year, marking the 16th consecutive month of growth, according to the latest data from the International Air Transport Association (IATA).\nThis robust performance reflects a continued recovery in the sector, driven largely by international operations, which saw a 9.5% increase in demand. Despite challenges such as economic uncertainty, geopolitical tensions, and inflationary pressures, the air cargo industry is ending the year on a strong note.\nIATA highlighted that while demand grew significantly, capacity rose at a slower pace of 4.6%, exacerbating the already tight market. This supply-demand imbalance led to higher yields, with a notable 7.8% increase in yields year-on-year. With fuel costs remaining 22% lower than the previous year, the industry has benefitted from favorable operating conditions, positioning it for a profitable close to 2024. IATA’s Director General, Willie Walsh, emphasized that while growth prospects for 2025 remain strong, risks such as ongoing inflation, trade uncertainties, and geopolitical tensions should be closely monitored.\nThe demand surge in November was particularly pronounced in Asia-Pacific, where airlines saw a 13.2% year-on-year increase in cargo demand, the highest among all regions. North American carriers also saw healthy growth of 6.9%, although their capacity expansion was more limited, increasing by just 2.2%. Meanwhile, Latin American airlines experienced an impressive 11.6% rise in demand, outperforming many other regions. However, African airlines recorded the weakest performance, with a slight 0.7% decline in demand despite a marginal increase in capacity.\nDespite the challenges, the strength of key trade lanes remains a standout feature of the global cargo market. The Asia-North America route led the pack, with a 13% year-on-year increase in demand, while Europe-Asia and Middle East-Asia routes saw similar growth rates of 12.9% and 9.0%, respectively. These routes have consistently benefited from the surge in e-commerce, particularly in the United States and Europe, as well as ongoing supply chain constraints in ocean shipping. The continued reliance on air cargo for fast deliveries is expected to maintain this growth trend well into 2025.\nHowever, the future of air cargo remains uncertain due to global economic headwinds. The Purchasing Managers Index (PMI) for global manufacturing output, though indicating growth, suggests that there is still caution in global trade, with new export orders below the 50-mark, signaling ongoing weakness in the export sector. The inflation rates in major economies, including the US and the EU, as well as the potential for a slowdown in China, could dampen trade volumes and create headwinds for the air cargo industry moving forward.\nIn conclusion, the air cargo sector has demonstrated remarkable resilience in November 2024, continuing its streak of growth despite numerous global challenges. However, with rising inflation, geopolitical uncertainty, and trade weaknesses still looming, stakeholders in the industry will need to carefully navigate these potential risks. For now, the sector is poised to carry its positive momentum into 2025, driven by strong demand on key trade lanes and the continued reliance on air cargo for time-sensitive shipments.\n[News Ghana](https://newsghana.com.gh)on\n[Google News](https://news.google.com/publications/CAAiENOAw7LsGXCOM4baC2AVg8cqFAgKIhDTgMOy7BlwjjOG2gtgFYPH?hl=en-GH&gl=GH&ceid=GH%3Aen)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.google.com/publications/CAAiENOAw7LsGXCOM4baC2AVg8cqFAgKIhDTgMOy7BlwjjOG2gtgFYPH?hl=en-GH&gl=GH&ceid=GH%3Aen",
+        "https://news.google.com/publications/CAAiENOAw7LsGXCOM4baC2AVg8cqFAgKIhDTgMOy7BlwjjOG2gtgFYPH",
+        "https://www.news.google.com/publications/CAAiENOAw7LsGXCOM4baC2AVg8cqFAgKIhDTgMOy7BlwjjOG2gtgFYPH?hl=en-GH&gl=GH&ceid=GH%3Aen"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Willie Walsh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IATA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "International Air Transport Association",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:43:37.591+02:00",
+    "updated": "2025-01-10T09:43:37.591+02:00"
+}

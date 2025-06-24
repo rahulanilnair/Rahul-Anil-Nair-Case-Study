@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "971c5177fd62856d1b23c8c9ddfd9ab626f3f3f0",
+        "url": "https://www.theepochtimes.com/world/household-spending-rises-in-november-driven-by-black-friday-sales-5789485",
+        "site_full": "www.theepochtimes.com",
+        "site": "theepochtimes.com",
+        "site_section": "https://www.theepochtimes.com",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Epoch Times | Breaking News, Latest News, World News and Videos",
+        "title": "Household Spending Rises in November, Driven by Black Friday Sales",
+        "title_full": "Household Spending Rises in November, Driven by Black Friday Sales",
+        "published": "2025-01-10T07:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.theepochtimes.com/assets/uploads/2020/03/08/id5788087-australian-money-cash-dollars-dollar-cost-costs-note-notes-2-1080x720.jpeg",
+        "performance_score": 0,
+        "domain_rank": 1663,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "971c5177fd62856d1b23c8c9ddfd9ab626f3f3f0",
+    "url": "https://www.theepochtimes.com/world/household-spending-rises-in-november-driven-by-black-friday-sales-5789485",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Naziya Alvi Rahman",
+    "published": "2025-01-10T07:24:00.000+02:00",
+    "title": "Household Spending Rises in November, Driven by Black Friday Sales",
+    "text": "Household spending in Australia saw a modest rise of 0.4 percent in November, following a stronger 0.9 percent increase in October, according to seasonal figures released by the Australian Bureau of Statistics (ABS).\nWhile September had seen a slight dip of 0.2 percent, November’s growth was driven by significant retail activity, including the Black Friday sales, which boosted spending in sectors like recreation and culture.\nRecreation and culture spending rose by 0.9 percent, largely driven by Black Friday promotions, and the release of major films such as Wicked, Gladiator II, and Moana 2.\n“Spending on Clothing and Footwear also rose by 1.8 percent, while Furnishings and Household Equipment saw an increase of 0.8 percent,” said ABS Head of Business Statistics, Robert Ewing.\nSpending Growth Across States, Some Declines in Territories\nThe growth in household spending was widespread, with several states and territories posting increases.Queensland led the charge with a 0.7 percent rise, followed by Victoria, South Australia, and Western Australia, all recording 0.5 percent growth.\nHowever, the Australian Capital Territory and Tasmania saw slight declines of 0.4 percent and 0.2 percent, respectively.\nLooking at annual figures, total retail sales in November reached $37.1 billion, reflecting a 3.0 percent increase compared to the same month in the previous year.\nThe ABS noted that promotional activities now extend throughout the entire month of November, not just concentrated on Black Friday itself, further boosting sales.\nAnalysts Cautious on Long-Term Consumer Trends Amid Retail Growth\nWhile retail spending has risen, analysts are cautious about long-term consumer trends.Ben Udy, lead economist for Oxford Economics Australia, noted that the increasing popularity of Black Friday sales has complicated efforts to track the underlying strength of consumption.\n“This makes it extremely difficult to get a read on the underlying strength of consumption from these data,” he told Reuters.\nMeanwhile, addressing inflation concerns, John Humphreys, Chief Economist at the Australian Taxpayers Alliance, told The Epoch Times that the good news is that underlying inflation is on a downward trend.\n“The bad news is that taming inflation will not fix the cost-of-living pressure, because Australia remains in a per-capita recession, with most people getting poorer consistently for the last two years.”\nHe further explained that the cost-of-living crisis is a mix of macroeconomic and microeconomic problems. “The macroeconomic problem is that the RBA and government shovelled too much money into the economy as part of their COVID panic, causing runaway inflation.”\n“The microeconomic problem is that the government has taxed and regulated the private sector to death, causing stagnant productivity and a shrinking economy,” he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->economy",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Ewing",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bureau of Statistics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Western",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:27:24.441+02:00",
+    "updated": "2025-01-10T08:27:24.441+02:00"
+}

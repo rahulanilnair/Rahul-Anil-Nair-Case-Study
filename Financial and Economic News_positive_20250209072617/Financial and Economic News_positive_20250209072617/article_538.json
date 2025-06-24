@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "ebe955e9ebaa4b17db24d0d77b310df36c601a8e",
+        "url": "https://tribune.com.pk/story/2521202/sbp-governor-promises-gradual-rate-cuts",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "SBP governor promises gradual rate cuts",
+        "title_full": "SBP governor promises gradual rate cuts",
+        "published": "2025-01-10T01:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.tribune.com.pk/media/images/Jameel-Ahmed-SBP1706533198-0/Jameel-Ahmed-SBP1706533198-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 3735,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ebe955e9ebaa4b17db24d0d77b310df36c601a8e",
+    "url": "https://tribune.com.pk/story/2521202/sbp-governor-promises-gradual-rate-cuts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Correspondent",
+    "published": "2025-01-10T01:27:00.000+02:00",
+    "title": "SBP governor promises gradual rate cuts",
+    "text": "State Bank of Pakistan (SBP) Governor Jameel Ahmed has announced that the central bank will reduce the policy rate gradually through a phase-wise approach. Speaking during a visit to the FPCCI on Thursday, the governor highlighted that consulting the FPCCI is crucial for aligning economic policies with the needs of the business community and fostering growth.\nThe FPCCI president, Atif Ikram Sheikh, urged the central bank to bring the interest rate down to single digits, arguing that the current double-digit rate is unjustifiable given the significant drop in inflation. He highlighted that inflation fell to 4.1% in December 2024, the lowest in years, and called for decisive action to support economic development and revive business confidence.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our [Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jameel Ahmed",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "State Bank",
+                "sentiment": "negative"
+            },
+            {
+                "name": "FPCCI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:38:19.501+02:00",
+    "updated": "2025-01-10T05:38:19.501+02:00"
+}

@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "9eea12605afc65ddf5bb39523afdced54218c1c5",
+        "url": "https://www.cyberdaily.au/security/11566-more-australian-companies-than-ever-are-considering-cyber-insurance",
+        "site_full": "www.cyberdaily.au",
+        "site": "cyberdaily.au",
+        "site_section": "https://cyberdaily.au/news",
+        "site_categories": [],
+        "section_title": "Cyber Daily  News - Cyber Daily",
+        "title": "More Australian companies than ever are considering cyber insurance",
+        "title_full": "More Australian companies than ever are considering cyber insurance",
+        "published": "2025-01-09T19:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/c_crop,w_1200,h_678,x_265,y_256/v1697603522/Money%20Management/insurance-form-mm_ykf8te.jpg",
+        "performance_score": 0,
+        "domain_rank": 70122,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9eea12605afc65ddf5bb39523afdced54218c1c5",
+    "url": "https://www.cyberdaily.au/security/11566-more-australian-companies-than-ever-are-considering-cyber-insurance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "<a href=\"/authors/david-hollingworth\" title=\"View all articles from David Hollingworth\">David Hollingworth</a>",
+    "published": "2025-01-09T19:50:00.000+02:00",
+    "title": "More Australian companies than ever are considering cyber insurance",
+    "text": "Share this article on:\nNew research from Arctic Woldf reveals changing attitudes to cyber insurance among Australian and New Zealand businesses.\nOrganisations in the ANZ region are starting to see cyber insurance as an essential part of their security toolkits.\n43 per cent of orgs in the region say they already have a cyber security insurance policy, while 57 per cent said they were considering getting one.\nAnd of those that have one, 61 per cent have standalone cyber insurance policies.\nThe data comes from a survey conducted by cyber security firm Arctic Wolf. The company consulted 102 security and business executives in Australia and New Zealand. Their companies had at least 50 employees, with the majority polled employing between 100 and 499 employees.\nArctic Wolf also spoke to 112 insurance carriers and brokers from the United States to establish trends in the US market.\nOf the companies that do have cyber insurance already, two per cent have had it for less than three months, but a clear majority – 39 per cent – have had a policy in place for more than two years.\nCyber security leaders are still not entirely confident with their insurance, however, with the mean confidence score out of ten coming in at only 6.8.\n“The coverage of insurance is not comprehensive enough, and many risks that I am concerned about are not included,” one Australian respondent told Arctic Wolf.\nThe cost of a cyber insurance policy continues to increase, though it is slowing at least. 61 per cent of ANZ organisations have seen the cost of their policies increase, though 44 per cent said it was only by ten per cent or less.\nThis scans with what US-based insurers are expecting. 26 per cent of insurers expect their premiums to remain the same while half expect premiums to rise by no more than ten per cent.\nThankfully, while costs are going up, so is the extent of coverage. Half of those surveyed said their policies had become more comprehensive over time, though 48 per cent said coverage had stayed the same, with two per cent reporting that their coverage had actually decreased.\n“The main challenge we have encountered is that several of the policies we have evaluated are not comprehensive enough, or it may just happen to be that our risks are not covered by them,” observed a Kiwi respondent.\nThe insurers themselves are also asking more of their customers. 43 per cent of those surveyed said their insurer had demanded more security requirements to maintain their coverage, and five per cent of respondents said that they had their coverage terminated.\nIn fact, improving an organisation’s security posture can often lead to savings on insurance, but simply getting insurance in place is not enough – the work must still be done to protect data. 60 per cent of respondents said that they focused on security training and awareness before getting their cyber insurance policy. 57 per cent worked on mitigating their exposure to risk, while 49 per cent hired additional IT or cyber security staff.\nIn New Zealand though, finding the right policy can be challenging.\n“There is a limited [number] of cyber insurance policies in our country, and so looking internationally, it’s been even that much more difficult because of the policies you hold in New Zealand and how they can occur with cyber insurance policies overseas as well as brokers overseas,” said one New Zealand respondent.\nDavid Hollingworth has been writing about technology for over 20 years, and has worked for a range of print and online titles in his career. He is enjoying getting to grips with cyber security, especially when it lets him talk about Lego.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:13:38.318+02:00",
+    "updated": "2025-01-10T08:13:38.318+02:00"
+}

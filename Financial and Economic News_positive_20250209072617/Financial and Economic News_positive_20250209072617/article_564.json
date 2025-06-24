@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "178e7767c84e9b5910347f643ace3208a5a28532",
+        "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/hawker-stabbed-after-intervening-in-fight-between-man-and-women-passengers-on-mumbai-train-23462050",
+        "site_full": "www.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://www.mid-day.com/amp",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Latest Mumbai News | India news | Entertainment News | Latest News in Mumbai, Headlines, Live Updates and Coverage | Mid-Day",
+        "title": "Fresh funding for TISS offers relief to staff",
+        "title_full": "Fresh funding for TISS offers relief to staff",
+        "published": "2025-01-10T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2025/jan/TISS-staff_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 5677,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "178e7767c84e9b5910347f643ace3208a5a28532",
+    "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/hawker-stabbed-after-intervening-in-fight-between-man-and-women-passengers-on-mumbai-train-23462050",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Web Developer",
+    "published": "2025-01-10T01:30:00.000+02:00",
+    "title": "Fresh funding for TISS offers relief to staff",
+    "text": "10 January,2025 08:10 AM IST | Mumbai | [ A Correspondent ](https://www.mid-day.com/author-detail/a-correspondent-75)\nTata Institute of Social Sciences in Denoar, Chembur. File Pic/Ashish Raje\nIn a relief for contractual teaching and non-teaching staff at the [Tata Institute of Social Sciences](https://www.mid-day.com/mumbai/mumbai-news/article/students-call-out-tiss-admission-blues-23457218) (TISS), the institute has planned to further extend the contracts of 115 employees until 2026. The announcement comes on the heels of additional funding assurances from the Tata Trusts, averting the earlier deadline of March 31, 2025, set just last month.\nThe development follows months of uncertainty for 55 faculty members and 60 non-teaching staff. Their contracts, initially funded by the Tata Education Trust (TET), were terminated on June 28, with services slated to end on June 30. TISS officials cited a funding lapse as the reason for the layoffs, explaining, \"These staff were appointed under projects funded by the [Tata Trust](https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-tata-trusts-chairman-noel-tata-meets-maharashtra-cm-devendra-fadnavis-23458646). The funding for these projects has stopped in the last few months.\"\nCriticism from the TISS community, including protests by the Progressive Students Forum (PSF), prompted TET to step in, providing enough financial support to extend the contracts until December 31. As that deadline approached, TISS granted another extension to March 31, 2025. Now, with a fresh infusion of funds, TISS has confirmed a further extension up to March 2026.\nA senior TISS official said, \"Tata Education Trust has provided assurance that resources will be made available to TISS, and a grant of R5 crore is expected. TET has committed to releasing more funds for the salaries of TET project/programme faculty and non-teaching staff, which will be sufficient up to 2026. The current extension will end on March 31, 2025.\"\nALSO READ\nTISS students’ collective launches survey to map difficulties in admission\nHow TISS is helping make Maha Kumbh 2025 a pleasant experience\nMumbai: Student forum challenges TISS study over claims of political bias\nMaharashtra assembly elections 2024: What is the TISS report about 'vote jihad'?\nMaharashtra elections 2024: How BJP shifted poll narrative to Vote Jihad\nIn the meantime, TISS has formed a committee to develop a \"new, sustainable education model,\" aiming to maintain the services of these staff members well into the future. Student representatives from PSF have welcomed the move, emphasising that retaining these [employees](https://www.mid-day.com/mumbai/mumbai-news/article/restaurant-owner-and-staff-booked-for-assaulting-police-team-in-thane-23460355) is crucial for preserving academic quality and continuity across TISS's multiple campuses.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Education"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Education->college and university",
+        "Education->students"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashish Raje",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tata Institute of Social Sciences",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tata Education Trust",
+                "sentiment": "none"
+            },
+            {
+                "name": "TISS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Denoar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:04:33.955+02:00",
+    "updated": "2025-01-10T06:04:33.955+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "7e3418075abf42815f46acd57d94b6b4e47b529d",
+        "url": "https://thefly.com:443/landingPageNews.php?id=4039762&headline=CPT-Camden-Property-just-downgraded-at-JPMorgan-heres-why&test2",
+        "site_full": "thefly.com",
+        "site": "thefly.com",
+        "site_section": "https://thefly.com/permalinks/entry.php/id3987500",
+        "site_categories": [
+            "tennis",
+            "sports"
+        ],
+        "section_title": "Meta&#039;s AI chatbot to include voices of Judi Dench, John Cena, Reuters reports META - The Fly",
+        "title": "Camden Property just downgraded at JPMorgan, here's why",
+        "title_full": "Camden Property just downgraded at JPMorgan, here's why",
+        "published": "2024-12-17T11:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://thefly.com/images/meta/streetresearch_downgrade.jpg",
+        "performance_score": 0,
+        "domain_rank": 133746,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e3418075abf42815f46acd57d94b6b4e47b529d",
+    "url": "https://thefly.com:443/landingPageNews.php?id=4039762&headline=CPT-Camden-Property-just-downgraded-at-JPMorgan-heres-why&test2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T11:12:00.000+02:00",
+    "title": "Camden Property just downgraded at JPMorgan, here's why",
+    "text": "2024-12-17 05:12:14 CPT 05:12 12/17 12/17/24 | Camden Property just downgraded at JPMorgan, here's why | ||\n---|---|---|---|\nAvailable to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n|\nJPMorgan analyst Anthony… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nJPMorgan downgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nROYMY\nPanmure Liberum upgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nCiti analyst Vivek Midha… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nGoldman Sachs downgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nJPMorgan downgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nNokia announced it has… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMizuho analyst Graig… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMorgan Stanley upgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMorgan Stanley upgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n|\nMorgan Stanley analyst… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nJMP Securities downgraded… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nCRM, WIT\nTechnology Analysts… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nHealthcare Analysts… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nSmall Group Luncheon… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMeeting to be held in New… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMeeting to be held in New… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nVirtual Meeting to be… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMeeting to be held with… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nMeeting to be held on… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n|\nMeeting to be held in… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nAnalyst Summerville holds… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nAnalyst Newitter holds a… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nAnalyst Sommer holds a… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n| |\nAnalyst Newitter holds a… Available to The Fly Members Only Breaking content available to members only. Sign up or login for access.\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vivek Midha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anthony",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "JPMorgan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Goldman Sachs",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nokia",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:14:35.641+02:00",
+    "updated": "2024-12-17T12:14:35.641+02:00"
+}

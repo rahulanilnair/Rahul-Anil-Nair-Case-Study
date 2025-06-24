@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "e5a070d4f4af3e611a44d710f81783d435e67055",
+        "url": "https://ca.investing.com/news/stock-market-news/nvidia-evgo-and-affirm-fall-premarket--pfizer-and-solaredge-rise-3756319",
+        "site_full": "ca.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ca.investing.com/news/latest-news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Financial News - Investing.com Canada",
+        "title": "Nvidia, Evgo and Affirm fall premarket; Pfizer and SolarEdge rise By Investing.com",
+        "title_full": "Nvidia, Evgo and Affirm fall premarket; Pfizer and SolarEdge rise By Investing.com",
+        "published": "2024-12-17T14:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEK330I8_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e5a070d4f4af3e611a44d710f81783d435e67055",
+    "url": "https://ca.investing.com/news/stock-market-news/nvidia-evgo-and-affirm-fall-premarket--pfizer-and-solaredge-rise-3756319",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peter Nurse",
+    "published": "2024-12-17T14:58:00.000+02:00",
+    "title": "Nvidia, Evgo and Affirm fall premarket; Pfizer and SolarEdge rise By Investing.com",
+    "text": "Investing.com -- US stock futures slipped lower Tuesday ahead of the start of the final Federal Reserve policy meeting this year, which could see policymakers signal a more cautious stance to monetary policy loosening going forward.\nHere are some of the biggest premarket US stock movers today:\nNvidia (NASDAQ: NVDA ) stock fell 1.6%, continuing the chipmaker’s recent weakness which has resulted in the stock entering correction territory.\nPfizer (NYSE: PFE ) stock rose 2.9% after the drugmaker said it was expecting its 2025 profits to be nearly in line with expectations, with the company reining in costs and cutting debt by shedding non-core businesses as its rebuilds itself post a sharp slump in sales of COVID-19 products.\nCoinbase (NASDAQ: COIN ) stock rose 0.8% and MicroStrategy (NASDAQ: MSTR ) stock climbed 0.7%, with the crypto-focused stocks rallying as bitcoin surpassed $107,000.\nAlbertsons Companies (NYSE: ACI ) stock rose 1% after Telsey Advisory Group upgraded its stance on the supermarket group to \"outperform\" from \"market perform.\"\nEvgo (NASDAQ: EVGO ) stock slumped 22% after the EV charging provider announced the closing of its $1.25 billion guaranteed loan facility from the US Department of Energy to construct 7,500 new fast charging stalls nationwide.\nSolarEdge (NASDAQ: SEDG ) stock rose 13% after Goldman Sachs (NYSE: GS ) upgraded its stance on the solar company to ‘buy’ from ‘sell’, saying 2025 will mark a major turnaround.\nRed Cat (NASDAQ: RCAT ) stock slumped 12%, handing back a portion of the previous session’s 27% gains after the drone company announced a partnership with Palantir (NASDAQ: PLTR ).\nAffirm (NASDAQ: AFRM ) stock fell 3.7% after the fintech company announced a private offering of $750 million of convertible senior notes and said it plans to repurchase up to $300 million of common stock.\nStellantis (NYSE: STLA ) stock rose 2.1% after Reuters reported that the auto giant will assign a new mass market model to one of its Italian plants as part of a long-term production plan due to be presented to the Italian government.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:04:30.903+02:00",
+    "updated": "2024-12-17T15:04:30.903+02:00"
+}

@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "cf33048968d07332a891bc0eead9ea804e06dd9a",
+        "url": "https://www.newsbreak.com/wish-tv-2107872/3753284158132-how-to-fight-back-against-shrinkflation-purdue-university-expert-shares-tips-to-avoid-wasting-money",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wish-tv-2107872",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WISH-TV&#x27;s Home Page | NewsBreak",
+        "title": "How to fight back against shrinkflation: Purdue University expert shares tips to avoid wasting money - NewsBreak",
+        "title_full": "How to fight back against shrinkflation: Purdue University expert shares tips to avoid wasting money - NewsBreak",
+        "published": "2025-01-10T00:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0slOYA_0y1tyhgz00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf33048968d07332a891bc0eead9ea804e06dd9a",
+    "url": "https://www.newsbreak.com/wish-tv-2107872/3753284158132-how-to-fight-back-against-shrinkflation-purdue-university-expert-shares-tips-to-avoid-wasting-money",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emily Reuben",
+    "published": "2025-01-10T00:58:00.000+02:00",
+    "title": "How to fight back against shrinkflation: Purdue University expert shares tips to avoid wasting money - NewsBreak",
+    "text": "By Emily Reuben ,\n2 hours ago\n1-9-25 Focus on Food INDIANAPOLIS (WISH) -If your grocery trips are starting to feel more expensive, but your bags are getting lighter, you’re not alone.\nShrinkflation is when companies reduce the size of their products but keep prices the same. Director of Food Demand Analysis and Sustainability at Purdue University, Joe Balagtas, shared insights on how consumers can fight against this growing trend.\nBalagtas recommends the following tips:\nCheck Labels : Always compare the unit price and the volume of products before purchasing. Many consumers focus on price alone but overlook package sizes, which can lead to purchasing smaller amounts without realizing it.\nLook for Alternatives : If a product has shrunk, compare it to other brands or larger sizes. For example, some ice cream brands still offer 64-ounce cartons, while others have reduced their half-gallon size to 48 ounces. Opt for the larger size to get more for your money.\nStore Brands Aren’t Always the Answer : While many people turn to store brands for savings, shrinkflation has also affected these brands. Check the size and unit price, not just the brand. Shrinkflation may seem inevitable, but by staying informed and paying attention to package sizes and unit prices, you can get the best bang for your buck.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->economy",
+        "Lifestyle and Leisure->organic food",
+        "Health->health care approach",
+        "Health->diet"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0slOYA_0y1tyhgz00",
+        "https://img.particlenews.com/image.php?url=0slOYA_0y1tyhgz00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=0slOYA_0y1tyhgz00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0slOYA_0y1tyhgz00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emily Reuben",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joe Balagtas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Purdue University",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Food Demand Analysis",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "cf33048968d07332a891bc0eead9ea804e06dd9a",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:52:13.970+02:00",
+    "updated": "2025-01-10T03:11:50.173+02:00"
+}

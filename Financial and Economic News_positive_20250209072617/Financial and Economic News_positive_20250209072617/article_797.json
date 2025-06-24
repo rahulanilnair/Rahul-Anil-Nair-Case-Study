@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "c90d49a43b6fb51cb31f81748efa2467e6eb8d12",
+        "url": "https://agra.org/news/agra-appoints-alice-ruhweza-as-next-president",
+        "site_full": "agra.org",
+        "site": "agra.org",
+        "site_section": "https://www.agra.org",
+        "site_categories": [
+            "agriculture",
+            "business"
+        ],
+        "section_title": "AGRA - Sustainably Growing Africa's Food Systems",
+        "title": "AGRA Appoints Alice Ruhweza as next President",
+        "title_full": "AGRA Appoints Alice Ruhweza as next President",
+        "published": "2025-01-10T04:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TZ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 94554,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c90d49a43b6fb51cb31f81748efa2467e6eb8d12",
+    "url": "https://agra.org/news/agra-appoints-alice-ruhweza-as-next-president",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AGRA",
+    "published": "2025-01-10T04:45:00.000+02:00",
+    "title": "AGRA Appoints Alice Ruhweza as next President",
+    "text": "Nairobi, 10 th January 2025 – The Alliance for a Green Revolution in Africa (AGRA) is proud to announce the appointment of Alice Ruhweza as its next President, effective March 1st, 2025. This appointment follows a thorough and comprehensive selection process in partnership with Spencer Stuart. The incoming president, Alice Ruhweza will succeed Dr. Agnes Kalibata, who has successfully led AGRA through two transformative terms.\nAlice Ruhweza brings extensive expertise as a Global Thought leader, a Systems Thinker and International Development Expert. Her 28-year career, working at the intersection of economic, social and environmental policy and practice, encompasses leadership and board roles in Government, the private sector, the United Nations, and major international NGOs. She joins us from the World Wide Fund for Nature where she has been a passionate advocate for, among other things, the critical role that inclusive agri-food systems play in combatting climate change, reversing environmental degradation, and delivering nutrition security and improved livelihoods for millions of Africans. Her leadership will be instrumental in driving AGRA’s mission to catalyze agricultural transformation and food security across Africa.\nQuote from Board Chair:\n‘’We are excited to welcome Alice Ruhweza as AGRA’s next President. Her extensive international experience and profound understanding of the African landscape equip her to navigate diverse cultures and drive collaboration across sectors. We believe she has what it takes to build on the solid foundation Dr. Agnes Kalibata established and developed. The Board is looking to her leadership to galvanize sector actors and foster a collaborative, results-oriented, and participatory culture that AGRA aspires to. As we face unprecedented challenges, her guidance will ensure that we remain a listening, engaging institution demonstrating progress and supporting countries in expediting their development,” said AGRA’s Board Chair, H.E. Hailemariam Dessalegn.\nQuote from Outgoing President:\n “As I transition from my role as President of AGRA, I reflect with immense pride on our transformative journey over the past ten years. The support of the board, partners, and staff has been instrumental in building AGRA into a leading African institution with a strong set of transferable assets that it is deploying to achieve the results we celebrate today. AGRA is now in a strong position to meet the challenges ahead and the expectation to do more for small-holder farmers. I am excited to pass the torch to Alice Ruhweza, whose leadership will drive us forward. I look forward to working with you all to support Alice and AGRA to achieve even greater heights. “ said Dr. Agnes Kalibata.\nQuote from Incoming President:\n“Agri- food systems are Africa’s biggest lever for economic growth, job creation, livelihood improvement and in addressing climate change. However, the agricultural sector is still at risk from economic volatility, geopolitical tensions, and other complex crises.\nFor Africa to achieve its goal of sustainable and resilient agri-food systems, the next five years demand urgency, ambition, and decisive action including bold investments in research and development, innovative technologies, inclusive, climate smart and environmental friendly farming practices, more comprehensive extension services and policy frameworks that are coherent and aligned.\nI am honored to join AGRA at such a critical juncture as African leaders convene to adopt the Comprehensive Africa Agriculture Development Programme, or CAADP, strategy and action plan for 2026-2035. I look forward to building on Dr. Agnes Kalibata’s achievements and collaborating with our partners, stakeholders, and the dedicated members of the AGRA Board and Staff to advance our shared vision of a food-secure Africa in service of small holder farmers.” – Alice Ruhweza\nAbout AGRA\nEstablished in 2006, AGRA is an African-led and Africa-based institution dedicated to placing smallholder farmers at the core of the continent’s burgeoning economy. AGRA’s mission is to transform agriculture from a mere struggle for survival into a thriving business. In collaboration with its partners, AGRA catalyzes and sustains an inclusive agricultural transformation aimed at increasing incomes and enhancing food security in 12 countries.\nFor media inquiries, please contact:\nAggie Konde\nDirector – Communications, External Engagement & Advocacy\nakonde@agra.org",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->government",
+        "Politics->heads of government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->corporate governance and csr",
+        "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alice Ruhweza",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Agnes Kalibata",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:33:59.231+02:00",
+    "updated": "2025-01-10T08:33:59.231+02:00"
+}

@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "12f3d2d525d6455307ae06764d17afeda77bcbba",
+        "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-044-3805597",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://investing.com/commodities/crude-oil",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Crude Oil Futures Price Today (WTI) - Investing.com",
+        "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.44% By Investing.com",
+        "title_full": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.44% By Investing.com",
+        "published": "2025-01-09T15:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1167,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12f3d2d525d6455307ae06764d17afeda77bcbba",
+    "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-044-3805597",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2025-01-09T15:30:00.000+02:00",
+    "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.44% By Investing.com",
+    "text": "Investing.com – Mexico stocks were higher after the close on Thursday, as gains in the Industrials , Consumer Goods & Services and Consumer Staples sectors led shares higher.\nAt the close in Mexico, the S&P/BMV IPC gained 0.44%.\nThe best performers of the session on the S&P/BMV IPC were Bolsa Mexicana De Valores SAB De CV (BMV: BOLSAA ), which rose 2.36% or 0.77 points to trade at 33.33 at the close. Meanwhile, Banco Del Bajio SA Institution De Banca Multiple (BMV: BBAJIOO ) added 2.31% or 1.00 points to end at 44.25 and Genomma Lab Internacional SAB De CV (BMV: LABB ) was up 2.30% or 0.60 points to 26.70 in late trade.\nThe worst performers of the session were Coca-Cola Femsa SAB de CV (BMV: KOFUBL ), which fell 2.23% or 3.45 points to trade at 151.28 at the close. Cemex SAB de CV (BMV: CEMEXCPO ) declined 1.99% or 0.23 points to end at 11.30 and GCC SAB de CV (BMV: GCC ) was down 1.59% or 3.02 points to 187.09.\nRising stocks outnumbered declining ones on the Mexico Stock Exchange by 94 to 39 and 18 ended unchanged.\nGold Futures for February delivery was up 0.72% or 19.30 to $2,691.70 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February rose 1.20% or 0.88 to hit $74.20 a barrel, while the March Brent oil contract rose 1.35% or 1.03 to trade at $77.19 a barrel.\nUSD/MXN was up 0.70% to 20.51, while EUR/MXN rose 0.53% to 21.13.\nThe US Dollar Index Futures was up 0.07% at 109.00.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "S&P",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Banco Del Bajio SA Institution De Banca Multiple",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bolsa Mexicana De Valores SAB",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "12f3d2d525d6455307ae06764d17afeda77bcbba",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:34:10.310+02:00",
+    "updated": "2025-01-10T00:34:10.310+02:00"
+}

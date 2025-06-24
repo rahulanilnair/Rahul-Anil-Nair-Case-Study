@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "179f7743b376f888d8f529a40caa61ef34154794",
+        "url": "https://article.wn.com/view/2025/01/09/Omans_Minister_of_Commerce_congratulates_India_for_its_econo",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Business",
+        "title": "Oman's Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - Worldnews.com",
+        "title_full": "Oman's Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "179f7743b376f888d8f529a40caa61ef34154794",
+    "url": "https://article.wn.com/view/2025/01/09/Omans_Minister_of_Commerce_congratulates_India_for_its_econo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Oman's Minister of Commerce congratulates India for its economic growth, says impressive transformation over the last 20 years - Worldnews.com",
+    "text": "Muscat [Oman], January 10 (ANI): Oman's Minister of Commerce, Industry, and Investment Promotion, Qais bin Mohammad Al Yousef, on Thursday lauded India's economic growth and congratulated its leadership for the country's remarkable transformation over the past two decades. During a media interaction in Oman's capital of",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->economic policy",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mohammad Al Yousef",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Commerce",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:08:04.961+02:00",
+    "updated": "2025-01-10T00:08:04.961+02:00"
+}

@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "e9757442f0536c3e9a531d19298d4b695b299b94",
+        "url": "https://www.bahamaslocal.com/newsitem/329114/Former_Finance_Minister_applauds_VAT_cut_but_wants_exemptions_restored.html",
+        "site_full": "www.bahamaslocal.com",
+        "site": "bahamaslocal.com",
+        "site_section": "https://www.bahamaslocal.com/news/",
+        "site_categories": [],
+        "section_title": "Bahamas Local : News",
+        "title": "Former Finance Minister applauds VAT cut, but wants exemptions restored | Bahamas Local News",
+        "title_full": "Former Finance Minister applauds VAT cut, but wants exemptions restored | Bahamas Local News",
+        "published": "2025-01-09T23:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 16363,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e9757442f0536c3e9a531d19298d4b695b299b94",
+    "url": "https://www.bahamaslocal.com/newsitem/329114/Former_Finance_Minister_applauds_VAT_cut_but_wants_exemptions_restored.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bahamaslocal.com",
+    "published": "2025-01-09T23:50:00.000+02:00",
+    "title": "Former Finance Minister applauds VAT cut, but wants exemptions restored | Bahamas Local News",
+    "text": "[This post contains video, click to play]\nNASSAU, BAHAMAS — While he applauded the Davis administration's move to reduce Value Added Tax (VAT) on food items to five percent, Former Minister of Finance Peter Turnquest suggested that the government could go further and take VAT completely off food items.\nThe reduced VAT on food items to 5% is expected to take effect on April 1, 2025.\nTurnquest explained that \"given the cost of living today both from imported and self-created inflation and cost of doing business... the exemption should have been restored to zero, which would have given more significant relief to the Bahamian people.\"\nHe cautioned the Davis administration to review its expenditure to ensure that it does not end up \"blowing up the budget\" in the short term for political motives.\n\"We have to be concerned with the fact that government is now reducing the revenue intake of the Value Added Tax on grocery items which is a significant part of consumption, spending and what that means to the overall budget estimates for the year.\n\"We have to be concerned about the signals that are being sent to the credit markets and what that means to the short- and long-term deficit,\" Turnquest said. Click here to read more on the Eye Witness News website",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ewnews.com/former-finance-minister-applauds-vat-cut-but-wants-exemptions-restored/?utm_source=rss&utm_medium=rss&utm_campaign=former-finance-minister-applauds-vat-cut-but-wants-exemptions-restored",
+        "https://www.ewnews.com/former-finance-minister-applauds-vat-cut-but-wants-exemptions-restored/?utm_source=rss&utm_medium=rss&utm_campaign=former-finance-minister-applauds-vat-cut-but-wants-exemptions-restored",
+        "https://ewnews.com/former-finance-minister-applauds-vat-cut-but-wants-exemptions-restored/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Peter Turnquest",
+                "sentiment": "none"
+            },
+            {
+                "name": "Davis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:57:19.511+02:00",
+    "updated": "2025-01-10T01:57:19.511+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "8e7bc9dfda78ee57d9daad9e1adaa4f92d669f4d",
+        "url": "https://thesun.ng/ngx-gains-1-25-as-mtnn-others-propel-market-to-9-month-high",
+        "site_full": "thesun.ng",
+        "site": "thesun.ng",
+        "site_section": "https://www.sunnewsonline.com",
+        "site_categories": [],
+        "section_title": "The Sun Nigeria &ndash; Voice of the Nation",
+        "title": "NGX gains 1.25% as MTNN, others propel market to 9-month high",
+        "title_full": "NGX gains 1.25% as MTNN, others propel market to 9-month high",
+        "published": "2025-01-10T06:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 53765,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e7bc9dfda78ee57d9daad9e1adaa4f92d669f4d",
+    "url": "https://thesun.ng/ngx-gains-1-25-as-mtnn-others-propel-market-to-9-month-high",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rapheal",
+    "published": "2025-01-10T06:17:00.000+02:00",
+    "title": "NGX gains 1.25% as MTNN, others propel market to 9-month high",
+    "text": "The Nigerian Exchange Limited (NGX) All-Share Index (ASI) on Thursday added 1.25 per cent marking its largest daily gain in over nine months.\nThe ASI close at 105,530.74 points from an opening value of 104,230.73. The rally was driven by significant gains in market heavyweights such as MTNN, which soared by 10.00 per cent, Transcorp Hotels (TRANSCOHOT) up by 9.78 per cent, and Zenith Bank (ZENITHBANK), which appreciated by 4.49 per cent. These positive movements outweighed declines in WAPCO which shed 1.41 per cent and First Bank of Nigeria Holdings (FBNH), which fell by 1.27 per cent. Market breadth was positive, with 34 gainers outnumbering 24 losers, as MTNN emerged as the top gainer while RT Briscoe (RTBRISCOE) led the laggards with a 9.99 per cent drop.\nDespite the impressive performance of the index, trading activity weakened, with total volume traded dropping by 35.28 per cent to 489.53 million units, while total value traded declined by 47.07 per cent to N13.07 billion. Universal Insurance (UNIVINSURE) led volume trading, exchanging 97.23 million units, representing 19.86 per cent of total volume, while Seplat Energy (SEPLAT) topped the value chart with trades worth N4.56 billion, accounting for 34.86 per cent of the total value. Sectoral performance was mixed, as positive sentiment lifted the Banking, Consumer Goods, Commodity, and Oil and Gas indices.\nGains in Zenith Bank (+4.49%), International Breweries (INTBREW, +3.85%), Presco (+7.10%), and Oando (+0.40%) contributed to the upbeat performance in these sectors. However, the Insurance index fell by 1.38 per cent, weighed down by persistent selloffs in Sunu Assurances (SUNUASSUR, -9.99%), while the Industrial Goods index dipped by 0.17 per cent, following a decline in WAPCO (-1.41%).\nIn the bond market, the Federal Government of Nigeria (FGN) secondary bond segment remained subdued, with mild bearish sentiment pushing yields higher on the APR-32 and MAR-36 maturities, which rose by 37bps and 27bps, respectively. This caused the mid-segment of the yield curve to expand by 7bps, resulting in an average yield of 19.80%. Analysts noted that investor optimism in select blue-chip stocks propelled the equity market, even as trading volumes and values declined.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "First Bank of Nigeria Holdings",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zenith Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:06:26.919+02:00",
+    "updated": "2025-01-10T07:06:26.919+02:00"
+}

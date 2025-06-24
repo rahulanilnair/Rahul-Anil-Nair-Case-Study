@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "8b9c1aa4a1ecde2b5df20154a47d5a2d84a6e635",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-banking-liquidity-deficit-hits-highest-six-months",
+        "site_full": "www.businesstimes.com.sg",
+        "site": "businesstimes.com.sg",
+        "site_section": "https://businesstimes.com.sg/rss.xml",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "The Business Times",
+        "title": "Indian banking liquidity deficit hits highest in six months",
+        "title_full": "Indian banking liquidity deficit hits highest in six months",
+        "published": "2024-12-17T06:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/6d9808ab231d8d6a14f5fc64fa616e03aaff5b223529edc701c544200fc0c2b9",
+        "performance_score": 0,
+        "domain_rank": 5122,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b9c1aa4a1ecde2b5df20154a47d5a2d84a6e635",
+    "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-banking-liquidity-deficit-hits-highest-six-months",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T06:27:00.000+02:00",
+    "title": "Indian banking liquidity deficit hits highest in six months",
+    "text": "The rupee hit a new record low of 84.9337 per dollar on Tuesday The liquidity deficit in the Indian banking system hit the highest in nearly six months on advance tax payments by companies and likely dollar sales by the central bank to curb rupee volatility. The banking system cash deficit, as measured by banks’ borrowings from the Reserve Bank of India, was at 1.5 trillion rupees (S$23.8 billion) as of Monday (Dec 16), the highest since June 24, according to a Bloomberg Economics index. The RBI has been net selling dollars since October, which has resulted in a substantial drain on liquidity, according to IDFC First Bank. The banking liquidity may widen further on the prospect of the RBI intervening in the currency market to curb currency losses amid a rising trade deficit and a stronger dollar. The rupee hit a new record low of 84.9337 per dollar on Tuesday. The cash deficit widened even as the central bank has recently taken steps to boost banking liquidity, including a cut in the cash-reserve ratio and higher amounts of funds offered through so-called variable rate repo auctions. “Even after the CRR cut, at the most, the headline liquidity is likely to be neutral to marginally negative,” Standard Chartered Bank economist Anubhuti Sahay said. “More measures are required to boost or keep liquidity in surplus going forward, either through open-market-bond purchases, more term repos, FX swaps or another CRR cut.” The cash shortfall pushed up the interbank weighted average call rate – a benchmark for overnight borrowing costs – to as much as 35 basis points above the central bank’s benchmark repo rate of 6.50%. Indian companies’ advance tax payments, which come due in the last month of each quarter, are adding to the liquidity strain. A typical increase in cash withdrawals from banks toward the end of the year due to festive demand is also contributing to the deficit. The latest round of quarterly advance tax outflows have drained the banking system of funds worth 1.4 trillion rupees, according to Gaura Sengupta, chief economist at IDFC First Bank. BLOOMBERG Share with us your feedback on BT's products and services [more in Banking & Finance](/companies-markets/banking-finance) [](/companies-markets/banking-finance/indian-banking-liquidity-deficit-hits-highest-six-months)Dec 17, 2024 07:27 PM [China capital markets outflow hits record high in November after Trump election win](/companies-markets/banking-finance/china-capital-markets-outflow-hits-record-high-november-after-trump-election-win)Dec 17, 2024 10:14 AM [French central bank cuts 2025 growth forecast to 0.9%](/companies-markets/banking-finance/french-central-bank-cuts-2025-growth-forecast-0-9)Dec 17, 2024 07:11 AM [Perpetual-KKR deal not best for shareholders after tax bill surge, says board expert](/companies-markets/banking-finance/perpetual-kkr-deal-not-best-shareholders-after-tax-bill-surge-says-board-expert)Dec 17, 2024 07:04 AM [Trump touts US$100 billion SoftBank investment, vowing 100,000 jobs](/international/global/trump-touts-us100-billion-softbank-investment-vowing-1 -jobs)Dec 17, 2024 06:53 AM [Dollar hovers near 3-week high before Fed meeting; bitcoin tops US$106,000](/companies-markets/banking-finance/dollar-hovers-near-3-week-high-fed-meeting-bitcoin-tops-us106000)Dec 16, 2024 09:08 PM [Bitcoin powers above US$106,000 for first time](/companies-markets/banking-finance/bitcoin-powers-above-us106000-first-time)Dec 16, 2024 08:09 AM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reserve Bank of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg Economics",
+                "sentiment": "none"
+            },
+            {
+                "name": "IDFC First Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:39:32.232+02:00",
+    "updated": "2024-12-17T13:39:32.232+02:00"
+}

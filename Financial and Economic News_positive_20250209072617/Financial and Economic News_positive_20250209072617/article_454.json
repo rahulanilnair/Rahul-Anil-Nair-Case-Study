@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "59fd5d6c3913b9cbd574c569f0f538370036171d",
+        "url": "https://www.tipranks.com/news/company-announcements/gold-hydrogen-ltd-lists-new-securities-on-asx-to-boost-market-presence",
+        "site_full": "www.tipranks.com",
+        "site": "tipranks.com",
+        "site_section": "https://tipranks.com/news",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "stocks"
+        ],
+        "section_title": "Stock Market News, Research and Analyst Forecasts | TipRanks - TipRanks.com",
+        "title": "Gold Hydrogen Ltd. Lists New Securities on ASX to Boost Market Presence",
+        "title_full": "Gold Hydrogen Ltd. Lists New Securities on ASX to Boost Market Presence",
+        "published": "2025-01-10T03:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Energy-2-750x406.jpg",
+        "performance_score": 0,
+        "domain_rank": 15433,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "59fd5d6c3913b9cbd574c569f0f538370036171d",
+    "url": "https://www.tipranks.com/news/company-announcements/gold-hydrogen-ltd-lists-new-securities-on-asx-to-boost-market-presence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/news/author/tipranksaustraliannewsdesk",
+    "published": "2025-01-10T03:47:00.000+02:00",
+    "title": "Gold Hydrogen Ltd. Lists New Securities on ASX to Boost Market Presence",
+    "text": "Stay Ahead of the Market:\n- Discover outperforming stocks and invest smarter with\n[Top Smart Score Stocks](https://www.tipranks.com/screener/top-smart-score-stocks) - Filter, analyze, and streamline your search for investment opportunities using\n[Tipranks' Stock Screener](https://www.tipranks.com/screener/stocks)\nGold Hydrogen Ltd. ( [(AU:GHY)](https://www.tipranks.com/stocks/au:ghy) ) has provided an announcement.\nGold Hydrogen Ltd. announced the quotation of 83,076,977 fully paid ordinary securities on the Australian Securities Exchange. This move is expected to enhance the company’s market presence and liquidity, potentially attracting more investors and stakeholders to its innovative hydrogen energy solutions.\nMore about Gold Hydrogen Ltd.\nGold Hydrogen Ltd. operates in the energy sector, focusing on the production and distribution of hydrogen. The company is involved in innovative approaches to hydrogen generation, positioning itself as a leader in the renewable energy market.\nYTD Price Performance: 4.84%\nAverage Trading Volume: 207,465\nTechnical Sentiment Consensus Rating: Buy\nSee more data about GHY stock on [TipRanks’ Stock Analysis page](https://www.tipranks.com/stocks/au:ghy/stock-analysis).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ASX",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gold Hydrogen Ltd.",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Securities Exchange",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:28:00.979+02:00",
+    "updated": "2025-01-10T04:28:00.979+02:00"
+}

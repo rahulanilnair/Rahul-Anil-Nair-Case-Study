@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "8ec42cd7549bc02057029d058db4d4416066640d",
+        "url": "https://www.aktiencheck.de/news/Artikel-Siemens_Energy_Stock_Strong_Rally_Amid_Data_Center_Growth-18050584",
+        "site_full": "www.aktiencheck.de",
+        "site": "aktiencheck.de",
+        "site_section": "http://m.aktiencheck.de/rss/news_english.rss2",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "aktiencheck.de - News - englisch",
+        "title": "Siemens Energy Stock: Strong Rally Amid Data Center Growth",
+        "title_full": "Siemens Energy Stock: Strong Rally Amid Data Center Growth",
+        "published": "2025-01-10T00:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 95442,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ec42cd7549bc02057029d058db4d4416066640d",
+    "url": "https://www.aktiencheck.de/news/Artikel-Siemens_Energy_Stock_Strong_Rally_Amid_Data_Center_Growth-18050584",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "aktiencheck.de AG",
+    "published": "2025-01-10T00:21:00.000+02:00",
+    "title": "Siemens Energy Stock: Strong Rally Amid Data Center Growth",
+    "text": "Siemens Energy Stock: Strong Rally Amid Data Center Growth\n10.01.25 01:21\n[Börse Global (en)](/news/category_site?site=bgen)\nSiemens Energy's stock demonstrated remarkable momentum on the XETRA exchange, climbing 3.3% to reach €52.16, with trading volume exceeding 1.1 million shares. The company's shares have shown extraordinary recovery from their January 2024 low of €11.26, nearly quintupling in value over the period. This impressive performance comes amid the company's strategic positioning in the growing data center infrastructure market, particularly in the United States, where significant investments have been announced. The energy technology giant's expertise in power supply systems and network infrastructure for AI computing centers positions it favorably in this expanding sector.\nFinancial Outlook\nAnalysts project an optimistic financial trajectory for 2025, with earnings per share expected to reach €0.745. Following a dividend suspension in 2024, experts anticipate a dividend payment of €0.053 per share in the coming year. The company has already shown signs of financial improvement, significantly reducing its quarterly loss per share from €1.04 to €0.34. However, some analysts maintain a cautious stance, with the average price target currently set at €42.50, reflecting a measured outlook despite the stock's recent strong performance.\nAd\nSiemens Energy Stock: New Analysis - 10 January\nFresh Siemens Energy information released. What's the impact for investors? Our latest independent report examines recent figures and market trends.\nRead our updated Siemens Energy analysis... [mehr >](/siemens_energy_ag-aktie/aktienkurse_boersenplaetze)\n|Kurs||Vortag||Veränderung||Datum/Zeit|\n|51,90 €||50,50 €||1,40 €||+2,77%||09.01./17:45|\n|ISIN||WKN||Jahreshoch||Jahrestief|\n|DE000ENER6Y0||ENER6Y||55,26 €||11,26 €|\n|Handelsplatz||Letzter||Veränderung||Zeit|\n|\n||52,06 €||+3,13%||09.01.25|\n|\n|[Düsseldorf](/siemens_energy_ag-aktie/times_and_sales?boerse_id=0) [Hannover](/siemens_energy_ag-aktie/times_and_sales?boerse_id=3) [München](/siemens_energy_ag-aktie/times_and_sales?boerse_id=4) [Frankfurt](/siemens_energy_ag-aktie/times_and_sales?boerse_id=1) [Stuttgart](/siemens_energy_ag-aktie/times_and_sales?boerse_id=5) [Berlin](/siemens_energy_ag-aktie/times_and_sales?boerse_id=17) [Xetra](/siemens_energy_ag-aktie/times_and_sales?boerse_id=6) [Nasdaq OTC Other](/siemens_energy_ag-aktie/times_and_sales?boerse_id=83)\n|\n|\n|Antw.||Thema||Zeit|\n|5373||\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Siemens Energy",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:08:16.569+02:00",
+    "updated": "2025-01-10T03:08:16.569+02:00"
+}

@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "f9f57a1f28045c1857d41ea735b9dab97d946d94",
+        "url": "https://www.columbian.com/news/2024/dec/17/making-sense-of-washingtons-multibillion-dollar-budget-hole",
+        "site_full": "www.columbian.com",
+        "site": "columbian.com",
+        "site_section": "https://www.columbian.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Columbian",
+        "title": "Making sense of Washington’s multibillion-dollar budget hole",
+        "title_full": "Making sense of Washington’s multibillion-dollar budget hole",
+        "published": "2024-12-17T12:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.columbian.com/wp-content/uploads/2024/12/1217_met_WSS-WA-Capitol.jpg",
+        "performance_score": 0,
+        "domain_rank": 7531,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f9f57a1f28045c1857d41ea735b9dab97d946d94",
+    "url": "https://www.columbian.com/news/2024/dec/17/making-sense-of-washingtons-multibillion-dollar-budget-hole",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Washington State Standard",
+    "published": "2024-12-17T12:05:00.000+02:00",
+    "title": "Making sense of Washington’s multibillion-dollar budget hole",
+    "text": "Washington state\\u2019s budget is, to put it nicely, in a world of hurt.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ofm.wa.gov/sites/default/files/public/legacy/agencycommunications/FY2025/Budget%20Reductions%20for%20Fiscal%20Year%202025%20and%202025-27%20Biennium.pdf",
+        "https://www.ofm.wa.gov/sites/default/files/public/legacy/agencycommunications/FY2025/Budget%20Reductions%20for%20Fiscal%20Year%202025%20and%202025-27%20Biennium.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jay Inslee",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:19:25.297+02:00",
+    "updated": "2024-12-17T17:30:45.556+02:00"
+}

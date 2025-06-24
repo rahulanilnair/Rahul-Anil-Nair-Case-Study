@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "057838b6bd7879ee318d46bae7a98a092c65c3be",
+        "url": "https://www.aviation24.be/organisations/iata-international-air-transport-association/global-passenger-demand-continues-to-surge-in-november-2024",
+        "site_full": "www.aviation24.be",
+        "site": "aviation24.be",
+        "site_section": "https://www.aviation24.be",
+        "site_categories": [
+            "travel",
+            "air_travel"
+        ],
+        "section_title": "Aviation24.be - Latest News &amp; Breaking Stories - Discussion Forums",
+        "title": "Global passenger demand continues to surge in November 2024",
+        "title_full": "Global passenger demand continues to surge in November 2024",
+        "published": "2025-01-09T22:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BE",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 48574,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "057838b6bd7879ee318d46bae7a98a092c65c3be",
+    "url": "https://www.aviation24.be/organisations/iata-international-air-transport-association/global-passenger-demand-continues-to-surge-in-november-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bart Noëth",
+    "published": "2025-01-09T22:20:00.000+02:00",
+    "title": "Global passenger demand continues to surge in November 2024",
+    "text": "Passenger demand saw a robust 8.1% year-on-year increase in November 2024, according to data released by the International Air Transport Association (IATA). Measured in revenue passenger kilometers (RPK), this growth outpaced the 5.7% increase in capacity, pushing the global load factor to a record-breaking 83.4% for the month. Strong performance in both international and domestic markets highlighted a continued recovery in the aviation sector, with European and Asia-Pacific airlines driving international growth.\nInternational passenger demand rose by an impressive 11.6% compared to November 2023, with capacity increasing by 8.6%. The Asia-Pacific region led the way with a remarkable 19.9% rise in RPK, supported by a 16.2% capacity boost. European carriers followed with a 9.4% demand increase and the highest regional load factor at 85.0%. Meanwhile, domestic markets recorded a modest 3.1% growth, with India and China posting double-digit gains. However, the US domestic market experienced a 2.7% contraction, reflecting reduced activity among low-cost carriers.\nIATA’s Director General Willie Walsh highlighted supply chain challenges affecting aircraft deliveries, which continue to hinder airlines’ ability to meet demand, modernize their fleets, and enhance environmental performance. He emphasized the urgent need for aerospace manufacturers to resolve these issues to support the aviation sector’s growth and sustainability efforts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->transport",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->communities",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "International Air Transport Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "IATA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Asia-Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:06:47.035+02:00",
+    "updated": "2025-01-10T00:06:47.035+02:00"
+}

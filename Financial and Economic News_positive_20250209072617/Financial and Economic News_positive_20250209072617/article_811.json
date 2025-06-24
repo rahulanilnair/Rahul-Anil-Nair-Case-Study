@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "65636ba41a7e7b13fc0712133a37b9179e431e34",
+        "url": "https://www.newsbreak.com/the-bulletin-1590648/3753332978909-unemployment-claims-in-connecticut-declined-last-week",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-bulletin-1590648",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Bulletin&#x27;s Home Page | NewsBreak",
+        "title": "Unemployment claims in Connecticut declined last week - NewsBreak",
+        "title_full": "Unemployment claims in Connecticut declined last week - NewsBreak",
+        "published": "2025-01-10T06:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65636ba41a7e7b13fc0712133a37b9179e431e34",
+    "url": "https://www.newsbreak.com/the-bulletin-1590648/3753332978909-unemployment-claims-in-connecticut-declined-last-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:36:00.000+02:00",
+    "title": "Unemployment claims in Connecticut declined last week - NewsBreak",
+    "text": "By Staff reports ,\n7 hours ago Initial filings for unemployment benefits in Connecticut dropped last week compared with the week prior, the U.S. Department of Labor said Thursday.\nNew jobless claims, a proxy for layoffs, fell to 5,478 in the week ending January 3, down from 9,135 the week before, the Labor Department said.\nU.S. unemployment claims dropped to 201,000 last week, down 10,000 claims from 211,000 the week prior on a seasonally adjusted basis.\nGeorgia saw the largest percentage increase in weekly claims, with claims jumping by 170.2%. New Hampshire, meanwhile, saw the largest percentage drop in new claims, with claims dropping by 57.3%.\nThe USA TODAY Network is publishing localized versions of this story on its news sites across the country, generated with data from the U.S. Department of Labor's weekly unemployment insurance claims report .\nThis article originally appeared on The Bulletin: Unemployment claims in Connecticut declined last week",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.norwichbulletin.com/story/news/2025/01/09/unemployment-numbers/77581609007/",
+        "https://norwichbulletin.com/story/news/2025/01/09/unemployment-numbers/77581609007/",
+        "https://dol.gov/ui/data.pdf",
+        "https://www.norwichbulletin.com/story/news/2025/01/09/unemployment-numbers/77581609007"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "U.S. Department of Labor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Labor Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:42:42.682+02:00",
+    "updated": "2025-01-10T08:42:42.682+02:00"
+}

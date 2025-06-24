@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "8f6557d6917919d3a99a77897a91b2b421c88bc2",
+        "url": "https://english.news.cn/20250110/a4706891420a438a804d1171da3f5521/c.html",
+        "site_full": "english.news.cn",
+        "site": "news.cn",
+        "site_section": "https://english.news.cn/list/latestnews.htm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news | English.news.cn",
+        "title": "Iraq receives 13 aircraft to modernize air fleet-Xinhua",
+        "title_full": "Iraq receives 13 aircraft to modernize air fleet-Xinhua",
+        "published": "2025-01-09T22:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1043,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f6557d6917919d3a99a77897a91b2b421c88bc2",
+    "url": "https://english.news.cn/20250110/a4706891420a438a804d1171da3f5521/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinhua",
+    "published": "2025-01-09T22:36:00.000+02:00",
+    "title": "Iraq receives 13 aircraft to modernize air fleet-Xinhua",
+    "text": "Iraq receives 13 aircraft to modernize air fleet-\"> Iraq receives 13 aircraft to modernize air fleet-Xinhua Iraq receives 13 aircraft to modernize air fleet Source: Xinhua\nEditor: huaxia\n2025-01-10 04:36:15\nBAGHDAD, Jan. 9 (Xinhua) -- The Iraqi Ministry of Transport said Thursday that it received 13 modern aircraft to enhance air transport capabilities, according to the official Iraqi News Agency (INA).\nThe ministry spokesman Maitham al-Safi said that the aircraft included six Boeing Max, two Dreamliner and five Airbus, INA said.\nThe ministry is expected to receive 31 modern aircraft by 2027, he said, stressing that this project came within the framework of a comprehensive strategy to enhance air transport capabilities and keep pace with the latest international standards. ■\nIraq receives 13 aircraft to modernize air fleet <script src=",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/user/ChinaViewTV",
+        "https://www.facebook.com/XinhuaNewsAgency/",
+        "https://twitter.com/XHNews",
+        "https://youtube.com/user/ChinaViewTV",
+        "https://www.twitter.com/XHNews",
+        "https://facebook.com/XinhuaNewsAgency/",
+        "https://www.facebook.com/XinhuaNewsAgency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8f6557d6917919d3a99a77897a91b2b421c88bc2",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:08:45.341+02:00",
+    "updated": "2025-01-10T01:13:56.331+02:00"
+}

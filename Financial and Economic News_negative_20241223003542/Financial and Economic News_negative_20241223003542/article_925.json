@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "b71778d9cd319307a4f9cf58ff817ffd9244115c",
+        "url": "https://www.postonline.co.uk/personal/7956796/court-ruling-tightens-exceptions-on-credit-hire-claims",
+        "site_full": "www.postonline.co.uk",
+        "site": "postonline.co.uk",
+        "site_section": "https://postonline.co.uk/personal",
+        "site_categories": [
+            "finance",
+            "insurance"
+        ],
+        "section_title": "Personal news and analysis articles - Insurance Post",
+        "title": "Court ruling tightens exceptions on credit hire claims",
+        "title_full": "Court ruling tightens exceptions on credit hire claims",
+        "published": "2024-12-17T14:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.postonline.co.uk/sites/default/files/styles/metatag_image_large_webp/public/2018-06/taxi.gif.webp?itok=hBm5EJj6",
+        "performance_score": 0,
+        "domain_rank": 155348,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b71778d9cd319307a4f9cf58ff817ffd9244115c",
+    "url": "https://www.postonline.co.uk/personal/7956796/court-ruling-tightens-exceptions-on-credit-hire-claims",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tom Luckham",
+    "published": "2024-12-17T14:02:00.000+02:00",
+    "title": "Court ruling tightens exceptions on credit hire claims",
+    "text": "Court ruling tightens exceptions on credit hire claims\nA ruling on a credit hire case brought by HF and Admiral has set out a tighter expectation on providing evidence of potential losses.\nIn 2019, Hussain v EUI limited credit hire claims for profit-earning vehicles, such as taxis, to loss of profit unless claimants could meet one of three exceptions.\nNow, in a follow-up ruling, Hussain\nOnly users who have a paid subscription or are part of a corporate subscription are able to print or copy content.\nTo access these options, along with all other subscription benefits, please contact [info@postonline.co.uk](mailto:info@postonline.co.uk) or view our subscription options here: [http://subscriptions.postonline.co.uk/subscribe](http://subscriptions.postonline.co.uk/subscribe)\nYou are currently unable to print this content. Please contact [info@postonline.co.uk](mailto:info@postonline.co.uk) to find out more.\nYou are currently unable to copy this content. Please contact [info@postonline.co.uk](mailto:info@postonline.co.uk) to find out more.\nCopyright Infopro Digital Limited. All rights reserved.\nAs outlined in our terms and conditions, [https://www.infopro-digital.com/terms-and-conditions/subscriptions/](https://www.infopro-digital.com/terms-and-conditions/subscriptions/) (point 2.4), printing is limited to a single copy.\nIf you would like to purchase additional rights please email [info@postonline.co.uk](mailto:info@postonline.co.uk)\nCopyright Infopro Digital Limited. All rights reserved.\nYou may share this content using our article tools. As outlined in our terms and conditions, [https://www.infopro-digital.com/terms-and-conditions/subscriptions/](https://www.infopro-digital.com/terms-and-conditions/subscriptions/) (clause 2.4), an Authorised User may only make one copy of the materials for their own personal use. You must also comply with the restrictions in clause 2.5.\nIf you would like to purchase additional rights please email [info@postonline.co.uk](mailto:info@postonline.co.uk)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.infopro-digital.com/terms-and-conditions/subscriptions/",
+        "https://infopro-digital.com/terms-and-conditions/subscriptions/",
+        "https://www.infopro-digital.com/terms-and-conditions/subscriptions"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "EUI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:07:44.582+02:00",
+    "updated": "2024-12-17T16:07:44.582+02:00"
+}

@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "3362066b90422e1405693d4919f3295f47e8e7ed",
+        "url": "https://euro.dayfr.com/news/2492832.html",
+        "site_full": "euro.dayfr.com",
+        "site": "dayfr.com",
+        "site_section": "https://euro.dayfr.com/news",
+        "site_categories": [],
+        "section_title": "Breaking News",
+        "title": "Revenue losses estimated at 600 billion",
+        "title_full": "Revenue losses estimated at 600 billion",
+        "published": "2024-12-17T07:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FR",
+        "main_image": "https://euro.dayfr.com/temp/resized/medium_2024-12-17-302d386327.jpg",
+        "performance_score": 0,
+        "domain_rank": 71319,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3362066b90422e1405693d4919f3295f47e8e7ed",
+    "url": "https://euro.dayfr.com/news/2492832.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "serena.",
+    "published": "2024-12-17T07:28:00.000+02:00",
+    "title": "Revenue losses estimated at 600 billion",
+    "text": "Our financial partners like the World Bank and the IMF had warned the authorities that revenue losses will be high in 2024. This information was confirmed by the presentation document of the 2025 initial finance law revealed by the authorities.\nAccording to LeTémoin, for the year 2025, forecasts of internal, tax and non-tax revenues were made, taking into account the economic constraints of the year 2024, marked by poor performances which considerably impacted the initial forecasts, with losses- expected values of nearly 600 billion FCFA at the end of December 2024.\nIt is important to note that these poor performances result, in large part, according to the services of the Minister of Finance and Budget Cheikh Diba, from fairly optimistic forecasts and the rather timid implementation of certain reforms.\nFor 2025, an economic recovery is expected, thanks to the stability of the socio-political environment, ongoing measures to stimulate public investments and hydrocarbon exports, with those of oil which have started well and those of gas , expected at the start of 2025. Thus, the increase in revenue is projected at 20% compared to the situation expected at the end of 2024, and 3.6% compared to the initial forecasts for 2024. It There is therefore, cumulatively, a catch-up effect and an evolution resulting from the recovery, while awaiting the full effect of tax and customs reform measures.\nSenegal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "IMF",
+                "sentiment": "negative"
+            },
+            {
+                "name": "World Bank",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:37:36.050+02:00",
+    "updated": "2024-12-17T13:37:36.050+02:00"
+}

@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "b06886b5b47b5625f68bde2c5b7508454c9427fd",
+        "url": "https://www.thestar.com.my/business/business-news/2024/12/17/ringgit-ends-lower-amid-subdued-sentiment-ahead-of-fed-meeting",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://thestar.com.my/news/latest",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Latest - News | The Star",
+        "title": "Ringgit ends lower amid subdued sentiment ahead of Fed meeting | The Star",
+        "title_full": "Ringgit ends lower amid subdued sentiment ahead of Fed meeting | The Star",
+        "published": "2024-12-17T12:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/12/17/3074163.JPG",
+        "performance_score": 0,
+        "domain_rank": 2197,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 6,
+                "comments": 0,
+                "shares": 15
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b06886b5b47b5625f68bde2c5b7508454c9427fd",
+    "url": "https://www.thestar.com.my/business/business-news/2024/12/17/ringgit-ends-lower-amid-subdued-sentiment-ahead-of-fed-meeting",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2024-12-17T12:58:00.000+02:00",
+    "title": "Ringgit ends lower amid subdued sentiment ahead of Fed meeting | The Star",
+    "text": "KUALA LUMPUR: The ringgit ended slightly lower against the US dollar, marking its seventh consecutive trading day of losses amid subdued investor sentiment ahead of the two-day US Federal Open Market Committee (FOMC) meeting which starts later today.\nAt 6 pm, the local currency eased to 4.4645/4690 versus the greenback from Monday’s close of 4.4500/4550.\nSPI Asset Management managing partner Stephen Innes said the ringgit fluctuated throughout the day but ended slightly weaker as markets braced for a pivotal week of central bank meetings, particularly the US Federal Reserve (Fed).\n“The focal point of global attention remains on the Fed, enveloped in a cloud of uncertainty.\n“Within the Fed, opinions are split: some policymakers question the wisdom of further rate cuts, while others remain skeptical about the benefits of the rate reductions undertaken so far,” he told Bernama.\nGiven the market's expectations, Innes said a conservative 25 basis point cut seems the most straightforward path for the Fed.\n“The forthcoming economic projections are expected to paint a picture of caution, potentially indicating a slowdown in the pace of future rate reductions,” he added.\nThe ringgit traded lower against other major currencies.\nIt receded versus the British pound to 5.6646/6703 from 5.6301/6365, fell against the euro to 4.6815/6862 from 4.6743/6795, and diminished against the Japanese yen to 2.9028/9059 from 2.8930/8964 previously.\nThe ringgit was traded mixed against ASEAN currencies.\nIt decreased against the Singapore dollar to 3.3048/3087 versus 3.2992/3032, but went up versus the Thai baht to 13.0236/0440 from 13.0575/0795, and improved against the Indonesian rupiah to 277.2/277.6 from 278.0/278.5 on Monday.\nMeanwhile, the local note was almost flat vis-à-vis the Philippine peso to 7.58/7.59 from 7.58/7.60 at yesterday’s close. - Bernama\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:18:22.650+02:00",
+    "updated": "2024-12-17T13:18:22.650+02:00"
+}

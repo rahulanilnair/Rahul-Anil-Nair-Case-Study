@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "d2a20abc3e77f82a53a42b12d7683a4659a4e7bf",
+        "url": "https://www.myjoyonline.com/my-govt-will-prioritise-revenue-generation-mahama",
+        "site_full": "www.myjoyonline.com",
+        "site": "myjoyonline.com",
+        "site_section": "https://www.myjoyonline.com",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan"
+        ],
+        "section_title": "MyJoyOnline - Ghana News | Ghana&#039;s most comprehensive website. Independent, Fearless and Credible journalism",
+        "title": "My gov't will prioritise revenue generation - Mahama",
+        "title_full": "My gov't will prioritise revenue generation - Mahama",
+        "published": "2025-01-09T17:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GH",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15334,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2a20abc3e77f82a53a42b12d7683a4659a4e7bf",
+    "url": "https://www.myjoyonline.com/my-govt-will-prioritise-revenue-generation-mahama",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@joyonlineghana",
+    "published": "2025-01-09T17:36:00.000+02:00",
+    "title": "My gov't will prioritise revenue generation - Mahama",
+    "text": "President John Dramani Mahama has reaffirmed his administration’s commitment to prioritising efficient revenue generation as a key strategy for economic revitalisation.\nSpeaking at the National Convention of the Ahmadiyya Muslim Mission Ghana in the Central region, he noted that stabilising Ghana’s economy, addressing inflation, and ensuring fiscal transparency will be immediate priorities under his leadership.\n“…Through a homegrown fiscal policy, we intend to alleviate the economic strain on citizens by removing some of the burdensome taxes and prioritize efficient revenue generation,” he said on Thursday, January 9.\nPresident Mahama also stressed the importance of expanding the tax base by integrating more of the informal sector into the tax net “so that we can fairly share the burden and incidence of taxation.”\nHe explained that “The 24-Hour Economy Policy will play a strategic role in this endeavour, helping us create a modernised and competitive economy that works for everyone.”\nAccording to him, the transformation initiative will create sustainable jobs, modernise the economy and unlock Ghana’s growth potential.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->national government",
+        "Politics->economic policy",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/embed/5S6mL2im-Mc?si=8ecWswhCEoEsJBS6",
+        "https://youtube.com/embed/5S6mL2im-Mc?si=8ecWswhCEoEsJBS6",
+        "https://www.youtube.com/embed/5S6mL2im-Mc"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Dramani Mahama",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ahmadiyya Muslim Mission Ghana",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:45:35.379+02:00",
+    "updated": "2025-01-10T00:45:35.379+02:00"
+}

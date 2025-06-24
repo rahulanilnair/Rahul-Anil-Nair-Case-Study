@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "b0222d8f3e2a558a93389318655a957b991293a2",
+        "url": "https://www.newsbreak.com/the-logan-daily-news-1594146/3718936368083-city-of-athens-scammed-out-of-more-than-700k",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/athens-oh",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Athens, OH Local News and More | NewsBreak",
+        "title": "City of Athens scammed out of more than $700K",
+        "title_full": "City of Athens scammed out of more than $700K",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://s.particlenews.com/ads/BG20180914.png",
+        "performance_score": 0,
+        "domain_rank": 3600,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b0222d8f3e2a558a93389318655a957b991293a2",
+    "url": "https://www.newsbreak.com/the-logan-daily-news-1594146/3718936368083-city-of-athens-scammed-out-of-more-than-700k",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "City of Athens scammed out of more than $700K",
+    "text": "By JIM PHILLIPS LOGAN DAILY NEWS EDITOR ,\n1 hours ago ATHENS — The city of Athens has lost over $700,000 to a scam in which the anonymous alleged perpetrators got electronic access to funds in a city bank account by impersonating a construction firm that contracts with the city.\nIn a lawsuit claiming unjust enrichment, filed in Athens County Common Pleas Court Dec. 4, an attorney for the city alleges that “certain perpetrators orchestrated a scam utilizing electronic communications and unlawfully gained access to monies from CITY’s bank account that were intended to pay valid invoices from its contractor.”\nStarting on Nov. 14, the complaint says, the unknown cyber-criminals, designated in the suit as John and Jane Doe, began contacting the city via email, pretending to be the Pepper Construction Company of Ohio, LLC, which does contract work for the city. The scammers filled out an electronic payment authorization form with fraudulent instructions for an Automated Clearing House (ACH) funds transfer from the city’s bank account to a designated account in another bank.\nRelying on the form and instructions, the city says, it transferred $721,976.26 to the other account, thinking it was paying a bill owed to Pepper Construction.\nThe suit goes on to say that the scam was what is known as a “business email compromise,” in which the scammers sent their emails from a domain whose name was “almost identical” to the contractor’s.\nAfter learning they had been scammed, the complaint says, city officials “took immediate action to recall the transfer,” notified the authorities, and prepared the lawsuit.\nIn addition to damages from the perpetrators, the city is asking the court for expedited accounting in order to locate all the funds, and an injunction to freeze all funds in the bank account to which the money was sent.\nEmail at jphillips@logandaily.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://apg03.newzware.com/ss70v2/adams/common/template.jsp?skin=ldn&init=start&initEdition=LDN",
+        "https://www.apg03.newzware.com/ss70v2/adams/common/template.jsp?skin=ldn&init=start&initEdition=LDN",
+        "https://apg03.newzware.com/ss70v2/adams/common/template.jsp"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jane Doe",
+                "sentiment": "none"
+            },
+            {
+                "name": "John",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Athens County Common Pleas Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:29:05.787+02:00",
+    "updated": "2024-12-17T13:29:05.787+02:00"
+}

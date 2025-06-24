@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "5a185c8081d255fd042c5223a9ab746be957962b",
+        "url": "https://www.the-star.co.ke/news/realtime/2024-12-17-court-rejects-bid-by-insurer-in-legal-dispute-with-shareholder-seeking-buyout",
+        "site_full": "www.the-star.co.ke",
+        "site": "the-star.co.ke",
+        "site_section": "https://www.the-star.co.ke/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Star",
+        "title": "Court rejects bid by Insurer in legal dispute with shareholder seeking buyout",
+        "title_full": "Court rejects bid by Insurer in legal dispute with shareholder seeking buyout",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KE",
+        "main_image": "https://www.the-star.co.ke/assets/img/logo.webp",
+        "performance_score": 0,
+        "domain_rank": 10600,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a185c8081d255fd042c5223a9ab746be957962b",
+    "url": "https://www.the-star.co.ke/news/realtime/2024-12-17-court-rejects-bid-by-insurer-in-legal-dispute-with-shareholder-seeking-buyout",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@thestarkenya",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Court rejects bid by Insurer in legal dispute with shareholder seeking buyout",
+    "text": "The High Court has rejected a bid by Old Mutual Holdings to strike out a petition by a businessman demanding a buyout from the insurer that could exceed Sh 1 billion. Justice Josephine Mong'are said the issues raised by the Insurer and Joel Kibe can only be determined after a full evaluation of evidence to be produced before the court. Joel Kibe filed the case in August this year asking the court to order the company to buy him out at a premium or make an order for the insurer to be wound up. Kibe, who claims to be a shareholder and a member with 1.54 million shares in Old Mutual alleges there has been oppressive conduct against him and other minority shareholders by the majority ones through exclusion from management and decision-making, dilution of shares, denial of access to company records among other issues. He obtained an order in August blocking the company's board of directors from selling or transferring its assets. The insurer subsequently filed a preliminary objection (P.O) saying Kibe is not a member of the company and has no legal right to seek the orders he has sought. The insurer argued that 'because he has no legal right, he cannot apply for liquidation of the company ' But Justice Josephine Mong'are in her ruling said the issues raised on whether Kibe was or was not a member of the company at the time of filing the petition needs to be considered through facts and evidence to ascertain the true position. \"This can only be determined after full evaluation of evidential matter and not at a preliminary stage as sought by the firm,\" said the judge. She dismissed the PO and said the issue would be considered during the hearing of the applications before the court.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:38:54.318+02:00",
+    "updated": "2024-12-17T14:38:54.318+02:00"
+}

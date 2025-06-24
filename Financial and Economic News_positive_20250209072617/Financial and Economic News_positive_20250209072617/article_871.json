@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "ab59d0b1034e005e053cd38a3cd06111dc87b091",
+        "url": "https://www.nasdaq.com/articles/hogs-rallying-thursday-0",
+        "site_full": "www.nasdaq.com",
+        "site": "nasdaq.com",
+        "site_section": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "stocks",
+            "enterprise_news"
+        ],
+        "section_title": "Stocks Feed",
+        "title": "Hogs Rallying on Thursday",
+        "title_full": "Hogs Rallying on Thursday",
+        "published": "2025-01-10T08:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 764,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab59d0b1034e005e053cd38a3cd06111dc87b091",
+    "url": "https://www.nasdaq.com/articles/hogs-rallying-thursday-0",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barchart",
+    "published": "2025-01-10T08:05:00.000+02:00",
+    "title": "Hogs Rallying on Thursday",
+    "text": "Lean hog futures are trading with contracts up $2.07 to $2.45 so far on Thursday. The national average base hog negotiated price was reported at $79.35 on Thursday morning. The CME Lean Hog Index was reported at $81.05 on January 7, down 54 cents from the previous day.\nUSDA’s FOB plant pork cutout value was up 13 cents in the Thursday AM report at $90.66 per cwt. The butt, picnic, and ham were reported lower, with the rest showing gains. Federally inspected hog slaughter on Tuesday was estimated at 490,000 head, with the weekly total at 1.424 million head. That is 104,357 head above the same week last year.\nFeb 25 Hogs are at $81.925, up $2.450,\nApr 25 Hogs are at $87.150, up $2.075\nMay 25 Hogs is at $91.875, up $2.175,\nAustin Schroederdid not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy\nhere. More news from Barchart\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "USDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:02:56.928+02:00",
+    "updated": "2025-01-10T09:02:56.928+02:00"
+}

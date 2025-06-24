@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "6ff8eb2f421346f66d1d327763901ccfa7857932",
+        "url": "https://www.dawn.com/news/1884232/remittances-exports-will-stabilise-economy-sbp-chief",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://www.dawn.com/feeds/newspaper/index.rss",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "The Dawn News - Newspaper",
+        "title": "Remittances, exports will stabilise economy: SBP chief",
+        "title_full": "Remittances, exports will stabilise economy: SBP chief",
+        "published": "2025-01-09T23:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.dawn.com/_img/social-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 2990,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ff8eb2f421346f66d1d327763901ccfa7857932",
+    "url": "https://www.dawn.com/news/1884232/remittances-exports-will-stabilise-economy-sbp-chief",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (Shahid Iqbal)",
+    "published": "2025-01-09T23:22:00.000+02:00",
+    "title": "Remittances, exports will stabilise economy: SBP chief",
+    "text": "KARACHI: State Bank Governor Jameel Ahmed expressed hopes on Thursday that an uptick in remittances and dip in inflation would lend stability to the economy this year.\nThe governor was addressing the representatives of trade and industry at the FPCCI building.\nHe said inflation would further decline this month, but it might fluctuate over the next five months and could settle between five and seven per cent.\nThe governor said interest rate had been slashed by 900 basis points to 13 per cent since June last year. He was silent on the likelihood or otherwise of a rate cut if inflation fell further.\nThe January inflation is expected to be around three per cent — down from 4.1 per cent last month. The consistent fall in inflation compelled the State Bank to reduce the interest rate and minimise the gap between the real interest and policy rates.\nBusinesses fear single-digit interest rate might spur inflation\nThe policy rate is positive with 900 basis points, compared to the real interest, if inflation is reckoned at four per cent.\nSingle digit inflation\nTrade and industry has been clamouring for a single digit interest rate. Analysts are betting on another 100 basis points cut in the next monetary policy announcement.\nBut at the same time they fear that a single digit rate could spur inflation-led growth, which is not acceptable to the government.\nThe State Bank governor said higher remittances and improved exports would lead to economic stability. He estimated remittances to be in the region of $35 billion in FY25 — not improbable given that the monthly inflow hovers around $3bn.\nJameel Ahmed said a surplus current account was a cause of satisfaction for all and sundry. He said debt servicing would not be a hurdle this year.\nThe governor said, however, that figures for exports were not uplifting and need a quantum jump to reduce the trade gap. Exports have been rising at a rate of 10 per cent during the current fiscal year, but exporters lament they cannot compete with their regional peers due to a high interest rate and steep costs of inputs, e.g. electricity.\nWithout an increase in exports, the balance of payments problem would come in the way of rapid economic growth.\nAccording to Jameel Ahmed, the central bank is committed to achieving economic targets in order to ensure long-term relief for every Pakistani.\nThe representatives of trade and industry complained to the central bank chief that banks were not lending money to businesspersons in Balochis-tan. They asked the State Bank to set up a bank for the province on the lines of Sindh Bank and the Bank of Punjab.\nPublished in Dawn, January 10th, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->civil rights",
+        "Politics->economic policy",
+        "Politics->government",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jameel Ahmed",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "State Bank",
+                "sentiment": "negative"
+            },
+            {
+                "name": "FPCCI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:30:45.983+02:00",
+    "updated": "2025-01-10T05:30:45.983+02:00"
+}

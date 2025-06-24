@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "d089bb3e8cef62e2df102fc398666b17445b81b0",
+        "url": "https://www.devdiscourse.com/article/health/3197601-health-sector-under-scrutiny-amid-rising-pharma-developments",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Health Sector Under Scrutiny Amid Rising Pharma Developments | Health",
+        "title_full": "Health Sector Under Scrutiny Amid Rising Pharma Developments | Health",
+        "published": "2024-12-17T12:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_05_2024_16_00_21_3014131.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9119,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d089bb3e8cef62e2df102fc398666b17445b81b0",
+    "url": "https://www.devdiscourse.com/article/health/3197601-health-sector-under-scrutiny-amid-rising-pharma-developments",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T12:35:00.000+02:00",
+    "title": "Health Sector Under Scrutiny Amid Rising Pharma Developments | Health",
+    "text": "Health Sector Under Scrutiny Amid Rising Pharma Developments\nCurrent health news covers Danish studies linking Ozempic to eye disease, resistance to Robert F. Kennedy Jr.'s health job pick, Novo Nordisk's new investment, and trends in weight-loss drug prescriptions. Other updates include FDA's rejection of a J&J cancer drug, Merck's halted drug trials, and developments in pharma stocks.\nRecent developments in the health sector have brought significant attention to pharmaceuticals, policy decisions, and market dynamics. Danish health authorities have raised concerns over Novo Nordisk's diabetes drug Ozempic, potentially linking it to a rare eye condition called NAION.\nA coalition of healthcare advocates is rallying against the nomination of Robert F. Kennedy Jr. for the U.S. Secretary of Health and Human Services, citing his controversial stance on vaccines. Meanwhile, Novo Nordisk is making a $1.2 billion investment in a Danish facility to enhance its production of rare disease drugs.\nThe FDA has declined to approve a new version of Johnson & Johnson's lung cancer drug, while Merck has ceased development on two experimental cancer medications. These events highlight the ongoing challenges and innovations within the pharmaceutical industry.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:09:11.952+02:00",
+    "updated": "2024-12-17T15:09:11.952+02:00"
+}

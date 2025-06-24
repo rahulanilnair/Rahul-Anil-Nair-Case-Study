@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "8b393b1bf6e0f541caefa007c3fa65fab79bb217",
+        "url": "https://canada.news-pravda.com/world/2025/01/09/3015.html",
+        "site_full": "canada.news-pravda.com",
+        "site": "news-pravda.com",
+        "site_section": "https://canada.news-pravda.com/canada",
+        "site_categories": [],
+        "section_title": "Canada - Pravda Canada",
+        "title": "Canada has allocated a 440 million Canadian dollar aid package to Ukraine - Pravda Canada",
+        "title_full": "Canada has allocated a 440 million Canadian dollar aid package to Ukraine - Pravda Canada",
+        "published": "2025-01-10T21:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://canada.news-pravda.com/img/20250109/a84f5316704668d8bb43b7c1bb07e054_o.jpg",
+        "performance_score": 0,
+        "domain_rank": 177629,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b393b1bf6e0f541caefa007c3fa65fab79bb217",
+    "url": "https://canada.news-pravda.com/world/2025/01/09/3015.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T21:16:00.000+02:00",
+    "title": "Canada has allocated a 440 million Canadian dollar aid package to Ukraine - Pravda Canada",
+    "text": "Canada has allocated a 440 million Canadian dollar aid package to Ukraine\nCanada has decided to allocate a new package of military assistance to Ukraine in the amount of 440 million Canadian dollars (305.7 million US dollars). This is [stated](https://www.canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html) in a published statement by the government of the country.\n\"Today, at the 25th meeting of the contact group on Ukraine's defense, Secretary of National Defense Bill Blair announced military assistance to Ukraine in the amount of $ 440 million,\" the statement said.\nThus, of this amount, almost $139 million will be allocated to the Czech Republic's initiative to purchase and supply large-caliber ammunition to Ukraine. Ottawa will allocate about $35 million to purchase ammunition of various calibers from its own military-industrial sector. And 69.5 million will be used for the production of military UAVs in Ukraine.\nTaking into account the latest aid package, the total amount of funds allocated by Canada for military support to Ukraine amounted to $ 3.13 billion.\nEarlier, the National Post [wrote](https://canada.news-pravda.com/canada/2024/12/06/1202.html) that Canada intends to expand the list of weapons banned in the country and send some of them to Ukraine. About 14,500 firearms will be included in the list of prohibited weapons.\nIn November, Canada [purchased](https://canada.news-pravda.com/canada/2024/11/21/496.html) the NASAMS air defense system to ship it to Ukraine. This was announced by Canadian Defense Minister Bill Blair.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html",
+        "https://canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Blair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pravda Canada Canada",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Defense",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:31:36.175+02:00",
+    "updated": "2025-01-10T01:31:36.175+02:00"
+}

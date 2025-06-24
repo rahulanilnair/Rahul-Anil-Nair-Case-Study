@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "558797990e83559534bb241d41899c1428a49010",
+        "url": "https://www.tehrantimes.com/news/507581/Iran-denies-reports-of-decline-in-crude-oil-exports",
+        "site_full": "www.tehrantimes.com",
+        "site": "tehrantimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Iran denies reports of decline in crude oil exports",
+        "title_full": "Iran denies reports of decline in crude oil exports",
+        "published": "2024-12-17T13:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.tehrantimes.com/d/t/2024/12/17/4/5292412.jpg?ts=1734421486489",
+        "performance_score": 0,
+        "domain_rank": 8482,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "558797990e83559534bb241d41899c1428a49010",
+    "url": "https://www.tehrantimes.com/news/507581/Iran-denies-reports-of-decline-in-crude-oil-exports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T13:52:00.000+02:00",
+    "title": "Iran denies reports of decline in crude oil exports",
+    "text": "Iran denies reports of decline in crude oil exports Economy December 17, 2024 - 15:22 TEHRAN – The head of National Iranian Oil Company (NIOC) has dismissed reports circulating on social media claiming a decline in the country's crude oil exports as \"false and baseless.\"\nSpeaking on a televised program late Monday, Hamid Bovard, the head of NIOC, said, “Iran’s crude oil exports remain at the same levels as before.”\n“We are in a good position regarding crude oil sales and exports,” Bovard added, emphasizing there is no cause for concern over the current trajectory of Iran's oil trade.\nRefuting allegations of reduced exports, Bovard stated, “The claims of a decline are simply untrue.”\nHis remarks came in response to recent reports on social media suggesting a drop in Iran’s crude oil sales and export levels.\nIran, one of the largest oil producers in the Organization of the Petroleum Exporting Countries (OPEC), has faced ongoing challenges in maintaining its export volumes amid U.S.-led sanctions targeting the country’s energy sector.\nDespite the restrictions, Iran has reportedly managed to maintain oil sales through alternative markets, including shipments to Asia, particularly China, which remains a key buyer of Iranian crude.\nIn recent weeks, unconfirmed reports suggested a slight reduction in Iranian oil shipments due to logistical bottlenecks and increased global competition. However, Iranian officials have repeatedly denied any significant impact on production or exports, affirming that the country’s oil industry continues to operate stably.\nOil Minister Mohsen Paknejad previously underscored the ministry’s plans to ensure stability in the country’s oil production and export operations, saying there is “no significant cause for concern” in this regard. He noted that efforts to sustain production levels and diversify trade partnerships remain a top priority for the government.\nIran’s ability to navigate sanctions and maintain exports has been closely watched by global energy markets, as its output plays a crucial role in regional and international supply dynamics.\nEF/MA\nTags Iran oil exports oil sales Hamid Bovard Leave a Comment Name Email Your Message",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hamid Bovard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Iranian Oil Company",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NIOC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Petroleum Exporting Countries",
+                "sentiment": "none"
+            },
+            {
+                "name": "OPEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:58:09.879+02:00",
+    "updated": "2024-12-17T14:41:17.821+02:00"
+}

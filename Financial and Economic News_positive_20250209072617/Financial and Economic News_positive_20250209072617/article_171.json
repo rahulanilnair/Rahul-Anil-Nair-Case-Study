@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "7007f8912cc4651854b365f9b54abf785ec23bdd",
+        "url": "https://www.lokmattimes.com/international/germany-biden-administration-allocates-additional-usd-500-million-in-military-aid-to-ukraine",
+        "site_full": "www.lokmattimes.com",
+        "site": "lokmattimes.com",
+        "site_section": "https://www.lokmattimes.com/latest-news",
+        "site_categories": [],
+        "section_title": "Latest News Headlines - Get Today's Breaking News Updates & Information related to India, World, Politics, Sports, Cricket, Business, Entertainment & Technology at Lokmat Times",
+        "title": "Germany: Biden Administration allocates additional USD 500 million in military aid to Ukraine",
+        "title_full": "Germany: Biden Administration allocates additional USD 500 million in military aid to Ukraine",
+        "published": "2025-01-10T00:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250109221731_202501.jpg",
+        "performance_score": 0,
+        "domain_rank": 29525,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7007f8912cc4651854b365f9b54abf785ec23bdd",
+    "url": "https://www.lokmattimes.com/international/germany-biden-administration-allocates-additional-usd-500-million-in-military-aid-to-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/author/ani/",
+    "published": "2025-01-10T00:47:00.000+02:00",
+    "title": "Germany: Biden Administration allocates additional USD 500 million in military aid to Ukraine",
+    "text": "Germany: Biden Administration allocates additional USD 500 million in military aid to Ukraine\nBy [ANI](/author/ani/) | Published: January 10, 2025 03:47 AM2025-01-10T03:47:42+5:302025-01-10T03:50:05+5:30\nBerlin [Germany], January 10 : The Biden administration on Thursday (local time) approved an additional USD 500 million in ...\nBerlin [Germany], January 10 : The Biden administration on Thursday (local time) approved an additional USD 500 million in military aid to Ukraine, along with the weapons and equipment package, drawing from the existing US military stockpiles, as reported by The Hill.\nThe package was announced by US Secretary of Defence Lloyd Austin during his final trip as Pentagon chief to Ramstein Air Base in Germany, where he met Ukrainian President Volodymyr Zelensky.\nAccording to The Hill, the package includes various air defence missiles, air-to-ground munitions, F-16 support equipment, armoured bridging systems, small arms, ammunition, spare parts, and additional communications equipment. The weapons are being delivered quickly through the Presidential Drawdown Authority (PDA), which allows for expedited transfer from the US stockpiles.\nThis move aims to strengthen Kyiv's defences ahead of President-elect Trump's upcoming inauguration, likely making it the final assistance package under President Biden's leadership.\nDefence Secretary Austin, who also hosted the Ukraine Defence Contact Group, an alliance of nearly 50 countries coordinating military support for Ukraine since Russia's invasion in February 2022, warned that if Russia's President Vladimir Putin succeeds in overtaking Ukraine, it could embolden further aggression and stressed the importance of standing firm against autocrats to prevent further territorial expansion and instability.\n\"And the stakes are still enormous for all of our security. If Putin swallows Ukraine, his appetite will only grow. If autocrats conclude that democracies will lose their nerve, surrender their interests, and forget their principles, we will only see more land grabs,\" Austin said as quoted by The Hill.\n\"If tyrants learn that aggression pays, we will only invite even more aggression, chaos and war,\" he added.\nTo date, the US has provided over USD 66 billion in aid to Ukraine since the war's start. However, less than USD 4 billion of congressionally approved funding remains for Ukraine, with the remaining amount likely to be handled by the incoming Trump administration if not authorised before Biden's term ends, as reported by The Hill.\nThis latest tranche marks the 74th delivery of US military equipment to Ukraine since August 2021. In December, the US finalised additional drawdown and security assistance packages for Ukraine totalling USD 1.25 billion and USD 1.22 billion, respectively.\nDisclaimer: This post has been auto-published from an agency feed without any modifications to the text and has not been reviewed by an editor\n[Open in app](https://www.lokmattimes.com/install_app.htm?utm_source=www.lokmattimes.com&utm_medium=open_in_app&launch_url=https://www.lokmattimes.com/international/germany-biden-administration-allocates-additional-usd-500-million-in-military-aid-to-ukraine/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "War, Conflict and Unrest->international military intervention"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelensky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ramstein Air Base",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:29:36.260+02:00",
+    "updated": "2025-01-10T01:29:36.260+02:00"
+}

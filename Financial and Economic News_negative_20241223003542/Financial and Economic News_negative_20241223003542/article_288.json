@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "ead853159751dd7ec999f1ab4840a1f26fc698c5",
+        "url": "https://theedgemalaysia.com/node/738055",
+        "site_full": "theedgemalaysia.com",
+        "site": "theedgemalaysia.com",
+        "site_section": "https://theedgemalaysia.com/",
+        "site_categories": [],
+        "section_title": "The Edge Malaysia - Make Better Decisions",
+        "title": "ECB raises bank capital requirements citing heightened risks",
+        "title_full": "ECB raises bank capital requirements citing heightened risks",
+        "published": "2024-12-17T12:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://assets.theedgemarkets.com/ecb_reuters_5.jpg",
+        "performance_score": 0,
+        "domain_rank": 43648,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ead853159751dd7ec999f1ab4840a1f26fc698c5",
+    "url": "https://theedgemalaysia.com/node/738055",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Comfort & Verena Sepp",
+    "published": "2024-12-17T12:45:00.000+02:00",
+    "title": "ECB raises bank capital requirements citing heightened risks",
+    "text": "(Dec 17): The European Central Bank slightly raised capital requirements for the region’s lenders, saying geopolitical risks had increased despite bumper profits.\nOverall, banks face a minimum bar of 11.3% for high-quality capital next year, up from 11.2% in 2024, the ECB said in a statement on Tuesday in Frankfurt. The watchdog increased its portion of those buffers after “changes in the risk profile of selected banks.”\nEuropean banks have benefitted from higher interest rates over the past two and a half years, fuelling payouts to shareholders. Yet the ECB has warned that they face numerous risks, from geopolitical tensions to climate change.\nThe ECB also said that it more than doubled the number of banks that face additional requirements because of “excessive leverage.” Thirteen lenders now have to maintain a leverage ratio — a blunter measure of capital strength — above the 3% minimum, the central bank said. The additional buffers range between 0.1 and 0.4 percentage points.\nIn addition, the ECB told four banks to hold extra liquidity to comply with minimum “survival periods” and currency-specific liquidity buffers.\nUploaded by Arion Yeow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ECB",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:53:37.545+02:00",
+    "updated": "2024-12-17T12:53:37.545+02:00"
+}

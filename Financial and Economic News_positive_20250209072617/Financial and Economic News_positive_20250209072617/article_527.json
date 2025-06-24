@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "60c283e7577ab954d6c703147dfa5081996ca66c",
+        "url": "https://www.businesstoday.com.my/2025/01/10/taiwans-december-exports-surpass-expectations-stable-outlook-for-ai-sector",
+        "site_full": "www.businesstoday.com.my",
+        "site": "businesstoday.com.my",
+        "site_section": "https://www.businesstoday.com.my",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "BusinessToday | Malaysia&#039;s Premier Business News Portal",
+        "title": "Taiwan's December Exports Surpass Expectations; Stable Outlook For AI Sector",
+        "title_full": "Taiwan's December Exports Surpass Expectations; Stable Outlook For AI Sector",
+        "published": "2025-01-10T04:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 65704,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60c283e7577ab954d6c703147dfa5081996ca66c",
+    "url": "https://www.businesstoday.com.my/2025/01/10/taiwans-december-exports-surpass-expectations-stable-outlook-for-ai-sector",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Business Today Editorial",
+    "published": "2025-01-10T04:22:00.000+02:00",
+    "title": "Taiwan's December Exports Surpass Expectations; Stable Outlook For AI Sector",
+    "text": "Taiwan’s exports exceeded market expectations in December, rising by 9.2% year-on-year (YoY) to reach US$43.59 billion. The growth was driven by robust demand for semiconductors, largely spurred by the artificial intelligence (AI) sector, as well as continued, albeit weaker, demand from China. This marked Taiwan’s second-highest export figure on record, according to the Ministry of Finance.\nMIDF Amanah Investment Bank Bhd (MIDF Research) noted that, despite a slight moderation in export growth from November’s 9.7% YoY, the December performance was still notably higher than the expected 6.5% YoY. The increase in exports was particularly strong in electric components, which saw a rise of 8.6% YoY, reaching US$17.2 billion. Semiconductor exports grew by 9.4% YoY, contributing significantly to Taiwan’s trade performance.\nKey markets such as ASEAN (+27.8% YoY), South Korea (+21.1% YoY), and the USA (+16% YoY) saw a rise in outbound shipments. However, imports surged by 30.4% YoY, the strongest expansion in six months, driven by higher export-derived demand and increased semiconductor equipment investment. Notably, imports from ASEAN countries, particularly Malaysia, saw substantial growth. Malaysia’s exports to Taiwan grew by 59.7% YoY in December, up from 37.6% YoY in November, signalling positive trade prospects for Malaysia in the same period.\nDespite the strong export growth, Taiwan’s trade surplus narrowed to US$6.1 billion in December, down from US$11.2 billion a year ago, as imports outpaced exports. MIDF Research anticipates Taiwan’s exports to continue expanding due to growing demand for AI and semiconductor products. However, risks such as escalating geopolitical tensions with China and protectionist trade policies from the US could pose challenges to the outlook for Taiwan and regional trade.\nLooking ahead, the government remains optimistic about Taiwan’s semiconductor sector, citing the ongoing AI boom as a key driver of future growth.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Science and Technology->economics",
+        "Science and Technology->scientific research",
+        "Science and Technology->technology and engineering",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "MIDF Amanah Investment Bank Bhd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Finance",
+                "sentiment": "none"
+            },
+            {
+                "name": "MIDF Research",
+                "sentiment": "none"
+            },
+            {
+                "name": "ASEAN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:32:40.715+02:00",
+    "updated": "2025-01-10T05:32:40.715+02:00"
+}

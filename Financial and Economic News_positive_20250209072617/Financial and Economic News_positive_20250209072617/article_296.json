@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "3499cb9e81c7a6686f4253d4e839a2dcf11d7193",
+        "url": "https://www.mitrade.com/insights/news/live-news/article-8-562650-20250110",
+        "site_full": "www.mitrade.com",
+        "site": "mitrade.com",
+        "site_section": "https://www.mitrade.com/insights/news/live-news",
+        "site_categories": [],
+        "section_title": "Real-time Financial News to Keep Traders Updated",
+        "title": "Why Quantum Computing Inc. Stock Soared a Whopping 1,713% in 2024",
+        "title_full": "Why Quantum Computing Inc. Stock Soared a Whopping 1,713% in 2024",
+        "published": "2025-01-09T16:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 131118,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3499cb9e81c7a6686f4253d4e839a2dcf11d7193",
+    "url": "https://www.mitrade.com/insights/news/live-news/article-8-562650-20250110",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Motley Fool",
+    "published": "2025-01-09T16:44:00.000+02:00",
+    "title": "Why Quantum Computing Inc. Stock Soared a Whopping 1,713% in 2024",
+    "text": "Shares of Quantum Computing Inc. (NASDAQ: QUBT) soared 1,713% last year, according to data from S&P Global Market Intelligence. As the name suggests, this is a quantum computing start-up that has benefited from the major run in this industry niche in the latter half of 2024. With the artificial intelligence (AI) bull market in full swing and recent quantum computing breakthroughs putting the technology in the limelight, investors have been all over Quantum Computing Inc. in recent months.\nHere's why the stock soared over 1,000% in 2024.\nStart Your Mornings Smarter! Wake up with Breakfast news in your inbox every market day. Sign Up For Free »\nQuantum computing is an innovative way to build a computer that researchers have been trying to perfect for decades. Using the mysterious properties of quantum mechanics, quantum computers promise to make a leap forward in computer processing capabilities and help companies solve extremely complex problems that are virtually unsolvable with normal computers. With the rising computing costs of AI tools from the likes of OpenAI and big technology companies, attention has been drawn to the potential of quantum computing once again.\nQuantum Computing Inc. benefited from this narrative shift in 2024. Once it was a sleepy penny stock with a market cap below $100 million until investors started to take interest in the start-up around October of 2024, with the stock building some momentum. Then it got sent into overdrive when Alphabet's Quantum AI research lab made a splashy press release around its new quantum computer chip called Willow, which it argues has made several breakthroughs to help further the sector along.\nThe stock run has nothing to do with Quantum Computing Inc.'s underlying business. Stock runs like this can happen with microcaps and small caps, leading to violent volatility. In fact, so far in 2025, the stock has already gone into a 40% drawdown, correcting many of the 2024 gains.\nThere is a lot of hype around quantum computing stocks, not just Quantum Computing Inc. Share prices have gone up tenfold in just a few months, making any investor a pretty penny in just a short time frame.\nThe problem comes when looking at the actual commercial prospects of quantum computing and the financials of this business. Experts say the technology is still years away from getting commercialized, with many technical problems still to be solved. Quantum Computing Inc. is generating less than $1 million in annual revenue and has a market cap of over $1 billion. It is losing millions of dollars every quarter.\nEven though the stock did so well in 2024, it is probably best for investors to stay away from Quantum Computing Inc. stock in 2025.\nBefore you buy stock in Quantum Computing, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Quantum Computing wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $858,668!*\nStock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.\nSee the 10 stocks »\n*Stock Advisor returns as of January 6, 2025\nSuzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Brett Schafer has positions in Alphabet. The Motley Fool has positions in and recommends Alphabet. The Motley Fool has a disclosure policy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Quantum Computing Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Global Market Intelligence",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:39:52.830+02:00",
+    "updated": "2025-01-10T02:39:52.830+02:00"
+}

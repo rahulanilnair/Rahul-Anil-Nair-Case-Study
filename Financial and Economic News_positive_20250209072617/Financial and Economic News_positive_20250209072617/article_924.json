@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "01884e6c4c7115aaae3360c77ffea0fada1200e6",
+        "url": "https://www.communicationstoday.co.in/over-two-thirds-of-the-global-population-to-own-a-digital-wallet-by-2029",
+        "site_full": "www.communicationstoday.co.in",
+        "site": "communicationstoday.co.in",
+        "site_section": "https://www.communicationstoday.co.in",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "India&#039;s leading telecom news website and magazine",
+        "title": "Over two thirds of the global population to own a digital wallet by 2029",
+        "title_full": "Over two thirds of the global population to own a digital wallet by 2029",
+        "published": "2025-01-10T05:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 137799,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01884e6c4c7115aaae3360c77ffea0fada1200e6",
+    "url": "https://www.communicationstoday.co.in/over-two-thirds-of-the-global-population-to-own-a-digital-wallet-by-2029",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archit_tandon",
+    "published": "2025-01-10T05:44:00.000+02:00",
+    "title": "Over two thirds of the global population to own a digital wallet by 2029",
+    "text": "A new study from Juniper Research, the foremost experts in fintech and payments markets, forecasts a 15.3% growth in digital wallet adoption globally by 2029; up from 52.6% in 2024. The research found that adoption will be driven by the increasing ease of acceptance, and the digital wallet’s ability to connect underserved communities to financial services.\nEase of Acceptance Key to Increased Adoption\nThe research found that not requiring hardware enables merchants to accept digital wallet payments more easily, compared to card payments. An emerging trend is mPOS, in which merchants accept payments through a mobile device, either via QR codes or the mobile device’s NFC capabilities. The report predicts that Apple’s decision to unlock its devices’ NFC capabilities for third-party wallets will promote competition in the wallets’ space. It represents an opportunity for established wallets, such as Vipps in Norway, to attract customers that were previously restricted to Apple Pay.\nFinancial Inclusion Key to Wallet User Growth\nThe report predicts that, in emerging markets, wallets will increasingly offer microloans and basic insurance products. It recommends that wallets in developing markets begin development of these finance products immediately and must look to emulate the success of M-PESA has experienced in Kenya.\nReport author Michael Greenwood added “These basic financial services allow wallet providers to diversify revenue streams. These providers must take advantage of mobile financial service licences, where available, as they are often associated with a lower regulatory burden than full banking licences. This lower burden gives wallets more room to innovate; allowing them to make financial products that can target the opportunities specific to their markets.” Juniper Research",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->products and services",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->social sciences",
+        "Science and Technology->economics",
+        "Social Issue->social networking",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Juniper Research",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:27:31.585+02:00",
+    "updated": "2025-01-10T09:27:31.585+02:00"
+}

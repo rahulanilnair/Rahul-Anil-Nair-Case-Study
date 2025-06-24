@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "cb8d5bb120b09d7cea71a01354f73612d36d31ff",
+        "url": "https://gagadget.com/en/562102-disney-will-soon-support-the-hdr10-standard-co-developed-by-samsung",
+        "site_full": "gagadget.com",
+        "site": "gagadget.com",
+        "site_section": "https://gagadget.com/en/news/",
+        "site_categories": [
+            "cell_phones",
+            "tech"
+        ],
+        "section_title": "Gagadget.com | Latest news about Gadgets, Technology, Popular Science",
+        "title": "Disney+ Brings in HDR10+: Changing Samsung users' video interests",
+        "title_full": "Disney+ Brings in HDR10+: Changing Samsung users' video interests",
+        "published": "2025-01-10T06:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://gagadget.com/media/cache/aa/20/aa208c0fd7daddf1fe9b2080d7f645e1.jpg",
+        "performance_score": 0,
+        "domain_rank": 24904,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cb8d5bb120b09d7cea71a01354f73612d36d31ff",
+    "url": "https://gagadget.com/en/562102-disney-will-soon-support-the-hdr10-standard-co-developed-by-samsung",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nastya Bobkova",
+    "published": "2025-01-10T06:34:00.000+02:00",
+    "title": "Disney+ Brings in HDR10+: Changing Samsung users' video interests",
+    "text": "During CES 2025, Disney announced that its Disney+ service will soon support the HDR10+ standard. This update applies to users of Samsung devices such as smartphones, tablets, and TVs.\nHere's What We Know Disney+ currently supports Dolby Vision and HDR10, but the addition of HDR10+ will allow you to stream video with dynamic brightness settings for each frame, which will improve the image quality. This standard was developed jointly by 20th Century Fox, Amazon, Panasonic and Samsung, and it is free of charge, with no licence fees.\nNevertheless, Dolby Vision is still more popular as it is supported by more content producers, device manufacturers, and streaming platforms.\nAmazon Prime Video was the first service to support HDR10+. In 2023, Apple TV+ added HDR10+ support for its original content, and now Disney+ is doing the same. Netflix still doesn't support HDR10+, limiting itself to HDR10 and Dolby Vision.\nIllustration of Disney+. Image: Disney For Samsung users, it is worth noting that these devices do not support Dolby Vision, so if content is not available in HDR10+, it will be broadcast in standard HDR10 or even SDR.\nIn addition, HDR10+ is supported by services such as Hulu, Paramount+, and YouTube, although the amount of content in this format is limited. HDR10+ is also used by Intel on its ARC GPUs, and the ATSC 3.0 (NextGen TV) standard also supports it for terrestrial TV.\nThe amount of content available in HDR10+ is expected to increase in the future.\nSource: SamMobile , Disney\nCES Disney+",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->financial and economic news",
+        "Lifestyle and Leisure->lifestyle",
+        "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.sammobile.com/news/disney-plus-hdr10-support-announced/",
+        "https://www.disneyinternational.com/",
+        "https://disneyinternational.com/",
+        "https://www.sammobile.com/news/disney-plus-hdr10-support-announced",
+        "https://www.disneyinternational.com",
+        "https://sammobile.com/news/disney-plus-hdr10-support-announced/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Disney",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Panasonic",
+                "sentiment": "none"
+            },
+            {
+                "name": "Netflix",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samsung",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:45:43.594+02:00",
+    "updated": "2025-01-10T08:45:43.594+02:00"
+}

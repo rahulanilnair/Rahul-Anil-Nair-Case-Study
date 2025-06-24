@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "6efb4ae7a2e80cd20b1b10a869039c1f64ae4d09",
+        "url": "https://www.sharecast.com/news/news-and-announcements/bunzl-shares-slide-as-it-flags-flat-underlying-revenue--18331943.html",
+        "site_full": "www.sharecast.com",
+        "site": "sharecast.com",
+        "site_section": "https://www.sharecast.com/news/all",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "stocks"
+        ],
+        "section_title": "Full list of stories by category All  - Sharecast.com",
+        "title": "Bunzl shares slide as it flags flat underlying revenue - Sharecast.com",
+        "title_full": "Bunzl shares slide as it flags flat underlying revenue - Sharecast.com",
+        "published": "2024-12-17T10:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://img3.s3wfg.com/web/img/images_uploaded/5/e/dl--bunzl-plc--bnzl--industrials--industrial-goods-and-services--general-industrials--diversified-industrials--ftse-100--premium--20230327-2046.jpg",
+        "performance_score": 0,
+        "domain_rank": 62132,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6efb4ae7a2e80cd20b1b10a869039c1f64ae4d09",
+    "url": "https://www.sharecast.com/news/news-and-announcements/bunzl-shares-slide-as-it-flags-flat-underlying-revenue--18331943.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josh White",
+    "published": "2024-12-17T10:50:00.000+02:00",
+    "title": "Bunzl shares slide as it flags flat underlying revenue - Sharecast.com",
+    "text": "Josh White Sharecast News 17 Dec, 2024 09:09 17 Dec, 2024 08:50 Bunzl shares slide as it flags flat underlying revenue Bunzl Sharecast graphic / Josh White Bunzl 3,324.00p 11:55 17/12/24 -6.58% -234.00p Specialist international distribution and service provider Bunzl said in an update on Tuesday that it expected full-year revenue for 2024 to rise about 3% at constant exchange rates, driven by acquisitions, although underlying revenue would see a small decline.\nFTSE 100 8,194.90 11:55 17/12/24 n/a n/a FTSE 350 4,519.92 11:55 17/12/24 n/a n/a FTSE All-Share 4,476.77 11:55 17/12/24 n/a n/a General Industrials 7,520.22 11:54 17/12/24 -2.65% -205.03 The FTSE 100 company said that at actual exchange rates, revenue was forecast to be between flat and 1% lower compared to 2023, reflecting currency headwinds.\nUnderlying volume growth in the fourth quarter was anticipated to mirror that of the third quarter, but persistent deflation, particularly in continental Europe, was likely to marginally impact group adjusted operating profit.\nNonetheless, adjusted operating profit for 2024 was expected to show a strong increase at constant exchange rates, with operating margins remaining moderately above 2023 levels.\nLooking to 2025, Bunzl projected robust revenue growth at constant currency, driven by acquisitions and slight underlying revenue expansion.\nOperating margins were expected to remain consistent with 2024 and significantly above pre-pandemic levels, supported by higher-margin acquisitions and an improved underlying margin.\nBunzl reaffirmed its strategy to allocate around £700m annually through to 2027, primarily targeting value-accretive acquisitions and capital returns to shareholders.\nThat would include the £250m share buyback programme initiated in August, of which £200m had been completed, with plans for an additional £200m buyback in 2025.\nThe board underscored the company’s acquisition momentum, with a record £850m committed in 2024.\nRecent deals included the purchase of the UK-based C&C Group, a specialist foodservice business generating £26m in annual revenue, and Comodis, a French cleaning and hygiene product distributor with revenue of €23m (£20m) for the year to March 2024.\n“2024 will be another year of significant progress for Bunzl, demonstrating the continued growth and resilience of the business model,” said chief executive officer Frank van Zanten.\n“The group is expected to deliver a strong increase in group adjusted operating profit year-on-year, alongside a group operating margin that has expanded over recent years.\n“We continue to execute on our capital allocation commitments, and welcome C&C and Comodis to the group, enhancing our offerings in the UK and France, whilst also confirming a further £200m share buyback over 2025.\n“Overall, during 2024 the group has committed a record spend of more than £850m with 13 announced acquisitions year-to-date, and our pipeline remains active.”\nAt 0850 GMT, shares in Bunzl were down 4.89% at 3,384p.\nReporting by Josh White for Sharecast.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bunzl",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:23:06.249+02:00",
+    "updated": "2024-12-17T14:16:25.191+02:00"
+}

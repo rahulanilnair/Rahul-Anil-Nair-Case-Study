@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "748e0895b383123ab63519da90bf738c3977ebb6",
+        "url": "https://www.malaymail.com/news/money/2025/01/10/malaysia-india-digital-council-formalised-to-serve-as-catalyst-for-bilateral-digital-trade-says-gobind/162716",
+        "site_full": "www.malaymail.com",
+        "site": "malaymail.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "television",
+            "business",
+            "entertainment",
+            "media",
+            "sports",
+            "tech",
+            "marketing",
+            "climbing",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Malaysia-India Digital Council formalised, to serve as catalyst for bilateral digital trade, says Gobind",
+        "title_full": "Malaysia-India Digital Council formalised, to serve as catalyst for bilateral digital trade, says Gobind",
+        "published": "2025-01-10T09:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.malaymail.com/malaymail/uploads/images/2025/01/10/thumbs/400x400/254744.jpg",
+        "performance_score": 0,
+        "domain_rank": 6478,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "748e0895b383123ab63519da90bf738c3977ebb6",
+    "url": "https://www.malaymail.com/news/money/2025/01/10/malaysia-india-digital-council-formalised-to-serve-as-catalyst-for-bilateral-digital-trade-says-gobind/162716",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Malay Mail",
+    "published": "2025-01-10T09:04:00.000+02:00",
+    "title": "Malaysia-India Digital Council formalised, to serve as catalyst for bilateral digital trade, says Gobind",
+    "text": "> KUALA LUMPUR, Jan 10 — The Malaysia-India Digital Council (MIDC) has been formalised to spearhead initiatives in digital trade, technology exchange and talent mobility between Malaysia and India.\nThis was following a meeting between Digital Minister Gobind Singh Deo and India’s Minister of Electronics and Information Technology Ashwini Vaishnaw during the 18th Pravasi Bhartiya Divas (PBD) held in Bhubaneswar, India, earlier this week.\nIn a statement today, Gobind said the pivotal initiative represents a significant leap forward in bilateral ties between Malaysia and India, strengthening cultural ties while further unlocking the full potential of both nations’ digital innovation and economic opportunities.\n“Through MIDC, we aim to foster an ecosystem that supports shared growth, talent development and technological advancements for both Malaysia and India,” he said.\nThe Digital Ministry said through the council, Malaysia and India will work on sharing experiences and exchanging technical expertise, policy and regulatory approaches related to digital technologies, and exploring business-to-business partnerships collaboration between industry associations.\nThey will also look at enhancing collaborations between the start-ups and small and medium-sized enterprises, as well as upskilling and reskilling talents in emerging digital technologies.\n“The MIDC’s inaugural meeting, expected to be held in the first half of this year, will lay the groundwork for actionable programmes and initiatives,” the ministry said.\nThe 18th PBD was inaugurated by India’s Prime Minister Narendra Modi yesterday.\nThe event, which recognises the contributions of the overseas Indian community to India’s development, attracted the participation of Indian diaspora members from over 50 countries this year. — Bernama\n<",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market",
+        "Social Issue->social networking",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gobind Singh Deo",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Malaysia-India Digital Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Digital Ministry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "748e0895b383123ab63519da90bf738c3977ebb6",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:30:50.196+02:00",
+    "updated": "2025-01-18T01:51:32.676+02:00"
+}

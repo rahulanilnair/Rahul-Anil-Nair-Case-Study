@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "74d2fd020a6db8c519ffa66a3a401c4bc0bec9fe",
+        "url": "https://www.irishtimes.com/business/2025/01/10/jet-manufacturing-squeeze-to-ease-says-avolon",
+        "site_full": "www.irishtimes.com",
+        "site": "irishtimes.com",
+        "site_section": "https://irishtimes.com/latest",
+        "site_categories": [
+            "media",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Latest updates and breaking news | The Irish Times",
+        "title": "Jet manufacturing squeeze to ease, says Avolon",
+        "title_full": "Jet manufacturing squeeze to ease, says Avolon",
+        "published": "2025-01-10T08:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://www.irishtimes.com/resizer/v2/ZMIBZXVW6RA33ONOFKHRS6QXTI.jpg?smart=true&amp;auth=efda26ddb6fcb4e78702157e61a4b5da2803486aab158ca1ec58953641c4307b&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 931,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "74d2fd020a6db8c519ffa66a3a401c4bc0bec9fe",
+    "url": "https://www.irishtimes.com/business/2025/01/10/jet-manufacturing-squeeze-to-ease-says-avolon",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barry O'Halloran",
+    "published": "2025-01-10T08:00:00.000+02:00",
+    "title": "Jet manufacturing squeeze to ease, says Avolon",
+    "text": "Aviation production bottlenecks that threaten to boost air fares will begin easing this year, a leading aircraft lessor predicts.\nAirlines have been feeling the pinch of lost aircraft production since 2018, a result of Covid lockdowns and other problems that hit manufacturers, including leading jet makers\n[Airbus](https://www.irishtimes.com/tags/airbus/) and [Boeing](https://www.irishtimes.com/tags/boeing/).\nIrish-based\n[Avolon](https://www.irishtimes.com/tags/avolon/), which leases aircraft to carriers around the world, believes commercial jet production will begin recovering through this year, returning to levels previously reached in 2018 in 2026.\nJim Morrison, the firm’s chief risk officer, says manufacture of engines and other components could catch up in 2027.\nAirlines including Ireland’s\n[Ryanair](https://www.irishtimes.com/tags/ryanair/) have warned in recent years that production bottlenecks could hit the industry’s capacity and push up the cost of flying, particularly in Europe, where most Irish people travel.\nMr Morrison agreed that a likely boost to production of jets at Airbus and Boeing should ease some of those risks.\nHowever, he pointed out that global industry body, the International Air Transport Association (\n[Iata](https://www.irishtimes.com/tags/iata/)), recently calculated that air fares worldwide remained stable between 2019 and 2024.\n“There’s really been seven years of lost production, 4,000 aircraft that will not be built, that’s really playing through to commercial airline fleets,” Mr Morrison noted.\nAvolon’s annual outlook, written by Mr Morrison and the firm’s senior vice-president for portfolio strategy Marc Tembleque, says Airbus’s and Boeing’s next available production slots are in the 2030s.\nLessors own about half all the commercial aircraft flying in the world today. The slowdown in production has helped support the value of the jets that constitute their key assets.\n[\n[Avolon to support new film award at Dublin International Film FestivalOpens in new window](https://www.irishtimes.com/business/2024/12/20/avolon-to-support-new-film-award-at-dublin-international-film-festival/) ]\nAvolon’s Outlook 2025, Fast Forward, predicts that lessors with ready access to cash, and classed by credit ratings agencies as investment grade, will outperform the rest of their industry.\nLessors combine their own cash with loans to buy aircraft from manufacturers, which they lease to airlines, earning revenue from the rents paid.\nAvolon is one of the top three in the business globally.\nIts outlook, an annual look at the industry’s prospects, predicts that airlines will be profitable for their third year in a row in 2025.\nCommercial carriers around the world earned profits of $220 billion (€214 billion) in the 2010s only to see them wiped out in less than two years as countries grounded or curbed flying after Covid-19 struck in 2020.\nMeanwhile, Avolon began collaborating with Airbus last July on the European manufacturer’s Zeroe project, aimed at developing a hydrogen-powered aircraft for commercial flying.\nThe Iata predicts that by 2050 close to one in five of the world’s aircraft could be hydrogen-powered, particularly those used for regional flying.\nHydrogen is tipped as an alternative to fossil fuels for transport, but its use requires industries such as aviation to solve problems such as the fact that it must be stored at -253 degrees Celsius.\n- Sign up for the\n[Business Today](https://www.irishtimes.com/newsletters/business-today-newsletter/)newsletter and get the latest business news and commentary in your inbox every weekday morning\n- Opt in to\n[Business push alerts](https://www.irishtimes.com/media/2023/11/07/stay-informed-with-push-alerts-from-the-irish-times-delivered-straight-to-your-phone/)and have the best news, analysis and comment delivered directly to your phone\n- Join\n[The Irish Times on WhatsApp](https://www.irishtimes.com/media/2023/10/27/find-the-irish-times-on-whatsapp-and-stay-up-to-date/)and stay up to date\n- Our Inside Business podcast is published weekly – Find the latest episode\n[here](https://www.irishtimes.com/podcasts/inside-business/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim Morrison",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:51:40.298+02:00",
+    "updated": "2025-01-10T08:51:40.298+02:00"
+}

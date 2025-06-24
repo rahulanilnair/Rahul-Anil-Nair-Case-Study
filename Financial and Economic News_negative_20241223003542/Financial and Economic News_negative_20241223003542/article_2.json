@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "2bf2293087062503c1182f24125d13a2e7d2e0ba",
+        "url": "https://fakti.bg/en/krimi/935494-otkriha-nad-230-000-evro-uviti-kato-sandvichi",
+        "site_full": "fakti.bg",
+        "site": "fakti.bg",
+        "site_section": "https://fakti.bg/en",
+        "site_categories": [
+            "media",
+            "top_news_bg",
+            "top_news"
+        ],
+        "section_title": " News from today and last hour | ФАКТИ.БГ ",
+        "title": "Over 230,000 euros were found wrapped like sandwiches",
+        "title_full": "Over 230,000 euros were found wrapped like sandwiches",
+        "published": "2024-12-17T09:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BG",
+        "main_image": "https://cdn4.focus.bg/fakti/photos/fb/147/otkriha-nad-230-000-evro-uviti-kato-sandvichi-1.webp",
+        "performance_score": 0,
+        "domain_rank": 105685,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2bf2293087062503c1182f24125d13a2e7d2e0ba",
+    "url": "https://fakti.bg/en/krimi/935494-otkriha-nad-230-000-evro-uviti-kato-sandvichi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "СУ Св. Климент Охридски",
+    "published": "2024-12-17T09:47:00.000+02:00",
+    "title": "Over 230,000 euros were found wrapped like sandwiches",
+    "text": "A large amount of euro banknotes wrapped like sandwiches were found by customs officers from the Ruse Customs Department during the inspection of a passenger car in the area of the Danube Bridge 2 Vidin-Calafat border checkpoint.\nAt around 11:00 a.m. on 12/12/2024, in the area of the Danube Bridge Vidin border checkpoint – Calafat, a passenger car entering the country, driven by a Polish citizen, was stopped.\nDuring the inspection carried out by customs officers, packages containing euro banknotes were found under the carpet of the two front seats, in the cavity of the armrest of the rear seat and in a bag with food.\nThe money was wrapped like sandwiches in aluminum foil and black stretch, with a total amount of 238,200 euros.\nPre-trial proceedings have been initiated in the case.\nThe driver of the vehicle has been brought in as a defendant for a crime under Art. 251, para. 1 of the Criminal Code - failure to fulfill the obligation to declare funds in particularly large amounts, transported across the country's border.\nAt the request of the supervising prosecutor against him, the District Court - Vidin took a preventive measure “detention in custody“.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Customs Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Danube Bridge",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:18:12.864+02:00",
+    "updated": "2024-12-17T11:18:12.864+02:00"
+}

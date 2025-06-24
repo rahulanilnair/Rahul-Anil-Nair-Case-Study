@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "997c12afe9731711dfa8f65920a54cddf9af69ea",
+        "url": "https://www.eenews.net/articles/finger-pointing-begins-after-permitting-talks-collapse",
+        "site_full": "www.eenews.net",
+        "site": "eenews.net",
+        "site_section": "https://www.eenews.net/articles",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "E&amp;E News by POLITICO | Essential Energy and Environment News",
+        "title": "Finger-pointing begins after permitting talks collapse",
+        "title_full": "Finger-pointing begins after permitting talks collapse",
+        "published": "2024-12-17T13:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/0a/e1/f6ac5075451cbbc7da44024a543e/biden-prayer-breakfast-31471.jpg",
+        "performance_score": 0,
+        "domain_rank": 5587,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "997c12afe9731711dfa8f65920a54cddf9af69ea",
+    "url": "https://www.eenews.net/articles/finger-pointing-begins-after-permitting-talks-collapse",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kelsey Brugger",
+    "published": "2024-12-17T13:30:00.000+02:00",
+    "title": "Finger-pointing begins after permitting talks collapse",
+    "text": "The blame game started over the weekend and intensified Monday after bipartisan talks on broad permitting legislation collapsed.\nSenate Energy and Natural Resources Chair Joe Manchin (I-W.Va.) and Environment and Public Works Chair Tom Carper (D-Del.) both blamed House Republican leadership. Manchin has for years been leading the charge on legislation to bolster the grid and make it easier to approve all kinds of projects.\n“By taking permitting off the table for this Congress, Speaker Johnson and House Republican Leadership have done a disservice to the incoming Trump Administration, which has been focused on strengthening our energy security and will now be forced to operate with their hands tied behind their backs when trying to issue permits for all of the types of energy and infrastructure projects our country needs,” Manchin said.\nManchin and ENR ranking member John Barrasso (R-Wyo.) secured committee passage earlier this year on their “Energy Permitting Reform Act” [S. 4753](https://www.congress.gov/118/bills/s4753/BILLS-118s4753is.pdf). But House Republicans also wanted changes to the National Environmental Policy Act.\nCarper, House Natural Resources Chair Bruce Westerman (R-Ark.) and others spent the past several days trying to work out their differences on NEPA. During one meeting, Carper grew visibly angry and stormed out.\n“Senate Democrats had several opportunities during both this Congress and the previous one to achieve meaningful permitting reform and failed,” Johnson said in a statement Monday night.\n“If they were truly committed to reaching an agreement, negotiations would have started months ago — not after they lost the election. “\nRepublicans say they want to address permitting issues along party lines through budget reconciliation. But it’s unclear how much they’ll be able to do under the arcane rules that govern the process. That’s why Senate Democrats saw the latest push as a unique opportunity.\n“It’s just a shame that politics does this — this game of politics up here,” said a despondent Manchin.\nThe West Virginia independent, who caucuses with Democrats, said he discussed permitting with President-elect Donald Trump during the Army-Navy football game over the weekend, according to [reporting by HuffPost](https://x.com/igorbobic/status/1868791250872418692?s=46&t=vhy7INC-U_19TKw1_RykWg).\n“He had it right in his hands, they could grab it, and [Speaker] Johnson wouldn’t go with it,” he said. “It’s a shame.”\nDemocrats started pointing fingers at Johnson Friday, with a Democratic aide saying the speaker “killed permitting.” Another said Johnson “pulled the plug.”\n“Unfortunately, instead of taking real policy wins, House Republicans let their perfect be the enemy of the good,” Carper said, accusing the GOP of asking for too much.\nRep. Garret Graves (R-La.), who helped negotiate NEPA changes in last year’s debt ceiling deal, shot back: “It all comes down to the fact that verbally they say the want reforms. On paper, what they’re doing is creating more lawsuits.”\nGraves also scoffed at the accusation that Republicans didn’t really want a deal. “Just let that sit for a minute,” he said.\nReporter Andres Picon contributed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.congress.gov/118/bills/s4753/BILLS-118s4753is.pdf",
+        "https://x.com/igorbobic/status/1868791250872418692?s=46&t=vhy7INC-U_19TKw1_RykWg",
+        "https://x.com/igorbobic/status/1868791250872418692",
+        "https://www.x.com/igorbobic/status/1868791250872418692?s=46&t=vhy7INC-U_19TKw1_RykWg",
+        "https://congress.gov/118/bills/s4753/BILLS-118s4753is.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:59:57.177+02:00",
+    "updated": "2024-12-17T13:59:57.177+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "a031ffe33fbda49e626da2b233d9927e575c4b4e",
+        "url": "https://news.stv.tv/west-central/future-of-ferguson-marine-under-threat-due-to-lack-of-work-after-glen-rosa-ferry-handover",
+        "site_full": "news.stv.tv",
+        "site": "stv.tv",
+        "site_section": "https://news.stv.tv/west-central/tug-boat-crew-died-after-things-went-dreadfully-wrong-within-seconds-off-greenock",
+        "site_categories": [
+            "logistics",
+            "society",
+            "business",
+            "top_news_gb",
+            "top_news"
+        ],
+        "section_title": "Tug boat crew died after things went &#039;dreadfully wrong&#039; within seconds off Greenock | STV News",
+        "title": "Future of Ferguson Marine under threat due to lack of work after Glen Rosa ferry handover",
+        "title_full": "Future of Ferguson Marine under threat due to lack of work after Glen Rosa ferry handover",
+        "published": "2024-12-17T14:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://news.stv.tv/wp-content/uploads/2024/04/c68a008a2b58dc0bfeba1142c5083759-1712666456-social-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 8618,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 3
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a031ffe33fbda49e626da2b233d9927e575c4b4e",
+    "url": "https://news.stv.tv/west-central/future-of-ferguson-marine-under-threat-due-to-lack-of-work-after-glen-rosa-ferry-handover",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Holly Lennon",
+    "published": "2024-12-17T14:02:00.000+02:00",
+    "title": "Future of Ferguson Marine under threat due to lack of work after Glen Rosa ferry handover",
+    "text": "News / Glasgow & West Ferguson Marine Port Glasgow currently has no contracts for work following the completion of MV Glen Rosa. Facebook\nX / Twitter\nCopy Link\nPosted in Glasgow City Scottish Government The future of a publicly owned shipyard is under threat due to a lack of work being secured beyond the completion of the long-awaited MV Glen Rosa. Ferguson Marine Port Glasgow (FMPG) currently has no contracts for work following the ferry’s expected completion in September 2025.Its sister ship, MV Glen Sannox, was handed over to operator CalMac last month.A report by Audit Scotland found that the only guaranteed funding for the yard is from the Scottish Government up to 2026.It concluded that ongoing investment is needed to make the yard competitive and generate future income.It comes after an assumed direct award for the Scottish Government’s small vessel replacement programme, which would take the business to 2029, failed to materialise due to UK subsidy laws.FMPG is now one of six firms invited to tender for the contract.In 2019, the Scottish Government saved the Ferguson Marine yard from administration, exposing the issues facing Glen Sannox and Glen Rosa.Initially planned to cost around £97m and be delivered in 2018, the cost is now expected to be around four times higher, while delivery dates have been repeatedly pushed back.Audit Scotland has also raised “serious concerns” over poor governance and decision-making at the company with the decision to award two employees exit packages under scrutiny.Both packages were above the £95,000 public sector threshold and made without the required Ministerial views.An internal investigation found that the yard’s previous chief executive agreed to changes to a seconded employee’s contract without the formal approval of either the board or remuneration committee.A report by Audit Scotland found that FMPG failed to follow the accepted procedure, which resulted in FMPG having to back-pay HMRC £48,000 in underpaid income tax.Stephen Boyle, auditor general for Scotland, said: “The future of the Ferguson Marine Port Glasgow shipyard remains uncertain. Currently the yard hasn’t secured any future work or income, beyond the delivery of the Glen Rosa.“We are again highlighting issues of inadequate governance and decision making. An independent review of governance arrangements needs to be swiftly actioned to ensure such poor decisions, without the right checks and balances, are not repeated.”Deputy first minister Kate Forbes said the Scottish Government is “committed” to helping FMPG “build a sustainable future”.She added: “The Scottish Government is committed to helping Ferguson Marine reach a position where it can competitively bid for a range of projects and build a sustainable future.“Officials have been working with the Board to explore options to improve productivity and, as previously set out, we are willing to invest up to £14.2m over two years, subject to due diligence and provided commercial standards are met.“The draft 2025/26 Scottish Budget allocates £46m to Ferguson Marine for the completion of Glen Rosa and to cover the yard’s planned capital investment, subject to parliamentary approval.“While we are already working with Ferguson Marine to strengthen governance arrangements, we note the auditor general’s report and expect the Board to carefully consider the points it raises.”\nSTV News is now on WhatsApp Get all the latest news from around the country\nFollow STV News\nFollow STV News on WhatsApp\nScan the QR code on your mobile device for all the latest news from around the country",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Glen Rosa",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Glen Sannox",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ferguson Marine",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:18:09.843+02:00",
+    "updated": "2024-12-17T15:00:21.022+02:00"
+}

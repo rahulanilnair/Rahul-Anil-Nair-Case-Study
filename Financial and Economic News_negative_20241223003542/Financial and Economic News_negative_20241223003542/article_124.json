@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "0b42c92fff2981391063713037412d2184140bbd",
+        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-fall-sti-falters-mirroring-regional-trend",
+        "site_full": "www.businesstimes.com.sg",
+        "site": "businesstimes.com.sg",
+        "site_section": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "companies-markets",
+        "title": "Singapore shares fall as STI falters, mirroring regional trend",
+        "title_full": "Singapore shares fall as STI falters, mirroring regional trend",
+        "published": "2024-12-16T20:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/fb3e6c478a7f843477c320f0480e2bde77988e0201549dc9e95a9165d301549b",
+        "performance_score": 0,
+        "domain_rank": 5122,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 2
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b42c92fff2981391063713037412d2184140bbd",
+    "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-fall-sti-falters-mirroring-regional-trend",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Benjamin Cher",
+    "published": "2024-12-16T20:38:00.000+02:00",
+    "title": "Singapore shares fall as STI falters, mirroring regional trend",
+    "text": "Even as Asian markets wobble following China’s disappointing numbers, Wall Street surges ahead of the Fed’s expected 25-bp rate cut THE Straits Times Index (STI) faltered on Tuesday (Dec 17), following the regional indices. It ended down 0.6 per cent or 21.1 points at 3,799.93. Across the broader market, decliners outnumbered advancers 275 to 194, with 890.1 million shares worth S$1.1 billion having changed hands. The trio of local banks closed down on Tuesday, with UOB leading the lot, closing down 1.3 per cent or S$0.50 at S$36.70. OCBC ended down 0.3 per cent or S$0.05 at S$16.95, and DBS was down 0.2 per cent or S$0.10 at S$44.21. The top gainer was Frasers Centrepoint Trust, up 1 per cent or S$0.02 to S$2.12. The top loser was Yangzijiang Shipbuilding, down 2.1 per cent or S$0.06 to S$2.82 on Thursday. BT in your inbox Start and end each day with the latest news stories and analyses delivered straight to your inbox. Across the region, major indices continued their declines, with the Kospi down 1.3 per cent, while the Nikkei 225 closed down 0.2 per cent. Hong Kong’s Hang Seng Index was down 0.5 per cent, and the KLCI closed down 0.6 per cent. Wall Street has surged as the Federal Reserve is expected to trim interest rates by 25 basis points. A backdrop of the US economy’s expansion, the most vigorous since October 2021, could ignite “animal spirits” in a post-election frenzy, noted Stephen Innes, managing partner at SPI Asset Management, This is in contrast with the Asian markets, which have faltered, disappointed by China’s latest data releases. The cautious stance by investors is further compounded by unsettling political developments in the major economies, including the unexpected resignation of Canada’s finance minister and the German chancellor losing a vote of confidence. “The US market atmosphere was decidedly upbeat, especially the Nasdaq, which soared to its 36th record close of the year, buoyed by the enduring ‘There Is No Alternative’ sentiment,” said Innes. Copyright SPH Media. All rights reserved. [more in Companies & Markets](/companies-markets) [Over 8,000 platform workers opt for increased CPF contributions](/companies-markets/over-8000-platform-workers-opt-increased-cpf-contributions)Dec 17, 2024 03:54 PM [Allianz confirms withdrawal of offer for Income Insurance](/companies-markets/allianz-confirms-withdrawal-offer-income-insurance)Dec 16, 2024 03:14 PM [Alibaba to sell department store chain Intime for 7.4 billion yuan](/companies-markets/alibaba-sell-department-store-chain-intime-7-4-billion-yuan)Dec 17, 2024 01:26 PM [Hot stock: Wee Hur falls by over 8% after exit from Australian student dorm business](/companies-markets/hot-stock-wee-hur-falls-over-8-after-exit-australian-student-dorm-business)Dec 17, 2024 11:00 AM [](/companies-markets/singapore-shares-fall-sti-falters-mirroring-regional-trend)Dec 17, 2024 09:38 AM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "OCBC",
+                "sentiment": "none"
+            },
+            {
+                "name": "DBS",
+                "sentiment": "none"
+            },
+            {
+                "name": "UOB",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:01:25.467+02:00",
+    "updated": "2024-12-17T12:01:25.467+02:00"
+}

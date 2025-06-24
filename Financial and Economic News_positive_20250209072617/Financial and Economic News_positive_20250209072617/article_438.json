@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "d81d8d2ca99cc3a25974e097e287a77a1ca6b0be",
+        "url": "https://article.wn.com/view/2025/01/10/Dubuque_man_wins_20000_lottery_prize",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/000",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "000",
+        "title": "Dubuque man wins $20,000 lottery prize - Worldnews.com",
+        "title_full": "Dubuque man wins $20,000 lottery prize - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d81d8d2ca99cc3a25974e097e287a77a1ca6b0be",
+    "url": "https://article.wn.com/view/2025/01/10/Dubuque_man_wins_20000_lottery_prize",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Dubuque man wins $20,000 lottery prize - Worldnews.com",
+    "text": "A Dubuque man won a $20,000 prize from the Iowa Lottery. read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->consumer goods"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.telegraphherald.com/news/tri-state/article_b77bd538-ced1-11ef-a735-df918dd268e8.html",
+        "https://telegraphherald.com/news/tri-state/article_b77bd538-ced1-11ef-a735-df918dd268e8.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:19:20.193+02:00",
+    "updated": "2025-01-10T04:19:20.193+02:00"
+}

@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "57324ec3634087a76ef2448ad9d0ef151ad184c3",
+        "url": "https://www.insideindianabusiness.com/articles/superior-ag-cooperative-announces-payouts-to-members",
+        "site_full": "www.insideindianabusiness.com",
+        "site": "insideindianabusiness.com",
+        "site_section": "https://www.insideindianabusiness.com",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Inside INdiana Business &#8211; Indiana Business News",
+        "title": "Superior Ag cooperative announces payouts to members - Inside INdiana Business",
+        "title_full": "Superior Ag cooperative announces payouts to members - Inside INdiana Business",
+        "published": "2025-01-09T23:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.insideindianabusiness.com/wp-content/uploads/2021/09/18870251_G.jpg",
+        "performance_score": 0,
+        "domain_rank": 28773,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "57324ec3634087a76ef2448ad9d0ef151ad184c3",
+    "url": "https://www.insideindianabusiness.com/articles/superior-ag-cooperative-announces-payouts-to-members",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marek Mazurek",
+    "published": "2025-01-09T23:48:00.000+02:00",
+    "title": "Superior Ag cooperative announces payouts to members - Inside INdiana Business",
+    "text": "Superior Ag cooperative announces payouts to members\nSubscriber Benefit\nAs a subscriber you can listen to articles at work, in the car, or while you work out.[Subscribe Now](https://www.insideindianabusiness.com/subscriptions/intropromo)\nHuntingburg-based agricultural cooperative Superior Ag announced this week it will payout close to $2.5 million back to its members.\nThe cooperative started in 2007 and serves farmers in southwest Indiana. The $2.5 million being paid back to members represents 97% of the cooperative’s profits.\nOf that total, Superior Ag says $1.3 million will be in the form of cash payments, while $870,000 will be in equity credits as a 60-40 cash-to-equity split.\n“Superior Ag is a member-owned cooperative controlled by the same local farmers who use our products and services each day,” CEO Richard Lloyd said in a release. “We are proud that our members share in the cooperative’s success. In the coming months, we will allocate over $2.1 million to Superior Ag member-owners from 2024 earnings.”\nSuperior Ag also announced it has lowered the age-based member equity payout to 75 years old, down from 80, which resulted in over $380,000 in equity redemption.\nSuperior Ag says it has over 2,700 members throughout southwestern Indiana, northern Kentucky and southeastern Illinois. Superior Ag also has an ownership stake with SynEnergy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Richard Lloyd",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "INdiana Business Superior Ag",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:06:28.710+02:00",
+    "updated": "2025-01-10T01:06:28.710+02:00"
+}

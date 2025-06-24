@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "3a26e83a1964e2affdae59267fee1d737fdc2d42",
+        "url": "https://www.newsbytesapp.com/news/business/how-pre-2022-crypto-transactions-are-affected-by-new-ruling/story",
+        "site_full": "www.newsbytesapp.com",
+        "site": "newsbytesapp.com",
+        "site_section": "https://www.newsbytesapp.com:443/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NewsBytes",
+        "title": "Sold cryptocurrency before 2022? You will be taxed less",
+        "title_full": "Sold cryptocurrency before 2022? You will be taxed less",
+        "published": "2024-12-17T12:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://i.cdn.newsbytesapp.com/images/20025461734430502.jpg",
+        "performance_score": 0,
+        "domain_rank": 23036,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3a26e83a1964e2affdae59267fee1d737fdc2d42",
+    "url": "https://www.newsbytesapp.com/news/business/how-pre-2022-crypto-transactions-are-affected-by-new-ruling/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dwaipayan Roy",
+    "published": "2024-12-17T12:34:00.000+02:00",
+    "title": "Sold cryptocurrency before 2022? You will be taxed less",
+    "text": "Sold cryptocurrency before 2022? You will be taxed less\nThe Income Tax Appellate Tribunal (ITAT) in Jodhpur has ruled that profits from [cryptocurrency]( https://www.newsbytesapp.com/news/business/cryptocurrency ) sales should be classified as capital gains and not income. This will lead to lower tax liabilities.\nThe decision specifically applies to transactions conducted prior to the Indian government's definition of Virtual Digital Assets (VDAs) in 2022.\nThe tribunal's judgment acknowledges cryptocurrencies as capital assets, and requires any gains made from their sale before 2022 to be taxed as capital gains.\nRuling's impact on long-term crypto investors\nThe ITAT ruling comes as a major relief for those who sold cryptocurrencies prior to 2022, as their profits will now be taxed more favorably under the capital gains framework. This is especially beneficial for investors who held onto their cryptocurrency assets for more than three years, enabling them to benefit from long-term capital gains (LTCG) tax rates which usually lead to lower tax liabilities.\nCase details and tribunal's verdict\nThe case that resulted in this ruling involved a person who bought cryptocurrencies worth ₹5.05 lakh in 2015-16, and sold them for ₹6.69 crore in 2020-21. The taxpayer contended that since there were no specific crypto taxation rules prior to 2022, profits should be considered capital gains. The ITAT bench, comprising of S Seethalakshmi and Rathod Kamlesh Jayantbhai, concurred and noted cryptocurrency qualifies as a capital asset like stocks and real estate.\nITAT directs application of LTCG benefits\nThe ITAT bench directed that LTCG benefits be applied as the assets were held for more than three years. The assessment officer was also instructed to grant applicable deductions under the law. This decision brings the taxation of cryptocurrencies in line with traditional investments like stocks and real estate, providing relief to investors who sold crypto before 2022.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:06:57.521+02:00",
+    "updated": "2024-12-17T15:06:57.521+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "9a5de07ca731b4de4da4183f633b7b1e295bf462",
+        "url": "https://seekingalpha.com/article/4748635-adp-national-employment-report-122k-private-jobs-added-in-december?source=feed_all_articles",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "https://seekingalpha.com/index.rdf",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "mutual_funds"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "ADP National Employment Report: 122K Private Jobs Added In December",
+        "title_full": "ADP National Employment Report: 122K Private Jobs Added In December",
+        "published": "2025-01-10T05:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1097271132/image_1097271132.jpg?io=getty-c-w1536",
+        "performance_score": 0,
+        "domain_rank": 1110,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a5de07ca731b4de4da4183f633b7b1e295bf462",
+    "url": "https://seekingalpha.com/article/4748635-adp-national-employment-report-122k-private-jobs-added-in-december?source=feed_all_articles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advisor Perspectives Charts",
+    "published": "2025-01-10T05:40:00.000+02:00",
+    "title": "ADP National Employment Report: 122K Private Jobs Added In December",
+    "text": "By Jennifer Nash\nThe economic mover and shaker this week is Friday's employment report from the Bureau of Labor Statistics. This monthly report contains a wealth of data for economists, the most publicized being the month-over-month change in Total Nonfarm",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Nash",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Labor Statistics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:30:54.465+02:00",
+    "updated": "2025-01-10T06:30:54.465+02:00"
+}

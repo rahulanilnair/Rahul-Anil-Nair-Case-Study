@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "55fc6066cbe81d9fbd7eedd3a07e9bbb36fdb47b",
+        "url": "https://www.hurriyetdailynews.com/ministry-regulates-ambulance-services-after-health-care-fraud-204526",
+        "site_full": "www.hurriyetdailynews.com",
+        "site": "hurriyetdailynews.com",
+        "site_section": "https://hurriyetdailynews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Turkish News - Latest News from Turkey - H&#252;rriyet Daily News",
+        "title": "Ministry regulates ambulance services after health care fraud - Türkiye News",
+        "title_full": "Ministry regulates ambulance services after health care fraud - Türkiye News",
+        "published": "2025-01-10T08:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://image.hurimg.com/i/hurriyet/75/200x200/6780325580444b7847444d5c.jpg",
+        "performance_score": 0,
+        "domain_rank": 4516,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55fc6066cbe81d9fbd7eedd3a07e9bbb36fdb47b",
+    "url": "https://www.hurriyetdailynews.com/ministry-regulates-ambulance-services-after-health-care-fraud-204526",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ISTANBUL",
+    "published": "2025-01-10T08:21:00.000+02:00",
+    "title": "Ministry regulates ambulance services after health care fraud - Türkiye News",
+    "text": "Ministry regulates ambulance services after health care fraud ISTANBUL Türkiye’s Health Ministry has taken action to implement changes in the country’s ambulance services following the disclosure that a medical staff network accused of causing infant deaths involved the contribution of an ambulance driver.\nAs per the new regulation published in the Official Gazette, ambulances will be equipped with vehicle tracking systems and cameras, allowing relevant authorities to monitor inside the ambulance in real time from the operations center. The records will be stored digitally for security reasons.\nDigital systems will also determine the nearest and most suitable medical institution to which the citizens will be sent during patient transfer processes, with mobile devices that will be supplied to the ambulance team notifying them of this information. Throughout the whole process, the walkie talkie of the ambulances will remain operational.\nThe regulation also makes way for the use of ambulances of various sizes depending on the road conditions and the geographic and architectural features of the site of the operation.\nWith the new legislation , a consulting physician will also take part in the ambulance services during the operations to oversee case follow-up and therapy administration along with the ambulance crew.\nThe new regulation will also raise the frequency of routine inspections from the anticipated twice-yearly inspections to three.\nThe developments have emerged in the wake of the high-profile fraud case, widely known as the “newborn gang trial,” involving several doctors, nurses and an ambulance driver, all accused of transferring newborns to neonatal units at 19 private hospitals with the aim of exploiting the country’s social security system.\nAmbulance driver Gıyasettin Mert Özdemir, the accused defendant in the case, revealed that he received around 114,500 Turkish Liras (around $3,238) from a private hospital in exchange for patient transfers.\nFollowing the scandal, the ministry had announced plans in November last year to repeat all inspections on intensive care units for newborns and to rebuild the country’s audit system “from scratch.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health organisation",
+        "Health->health care approach",
+        "Health->government health care",
+        "Politics->government policy",
+        "Politics->regulatory authority",
+        "Politics->healthcare policy",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Türkiye News Ministry",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:35:48.738+02:00",
+    "updated": "2025-01-10T09:35:48.738+02:00"
+}

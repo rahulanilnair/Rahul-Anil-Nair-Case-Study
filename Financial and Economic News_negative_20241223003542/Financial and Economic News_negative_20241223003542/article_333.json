@@ -1,0 +1,66 @@
+{
+    "thread": {
+        "uuid": "c60bafabfcb07c1c9e59a7494c052b523008609e",
+        "url": "https://n1info.hr/english/news/butter-prices-skyrocket-by-56-a-holiday-essential-becomes-a-luxury",
+        "site_full": "n1info.hr",
+        "site": "n1info.hr",
+        "site_section": "https://hr.n1info.com/feed",
+        "site_categories": [],
+        "section_title": "N1 - Feed",
+        "title": "Butter prices skyrocket by 56%: A holiday essential becomes a luxury",
+        "title_full": "Butter prices skyrocket by 56%: A holiday essential becomes a luxury",
+        "published": "2024-12-17T11:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HR",
+        "main_image": "https://n1info.hr/wp-content/uploads/2024/01/05/1704461161-pexels-markus-spiske-94443-1200x800.jpg",
+        "performance_score": 0,
+        "domain_rank": 63039,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c60bafabfcb07c1c9e59a7494c052b523008609e",
+    "url": "https://n1info.hr/english/news/butter-prices-skyrocket-by-56-a-holiday-essential-becomes-a-luxury",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News portal",
+    "published": "2024-12-17T11:02:00.000+02:00",
+    "title": "Butter prices skyrocket by 56%: A holiday essential becomes a luxury",
+    "text": "According to the Croatian Bureau of Statistics (DZS), inflation in November, as measured by the consumer price index, was 2.8 per cent compared to last November.\nThe prices of food and non-alcoholic beverages increased by 4.8 percent over the past year. However, new data from the Ministry of Agriculture on milk and dairy product prices during the same period reveals how statistics can sometimes be misleading.\nFor example, fresh milk became 5 per cent more expensive in November (compared to the same month last year), sour cream rose on average by around 10 per cent and Gouda cheese by 15 per cent.\nPrices higher than the EU average\nAnd what about butter with standard fat? Butter sold in 25-kilogramme blocks is now a staggering 56 per cent more expensive than last November. The price is 8.43 euros per kilogramme (excluding VAT), which is 11 per cent more than in October this year, reports the website Danica.hr.\nShop-bought butter in 250 gramme packs has also become 18 per cent more expensive: Last month, the average wholesale price was 9.04 euros per kilogramme.\nIn addition, butter in 25-kilogramme blocks was around 9 per cent more expensive than the EU average in November. Edam cheese, on the other hand, is around 10 per cent more expensive in Croatia than the EU average.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:06:16.823+02:00",
+    "updated": "2024-12-17T13:06:16.823+02:00"
+}

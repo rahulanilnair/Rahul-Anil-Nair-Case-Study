@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "363c1644faba76b10c0ffefac3d7a2c5871471fe",
+        "url": "https://www.hellenicshippingnews.com/trump-says-his-agenda-will-pass-whether-it-takes-one-bill-or-two-bills",
+        "site_full": "www.hellenicshippingnews.com",
+        "site": "hellenicshippingnews.com",
+        "site_section": "https://www.hellenicshippingnews.com",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Hellenic Shipping News Worldwide | Hellenic Shipping News Worldwide, Online Daily Newspaper on Hellenic and International Shipping",
+        "title": "Trump says his agenda will pass whether it takes 'one bill or two bills'",
+        "title_full": "Trump says his agenda will pass whether it takes 'one bill or two bills'",
+        "published": "2025-01-09T23:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "GR",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 19890,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "363c1644faba76b10c0ffefac3d7a2c5871471fe",
+    "url": "https://www.hellenicshippingnews.com/trump-says-his-agenda-will-pass-whether-it-takes-one-bill-or-two-bills",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T23:00:00.000+02:00",
+    "title": "Trump says his agenda will pass whether it takes 'one bill or two bills'",
+    "text": "“There’s great unity. Whether it’s one bill or two bills, it’s going to get done one way or the other. I think there’s a lot to talk about two, and there’s a lot of talk about one, but it doesn’t matter. The end result is the same. We’re going to get something done that’s going to be reducing taxes and creating a lot of jobs and all of the other things that you know about. But this was a really unified meeting. //One bill, two bills. Doesn’t matter to me. They’re going to work that out. But the end result is going to be the same. So thank you all very much. And we’ll see you have a big couple of days coming up. And then in a week and a half, we have, I think, some really tremendous things happening. We have some really, I think it’s going to be, it’s going to set this country apart from all others. We’ll do some great, some great work.”\nWhether that agenda is split into “one bill or two bills, it’s going to get done,” Trump told reporters alongside Republican leaders.\nTrump is aiming to united Republicans behind a strategy of implementing tax cuts, border controls and increased fossil fuel production, 12 days before he returns to the White House.\nSource: Reuters",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:31:18.214+02:00",
+    "updated": "2025-01-10T05:31:18.214+02:00"
+}

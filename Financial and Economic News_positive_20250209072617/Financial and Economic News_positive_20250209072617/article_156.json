@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "54df72c802be51cbf63bf492806e2d8fec77381b",
+        "url": "https://www.nasa.gov/technology/nasa-partners-with-us-patent-and-trademark-office-to-advance-technology-transfer",
+        "site_full": "www.nasa.gov",
+        "site": "nasa.gov",
+        "site_section": "https://www.newspaceeconomy.ca",
+        "site_categories": [
+            "science",
+            "space_astronomy",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "New Space Economy | Market Research, Analysis, and Resources",
+        "title": "NASA Partners with US Patent and Trademark Office to Advance Technology Transfer",
+        "title_full": "NASA Partners with US Patent and Trademark Office to Advance Technology Transfer",
+        "published": "2025-01-09T16:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 130,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54df72c802be51cbf63bf492806e2d8fec77381b",
+    "url": "https://www.nasa.gov/technology/nasa-partners-with-us-patent-and-trademark-office-to-advance-technology-transfer",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NSE",
+    "published": "2025-01-09T16:24:00.000+02:00",
+    "title": "NASA Partners with US Patent and Trademark Office to Advance Technology Transfer",
+    "text": "With a shared commitment to fostering U.S. economic growth that benefits the American public, NASA’s Space Technology Mission Directorate and the Department of Commerce’s U.S. Patent and Trademark Office (USPTO) have signed a memorandum of understanding to strengthen collaboration in transferring federally-developed technology into the private sector, known as tech transfer.\n“NASA has to invent new technology every day to carry out audacious missions like building an outpost on the Moon or looking for signs of life on the frozen moons of distant planets,” said Clayton Turner, associate administrator of the agency’s Space Technology Mission Directorate. “That is one of our greatest strengths. And with the help of the U.S. Patent and Trademark Office, we’re streamlining the process of getting those inventions into the hands of the public, boosting the economy, and benefiting everyone on Earth along the way.”\nThe agency’s Space Technology Mission Directorate and USPTO have been working together to share information and cooperate in mutual areas of interest, find ways to advance both agencies’ technology transfer missions, identify barriers to technology transfer, and coordinate initiatives to overcome those barriers. By combining expertise, both agencies are driving inclusive innovation and adoption of best practices, which will advance commercialization of the space agency’s most cutting-edge technology.\nAs part of the new agreement, NASA and USPTO are conducting an extensive study of technology transfer best practices across university and federal labs. The effort will increase opportunities for learning and growth in the technology transfer community.\n“NASA’s Technology Transfer program and the U.S. Patent and Trademark Office had candid conversations with dozens of tech transfer experts about what we could do better,” said Dan Lockney, executive for NASA’s Technology Transfer program. “I can’t wait to share what we’ve learned with the entire tech transfer community nationwide. We look forward to addressing common challenges, and this paper will offer some assurance that we are on a solid, strong path to transferring technologies effectively.”\nThe two agencies will publish a detailed study of their findings, which will be shared at the Federal Laboratory Consortium for Technology Transfe r’s national meeting in the spring. The effort will increase opportunities for learning and growth in the technology transfer community.\n“We are excited to join NASA’s Space Technology Mission Directorate in publishing and sharing this insight with the larger tech transfer community, so that everyone can benefit from the successes and lessons learned from our study participants,” said Parikha Solanki, senior advisor at the U.S. Patent and Trademark Office. “We hope that the impact of this study will extend well beyond the paper, such that it might be a springboard for ongoing dialogue and knowledge sharing between tech transfer practitioners across institutions, ultimately for the benefit of the public at large.”\nhttps://go.nasa.gov/3VEZcmZ\nSource: NASA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->scientific research",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->fraternal and community group",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.uspto.gov/",
+        "https://federallabs.org/",
+        "https://uspto.gov/",
+        "https://www.uspto.gov",
+        "https://federallabs.org",
+        "https://www.federallabs.org/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clayton Turner",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NASA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Space Technology Mission Directorate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:21:57.837+02:00",
+    "updated": "2025-01-10T01:21:57.837+02:00"
+}

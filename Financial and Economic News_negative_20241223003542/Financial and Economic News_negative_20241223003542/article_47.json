@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "a57b2088284f16f7b423114627c93b1fc4c98955",
+        "url": "https://www.networkworld.com/article/3625990/us-moves-to-tighten-restrictions-on-china-telecom-amid-security-fears.html",
+        "site_full": "www.networkworld.com",
+        "site": "networkworld.com",
+        "site_section": "https://www.csoonline.com/awards",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "Awards | CSO Online",
+        "title": "US moves to tighten restrictions on China Telecom amid security fears | Network World",
+        "title_full": "US moves to tighten restrictions on China Telecom amid security fears | Network World",
+        "published": "2024-12-17T11:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.networkworld.com/wp-content/uploads/2024/12/3625990-0-30055700-1734427402-shutterstock_2106490226.jpg?quality=50&amp;strip=all&amp;w=1024",
+        "performance_score": 0,
+        "domain_rank": 2438,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a57b2088284f16f7b423114627c93b1fc4c98955",
+    "url": "https://www.networkworld.com/article/3625990/us-moves-to-tighten-restrictions-on-china-telecom-amid-security-fears.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Prasanth Aby Thomas",
+    "published": "2024-12-17T11:22:00.000+02:00",
+    "title": "US moves to tighten restrictions on China Telecom amid security fears | Network World",
+    "text": "Last week, the government issued a preliminary ruling deeming China Telecom Americas’ US network and cloud operations a national security risk.\nCredit: chalermphon_tiam / Shutterstock The US Commerce Department is intensifying its actions against China Telecom’s US unit over concerns that its cloud and internet services could be used to funnel American data to Beijing, according to a Reuters report .\nThe department issued a preliminary finding last week, stating that China Telecom Americas’ involvement in US networks and cloud services presents a national security risk, the report said. The company was given 30 days to respond.\nThe decision follows growing concerns in Washington over China’s suspected attempts to compromise US telecom infrastructure, including the “ Salt Typhoon ” cyber espionage campaign, described as a major breach.\nVulnerabilities in telecom Telecom networks are an attractive target for adversaries, considering the wealth of insights and potential damage they can cause.\nA compromise of the telecom network could intercept calls, provide real-time location access to interested parties, and even disrupt telecom services. Attacks on these networks are typically carried out by adversaries with significant resources or nation-state backing.\n“Many telecom providers use Chinese products considering their cost-benefit, but they could be a black box with no visibility into their backdoors, even if codes are exposed for review,” said Sunil Varkey, a cybersecurity specialist. “Or the adversary could compromise a non-Chinese environment and manipulate the outcome.”\nConsidering the high volume of transactions in the telecom industry, identifying a small number of targeted fraudulent operations can be extremely challenging.\nThe sustainability of the digital environment and ecosystem relies heavily on the trust it provides to its stakeholders. Services such as telecom, cloud, and routing may have visibility into the data they process, but it becomes a significant concern if the service provider is not trustworthy.\n“Due to world trade agreements, it will be difficult to ban products from any specific country based on assumptions,” Varkey added. “Considering the indicators, ensuring due care and regulatory mandates on telecom network infrastructure and the governance practices they follow is essential.”\nEffect of FCC’s actions The FCC has taken steps to restrict companies like China Mobile and China Telecom from operating in the US due to national security concerns.\n“However, there are still gaps that need to be addressed,” said Sanjaya Kumar, CEO of SureShield. “One significant gap is the lack of periodic review of existing authorizations. The FCC currently does not have a process for regularly reassessing the national security risks associated with carriers that already have authorization to operate in the US.”\nThis means that once a company is authorized, there is limited oversight unless the company seeks a modification, assignment, or transfer of control. Additionally, there are broader cybersecurity challenges that need to be tackled.\nThe US has a National Cybersecurity Strategy in place, but it lacks comprehensive performance measures to assess the effectiveness of various cybersecurity initiatives, Kumar added.\nThis makes it difficult to ensure that efforts to protect critical infrastructure and data are successful.\nImpact for businesses The crackdown on Chinese telecom firms could create significant challenges for US businesses that rely on their services.\nOne immediate concern is the potential for service disruptions as companies transition to alternative providers, which may impact day-to-day operations and critical communications.\n“Switching to alternative providers might come with higher costs,” Kumar added. “⁠Businesses may need to make operational adjustments to accommodate new service providers.”\nRelated content News Google, Microsoft could turn gatekeepers for advanced AI chips By Prasanth Aby Thomas Dec 16, 2024 4 mins",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.csoonline.com/article/3618729/fcc-calls-for-urgent-cybersecurity-overhaul-amid-salt-typhoon-espionage-case.html",
+        "https://www.reuters.com/business/media-telecom/us-moves-boost-crackdown-china-telecoms-us-unit-source-says-2024-12-17/",
+        "https://csoonline.com/article/3618729/fcc-calls-for-urgent-cybersecurity-overhaul-amid-salt-typhoon-espionage-case.html",
+        "https://reuters.com/business/media-telecom/us-moves-boost-crackdown-china-telecoms-us-unit-source-says-2024-12-17/",
+        "https://www.reuters.com/business/media-telecom/us-moves-boost-crackdown-china-telecoms-us-unit-source-says-2024-12-17"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "US Commerce Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "China Telecom",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:35:49.342+02:00",
+    "updated": "2024-12-17T14:57:19.026+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "1f2dfe508314c88e92fa9fce3c585ba4432257ce",
+        "url": "https://www.shorenewsnetwork.com/2025/01/09/essex-cosmetologist-wins-50k-on-scratch-off-plans-retirement",
+        "site_full": "www.shorenewsnetwork.com",
+        "site": "shorenewsnetwork.com",
+        "site_section": "https://shorenewsnetwork.com/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Shore News Network",
+        "title": "Essex cosmetologist wins $50K on scratch-off, plans retirement",
+        "title_full": "Essex cosmetologist wins $50K on scratch-off, plans retirement",
+        "published": "2025-01-10T03:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.shorenewsnetwork.com/wp-content/uploads/2022/01/bigstock-Man-Holding-Dollar-Bills-Roll-349914043.jpg",
+        "performance_score": 0,
+        "domain_rank": 24424,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f2dfe508314c88e92fa9fce3c585ba4432257ce",
+    "url": "https://www.shorenewsnetwork.com/2025/01/09/essex-cosmetologist-wins-50k-on-scratch-off-plans-retirement",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Local News Report",
+    "published": "2025-01-10T03:30:00.000+02:00",
+    "title": "Essex cosmetologist wins $50K on scratch-off, plans retirement",
+    "text": "BALTIMORE, MD — A Baltimore County cosmetologist is ready to hang up his tools after winning a $50,000 top prize on the Maryland Lottery’s Gold Bar Bingo scratch-off game.\nThe Essex resident purchased the lucky $5 ticket on January 2 at Crazy Mart, located at 1705 Pennsylvania Avenue in Baltimore. The long-time Lottery player, who usually tries his luck with Mega Millions and Powerball, was thrilled to discover that this time, his scratch-off ticket carried a life-changing top prize.\nAfter revealing the win, the excited player stood up, jumped around, and shared the news with family and colleagues. He plans to use some of the prize money to prepare for and enjoy his upcoming retirement after 20 years in the cosmetology field.\nCrazy Mart, the retailer where the winning ticket was purchased, will receive a $500 bonus from the Maryland Lottery for selling the $50,000 top-prize scratch-off.\nThe Gold Bar Bingo 5th Edition game, which launched in July 2024, started with eight $50,000 top prizes. Three of those top prizes remain unclaimed, along with six $10,000 prizes and many smaller amounts ranging from $5 to $5,000.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Human Interest->award and prize",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Crazy Mart",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Avenue",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:21:16.505+02:00",
+    "updated": "2025-01-10T04:21:16.505+02:00"
+}

@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "8f585004e8f16ca4f51b76136fa69890d500aab8",
+        "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/wilmot-township-proposed-2025-budget-50-per-cent-increase-salonen-1.7411701?cmp=rss",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "'Financial, historical problems' leads to proposed 50% property tax increase in 2025 for Wilmot residents",
+        "title_full": "'Financial, historical problems' leads to proposed 50% property tax increase in 2025 for Wilmot residents",
+        "published": "2024-12-17T02:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.6773334.1734373872!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/natasha-salonen.jpg?im=Resize%3D620",
+        "performance_score": 0,
+        "domain_rank": 336,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f585004e8f16ca4f51b76136fa69890d500aab8",
+    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/wilmot-township-proposed-2025-budget-50-per-cent-increase-salonen-1.7411701?cmp=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "English",
+    "published": "2024-12-17T02:31:00.000+02:00",
+    "title": "'Financial, historical problems' leads to proposed 50% property tax increase in 2025 for Wilmot residents",
+    "text": "[Kitchener-Waterloo](/news/canada/kitchener-waterloo)·New 'We can't correct 20-plus years of financial decisions in one year,' Mayor Natasha Salonen says Wilmot Township is grappling with a significant budget crunch in 2025. A backlog of capital projects and repairs to infrastructure are largely to blame, and the township doesn't have much saved in reserves. A report from staff says the township needs to increase property taxes by 50 per cent. \"I was shocked,\" Mayor Natasha Salonen told CBC Kitchener-Waterloo's The Morning Edition host Craig Norris on Monday of seeing that budget increase for the first time. \"This council, over the last two budgets, has been asking a lot more questions and really uncovering more financial, historical problems and this has kind of been the culmination of all that digging that council has done.\" The budget numbers are for the township only and does not include any increase the Region of Waterloo councillors vote for at their meeting on Dec. 20. A media release from the township explained critical projects are needed, like a new fire station in New Hamburg, road upgrades and improvements to the Wilmot Recreation Centre. Township staff said the proposed budget would add $43 per month ($514 per year) to the township's portion of the average homeowner's tax bill. The increases to the average homeowners tax bill would include adding: - $35 per month for capital investments. - $3.85 per month to offset inflationary costs. - $9.50 per month to address funding and resource gaps in the operating budget. Greg Clark, the township's acting chief administrative officer, director of corporate services and chief financial officer, said in the release that the budget is a \"turning point\" for the municipality. \"This one-time increase will ensure the organization can continue to maintain its facilities and provide high-quality services to residents now, and in the future,\" Clark said, adding the final number is expected to change as council discusses how to move forward. LISTEN | Wilmot Township expects to see a 50% property tax increase: Council asks for more information Salonen says she knows the numbers will come as a shock to residents of the township and that she and council appreciate there is an affordability crisis. \"So although those might be the numbers that are being suggested, council really needs to start looking at what we actually can do viably and what our community is able to do in one year,\" she said. \"We can't correct 20-plus years of financial decisions in one year.\" She said residents in the township can come speak to council at a meeting on Jan. 7 at 7 p.m. Those who want to offer their thoughts will need to register ahead of time as a delegation. Councillors in three different wards either have held or are planning to hold townhall meetings. One was held this past weekend for Ward 2 residents. Two are planned for the new year: - Ward 3 councillors on Thursday, Jan. 2 from 7 p.m. to 8:30 p.m. at the Wilmot Recreation Centre. - Ward 4 councillors on Saturday, Jan. 4 from 10 a.m. to 12 p.m. at the New Hamburg Community Centre. Councillors have also asked staff to bring back more information to their next meeting in January so they can make informed decisions, Salonen said. Council wants to \"understand the risks of proceeding forward or not proceeding forward with certain projects.\" As an example, Salonen said they've asked about certain road projects and the option of not maintaining certain roads. \"But then that might actually cost us more because then we'll have to completely redo the road versus patch-up work,\" she said. \"It's going to be very interesting to further dig into that in January when staff bring back that information.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Natasha Salonen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Craig Norris",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBC Kitchener-Waterloo",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New Hamb",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:11:27.815+02:00",
+    "updated": "2024-12-17T13:11:27.815+02:00"
+}

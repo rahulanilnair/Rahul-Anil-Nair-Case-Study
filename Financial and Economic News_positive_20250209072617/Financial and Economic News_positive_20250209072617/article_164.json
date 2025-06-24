@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "d8526d5ec445df3e7abb2d21c4b2aa590d44db1f",
+        "url": "https://ca.investing.com/news/stock-market-news/tsx-finishes-day-with-gains-3783266",
+        "site_full": "ca.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ca.investing.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Financial News - Investing.com Canada",
+        "title": "TSX Finishes Day with Gains By Baystreet.ca",
+        "title_full": "TSX Finishes Day with Gains By Baystreet.ca",
+        "published": "2025-01-10T01:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1167,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d8526d5ec445df3e7abb2d21c4b2aa590d44db1f",
+    "url": "https://ca.investing.com/news/stock-market-news/tsx-finishes-day-with-gains-3783266",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Baystreet.ca",
+    "published": "2025-01-10T01:07:00.000+02:00",
+    "title": "TSX Finishes Day with Gains By Baystreet.ca",
+    "text": "Baystreet.ca - Equity markets in Canada ended higher on Thursday, led by gains for metal mining shares, but the move was limited as investors awaited employment data both sides of the border and braced for a potentially more volatile year for financial markets.\nThe TSX regained 21.68 points to close Thursday at 25,073.36.\nThe Canadian dollar dipped 0.06 cents at 69.49 cents U.S.\nAll eyes will be on U.S. non-farm payrolls data, due Friday, as it is a key indicator for markets to gauge the inflation direction and policy rate path of the Federal Reserve.\nThe Fed signaled a more cautious pace of rate cuts at its last monetary policy meeting, and traders now expect the first trim this year in either May or June,\nBack home, domestic employment figures, also due on Friday, will set the tone for policy easing by the Bank of Canada.\nEconomists forecast that Canada's economy added 25,000 jobs in December and the unemployment rate edged up to 6.9% from 6.8% in November.\nIn corporate news, Canadian Natural Resources (TSX: CNQ ) projected increased production for 2025, as it bets on higher demand amid tight oil supplies. Natural Resources dished off eight cents to $46.91.\nElsewhere, K92 Mining (TSX: KNT ) shares rose 26 cents, or 2.6%, to $10.29.\nCapstone Mining (TSX: CS ) weighed most by materials stocks, down 43 cents, or 4.9%, to $9.23, while Lundin Mining (TSX: LUN ) lost 33 cents, or 2.6%, to $12.94.\nIn gold stocks, Lundin Gold hiked $1.83, or 5.9%, to $32.87, while Equinox Gold (TSX: EQX ) captured 35 cents, or 4.2%, to $8.70.\nAmong health-care concerns, Bausch Health (TSX: BHC ) Companies galloped 34 cents, or 3%, to $11.61, while Sienna Senior Living (TSX: SIA ) took on a dime to $8.70.\nCommunications did not fare so well, as Rogers fell 43 cents, or 1%, to $43.48, while BCE (TSX: BCE ) slipped 30 cents to $33.69.\nIn the industrial sector, Bombardier (TSX: BBDb ) faltered $2.45, or 2.6%, to $93.03, while GFL Environmental lost 61 cents, or 1%, to $63.69.\nThe utility sector was in the red, with Innergex (TSX: INE ) trailing Wednesday by 15 cents, or 1.9%, to $7.76, while Boralex (TSX: BLX ) fell 40 cents, or 1.5%, to $27.00.\nON BAYSTREET\nThe TSX Venture Exchange gained 4.95 points to 615.68.\nSeven of the 12 TSX subgroups were higher on the day, led my materials, up 1.9%, while health-care prospered 1%, and gold shone 0.9%.\nThe five laggards were weighed most by communications, down 0.7%, industrials, settling 0.6%, and utilities, off 0.5%.\nON WALLSTREET\nU.S. markets were closed Thursday in memory of former President Jimmy Carter.\nThis content was originally published on Baystreet.ca",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->metal and mineral mining and refining"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.baystreet.ca/articles/marketupdates.aspx?id=13778",
+        "http://baystreet.ca/articles/marketupdates.aspx?id=13778",
+        "http://www.baystreet.ca/articles/marketupdates.aspx"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:24:09.821+02:00",
+    "updated": "2025-01-10T01:24:09.821+02:00"
+}

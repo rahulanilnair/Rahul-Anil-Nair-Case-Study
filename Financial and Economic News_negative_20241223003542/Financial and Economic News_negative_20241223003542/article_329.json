@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "6e250e2b3af55d11b8f029a1430363bdb5bc373c",
+        "url": "https://uk.investing.com/news/economic-indicators/uk-grocery-inflation-rises-to-26-says-kantar-3828599",
+        "site_full": "uk.investing.com",
+        "site": "investing.com",
+        "site_section": "https://uk.investing.com/news/economic-indicators",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Economic Indicators News - Investing.com UK",
+        "title": "UK grocery inflation rises to 2.6%, says Kantar By Reuters",
+        "title_full": "UK grocery inflation rises to 2.6%, says Kantar By Reuters",
+        "published": "2024-12-10T10:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i-invdn-com.investing.com/news/Tesco_800x533_L_1634733499.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6e250e2b3af55d11b8f029a1430363bdb5bc373c",
+    "url": "https://uk.investing.com/news/economic-indicators/uk-grocery-inflation-rises-to-26-says-kantar-3828599",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-12-10T10:38:00.000+02:00",
+    "title": "UK grocery inflation rises to 2.6%, says Kantar By Reuters",
+    "text": "LONDON (Reuters) - British shoppers faced increased pressure on their budgets last month after grocery price inflation edged higher, industry data showed on Tuesday.\nMarket researcher Kantar said annual grocery price inflation was 2.6% in the four weeks to Dec. 1, having been 2.3% in the previous four-week period.\nPrices are rising fastest in products such as toothbrushes, chilled smoothies & juices, and fragrances and falling fastest in items including household paper products, dog food and ambient savoury meals, Kantar said.\nAmong individual supermarkets, Britain's biggest, Tesco (OTC: TSCDY ), saw sales in the 12 weeks to Dec. 1 rise 5.2%. It had a market share of 28.1%, its highest since December 2017.\nUK supermarkets have warned that tax rises in the new Labour government's first budget in October, together with another rise in the national minimum wage, will be inflationary.\nOfficial data published last month showed overall UK inflation jumped to 2.3% in October. Data for November will be published Dec. 18.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kantar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:05:08.364+02:00",
+    "updated": "2024-12-17T13:05:08.364+02:00"
+}

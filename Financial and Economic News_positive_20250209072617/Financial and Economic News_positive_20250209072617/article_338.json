@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "c137eb9d3bd29fbc18388ee853fb80c24a05754d",
+        "url": "https://tnp.straitstimes.com/news/singapore/singapore-passport-still-worlds-most-powerful",
+        "site_full": "tnp.straitstimes.com",
+        "site": "straitstimes.com",
+        "site_section": "https://tnp.sg/news",
+        "site_categories": [
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News & Headlines, Top Stories Today - The New Paper",
+        "title": "Singapore passport is still world's most powerful, Latest Singapore News - The New Paper",
+        "title_full": "Singapore passport is still world's most powerful, Latest Singapore News - The New Paper",
+        "published": "2025-01-10T02:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://tnp.straitstimes.com/sites/default/files/styles/rl680/public/WJ4790.jpg?itok=dd4D5-wH",
+        "performance_score": 0,
+        "domain_rank": 1190,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c137eb9d3bd29fbc18388ee853fb80c24a05754d",
+    "url": "https://tnp.straitstimes.com/news/singapore/singapore-passport-still-worlds-most-powerful",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vihanya Rakshika for The Straits Times",
+    "published": "2025-01-10T02:23:00.000+02:00",
+    "title": "Singapore passport is still world's most powerful, Latest Singapore News - The New Paper",
+    "text": "The Republic has clinched the top spot in a world ranking of passports again, with Singaporeans enjoying visa-free entry to 195 out of 227 travel destinations, according to the 2025 Henley Passport Index.\nThe index released two sets of ranking in 2024. In January, Singapore shared the top spot with five other countries, but in July, it reclaimed the sole position as the world’s most powerful passport.\nIn the latest index released on Jan 8, Japan is ranked a close second, with its citizens having visa-free access to 193 destinations.\nFinland, France, Germany, Italy, South Korea and Spain tie for third place with access to 192 destinations.\nOn the other end of the spectrum, the least powerful passports belong to Afghanistan, Syria and Iraq. Afghan passport holders can access only 26 destinations visa-free, while Syria and Iraq allow visa-free entry to 27 and 31 destinations, respectively.\nMeanwhile, China’s passport has made significant progress over the past decade, climbing from 94th place in 2015, to 60th place in 2025, with its citizens enjoying visa-free access to 40 more destinations.\nSingapore Passport-less clearance at Changi Airport averages 10sec Oct 24, 2024 Related Stories Jail for Singaporean who travelled using Philippine passport Riders can use QR code at checkpoints from Aug 15 Passport-less immigration clearance for bikers by August In contrast, the US passport has fallen from second place in 2015 to its current ninth position on the index.\nThe Henley Passport Index evaluates the power of passports based on data from the International Air Transport Association and its own research.\nIt ranks countries based on the number of destinations their citizens can access without a visa, or where a visa on arrival, e-visa, or similar arrangement is available.\nGet The New Paper on your phone with the free TNP app. Download from the Apple App Store or Google Play Store now",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->economic policy",
+        "Politics->international relations",
+        "Politics->government",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://play.google.com/store/apps/details?id=com.sph.mypaperpdf&hl=en",
+        "https://itunes.apple.com/sg/app/the-new-paper/id949361491?mt=8",
+        "https://play.google.com/store/apps/details",
+        "https://itunes.apple.com/sg/app/the-new-paper/id949361491",
+        "https://www.play.google.com/store/apps/details?id=com.sph.mypaperpdf&hl=en",
+        "https://www.itunes.apple.com/sg/app/the-new-paper/id949361491?mt=8"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "New Paper The Republic",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:09:46.552+02:00",
+    "updated": "2025-01-10T03:09:46.552+02:00"
+}

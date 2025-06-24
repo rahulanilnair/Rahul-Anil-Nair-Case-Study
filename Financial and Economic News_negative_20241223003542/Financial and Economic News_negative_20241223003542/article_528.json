@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "449645012e0bc4e8a4ee9ff49afe936d89d9d1b3",
+        "url": "https://www.onrec.com:443/news/opinion/employers-face-challenging-start-to-2025-as-pay-growth-rises",
+        "site_full": "www.onrec.com",
+        "site": "onrec.com",
+        "site_section": "https://onrec.com/homepage",
+        "site_categories": [
+            "job_search",
+            "jobs"
+        ],
+        "section_title": "Onrec | The Online Recruitment Resource",
+        "title": "Employers face challenging start to 2025 as pay growth rises | Onrec",
+        "title_full": "Employers face challenging start to 2025 as pay growth rises | Onrec",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 57423,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "449645012e0bc4e8a4ee9ff49afe936d89d9d1b3",
+    "url": "https://www.onrec.com:443/news/opinion/employers-face-challenging-start-to-2025-as-pay-growth-rises",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CIPD",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Employers face challenging start to 2025 as pay growth rises | Onrec",
+    "text": "Responding to today’s ONS labour market figures, James Cockett, senior labour market economist for the CIPD, the professional body for HR and people development, comments:\n“Today’s figures show high wage levels are persisting and wage growth has risen for the first time in a year. This is evident across the economy as firms continue to grapple for talent. There was no drastic change in employment intentions in the immediate aftermath of the Budget. Vacancies have continued their stable downward trajectory and are now in touching distance of pre-pandemic levels. As we head into 2025, we expect the fall in vacancies to continue with wage growth remaining high in the first few months of the year.\n“Employers face tough waters ahead with rising employments costs as a result of the Budget, compounded with a raft of changes in the Employment Rights Bill. The uncertainty around the detail on the Bill means it will be a precarious start to 2025 for many employers. The levers they can pull are limited due to ongoing cost pressures. We can expect rising prices and job losses, as firms plan for the next financial year. We urge the Government not to lose sight of smaller businesses in particular, who are likely to be disproportionately affected by the cumulative impact of these changes, and require more support, advice and guidance in implementing many of the proposals.\n“Looking ahead for pay we have a marker in the sand for 2025 with Government departments recommending a 2.8% pay rise for millions of public sector workers. Many employers across the economy will anticipate cost pressures in the coming months, following the changes to National Insurance due to come into effect from April. One consequence is likely to be lower pay growth, later in the year.\n“Uncertainty continues to plague the labour market data, which acts a bedrock of evidence-based policy. Revisions included in today’s release estimate that employment is over 400k higher than previously thought. The levels of unemployment, employment and inactivity are however broadly holding steady as we remain in a tight labour market.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Cockett",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:04:21.420+02:00",
+    "updated": "2024-12-17T14:04:21.420+02:00"
+}

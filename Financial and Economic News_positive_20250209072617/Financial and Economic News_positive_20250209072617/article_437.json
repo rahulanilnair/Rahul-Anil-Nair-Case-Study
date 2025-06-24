@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "96a5bd999cfe38b992c2b9012a5565599f3a577c",
+        "url": "https://www.allaboutfeed.net/the-industry/feed-companies/us-animal-feed-industry-sees-opportunities-with-new-washington-leadership",
+        "site_full": "www.allaboutfeed.net",
+        "site": "allaboutfeed.net",
+        "site_section": "https://www.allaboutfeed.net/news-archive/feed",
+        "site_categories": [
+            "bodybuilding",
+            "sports"
+        ],
+        "section_title": "News archive - All About Feed",
+        "title": "US animal feed industry sees opportunities with new Washington leadership",
+        "title_full": "US animal feed industry sees opportunities with new Washington leadership",
+        "published": "2025-01-10T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.allaboutfeed.net/app/uploads/2025/01/US-feed-industry-1024x682.png",
+        "performance_score": 0,
+        "domain_rank": 121827,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96a5bd999cfe38b992c2b9012a5565599f3a577c",
+    "url": "https://www.allaboutfeed.net/the-industry/feed-companies/us-animal-feed-industry-sees-opportunities-with-new-washington-leadership",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Constance Cullman",
+    "published": "2025-01-10T01:00:00.000+02:00",
+    "title": "US animal feed industry sees opportunities with new Washington leadership",
+    "text": "This Premium article is exclusively available for subscribers.\nObtain insights from exclusive interviews\nDive into articles covering trending industry topics\nStay up-to-date on the market trends\nMarieke Ploegmakers\nMatthewWedzerai\nTreena Hein\nAlready subscribed? Click here to login",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->agriculture",
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marieke Ploegmakers\nMatthewWedzerai\nTreena Hein",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:19:08.119+02:00",
+    "updated": "2025-01-10T04:19:08.119+02:00"
+}

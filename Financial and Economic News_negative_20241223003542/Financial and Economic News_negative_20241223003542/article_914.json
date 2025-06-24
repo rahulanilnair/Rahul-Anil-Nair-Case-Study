@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "0df33cfbfdc26fe47612e49c1da333a0f62c79c7",
+        "url": "https://candid.technology/meta-pays-settle-cambridge-analytica-lawsuit-australia",
+        "site_full": "candid.technology",
+        "site": "candid.technology",
+        "site_section": "https://candid.technology/rss",
+        "site_categories": [
+            "entertainment"
+        ],
+        "section_title": "Candid.Technology",
+        "title": "Meta pays $31.85 million to settle Cambridge Analytica lawsuit in Australia",
+        "title_full": "Meta pays $31.85 million to settle Cambridge Analytica lawsuit in Australia",
+        "published": "2024-12-17T13:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://candid.technology/wp-content/uploads/2024/05/Facebook-featured-23e.jpg",
+        "performance_score": 0,
+        "domain_rank": 153107,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0df33cfbfdc26fe47612e49c1da333a0f62c79c7",
+    "url": "https://candid.technology/meta-pays-settle-cambridge-analytica-lawsuit-australia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kumar Hemant",
+    "published": "2024-12-17T13:01:00.000+02:00",
+    "title": "Meta pays $31.85 million to settle Cambridge Analytica lawsuit in Australia",
+    "text": "The Australian Information Commissioner has announced an A$50 million ($31.85 million) enforceable undertaking with Meta Platforms, Inc., the parent company of Facebook, to settle civil penalty proceedings. The settlement addresses the privacy concerns stemming from the Cambridge Analytica scandal, marking the largest payout of its kind in Australia.\nThe enforceable undertaking follows a court-ordered mediation process that began in February 2024, culminating in the withdrawal of civil penalty proceedings initiated by the Commissioner in March 2020. Meta agreed to cover the Commissioner’s legal costs as part of the settlement.\nThe Commissioner alleged that the personal information of Australian Facebook users was improperly disclosed to the controversial app This is Your Digital Life between November 2013 and December 2015. The app’s data practices exposed users to the risk of their information being accessed by third parties, including Cambridge Analytica, potentially for political profiling purposes.\nThese actions were deemed a breach of Australia’s Privacy Act 1988.\n“Today’s settlement represents the largest ever payment dedicated to addressing concerns about the privacy of individuals in Australia,” said Elizabeth Tydd, Australian Information Commissioner.\nMeta will establish a $50 million payment scheme for affected Australian Facebook users as part of the settlement. The scheme, overseen by an independent third-party administrator to be appointed by Meta, will open in the second quarter of 2025.\nThe eligibility criteria include:\n- Holding a Facebook account between November 2, 2013, and December 17, 2015.\n- Being present in Australia for more than 30 days during this period.\n- Either installed the This is Your Life app or were friends on Facebook with someone who did.\nEligible individuals could apply for one of the two payment tiers:\n- Base payment: For generalised concerns or embarrassment caused by the breach.\n- Specific payment: Those who can demonstrate loss or damage from the privacy breach.\nCambridge Analytica was a British consulting firm that collected data of millions of Facebook users without their consent. A Meta spokesperson told Reuters that the company settled the Australian lawsuit on a no-admission basis, meaning Meta does not agree with the allegations against them.\nIn the News: Texas Tech Health Sciences Centers hacked; 2M+ files exposed",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:02:52.793+02:00",
+    "updated": "2024-12-17T16:02:52.793+02:00"
+}

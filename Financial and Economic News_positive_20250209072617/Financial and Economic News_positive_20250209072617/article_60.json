@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "4d889fc15bd353c4bc29a4033a19f40a4c7cf697",
+        "url": "https://www.usnews.com/news/top-news/articles/2025-01-09/boeing-donating-1-million-to-trump-presidential-inaugural-fund-spokesperson-says",
+        "site_full": "www.usnews.com",
+        "site": "usnews.com",
+        "site_section": "http://www.usnews.com/rss/usnews.rss",
+        "site_categories": [
+            "social",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "U.S. News",
+        "title": "Boeing Donating $1 Million to Trump Presidential Inaugural Fund, Spokesperson Says",
+        "title_full": "Boeing Donating $1 Million to Trump Presidential Inaugural Fund, Spokesperson Says",
+        "published": "2025-01-09T23:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/f33ed27/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F62%2Fb2d8f738278b61f83aeb299f93b5bd%2Ftag%3Areuters.com%2C2025%3Anewsml_LYNXMPEL080W4%3A12025-01-09T212602Z_1_LYNXMPEL080W4_RTROPTP_3_BOEING-BRAZIL.JPG",
+        "performance_score": 0,
+        "domain_rank": 298,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4d889fc15bd353c4bc29a4033a19f40a4c7cf697",
+    "url": "https://www.usnews.com/news/top-news/articles/2025-01-09/boeing-donating-1-million-to-trump-presidential-inaugural-fund-spokesperson-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-09T23:26:00.000+02:00",
+    "title": "Boeing Donating $1 Million to Trump Presidential Inaugural Fund, Spokesperson Says",
+    "text": "Reuters\nFILE PHOTO: A Boeing logo is seen at the company's technology and engineering center in Sao Jose dos Campos, Sao Paulo state, Brazil October 10, 2023. REUTERS/Gabriel Araujo/File Photo\nWASHINGTON (Reuters) - Boeing is donating $1 million to U.S. President-elect Donald Trump's inauguration, a spokesperson for the U.S. planemaker said on Thursday.\nBoeing is joining many major U.S. companies including General Motors, Ford, Microsoft and Meta in donating for the Jan. 20 event.\nThe planemaker previously donated $1 million to the last three presidential inaugurations, including Trump's first in 2017\n(Reporting by David Shepardson; Editing by Chris Reese)\nCopyright 2025 Thomson Reuters .\nJoin the Conversation See Comments Tags: United States\nRead More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "Politics->government",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Shepardson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jose dos Campos",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gabriel Araujo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chris Reese",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Boeing",
+                "sentiment": "negative"
+            },
+            {
+                "name": "General Motors",
+                "sentiment": "none"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ford",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:24:17.526+02:00",
+    "updated": "2025-01-10T00:24:17.526+02:00"
+}

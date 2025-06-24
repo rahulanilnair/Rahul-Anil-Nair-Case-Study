@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 77
+============================================================
+Timestamp: 2025-06-23 06:29:19
+Headline Summary: ASX Market Open: January rally looks back on-track after Thursday bump 
+Key Highlights: 
+Final Sentiment: Positive
+Confidence: 85%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The article reports a continuation of the January rally with market expectations aligned, which suggests a positive sentiment. However, concerns around incoming President Donald Trump’s national economic emergency declaration may affect market confidence. Therefore, I partially agree with the current sentiment but propose a more cautious confidence level. growth_analyst: The current analysis indicates a positive sentiment due to the ASX 200 futures pointing to a 38-point gain at open. However, I partially agree as there are concerns surrounding incoming President Donald Trump’s national economic emergency declaration and potential impact on global trade. sentiment_analyst: The current analysis acknowledges a positive sentiment due to the ASX 200 futures pointing to a gain at open, which supports the idea of the January rally continuing. However, I partially disagree with the current confidence and impact ratings as they seem overly optimistic considering the uncertainty around Trump's national economic emergency declaration.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Positive sentiment.
+============================================================

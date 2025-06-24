@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "bf55bb07866cacccf8dcf0796f72540290e77367",
+        "url": "https://www.albawaba.com/business/lamborghini-delays-first-electric-car-1596679",
+        "site_full": "www.albawaba.com",
+        "site": "albawaba.com",
+        "site_section": "https://www.albawaba.com/rss/all",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " Al Bawaba - Daily Headlines ",
+        "title": "Lamborghini delays first electric car launch until 2029",
+        "title_full": "Lamborghini delays first electric car launch until 2029",
+        "published": "2024-12-17T09:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.albawaba.com/sites/default/files/styles/default/public/2024-12/cover_desktop.jpg?itok=QTbtkU6q",
+        "performance_score": 0,
+        "domain_rank": 8006,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bf55bb07866cacccf8dcf0796f72540290e77367",
+    "url": "https://www.albawaba.com/business/lamborghini-delays-first-electric-car-1596679",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "reema_tuqan",
+    "published": "2024-12-17T09:10:00.000+02:00",
+    "title": "Lamborghini delays first electric car launch until 2029",
+    "text": "ALBAWABA – Lamborghini, the Italian manufacturer of luxury sports cars owned by the Volkswagen Group through its subsidiary Audi, announced the delay of the first Lamborghini electric car launch until 2029 due to market conditions and readiness.\nLamborghini will launch Lanzador electric car in 2029\nStephan Winkelmann, President of Lamborghini, stated that the company's first electric vehicle model will launch in 2029 because the market is not yet ready for it.\nPreviously, the company announced plans to launch its first electric model in 2028 but has now postponed the release to 2029.\nThe approximate price of the Lamborghini Lanzador is expected to start at $300,000. (Lamborghini)\n\"We do not think 2029 is late to have an electric car. We do not think that, in our segment, the market will be ready in 2025 or 2026. We think this is the right way to face the future. There are discussions around synthetic fuels and this is an opportunity for our kind of cars,” Winkelmann said according to Reuters.\nLamborghini plans to launch three hybrid models this year, Urus SE SUV, Revuelto, and Temerario.\nLanzador from Lamborghini\nLamborghini announced previously that the Lanzador electric model is equipped with two electric motors, one for each axle.\nThe model features steerable rear axle, air suspension, and a new generation high-performance battery. The approximate price of the Lamborghini Lanzador is expected to start at $300,000.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stephan Winkelmann",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Volkswagen Group",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            },
+            {
+                "name": "Audi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:07:50.701+02:00",
+    "updated": "2024-12-17T12:07:50.701+02:00"
+}

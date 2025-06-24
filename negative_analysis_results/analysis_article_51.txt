@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 51
+============================================================
+Timestamp: 2025-06-23 08:32:23
+Headline Summary: The government announces a significant budget cut.
+Key Highlights: This will result in the reduction of discretionary spending and reallocation of funds to priority areas.
+Final Sentiment: Neutral
+Confidence: 66%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: growth_analyst: The current sentiment, confidence, and impact ratings seem overly negative. The analysis would benefit from a more balanced approach to assess both sides of the issue. Additionally, I believe the proposed impact rating could be higher as there are valid arguments on both sides. sentiment_analyst: The sentiment and confidence ratings seem a bit conservative considering the overall tone of the article. However, I don\u2019t think it\u0399s unfair to rate the impact as medium since there are valid points made on both sides.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Neutral sentiment.
+============================================================

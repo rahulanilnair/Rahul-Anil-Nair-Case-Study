@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "3d0d261684a5a9a34ccb5364f4b1f2f86baf7259",
+        "url": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com/kenya/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons",
+        "site_full": "newsafrica-lb-43427308.us-west-2.elb.amazonaws.com",
+        "site": "newsafrica-lb-43427308.us-west-2.elb.amazonaws.com",
+        "site_section": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com/ghana",
+        "site_categories": [],
+        "section_title": "Ghana Archives - News Africa Now",
+        "title": "Govt releases Sh3.5bn social protection payout for 1.8mn elderly persons",
+        "title_full": "Govt releases Sh3.5bn social protection payout for 1.8mn elderly persons",
+        "published": "2025-01-09T01:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "https://newsafricanow.com/wp-content/uploads/2025/01/cropped-news2-32x32-1.png",
+        "performance_score": 0,
+        "domain_rank": 55,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d0d261684a5a9a34ccb5364f4b1f2f86baf7259",
+    "url": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com/kenya/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsafrica",
+    "published": "2025-01-09T01:42:00.000+02:00",
+    "title": "Govt releases Sh3.5bn social protection payout for 1.8mn elderly persons",
+    "text": "NAIROBI, Kenya, Jan 8 — The Ministry of Labour and Social Protection has announced the disbursement of Sh3,517,470,000 for the December 2024 Inua Jamii Cash Transfer payments.\nThe funds aim to benefit 1,758,735 individuals enrolled in the program.\nPayments began on Tuesday, January 7, with each beneficiary set to receive Sh2,000 to cover the December 2024 cycle.\nThis initiative is part of the government’s ongoing efforts to support vulnerable populations by providing financial assistance to cushion them from poverty and hunger, thereby enhancing their quality of life.\nTo improve service delivery, the government is piloting a new payment method through MPESA, using the E-Citizen platform in Murang’a and Marsabit counties.\nBy the end of January 2025, all beneficiaries will be able to access their funds via this efficient system, leveraging MPESA’s extensive agent network.\nBeneficiaries in other counties will continue receiving their payments through the traditional method via contracted commercial banks, ensuring there is no disruption in the payment process.\nJoseph Motari, the Principal Secretary of the State Department for Social Protection and Senior Citizen Affairs, emphasized the importance of this new system in enhancing the delivery of social protection services.\n“We are committed to ensuring that the most vulnerable members of society continue to receive the support they need in a timely and efficient manner,” Motari said.\nHe affirmed that the initiative reflects the government’s ongoing investment in social protection, aimed at reducing inequality and improving the livelihoods of its citizens.\nLaunched in 2018, the program marks a significant milestone in advancing the lifecycle approach to social protection in Kenya.\nIt guarantees a minimum income for all citizens in their old age and targets senior citizens, persons with disabilities, and other marginalized groups.\nSource: [capitalfm](https://www.capitalfm.co.ke/news/2025/01/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons/?utm_source=rss&utm_medium=rss&utm_campaign=govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->economy",
+        "Politics->government",
+        "Politics->civil rights",
+        "Social Issue->welfare",
+        "Social Issue->social services",
+        "Social Issue->elderly care"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.capitalfm.co.ke/news/2025/01/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons/?utm_source=rss&utm_medium=rss&utm_campaign=govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons",
+        "https://www.capitalfm.co.ke/news/2025/01/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons/",
+        "https://capitalfm.co.ke/news/2025/01/govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons/?utm_source=rss&utm_medium=rss&utm_campaign=govt-releases-sh3-5bn-social-protection-payout-for-1-8mn-elderly-persons"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:07:41.854+02:00",
+    "updated": "2025-01-10T04:07:41.854+02:00"
+}

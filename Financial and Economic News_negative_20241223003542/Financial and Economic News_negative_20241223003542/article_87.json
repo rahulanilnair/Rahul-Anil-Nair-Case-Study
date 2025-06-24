@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "8f94deeb552ddd58156f48461986d0b7f42636a1",
+        "url": "https://www.rttnews.com/story.aspx?Id=3497791",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "",
+        "title_full": "",
+        "published": "2024-12-17T11:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f94deeb552ddd58156f48461986d0b7f42636a1",
+    "url": "https://www.rttnews.com/story.aspx?Id=3497791",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T11:02:00.000+02:00",
+    "title": "",
+    "text": "By RTTNews Staff Writer ✉ | Published: 12/17/2024 4:02 AM ET | German stocks drifted lower on Tuesday due to linger political uncertainties in Germany and France, and ahead of the release of German Ifo business climate index and ZEW economic sentiment numbers for December later in the day.\nInvestors also await policy decision from a slew of central banks this week, including the U.S. Federal Reserve, Bank of Japan and Bank of England.\nThe Fed will announce its last move on interest rates for the year on Wednesday and it is likely that the main rate will be cut for a third straight time.\nEurozone government bond yields largely steady after Chancellor Olaf Scholz lost a vote of confidence, triggering a snap general election for 23, seven months ahead of schedule.\nThe benchmark DAX was down 40 points, or 0.2 percent, at 20,273 after falling half a percent in the previous session.\nThyssenkrupp nucera AG shares were up more than 4 percent after the company logged its highest quarterly sales for its alkaline electrolysers.\nFor comments and feedback contact: editorial@rttnews.com\nMarket Analysis\nSlide Shows Biotech Stocks Facing FDA Decision In August 2024 Biotech Stocks Facing FDA Decision In June 2024 Biotech Stocks Facing FDA Decision In April 2024 Previous Story Next Story Global Economics Weekly Update - December 09- 13, 2024 December 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.google.com/publications/CAAqBwgKMNGQnQsw4pq1Aw?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "https://www.youtube.com/embed/_m4Fb7a1M1k?autoplay=1&mute=1?rel=0",
+        "https://youtube.com/embed/_m4Fb7a1M1k?autoplay=1&mute=1?rel=0",
+        "https://www.youtube.com/embed/_m4Fb7a1M1k",
+        "https://news.google.com/publications/CAAqBwgKMNGQnQsw4pq1Aw",
+        "https://www.news.google.com/publications/CAAqBwgKMNGQnQsw4pq1Aw?hl=en-IN&gl=IN&ceid=IN%3Aen"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Olaf Scholz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Thyssenkrupp nucera AG",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of Japan",
+                "sentiment": "none"
+            },
+            {
+                "name": "ZEW",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:47:16.620+02:00",
+    "updated": "2024-12-17T11:47:16.620+02:00"
+}

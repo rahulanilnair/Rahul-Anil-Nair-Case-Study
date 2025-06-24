@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "162d2e2463bf7e5d81aa8b48776de5b5d831ec68",
+        "url": "https://www.surinenglish.com/spain/tax-high-wage-earners-20241216080125-nt.html",
+        "site_full": "www.surinenglish.com",
+        "site": "surinenglish.com",
+        "site_section": "http://www.diariosur.es/rss/atom/?seccion=malaga-capital",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "RSS de noticias de ",
+        "title": "High wage earners in Spain to be hit with new tax starting in January",
+        "title_full": "High wage earners in Spain to be hit with new tax starting in January",
+        "published": "2024-12-17T10:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ES",
+        "main_image": "https://s1.ppllstatics.com/surinenglish/www/multimedia/2024/12/17/new-tax-spain-kVaB-U62008883777NhB-1920x1080@Diario%20Sur.jpg",
+        "performance_score": 0,
+        "domain_rank": 35624,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "162d2e2463bf7e5d81aa8b48776de5b5d831ec68",
+    "url": "https://www.surinenglish.com/spain/tax-high-wage-earners-20241216080125-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucía Palacios",
+    "published": "2024-12-17T10:18:00.000+02:00",
+    "title": "High wage earners in Spain to be hit with new tax starting in January",
+    "text": "Zoom Agencia Tributaria office in Spain. Virginia Carrasco\nEconomy High wage earners in Spain to be hit with new tax starting in January In 2025 the 'solidarity quota' comes into force, and it will affect those earning over 4,900 euros per month",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "José Luis Escrivá",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:21:29.514+02:00",
+    "updated": "2024-12-17T11:43:22.554+02:00"
+}

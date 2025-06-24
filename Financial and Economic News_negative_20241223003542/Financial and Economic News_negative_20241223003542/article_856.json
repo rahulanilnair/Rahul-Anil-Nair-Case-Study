@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "f15b2f7298b16dbdfc8d949f116abb3705d17f36",
+        "url": "https://markets.businessinsider.com/news/stocks/wall-street-poised-to-open-in-negative-territory-1034145431",
+        "site_full": "markets.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "https://markets.businessinsider.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sg",
+            "top_news_rs",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_fi",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "News | Financial and Business News | Markets Insider",
+        "title": "Wall Street Poised To Open In Negative Territory",
+        "title_full": "Wall Street Poised To Open In Negative Territory",
+        "published": "2024-12-17T14:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 124,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f15b2f7298b16dbdfc8d949f116abb3705d17f36",
+    "url": "https://markets.businessinsider.com/news/stocks/wall-street-poised-to-open-in-negative-territory-1034145431",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "markets.businessinsider.com",
+    "published": "2024-12-17T14:14:00.000+02:00",
+    "title": "Wall Street Poised To Open In Negative Territory",
+    "text": "(RTTNews) - Initial cues from the U.S. Futures suggests that Wall Street might open lower on Tuesday. Trading might be impacted by reaction to retail sales and industrial production reports scheduled today. In the Asian trading session, gold and oil prices were marginally higher. As of 7.50 am ET, the Dow futures were down 180.00 points, the S&P 500 futures were declining 21.00 points and the Nasdaq 100 futures were sliding 53.50 points. The U.S. major averages finished mostly higher on Monday. The Nasdaq pulled back off its best levels going into the close but still ended the day up 247.17 points or 1.2 percent at 20,173.89. The S&P 500 also climbed 22.99 points or 0.4 percent to 6,074.08, while the narrower Dow bucked the uptrend and fell 110.58 points or 0.3 percent to 43,717.48. On the economic front, the Business Inventories for October will be issued at 10.00 am ET. The consensus is for an increase of 0.2 percent, while it was up 0.1 percent in the prior month. The Housing Market Index for December will be released at 10.00 am ET. The consensus is 47, while it was up 46 in the prior month. Twenty-year Treasury Bond auction will be held at 1.00 pm ET. The Retail Sales for November is scheduled at 8.30 am ET. The consensus is for an increase of 0.5 percent, while it was up 0.4 percent in October. The Industrial Production for November is expected at 9.15 am ET. The consensus is for an increase of 0.3 percent, while it was down 0.3 percent in the prior month. Asian stocks turned in a mixed performance on Tuesday. China's Shanghai Composite index fell 0.73 percent to 3,361.48. Hong Kong's Hang Seng index slipped 0.48 percent to 19,700.48. Japanese markets ended slightly lower. The Nikkei average dipped 0.24 percent to 39,364.68 while the broader Topix index settled 0.37 percent lower at 2,728.20. Australian markets rose notably to snap a five-day losing streak. The benchmark S&P/ASX 200 jumped 0.78 percent to 8,314. The broader All Ordinaries index climbed 0.76 percent to 8,558.60.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:41:08.961+02:00",
+    "updated": "2024-12-17T15:41:08.961+02:00"
+}

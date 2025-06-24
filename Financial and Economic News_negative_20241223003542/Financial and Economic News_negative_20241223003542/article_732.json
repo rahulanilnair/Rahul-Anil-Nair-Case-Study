@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "6b0575bd568ff7a63483188e779c960770e82257",
+        "url": "https://qz.com/nvidia-broadcom-stock-correction-chips-ai-outlook-1851722659",
+        "site_full": "qz.com",
+        "site": "qz.com",
+        "site_section": "https://cms.qz.com/feed/",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Quartz",
+        "title": "Nvidia stock slumps into a correction — while Broadcom basks in its own 'Nvidia moment'",
+        "title_full": "Nvidia stock slumps into a correction — while Broadcom basks in its own 'Nvidia moment'",
+        "published": "2024-12-17T15:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/eeb2f7b260009abf2fc08d921f229f2f.jpg",
+        "performance_score": 0,
+        "domain_rank": 469,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 11
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6b0575bd568ff7a63483188e779c960770e82257",
+    "url": "https://qz.com/nvidia-broadcom-stock-correction-chips-ai-outlook-1851722659",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rocio Fabbro",
+    "published": "2024-12-17T15:06:00.000+02:00",
+    "title": "Nvidia stock slumps into a correction — while Broadcom basks in its own 'Nvidia moment'",
+    "text": "In This Story\nNvidia (NVDA-1.58%) stock is in correction territory as rival chipmaker Broadcom (AVGO+10.82%) enjoys a late-year boost.\nShares of Nvidia fell 1.7% in pre-market trading Tuesday, after slumping into a correction by market close the day before, ending the day at $132. A correction typically refers to when a stock falls 10% or more from an all-time high closing price. Nvidia stock rallied to an all-time high of $148.87 in early November.\nMeanwhile, competing semiconductor manufacturer Broadcom is on a hot streak. Shares surged Monday, closing up more than 11% and ending the day at $250 apiece. Broadcom stock continued to rally early Tuesday, popping up 1% in pre-market trading.\nSo far this month, shares of Broadcom are up roughly 50%, putting the stock on track to have its best month ever and adding hundreds of billions to its market capitalization. Broadcom now has a market capitalization of $1.17 trillion.\nNvidia stock is still up 174% year-to-date. Broadcom shares have climbed 130% in the same period.\nAs Nvidia sinks and Broadcom soars, the latter chipmaker is finally having its own “Nvidia moment,” Bernstein analyst Stacy Rasgon wrote in a Monday note reported by MarketWatch (NWSA+0.35%). The company’s “robust AI story is finding its own ‘Nvidia moment’ with a likely sharp new product ramp into [the second half of] 2025, and outlook for material opportunity … a few years out,” Rasgon said.\nDespite a “fairly lousy” core business outside of artificial intelligence, Broadcom posted promising fourth-quarter earnings last week that beat Wall Street estimates and provided upbeat guidance for the year to come.\nThis past fiscal year, Broadcom generated a record $30.1 billion in semiconductor revenue, driven by AI revenue of $12.2 billion, the company said. AI revenue alone grew 220% on an annual basis, fueled by the company’s AI XPUs and Ethernet networking portfolio.\nBroadcom is expecting first quarter revenue of approximately $14.6 billion, with EBITDA (earnings before interest, taxes, depreciation, and amortization) of 66% of projected revenue over the three months. In a call with analysts, company leadership said it sees the opportunity “over the next three years in AI as massive.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Broadcom",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nvidia",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:09:41.929+02:00",
+    "updated": "2024-12-17T15:09:41.929+02:00"
+}

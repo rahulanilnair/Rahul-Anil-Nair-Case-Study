@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "f25b82ecafb0bf27694280a08fbc4d1a9c22927f",
+        "url": "https://news.liga.net/en/all/news/norway-to-provide-ukraine-record-2-billion-in-military-aid-in-2025",
+        "site_full": "news.liga.net",
+        "site": "liga.net",
+        "site_section": "https://news.liga.net/en",
+        "site_categories": [
+            "media",
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "Ukrainian News - War in Ukraine latest news",
+        "title": "Norway to provide Ukraine record €2 billion in military aid in 2025",
+        "title_full": "Norway to provide Ukraine record €2 billion in military aid in 2025",
+        "published": "2025-01-09T19:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://storage.liga.net/images/general/social/social-4540329-en.png?v=1736450357",
+        "performance_score": 0,
+        "domain_rank": 9266,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f25b82ecafb0bf27694280a08fbc4d1a9c22927f",
+    "url": "https://news.liga.net/en/all/news/norway-to-provide-ukraine-record-2-billion-in-military-aid-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Artem Dzheripa",
+    "published": "2025-01-09T19:50:00.000+02:00",
+    "title": "Norway to provide Ukraine record €2 billion in military aid in 2025",
+    "text": "Norway to provide Ukraine record €2 billion in military aid in 2025\nIn 2025, Norway will allocate the largest military aid package in its history—over €2 billion ($2.06 billion)—for Ukraine, as was\n[announced](https://t.me/ministry_of_defense_ua/11442?single) by Ukraine's Defense Minister Rustem Umerov following his meeting with his Norwegian counterpart Bjørn Arild Gram.\n\"These agreements will elevate our cooperation to a new level. Together with Mr. Gram, we discussed priority areas for using this aid,\" the Ukrainian official wrote.\nSpecial attention was given to strengthening air defense systems, a critical area where Ukraine is counting on Norway's support, Umerov noted.\nHe added that Norway will continue investing in Ukraine's defense industry and joint projects, particularly in ammunition production.\nDuring the meeting, the two sides also discussed a new cooperation mechanism, the \"Norwegian model,\" which is expected to complement the already successful \"Danish model\" and further strengthen Ukraine's defense capabilities, the minister wrote.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.me/ministry_of_defense_ua/11442?single",
+        "https://t.me/ministry_of_defense_ua/11442",
+        "https://www.t.me/ministry_of_defense_ua/11442?single"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bjørn Arild Gram",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rustem Umerov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:54:15.695+02:00",
+    "updated": "2025-01-10T02:54:15.695+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "477e4fd45f1f1ebc71af6e637790027b9bf1cc6f",
+        "url": "https://www.zawya.com/en/business/commodities/oil-dips-on-demand-concerns-focus-on-fed-meeting-qo3zb2mw",
+        "site_full": "www.zawya.com",
+        "site": "zawya.com",
+        "site_section": "https://www.zawya.com/en",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "ZAWYA - The trusted source for business and finance news ",
+        "title": "Oil dips on demand concerns, focus on Fed meeting",
+        "title_full": "Oil dips on demand concerns, focus on Fed meeting",
+        "published": "2024-12-17T08:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://static.zawya.com/view/acePublic/alias/contentid/YmIwMmE3ZmUtYzliMC00/67/180903045954aqbf-jpg.jpeg?f=3%3A2",
+        "performance_score": 0,
+        "domain_rank": 5252,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "477e4fd45f1f1ebc71af6e637790027b9bf1cc6f",
+    "url": "https://www.zawya.com/en/business/commodities/oil-dips-on-demand-concerns-focus-on-fed-meeting-qo3zb2mw",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Carsten",
+    "published": "2024-12-17T08:27:00.000+02:00",
+    "title": "Oil dips on demand concerns, focus on Fed meeting",
+    "text": "Oil prices were down on Tuesday as China's economic data renewed demand concerns, while investors remained cautious ahead of the U.S. Federal Reserve's interest rate decision.\nBrent crude futures eased 32 cents to $73.59 a barrel at 0949 GMT, while U.S. West Texas Intermediate crude was down 44 cents at $70.27 a barrel.\nPrices were \"weighed on by profit-taking after last week's 6% rally and a batch of disappointing Chinese economic data yesterday,\" IG market analyst Tony Sycamore said.\nOn Monday, prices fell from multi-week highs on unexpected weakness in consumer spending data from China, despite strength in industrial output, and as investors moved into a holding pattern ahead of the Fed's meeting.\nThe Fed will hold its last policy meeting of the year on Tuesday and Wednesday, where it is widely expected to cut interest rates by a quarter of a percentage point.\nThe meeting will also shed light on how much further officials think they will cut interest rates in 2025 and 2026, and whether the central bank will scale back easing in anticipation of higher inflation under the incoming Trump administration.\n\"A 25 basis point cut has already been priced in by the market, so any surprises (from the Fed meeting) may move the market,\" said Anh Pham, a LSEG analyst.\nLower interest rates can boost economic growth and demand for oil.\nThe oil market for next year could be affected by growing supplies from non-OPEC+ countries such as the U.S. and Brazil and slowing demand, chiefly in China.\nThe International Energy Agency said in its monthly report last week that even as producer group OPEC+ kept its output cuts in place, there will be a supply overhang of 950,000 barrels per day next year - almost 1% of world supply.\nOn Monday, the European Commission announced a 15th package of EU sanctions against Russia over its invasion of Ukraine, including tougher measures against Chinese entities and more vessels from Moscow's so-called \"shadow fleet\" that are not regulated or insured by conventional Western providers.\nA group of Western countries will begin to check insurance documents of Russia's shadow fleet of vessels in the English Channel, Danish straits, Gulf of Finland and the sound between Sweden and Denmark.\nThe new EU sanctions are unlikely to translate to \"real\" disruption as most flows now do not use Western services, so they will not be disrupted, said LSEG's Pham.\n(Reporting by Paul Carsten in London, Colleen Howe in Beijing and Siyi Liu in Singapore; Editing by Jamie Freed, Kirsten Donovan and Ros Russell)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tony Sycamore",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U.S. Federal Reserve",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "477e4fd45f1f1ebc71af6e637790027b9bf1cc6f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:32:45.384+02:00",
+    "updated": "2024-12-17T12:32:45.384+02:00"
+}

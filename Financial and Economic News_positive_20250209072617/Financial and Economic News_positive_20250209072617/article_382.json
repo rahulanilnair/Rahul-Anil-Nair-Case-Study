@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "f5e655fe3eaf8fdd5c9e5c1b8f13c55972dc16bb",
+        "url": "https://pakobserver.net/power-prices-may-drop-by-up-to-rs12-per-unit-leghari",
+        "site_full": "pakobserver.net",
+        "site": "pakobserver.net",
+        "site_section": "https://pakobserver.net/rss",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan Observer",
+        "title": "Power prices may drop by up to Rs12 per unit: Leghari",
+        "title_full": "Power prices may drop by up to Rs12 per unit: Leghari",
+        "published": "2025-01-09T22:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://pakobserver.net/wp-content/uploads/2024/04/awais-khan-leghari.webp",
+        "performance_score": 0,
+        "domain_rank": 36568,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f5e655fe3eaf8fdd5c9e5c1b8f13c55972dc16bb",
+    "url": "https://pakobserver.net/power-prices-may-drop-by-up-to-rs12-per-unit-leghari",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News desk",
+    "published": "2025-01-09T22:03:00.000+02:00",
+    "title": "Power prices may drop by up to Rs12 per unit: Leghari",
+    "text": "Federal Minister for Energy, Awais Leghari, announced on Thursday that ongoing talks with the International Monetary Fund could result in a reduction of electricity rates by as much as Rs10 to 12 per unit.\nSpeaking to the media at the Parliament House, Leghari revealed that renegotiations with Independent Power Producers have already saved the country Rs1,100 billion, with those savings benefiting the general public through lower electricity prices.\nThe minister added that the government is now focusing on revisiting agreements with state-owned power plants, a move that is expected to lead to additional savings for consumers. “We are bringing 15 more IPP contracts to the cabinet for review, and we expect even more savings for the public,” he said.\nLeghari also commented on the ongoing issue with K-Electric, which is demanding a large sum under its multi-year tariff.\n“We believe this tariff is unjustified and should be lowered. NEPRA will make a decision that serves the interests of the people,” he said.\nRegarding efforts to curb electricity theft, particularly in Khyber-Pakhtunkhwa, Leghari explained that despite numerous meetings with the provincial government, progress had been slow. “Our company faced additional losses of Rs6 billion due to continued theft and lack of cooperation,” he stated.\nLooking ahead, the minister confirmed that discussions with 16 other IPPs are ongoing, with the goal of revising contracts to further reduce electricity costs. He also mentioned that government power plants would soon undergo a review of their return on equity, which could further influence future tariffs.\nTalking in a meeting of the National Assembly’s standing committee for energy, he said negotiations were underway with the IMF over the captive power plants and the issue is heading towards conclusion. “The captive power plants issue will come to an end by the end of this month”.\n“We can slash the power price by 10 to 12 rupees,” minister said. Power minister said that domestic consumers electricity has dropped by four rupees.\nReplying a question he said, the K-Electric has demanded huge amount with respect to seven-year Multi-Year Tariff.\nThe IMF has given a deadline of January 31 to disconnect gas from these plants, with a final decision expected before the IMF’s economic review in February, he added.\n“Increasing gas prices can generate an additional revenue of Rs200 billion. If the gas supply is suspended, other consumers’ tariffs will have to be increased further. The government has to revise gas prices by January 23,” he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Health->health organisation",
+        "Health->public health",
+        "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Awais Leghari",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Leghari Federal Minister for Energy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Parliament House",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Khyber-Pakhtunkhwa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:46:49.556+02:00",
+    "updated": "2025-01-10T03:46:49.556+02:00"
+}

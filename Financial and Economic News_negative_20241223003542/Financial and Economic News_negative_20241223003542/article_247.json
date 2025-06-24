@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "80f99a73fca8857c490823f752041e026a73bab4",
+        "url": "https://bm.ge/en/news/georgian-post-ended-2023-with-a-loss",
+        "site_full": "bm.ge",
+        "site": "bm.ge",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Georgian Post Ended 2023 With A Loss",
+        "title_full": "Georgian Post Ended 2023 With A Loss",
+        "published": "2024-12-17T10:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GE",
+        "main_image": "https://bm.ge/uploads/files/2023/10/11/223673/saqartvelos-fosta_w_h.jpeg",
+        "performance_score": 0,
+        "domain_rank": 175619,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "80f99a73fca8857c490823f752041e026a73bab4",
+    "url": "https://bm.ge/en/news/georgian-post-ended-2023-with-a-loss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Natiko Taktakishvili",
+    "published": "2024-12-17T10:49:00.000+02:00",
+    "title": "Georgian Post Ended 2023 With A Loss",
+    "text": "Georgian Post ended 2023 with a loss of GEL 1.2 million, - according to the Ministry of Finance. As of the fiscal risk analysis document, Georgian Post's income in 2023 amounted to GEL 72 million, which was similar to the income of 2022. The company's expenses were GEL 75 million. In addition, the company had non-operating income of GEL 3 million and the company received income of 1 million from the exchange rate difference. As a result, the company's total loss last year amounted to GEL 1.2 million. For comparison, the company's loss in 2022 was GEL 12 million. \"The company ended 2023 with a loss of GEL 1.2 million, a sharp improvement over the loss of 2022, which was due to an increase in non-operating income (profit from exchange rate differences and interest income) and a decrease in exchange rate losses,\" the company's financial report states. Levan Chikvaidze has been the CEO of Georgian Post since 2015. According to his asset declaration, in 2023 he received a total salary of 154 thousand GEL from the Georgian Post and two state-owned companies directly related to the Georgian Post. Georgian Post itself has not yet published its detailed financial report for 2023 on reportal.ge, and as of 2022, the company employed a total of about 3 thousand people, and their salary expenses amounted to 30 million GEL.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Levan Chikvaidze",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ministry of Finance",
+                "sentiment": "none"
+            },
+            {
+                "name": "Georgian Post",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:42:43.472+02:00",
+    "updated": "2024-12-17T12:42:43.472+02:00"
+}

@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "c02bea858704cc48244b26887ce33e8a87f3e141",
+        "url": "https://www.newsy-today.com/zelensky-announces-additional-2-billion-aid-package-following-rammstein-talks",
+        "site_full": "www.newsy-today.com",
+        "site": "newsy-today.com",
+        "site_section": "https://www.newsy-today.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "HOME - Newsy Today",
+        "title": "Zelensky Announces Additional $2 Billion Aid Package Following 'Rammstein' Talks",
+        "title_full": "Zelensky Announces Additional $2 Billion Aid Package Following 'Rammstein' Talks",
+        "published": "2025-01-10T00:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 197436,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c02bea858704cc48244b26887ce33e8a87f3e141",
+    "url": "https://www.newsy-today.com/zelensky-announces-additional-2-billion-aid-package-following-rammstein-talks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsytoday",
+    "published": "2025-01-10T00:11:00.000+02:00",
+    "title": "Zelensky Announces Additional $2 Billion Aid Package Following 'Rammstein' Talks",
+    "text": "Ukraine Secures $2 Billion in Additional Support at ‘Rammstein’ Defense Meeting\nPresident Volodymyr Zelensky met with U.S. Defense Secretary Lloyd Austin during the ‘Rammstein’ format defense meeting , where Ukraine secured an additional $2 billion in support . This was announced by the President himself at a news conference in Italy.\n\"Thanks to all our partners and ministers of defense, including from the 50-plus nations present. We had a productive meeting today, resulting in an agreement on additional support packages worth $2 billion,\" said President Zelensky. He also highlighted the creation of eight coalition possibilities, with 34 countries already committed to these strategic initiatives.\nThe meeting, held on January 9, also saw confirmation of guaranteed deliveries of additional air defense systems. \"We have promises, we have support. Not all 19 systems, but a serious quantity that our partners have confirmed. We’re working to ensure these systems arrive expeditiously,\" the President said.\nEarlier, Lloyd Austin had announced a $500 million military aid package for Ukraine during the meeting. Furthermore, the next ‘Rammstein’ meeting is expected to be held in February, as confirmed by the Ukrainian Minister of Defense, Rustem Umierov.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->economic policy",
+        "Politics->international relations",
+        "Politics->government",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->communities",
+        "Social Issue->social services",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/world/ukraine-crisis/",
+        "https://support.microsoft.com/en-us/windows",
+        "https://www.covers.com/nba/hawks-vs-lakers-prediction-picks-friday-1-3-2025",
+        "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&#038;hl=en",
+        "https://www.nytimes.com/live/2022/12/21/world/volodymyr-zelensky-russia-ukraine-news",
+        "https://www.reuters.com/world/ukraine-crisis",
+        "https://nytimes.com/live/2022/12/21/world/volodymyr-zelensky-russia-ukraine-news",
+        "https://covers.com/nba/hawks-vs-lakers-prediction-picks-friday-1-3-2025",
+        "https://play.google.com/store/apps/details",
+        "https://reuters.com/world/ukraine-crisis/",
+        "https://www.play.google.com/store/apps/details?id=com.google.android.apps.tachyon&#038;hl=en",
+        "https://www.support.microsoft.com/en-us/windows"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lloyd Austin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zelensky",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Rammstein",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:40:43.494+02:00",
+    "updated": "2025-01-10T02:40:43.494+02:00"
+}

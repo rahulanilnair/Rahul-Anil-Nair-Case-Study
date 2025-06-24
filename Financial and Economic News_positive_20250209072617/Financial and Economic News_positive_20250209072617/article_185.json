@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "830c079694f50c8631094edb24bf079fed73be60",
+        "url": "https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "site_full": "www.businessworld.in",
+        "site": "businessworld.in",
+        "site_section": "https://businessworld.in/category/auto",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Business Economy Breaking News Updates Today in India - BW BusinessWorld",
+        "title": "Tata Motors Group Global Wholesales Stands At 3,41,791 Units In Q3FY25 - BW BusinessWorld",
+        "title_full": "Tata Motors Group Global Wholesales Stands At 3,41,791 Units In Q3FY25 - BW BusinessWorld",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.businessworld.in/1708425600_XJ3jVk_tata_1697715179595_1697715179930_1_.jpg",
+        "performance_score": 0,
+        "domain_rank": 8680,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "830c079694f50c8631094edb24bf079fed73be60",
+    "url": "https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Tata Motors Group Global Wholesales Stands At 3,41,791 Units In Q3FY25 - BW BusinessWorld",
+    "text": "Marking an improvement in performance, Tata Motors reported a one per cent year-on-year (YoY) rise in global wholesales in the third quarter of the current financial year (Q3FY25). The Group global wholesales, including Jaguar Land Rover, stood at 3,41,791 units in the quarter ended 31 December 2024.\nAs per the regulatory filing, the global wholesales of all Tata Motors’ commercial vehicles and Tata Daewoo range in the recently concluded quarter were at 97,535 units. This marked a one per cent YoY dip as compared to the corresponding period of the last fiscal.\nThe company stated that global wholesales of Tata Motors passenger vehicles in the quarter were at 1,39,829 units, marking a one per cent growth as compared to the same period in FY24. The passenger vehicles include the sales of electric vehicles.\nAs far as Jaguar Land Rover (JLR) is concerned, its global wholesales stood at 1,04,427 units, registering a three per cent increase as compared to the third quarter in FY24. However, the JLR number does not include CJLR volumes, which is a joint venture (JV) between JLR and Chery Automobiles. Jaguar wholesales for the quarter were 5,604 vehicles, while Land Rover wholesales for the quarter were 98,823 vehicles, as per the filing.\nShare Also Read",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->manufacturing and engineering",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Social Issue->population and census",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "https://api.whatsapp.com/send?text=https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "http://www.facebook.com/sharer.php?u=https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "https://twitter.com/share?url=https://www.businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "https://api.whatsapp.com/send?text=https://businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "http://www.linkedin.com/shareArticle",
+        "http://facebook.com/sharer.php?u=https://businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "http://linkedin.com/shareArticle?mini=true&url=https://businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379",
+        "http://www.facebook.com/sharer.php",
+        "https://api.whatsapp.com/send",
+        "https://twitter.com/share",
+        "https://twitter.com/share?url=https://businessworld.in/article/tata-motors-group-global-wholesales-stands-at-341791-units-in-q3fy25-544379"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Tata Motors",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jaguar Land Rover",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tata Daewoo",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:37:59.442+02:00",
+    "updated": "2025-01-10T01:37:59.442+02:00"
+}

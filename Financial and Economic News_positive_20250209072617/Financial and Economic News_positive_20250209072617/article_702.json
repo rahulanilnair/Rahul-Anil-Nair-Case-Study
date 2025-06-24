@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "62c9401be14288bc9849e3264862c93cb3ce2687",
+        "url": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/sustainability-meets-profitability-indian-logistics-players-adopting-lng-powered-trucks/117106817",
+        "site_full": "auto.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com",
+        "site_categories": [
+            "media",
+            "vehicles",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n        Latest Business News | The Economic Times B2B    ",
+        "title": "Sustainability meets profitability: Indian logistics players adopting LNG-powered trucks, ET Auto",
+        "title_full": "Sustainability meets profitability: Indian logistics players adopting LNG-powered trucks, ET Auto",
+        "published": "2025-01-10T04:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-117106817,imgsize-32294,width-1200,height=765,overlay-etauto/commercial-vehicle/sustainability-meets-profitability-indian-logistics-players-adopting-lng-powered-trucks.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "62c9401be14288bc9849e3264862c93cb3ce2687",
+    "url": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/sustainability-meets-profitability-indian-logistics-players-adopting-lng-powered-trucks/117106817",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETAuto.com",
+    "published": "2025-01-10T04:56:00.000+02:00",
+    "title": "Sustainability meets profitability: Indian logistics players adopting LNG-powered trucks, ET Auto",
+    "text": "In a highly fragmented logistics market like India, companies require sustainable and cost-effective alternatives to conventional but highly polluting diesel-powered fleets.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Environment",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Environment->energy saving",
+        "Environment->energy resources",
+        "Environment->sustainability",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:39:05.856+02:00",
+    "updated": "2025-01-10T14:45:45.920+02:00"
+}

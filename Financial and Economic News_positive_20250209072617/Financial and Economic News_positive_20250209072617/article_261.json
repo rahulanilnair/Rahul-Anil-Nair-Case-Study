@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "5dc0fd0ec0f3fbbcd5c1fe620e0a3a7728f4241e",
+        "url": "https://blueprint.ng/equity-market-gains-n793bn",
+        "site_full": "blueprint.ng",
+        "site": "blueprint.ng",
+        "site_section": "https://www.blueprint.ng",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Blueprint Newspapers Limited - Blueprint Newspapers Limited",
+        "title": "Equity market gains N793bn",
+        "title_full": "Equity market gains N793bn",
+        "published": "2025-01-09T22:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 104149,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5dc0fd0ec0f3fbbcd5c1fe620e0a3a7728f4241e",
+    "url": "https://blueprint.ng/equity-market-gains-n793bn",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amaka Ifeakandu",
+    "published": "2025-01-09T22:28:00.000+02:00",
+    "title": "Equity market gains N793bn",
+    "text": "The local stock market ended yesterday’s session on a positive note, appreciating by N793 billion as gains recorded in the small, medium and highly capitalised stocks lifted market activities during the day.\nMarket Capitalisation of listed equities increased by 1.25 per cent to N64.351 trillion from N63.558 trillion reported the previous day.\nThe NGX All Share Index also went up by 1,300.01 basis points to 105530.74 points from 104230.73 points traded on Wednesday.\nThe market strong performance was supported by interest in prominent stocks such as MTN Nigeria, Dangote Sugar, Transnational Corporation of Nigeria, ETI, Oando, Presco Plc, UBA, Zenith, Stanbic, Transco Hotel along with 25 other gainers.\nConsequently, the year to date return rose to 2.53 per cent as the market recorded 25 losers against 35 advancers during the day.\nMarket activities was mixed as volume of trades declined by 266.892 million, representing 35.28 per cent as investors traded 489.525 million units of shares valued at N13.068 billion in 13010 deals against 756.417 million shares worth N24.692 billion exchanged hands the previous day in 13551 deals.\nAn analysis of the transactions showed that MTN Nigeria led gainers table with 10 per cent, to close at N242.00 per unit, Honey Well Flour followed with a gain of 8.89 per cent to close at N9.11 per unit,. Universal insurance added 9.86 per cent to close at N0.78 per share, Transco Hotel gained 9.78 per cent to close at N127.35 per unit, Ikeja Hotel up by 7.31 per cent to close at N13.50 per unit.\nOn the contrary, RTBriscoe recorded the highest loss during the day, shedding 10 per cent to close at N2.34 per unit, SUNU Assurance trailed with a loss of 9.99 per cent to close at N8.11 per unit, TIP dipped by 9.68 per cent to close at N2.52 per unit, UPDC sheds 9.50 per cent to close at N1.81 per share, Guinea Insurance declined by 8.08 per cent to close at N0.91 per unit.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->market and exchange",
+        "Social Issue->population and census",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Transnational Corporation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Transco Hotel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dangote Sugar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Presco Plc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zenith",
+                "sentiment": "none"
+            },
+            {
+                "name": "UBA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:23:43.078+02:00",
+    "updated": "2025-01-10T02:23:43.078+02:00"
+}

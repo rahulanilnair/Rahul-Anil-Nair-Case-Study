@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "40934bb6f88c7ac367c26d29d512c93026962ab7",
+        "url": "https://www.tallahassee.com/story/news/local/2025/01/09/city-of-tallahassee-receives-6-7m-in-federal-grants-for-airport/77584130007",
+        "site_full": "www.tallahassee.com",
+        "site": "tallahassee.com",
+        "site_section": "https://www.tallahassee.com/news",
+        "site_categories": [
+            "real_estate",
+            "media",
+            "buying_selling_homes"
+        ],
+        "section_title": "Tallahassee - News",
+        "title": "City of Tallahassee receives $6.7 million in federal grant money for airport work",
+        "title_full": "City of Tallahassee receives $6.7 million in federal grant money for airport work",
+        "published": "2025-01-10T00:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/12/12/PTAL/76947901007-tallahassee-airport-construction-001.JPG?auto=webp&crop=5999,3375,x0,y312&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 4687,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40934bb6f88c7ac367c26d29d512c93026962ab7",
+    "url": "https://www.tallahassee.com/story/news/local/2025/01/09/city-of-tallahassee-receives-6-7m-in-federal-grants-for-airport/77584130007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Tallahassee Democrat",
+    "published": "2025-01-10T00:49:00.000+02:00",
+    "title": "City of Tallahassee receives $6.7 million in federal grant money for airport work",
+    "text": "City of Tallahassee receives $6.7 million in federal grant money for airport work Arianna Otero Tallahassee Democrat The city of Tallahassee has been awarded $6.7 million in federal grants which will go towards infrastructure at the Tallahassee International Airport.\nThe city announced the award, which comes from \"the Airport Infrastructure Grants (AIG) program through the U.S. Department of Transportation's Federal Aviation Administration (FAA) .\"\nThe money will be used in the construction of new taxiways, the path for an aircraft at an airport connecting runways with hangars and other facilities, as well as lighting. These additions will bring the airport into conformity with the latest FAA design and safety standards, officials said.\n\"With the addition of this grant, we have brought over $348 million dollars to Tallahassee since 2020, which is enhancing our transit network, improving utility, service reliability, helping us reach our clean energy goals and more,\" City Manager Reese Goad said.\n\"The Tallahassee International Airport's economic impact and passenger traffic continue to grow year-over-year, with no signs of slowing down, which underscores the importance of our efforts to secure these grant dollars now − the timing is perfect,\" city Aviation Director David Pollard said.\nMore on Airport Gateway... Chaos at Blueprint: Airport Gateway at 'standstill' after city commissioners leave meeting\nThe timing of the funding coincides with the work already being done by Blueprint for the Airport Gateway , which will expand connectivity of the airport to the rest of the city and add several new roadways.\nFunded by the Bipartisan Infrastructure Law, the FAA's AIG program in investing $332 million in airport and air traffic control infrastructure improvements. It has awarded 171 grants across 32 states to modernize airports.\nContact Arianna Otero via email at AOtero@tallahassee.com and follow her on X: @ari_v_otero .\nFacebook\nTwitter\nEmail",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->transport",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->government budget",
+        "Politics->government department",
+        "Politics->economic policy",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/ari_v_otero",
+        "https://www.faa.gov/bil/airport-infrastructure",
+        "https://blueprintia.org/projects/airport-gateway/",
+        "https://www.blueprintia.org/projects/airport-gateway/",
+        "https://www.twitter.com/ari_v_otero",
+        "https://blueprintia.org/projects/airport-gateway",
+        "https://faa.gov/bil/airport-infrastructure"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:45:16.732+02:00",
+    "updated": "2025-01-10T18:33:05.866+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "7cb07138ff8fda11ea5d6ea99b7a6d64dc8d2e52",
+        "url": "https://article.wn.com/view/2025/01/10/Boeing_and_Google_give_1m_each_to_Trumps_inauguration",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Business",
+        "title": "Boeing and Google give $1m each to Trump's inauguration - Worldnews.com",
+        "title_full": "Boeing and Google give $1m each to Trump's inauguration - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cb07138ff8fda11ea5d6ea99b7a6d64dc8d2e52",
+    "url": "https://article.wn.com/view/2025/01/10/Boeing_and_Google_give_1m_each_to_Trumps_inauguration",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Boeing and Google give $1m each to Trump's inauguration - Worldnews.com",
+    "text": "The major US businesses donating to the fund also includes energy firm Chevron and tech giants Meta, Amazon and Uber. read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->political parties and movements",
+        "Politics->political campaigns",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Social Issue->discrimination",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/cgly2krddwgo",
+        "https://bbc.com/news/articles/cgly2krddwgo"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7cb07138ff8fda11ea5d6ea99b7a6d64dc8d2e52",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:41:14.017+02:00",
+    "updated": "2025-01-10T07:41:14.017+02:00"
+}

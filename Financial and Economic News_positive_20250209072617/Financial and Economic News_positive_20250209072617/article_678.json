@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "9d1f0e7cc57f1c74d8f4941b75df6beee96622a0",
+        "url": "https://www.cbtnews.com/tesla-board-members-to-return-nearly-1-billion-in-settlement-over-excessive-compensation",
+        "site_full": "www.cbtnews.com",
+        "site": "cbtnews.com",
+        "site_section": "https://www.cbtnews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "CBT News | Automotive Industry | Dealership News",
+        "title": "Tesla board members to return nearly $1 billion in settlement over excessive compensation",
+        "title_full": "Tesla board members to return nearly $1 billion in settlement over excessive compensation",
+        "published": "2025-01-09T18:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 95103,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d1f0e7cc57f1c74d8f4941b75df6beee96622a0",
+    "url": "https://www.cbtnews.com/tesla-board-members-to-return-nearly-1-billion-in-settlement-over-excessive-compensation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jaelyn Campbell",
+    "published": "2025-01-09T18:20:00.000+02:00",
+    "title": "Tesla board members to return nearly $1 billion in settlement over excessive compensation",
+    "text": "A Delaware judge has officially approved a $1 billion settlement in a lawsuit brought by Tesla shareholders against the company’s board members. The settlement, finalized by Chancellor Kathaleen McCormick , requires board members to return stock and cash and to forgo stock options granted between 2017 and 2023.\nThe lawsuit, led by the Police and Fire Retirement System of the City of Detroit on behalf of Tesla shareholders, alleged that Tesla board members awarded themselves excessive compensation. While the average annual compensation for an S&P 500 board member is slightly over $300,000, Tesla’s board members were accused of receiving hundreds of millions of dollars during the period in question.\nUnder the terms of the settlement, the board members agreed to:\nReturn $277 million in cash to Tesla. Surrender $459 million worth of stock options. Forgo $184 million in stock options granted from 2021 to 2023. The board members named in the case include Elon Musk’s brother, Kimbal Musk, Co-founder of Oracle Corp ., Larry Ellison, Brad Buss, Ira Ehrenpreis, Antonio Gracias, Stephen Jurvetson, Linda Johnson Rice, Kathleen Wilson-Thompson, and Hiromichi Mizuno. Many of these individuals are close associates of Musk or have financial ties to him outside of Tesla.\nMoreover, the lawsuit argued that the board members played a minimal operational role in Tesla’s success but still rewarded themselves excessively. A top commenter on the case aptly summarized: “Even if you believe an insanely talented executive team drives Tesla’s value, the board’s responsibilities—like managing an audit committee—are not directly significant to the company’s valuation.”\nHowever, the settlement, which was first reported in July 2023, does not include an admission of wrongdoing by Tesla or its board.\nImplications for Elon Musk Although Elon Musk did not receive compensation as a board member, he is involved in a separate case regarding his $55 billion CEO compensation package, which Chancellor McCormick rescinded. The judge ruled that the package had not been negotiated or presented to shareholders in good faith. Notably, the same board members accused of excessive compensation also negotiated Musk’s CEO package.\nThis case underscores ongoing scrutiny over corporate governance and executive compensation in high-profile companies like Tesla. While Tesla’s executive team has driven the company’s meteoric rise through its vision and execution, the settlement raises concerns about fairness and transparency in how they are rewarded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->corporate governance and csr",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://courts.delaware.gov/chancery/judges.aspx",
+        "https://investor.spglobal.com/corporate-governance/board-of-directors/default.aspx",
+        "https://www.oracle.com/corporate/",
+        "https://www.oracle.com/corporate",
+        "https://oracle.com/corporate/",
+        "https://www.investor.spglobal.com/corporate-governance/board-of-directors/default.aspx",
+        "https://www.courts.delaware.gov/chancery/judges.aspx"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathaleen McCormick",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stephen Jurvets",
+                "sentiment": "none"
+            },
+            {
+                "name": "Antonio Gracias",
+                "sentiment": "none"
+            },
+            {
+                "name": "Larry Ellison",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kimbal Musk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brad Buss",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tesla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oracle Corp",
+                "sentiment": "none"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:23:06.048+02:00",
+    "updated": "2025-01-10T07:23:06.048+02:00"
+}

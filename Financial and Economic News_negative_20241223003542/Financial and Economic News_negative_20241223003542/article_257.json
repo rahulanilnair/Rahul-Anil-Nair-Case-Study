@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "2ede37adbf6af5cf3bdc1e629f38b064032a008e",
+        "url": "https://www.livemint.com/economy/q2-challenging-quarter-for-india-only-a-temporary-blip-gdp-slower-than-expected-at-5-4-nirmala-sitharaman-11734429930042.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://www.sumanasa.com/indianews/business",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "India Business News | Sumanasa.com",
+        "title": "Q2 ‘challenging’ quarter for India, GDP growth slower than expected at 5.4%: Nirmala Sitharaman",
+        "title_full": "Q2 ‘challenging’ quarter for India, GDP growth slower than expected at 5.4%: Nirmala Sitharaman",
+        "published": "2024-12-17T12:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.livemint.com/lm-img/img/2024/12/17/1600x900/PTI11-09-2024-000092A-0_1731166306458_1734430251882.jpg",
+        "performance_score": 0,
+        "domain_rank": 1324,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ede37adbf6af5cf3bdc1e629f38b064032a008e",
+    "url": "https://www.livemint.com/economy/q2-challenging-quarter-for-india-only-a-temporary-blip-gdp-slower-than-expected-at-5-4-nirmala-sitharaman-11734429930042.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nikita Prasad",
+    "published": "2024-12-17T12:38:00.000+02:00",
+    "title": "Q2 ‘challenging’ quarter for India, GDP growth slower than expected at 5.4%: Nirmala Sitharaman",
+    "text": "Finance Minister Nirmala Sitharaman said on Tuesday, December 17, that India’s lower-than-expected gross domestic product (GDP) growth of 5.4 per cent in the second quarter of the current fiscal year (Q2FY25) was only a \\\"temporary blip\\\" and expressed confidence that the economy would bounce back and record a healthy growth in the coming quarters.Responding to a debate in the Lok Sabha, Sitharaman said India has seen \\\"steady and sustained\\\" growth and its GDP growth rate has averaged 8.3 per cent in the last three years. “The real growth rate for Q1 and Q2 has been 6.7 per cent and 5.4 per cent, respectively. At 5.4 per cent, the Q2 rate is slower than expected...Q2 of this financial year has been a challenging quarter for India and most other world economies,” said the finance minister. FinMin Nirmala Sitharaman on India Q2 GDPIndia continues to be the fastest-growing major economy in the world, Sitharaman said, adding that the credit goes to the people of India who are struggling and meeting their aspirations, contributing to the economy. The finance minister also said the manufacturing sector has no broad-based slowdown. Half of the sectors within the overall manufacturing basket continue to remain strong. \\\"A generalised slowdown in manufacturing is not expected, as it is restricted to few segments...out of 23 manufacturing sectors in the Index of Industrial Production, about half remain strong even now,\\\" she said.She said the Union Government’s capital expenditures increased by 6.4 per cent between July and October 2024. The central government has allocated ₹11.11 lakh crore toward capex during the current financial year.\\\"I think steps that we are taking to push for growth and to sustain growth are going to this route of capital expenditure so that the multiplier effect will spread through the economy and therefore give a greater traction,\\\" she said.For every rupee spent on the capital account, she said, the multiplier effect sometimes results in touching 4.3, whereas if you spent on the revenue account, for every one rupee, you would get only 0.98.Sitharaman said inflation is better controlled in the NDA regime, whereas under the UPA, it touched double digits. She noted that retail inflation in April-October 2024-25 stood at 4.8 per cent, the lowest since the COVID-19 pandemic.She added that core inflation excludes volatile food and energy prices and remains at a decadal low of 3.6 per cent. Sitharaman said the unemployment rate has come down from 6 per cent in 2017-18 to 3.2 per cent now.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nirmala Sitharaman",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UPA",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:45:37.212+02:00",
+    "updated": "2024-12-17T15:51:02.619+02:00"
+}

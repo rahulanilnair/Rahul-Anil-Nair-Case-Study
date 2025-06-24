@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "6c28b8ce2a7864a5e70fb218709644a823b832b1",
+        "url": "https://www.supplychain247.com/article/north-american-manufacturers-stockpile-amid-tariff-concerns",
+        "site_full": "www.supplychain247.com",
+        "site": "supplychain247.com",
+        "site_section": "https://feeds.feedburner.com/sc247/rss/procurement",
+        "site_categories": [
+            "logistics",
+            "business"
+        ],
+        "section_title": "Topic: Sourcing &amp;amp; Procurement - Supply Chain 24/7",
+        "title": "North American Manufacturers Stockpile Goods Amid Tariff Concerns",
+        "title_full": "North American Manufacturers Stockpile Goods Amid Tariff Concerns",
+        "published": "2024-12-16T21:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.supplychain247.com/images/2024_article/stockpiling-getty.jpg",
+        "performance_score": 0,
+        "domain_rank": 49475,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6c28b8ce2a7864a5e70fb218709644a823b832b1",
+    "url": "https://www.supplychain247.com/article/north-american-manufacturers-stockpile-amid-tariff-concerns",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "24/7 Staff",
+    "published": "2024-12-16T21:27:00.000+02:00",
+    "title": "North American Manufacturers Stockpile Goods Amid Tariff Concerns",
+    "text": "According to the GEP Global Supply Chain Volatility Index, North American manufacturers are stockpiling materials at the highest levels since July, preparing for potential tariff hikes under the incoming Trump administration. Meanwhile, Asian supply chains are experiencing a surge in activity, driven by China’s government stimulus and export demand. The index, which measures global supply chain performance, rose in November to -0.20 from -0.39, signaling tightened capacity globally.\nManufacturers are bracing for higher import costs in North America by building safety stock, particularly in the consumer goods sector. “In November, U.S. manufacturers, particularly in the consumer goods sector, increased their safety stocks to help blunt any immediate tariff increases,” said John Piatek, vice president at GEP. This increased activity pushed the region’s supply chain activity index to a four-month high.\nAsia saw its strongest growth in three-and-a-half years as China’s manufacturers ramped up production to meet new orders, fueled by stimulus measures and export demand. The report noted that input purchasing in China rose sharply, second only to India in November. Capacity in Asia was stretched for the first time since July, reflecting the rapid rebound.\nIn contrast, Europe’s industrial recession deepened, with the region’s index falling to -0.72, its lowest level this year. Germany’s manufacturing downturn continues to contribute to the decline, and weak demand for materials further slows the region’s industrial activity.\nThe report highlighted key trends for November, including rising demand for raw materials globally, increased safety stockpiling in North America and Asia, and stable transportation costs. Despite these movements, material shortages and labor backlogs remained minimal, showing robust global supply availability.\n“Strategically, many global companies have a wait-and-hope approach while simultaneously planning to remake their global supply chains to respond to a tariff and trade war in 2025 and beyond,” Piatek added.\nThe GEP Index reflects data from over 27,000 businesses and is a key indicator of worldwide supply chain trends.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Piatek",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:31:42.715+02:00",
+    "updated": "2024-12-17T13:31:42.715+02:00"
+}

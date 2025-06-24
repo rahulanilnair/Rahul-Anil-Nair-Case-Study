@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "b03858a473aae3c2869b5edbaf880df90f20740e",
+        "url": "https://upstox.com/news/market-news/trading/mid-market-session-nifty-and-sensex-fall-over-1-hdfc-bank-bharti-airtel-and-reliance-top-index-movers/article-135576",
+        "site_full": "upstox.com",
+        "site": "upstox.com",
+        "site_section": "https://upstox.com/news/market-news",
+        "site_categories": [
+            "stocks",
+            "finance"
+        ],
+        "section_title": "Market News - Latest Stocks, Equity, Nifty, Share Market News, NSE/BSE Live Updates Today in India.",
+        "title": "Mid-market session: NIFTY and SENSEX fall over 1%; HDFC Bank, Bharti Airtel and Reliance top index movers",
+        "title_full": "Mid-market session: NIFTY and SENSEX fall over 1%; HDFC Bank, Bharti Airtel and Reliance top index movers",
+        "published": "2024-12-17T07:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://assets.upstox.com/content/assets/images/news/.webp",
+        "performance_score": 0,
+        "domain_rank": 46022,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b03858a473aae3c2869b5edbaf880df90f20740e",
+    "url": "https://upstox.com/news/market-news/trading/mid-market-session-nifty-and-sensex-fall-over-1-hdfc-bank-bharti-airtel-and-reliance-top-index-movers/article-135576",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Upstox News Desk",
+    "published": "2024-12-17T07:17:00.000+02:00",
+    "title": "Mid-market session: NIFTY and SENSEX fall over 1%; HDFC Bank, Bharti Airtel and Reliance top index movers",
+    "text": "Market News\n2 min read | Updated on December 17, 2024, 13:17 IST\nSUMMARY\nMarket participants traded cautiously ahead of an important Federal Reserve policy outcome due on Wednesday. The NIFTY50 and SENSEX were both dragged by index heavyweights like HDFC Bank, Reliance Industries, and Bharti Airtel.\nMid-market session: NIFTY and SENSEX fall over 1%; HDFC Bank, Bharti Airtel and Reliance top index movers\nDomestic equity indices traded deeply in red with a cut of over 1% in the mid-market session as market participants indulged in reducing their positions.\nHectic selling in Bharti Airtel, TCS, Power Grid, Reliance Industries, and Larsen & Toubro dragged the Sensex and Nifty below their psychological 81,000 and 24,450 levels, respectively. Market participants also seemed cautious of the US Fed's upcoming interest rate decision tomorrow.\nOn the global front, Asian markets were trading mostly in red as traders remained concerned about the ongoing economic uncertainties in China amid a lack of adequate financial policy measures.\nThe BSE Sensex traded at 80909.80, down by 838.77 points or 1.03% after trading between 80818.03 and 81613.64. The index had 5 stocks advancing against 25 stocks declining.\nThe broader indices were trading in green; the BSE Mid cap index was up by 0.07%, while the Small cap index was up by 0.10%.\nThe NIFTY50 traded 24419.45, down by 248.80 points or 1.01% after trading between 24383.75 and 24624.10. The index had 4 stocks advancing against 46 stocks declining.\nAsian markets were trading mostly in red; the Jakarta Composite plunged 47.59 points or 0.66% to 7,211.04, and the Shanghai Composite weakened 7.09 points or 0.21% to 3,379.24. Straits Times fell 18.53 points or 0.48% to 3,802.50, and KOSPI dropped 32.05 points or 1.29% to 2,456.92. However, Hang Seng advanced 92.68 points or 0.47% to 19,888.17, Nikkei 225 surged 1.46 points or 0% to 39,458.95, and Taiwan Weighted added 29.82 points or 0.13% to 23,069.72.\nAbout The Author\nNext Story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bharti Airtel",
+                "sentiment": "negative"
+            },
+            {
+                "name": "HDFC Bank",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Reliance Industries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Larsen & Toubro",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "US Fed",
+                "sentiment": "none"
+            },
+            {
+                "name": "TCS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:50:49.059+02:00",
+    "updated": "2024-12-17T12:50:49.059+02:00"
+}

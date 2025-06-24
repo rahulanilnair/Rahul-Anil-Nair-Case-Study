@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "9fe8a0b021ddd1517b03be4aa2853bbbdadcccc6",
+        "url": "https://article.wn.com/view/2025/01/09/Chinese_companies_shine_at_worlds_premier_tech_show",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/ai",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - AI",
+        "title": "Chinese companies shine at world's premier tech show - Worldnews.com",
+        "title_full": "Chinese companies shine at world's premier tech show - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9fe8a0b021ddd1517b03be4aa2853bbbdadcccc6",
+    "url": "https://article.wn.com/view/2025/01/09/Chinese_companies_shine_at_worlds_premier_tech_show",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Chinese companies shine at world's premier tech show - Worldnews.com",
+    "text": "Chinese technology companies are in the spotlight at the 2025 Consumer Electronics Show, the world's premier tech show, in Las Vegas in the United States, as they showcase their latest technological achievements and innovative products, including semiconductor displays, smart homes, wearable devices and robots. Nearly",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->biomedical science",
+        "Science and Technology->scientific exploration",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:35:37.545+02:00",
+    "updated": "2025-01-10T02:35:37.545+02:00"
+}

@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "93da0c88c4e9266e296f916151b476045c4efb6f",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/billionaires-mukesh-ambani-gautam-adani-drop-out-of-elite-100-billion-club-in-2024/articleshow/116401500.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Stocks-Markets-Economic Times",
+        "title": "Billionaires Mukesh Ambani, Gautam Adani drop out of elite $100 billion club in 2024 - The Economic Times",
+        "title_full": "Billionaires Mukesh Ambani, Gautam Adani drop out of elite $100 billion club in 2024 - The Economic Times",
+        "published": "2024-12-17T11:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-116401475,width-1200,height-630,imgsize-60878,overlay-etmarkets/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "93da0c88c4e9266e296f916151b476045c4efb6f",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/billionaires-mukesh-ambani-gautam-adani-drop-out-of-elite-100-billion-club-in-2024/articleshow/116401500.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Riya Sharma",
+    "published": "2024-12-17T11:21:00.000+02:00",
+    "title": "Billionaires Mukesh Ambani, Gautam Adani drop out of elite $100 billion club in 2024 - The Economic Times",
+    "text": "Mukesh Ambani and Gautam Adani, two of India’s wealthiest individuals, have exited the $100 billion club, according to the latest data from the Bloomberg Billionaires Index, as their vast business empires faced multiple headwinds this year.Ambani’s total net worth stands at $96.3 billion as of December 17, while Adani’s total net worth is currently $80.8 billion.Mukesh Ambani, Chairman of Reliance Industries and India’s richest man, has seen his wealth erode as Reliance Industries has struggled with underperformance in its energy and retail businesses this year. Slowing sales growth and investor concerns over debt have compounded the issues for the conglomerate, which is pivoting toward digital platforms, renewable energy, and retail expansion.Reliance shares have slipped 3.80% so far this year, lagging the BSE Sensex’s 11.70% rise. Analysts project the average target price of the RIL stock at Rs 1,602, indicating an upside of over 26% from the current levels, as per Trendlyne data. The consensus recommendation from 37 analysts for the stock is a buy rating.Meanwhile, Gautam Adani, whose diversified portfolio of firms spans energy, infrastructure, and logistics, has faced steep setbacks driven by regulatory challenges and declining investor confidence. The Adani Group’s market capitalisation has shrunk by Rs 87,805 crore in 2024, with significant losses in key stocks such as Adani Green Energy, which has fallen 28% this year, and Adani Enterprises, which is down 14%. Recent allegations of bribery in securing power contracts, coupled with earlier accusations from Hindenburg Research, have exacerbated concerns about governance and financial transparency.Adani Green Energy’s market capitalization has declined by Rs 71,115 crore to Rs 1,81,863 crore, while Adani Enterprises has seen its market valuation slip to Rs 2,83,351 crore, down by Rs 41,435 crore from Rs 3,24,786 crore at the end of 2023.Despite these challenges, a few Adani-owned stocks such as Adani Ports and Special Economic Zone, have bucked the trend, with a 20% increase in share price this year, signalling pockets of resilience within the group. However, the overall decline across Adani companies reflects investor caution about the conglomerate’s ability to navigate ongoing scrutiny and access funding for future growth.Also read | 4 reasons why Axis Capital backs Swiggy for Rs 640 stock price(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gautam Adani",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mukesh Ambani",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reliance Industries",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:53:01.125+02:00",
+    "updated": "2024-12-17T21:18:06.647+02:00"
+}

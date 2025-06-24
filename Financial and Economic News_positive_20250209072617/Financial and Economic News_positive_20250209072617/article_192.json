@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "f53a5f3615a7ca499306e9ecd59376f19a8eed8d",
+        "url": "https://www.supermarketnews.com/retail-media/how-will-the-retail-media-grow-this-year-",
+        "site_full": "www.supermarketnews.com",
+        "site": "supermarketnews.com",
+        "site_section": "https://www.supermarketnews.com/publications",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Recent publications | page 1 of 3 | Supermarket News",
+        "title": "How will retail media grow this year?",
+        "title_full": "How will retail media grow this year?",
+        "published": "2025-01-10T00:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blt26181c7df10e1e8a/67804f8d43d191753d61386d/A_retail_media_screen_inside_a_HyVee_grocery_store.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+        "performance_score": 0,
+        "domain_rank": 11496,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f53a5f3615a7ca499306e9ecd59376f19a8eed8d",
+    "url": "https://www.supermarketnews.com/retail-media/how-will-the-retail-media-grow-this-year-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill Wilson",
+    "published": "2025-01-10T00:35:00.000+02:00",
+    "title": "How will retail media grow this year?",
+    "text": "How will retail media grow this year?\nNew research from Coresight identifies 10 trends\nThis year could be a big one for retail media, as Coresight Research predicts the global market will total $179.5 billion, a 15.4% increase year over year.\nIn its study released on Wednesday, “Retail 2025: 10 Trends Shaping the Retail Media Market,” New York City-based retail-technology firm Coresight Research revealed that retail media grew 16.6% year over year in 2024, and based on data from global advertising and communications company Dentsu, retail media held a 20.6% market share in the global advertising market. The piece of the pie is expected to grow to 23.2% this year.\nFirst-party data, advances in AI, and closed-loop attribution will help retail media flourish in the coming years, and for 2025, Coresight has identified the following trends:\nAI will deliver next-gen ad automation and personalization. Advances in AI, including GenAI, data processing, and sophisticated machine-learning algorithms, are transforming how retailers leverage first-party data. Ad tech companies are also leveraging AI to analyze shopper data for next-generation audience targeting, product recommendations, and predictive bidding. Amazon unveiled its AI-powered video generator in September. Video content is generated based on product images, a brand logo, and pre-defined templates\nProgrammatic advertising will drive operational efficiencies across retail media networks. Programmatic advertising helps brand advertisers optimize and automate ad campaigns primarily aimed toward ad buys, real-time campaign optimization, and precision in running targeted campaigns\nAd formats will continue to expand. Shoppers are increasingly using multiple online touchpoints, which provide retail media networks with an opportunity to explore new and emerging formats, including gamification and social promotions. In 2024, Instacart partnered with Ibotta to provide Instacart shoppers with Ibotta’s catalog of digital coupons. The partnership allows CPG companies to leverage coupons to reach shoppers close to the point of purchase\nStrategic partnerships will unlock offsite growth. Offsite retail media provides brand advertisers with large audiences and can help brands target their shoppers across their shopping journey on the Internet. Kroger partnered with Disney Advertising, making first-party data from its retail media arm available to advertisers for targeting and measurement on streaming TV platforms in Disney’s portfolio in April 2023\nIn-store retail media will continue to be a “test and learn” channel. Missouri-based grocery retailer Dierbergs partnered with Swiftly in March to offer retail media capabilities on its mobile app. The partnership aimed at enhancing personalization and convenience. In addition, Save A Lot partnered with ad-tech company Retail Fluent Media Network in November to give advertisers access to dynamic digital window displays\nRetail media will bolster its position as a full-funnel advertising tool. Brand advertisers are expecting a wide range of promotional tools from retail media networks. Also, rising customer acquisition costs are driving advertisers to shift advertising budgets to retail media to run targeted and relevant ad campaigns. Dollar General partnered with Criteo in May to support its onsite ad offerings\nRetail media will drive first-party data enhancements. Advances in AI are enabling retailers to harness first-party data more effectively. Walmart announced the self-serve integration of its first-party data platform, Walmart Luminate, with its retail media arm, Walmart Connect, in October\nBuilding trust and transparency will be more critical than ever for retail media networks. As tech advances and brand advertisers continue to partner with ad-tech companies, campaign management will become increasingly automated, with greater visibility and control for brand advertisers\nMeasuring standardization to gain attention. In June, Albertsons Media Collective announced a proposal for a standardization framework in retail media\nEmerging retail media networks will disrupt the retail media ecosystem. Smaller and regional retail media networks continue to emerge, and retailers must differentiate their retail media network while also sustaining growth\nAbout the Author\nYou May Also Like",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Coresight Research",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dentsu",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:40:31.586+02:00",
+    "updated": "2025-01-10T01:40:31.586+02:00"
+}

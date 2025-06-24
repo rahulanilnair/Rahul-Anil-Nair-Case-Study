@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 95
+============================================================
+Timestamp: 2025-06-23 06:46:11
+Headline Summary: Stocks to Watch on January 10: TCS, IREDA, Adani Wilmar, Phoenix Mills and more
+Key Highlights: TCS reports 11.95% jump in December quarter net profit, IREDA sees 26.8% year-on-year increase in net profit, Adani Wilmar to sell stake through OFS
+Final Sentiment: Neutral
+Confidence: 75%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: I agree that TCS and IREDA reported positive results, which may attract investors. However, Adani Wilmar's decision to sell a significant stake may lead to market volatility. Phoenix Mills' strong growth is a positive signal, while GTPL Hathway's decline may have an impact on investors. growth_analyst: The current analysis is somewhat balanced as it highlights both positive and negative news. While TCS and IREDA reported strong quarter results, Adani Wilmar is selling a significant stake, and GTPL Hathway's decline may impact investors. The diversity of news in this round warrants a neutral sentiment, confidence, and impact ratings. sentiment_analyst: While TCS reported a positive jump in net profit and IREDA saw a significant increase, Adani Wilmar's sale of stake may indicate concerns about the company’s fundamentals. Additionally, GTPL Hathway’s decline and Hindustan Zinc’s penalty may weigh on investors. Phoenix Mills’ strong growth is a positive note, but the overall sentiment seems cautious.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Neutral sentiment.
+============================================================

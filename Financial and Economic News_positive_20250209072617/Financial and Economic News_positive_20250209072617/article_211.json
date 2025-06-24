@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "a3fe349bf1c3f3256b7c746e1febd268ad183fd7",
+        "url": "https://dnyuz.com/2025/01/09/wendys-is-joining-the-value-wars-but-theres-a-catch",
+        "site_full": "dnyuz.com",
+        "site": "dnyuz.com",
+        "site_section": "https://feeds.feedburner.com/dnyuz",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DNyuz",
+        "title": "Wendy's is joining the value wars - but there's a catch",
+        "title_full": "Wendy's is joining the value wars - but there's a catch",
+        "published": "2025-01-10T00:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dnyuz.com/wp-content/uploads/2025/01/Wendys-is-joining-the-value-wars-–-but-theres-a.jpg",
+        "performance_score": 0,
+        "domain_rank": 13733,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3fe349bf1c3f3256b7c746e1febd268ad183fd7",
+    "url": "https://dnyuz.com/2025/01/09/wendys-is-joining-the-value-wars-but-theres-a-catch",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Quartz",
+    "published": "2025-01-10T00:35:00.000+02:00",
+    "title": "Wendy's is joining the value wars - but there's a catch",
+    "text": "Wendy’s is entering the ongoing “value wars,” with a new 2 for $7 deal, but only for a limited time.\nCustomers can choose from four popular menu items: A Spicy Chicken Sandwich, Dave’s Single Square Burger, a Classic Chicken Sandwich, and 10-piece Chicken Nuggets. Diners can mix and match two items, but the offer is only available until March 2.\nIn an era of rising food costs, Wendy’s isn’t the only chain targeting budget-conscious customers. McDonald’s recently launched a value-focused McValue menu following a highly-publicized E. Coli outbreak. Taco Bell plans to introduce a new version of its Luxe Cravings Box on Jan. 16, while Subway’s offering a Meal of the Day sandwich deal. Starbucks (SBUX-0.26%), which is facing a sales slump, has expanded its menu with items like Cortado Espresso and Falafel Wraps, alongside limited-time promotions like Minnie Mouse tumblers.\nAs inflation continues to impact food prices, dining out has become a more conscious choice for many consumers. High grocery and fast food costs have pushed customers to seek out more affordable options.\nIn fact, many consumers are finding it more cost-effective to cook at home. According the Labor Department’s Consumer Price Index (CPI), dining out prices rose 3.6% over the last year, while grocery prices increased by a more modest 1.6%. Despite the slight drop, grocery prices have still prompted consumers to rethink their spending habits, opting for home cooking instead.\nAs fast food chains compete to offer better deals, consumers now have more choices than ever. As 2025 gets underway, the fast food industry is expected to see an influx of meal deals, but it remains to be seen which offers will resonate the most.\nCompanies that fail to deliver on both value and quality risk losing customers in a market where price sensitivity is at an all-time high, according to R.J. Hottovy, head of analytical research at Placer.ai.\nThat said, Wendy’s has done relatively well in 2024, emerging as a standout. In August 2024, the company’s $3 breakfast bundle was so successful that CEO Kirk Tanner said the chain would extend the offer beyond 2025. In November 2024, Wendy’s credited AI with helping drive the the success of its $1 Frosty promotion.\nThe post Wendy’s is joining the value wars – but there’s a catch appeared first on Quartz.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->financial and economic news",
+        "Lifestyle and Leisure->lifestyle",
+        "Social Issue->communities",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wendy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dave",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chicken Nuggets",
+                "sentiment": "none"
+            },
+            {
+                "name": "Taco Bell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Starbucks",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a3fe349bf1c3f3256b7c746e1febd268ad183fd7",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:49:20.452+02:00",
+    "updated": "2025-01-10T01:49:20.452+02:00"
+}

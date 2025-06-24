@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "74fa12325bd343a31740ddb1d4169bf7d7709046",
+        "url": "https://www.rttnews.com/3501907/oil-futures-settle-higher.aspx?type=cdt",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "https://rttnews.com",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "\r\n\tRealtime Business News, Economic News, Breaking News and Forex News – RTTNews\r\n",
+        "title": "Oil Futures Settle Higher",
+        "title_full": "Oil Futures Settle Higher",
+        "published": "2025-01-09T23:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20159,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "74fa12325bd343a31740ddb1d4169bf7d7709046",
+    "url": "https://www.rttnews.com/3501907/oil-futures-settle-higher.aspx?type=cdt",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2025-01-09T23:29:00.000+02:00",
+    "title": "Oil Futures Settle Higher",
+    "text": "Oil prices moved higher on Thursday amid optimism about the outlook for global oil demand, and potential supply shortage due to the sanctions on Iranian and Russian crude exports.\nLikely surge in fuel demand due to cold weather in the U.S., and Saudi Arabia's decision to raise its crude prices for Asian customers from next month contributed as well to the contract's higher settlement.\nWest Texas Intermediate Crude oil futures for February settled higher by $0.60 or about 0.82% at $73.92 a barrel.\nBrent crude futures climbed by about 1% to $76.92 a barrel.\nAccording to the National Weather Service, parts of east Texas up to the north of Kentucky were under a winter storm warning.\nData released by the Energy Information Administration (EIA) on Wednesday showed crude oil inventories in the U.S. fell by 1.0 million barrels last week after falling by 1.2 million barrels in the previous week. Economists had expected crude oil inventories to edge down by 0.3 million barrels.\nAt 414.6 million barrels, U.S. crude oil inventories are about 6% below the five-year average for this time of year, the report said.\nMeanwhile, the report said gasoline inventories surged by 6.3 million barrels last week but remain about 1% below the five-year average for this time of year.\nDistillate fuel inventories, which include heating oil and diesel, also jumped by 6.1 million barrels last week but remain about 4% below the five-year average for this time of year, the EIA said.\nFor comments and feedback contact: editorial@rttnews.com\nMarket Analysis\nDecember 20, 2024 12:34 ET A busy week for economics news with several central banks announcing interest rate decisions and many countries releasing key economic data ahead of the holidays. The Federal Reserve policy announcement was the highlight as well as the latest set of GDP figures for the U.S. economy. Central banks of Japan and the U.K. were also in focus as they revealed their policy decisions and future rate paths. On the data front, several indicators out of China threw light on the state of the economy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Environment"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->energy and resource",
+        "Environment->global warming",
+        "Environment->energy resources",
+        "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Energy Information Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Weather Service",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:28:21.048+02:00",
+    "updated": "2025-01-10T00:28:21.048+02:00"
+}

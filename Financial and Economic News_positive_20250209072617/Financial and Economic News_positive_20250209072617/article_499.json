@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "e73e134281d8e7c7928ceb9f68632d6424bc8621",
+        "url": "https://www.nippon.com/en/news/yjj2025010900986",
+        "site_full": "www.nippon.com",
+        "site": "nippon.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Fast Retailing Posts Record Sept.-Nov. Profits | Nippon.com",
+        "title_full": "Fast Retailing Posts Record Sept.-Nov. Profits | Nippon.com",
+        "published": "2025-01-10T02:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JP",
+        "main_image": "https://www.nippon.com/en/ncommon/contents/news/2728835/2728835.jpg",
+        "performance_score": 0,
+        "domain_rank": 6182,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e73e134281d8e7c7928ceb9f68632d6424bc8621",
+    "url": "https://www.nippon.com/en/news/yjj2025010900986",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:38:00.000+02:00",
+    "title": "Fast Retailing Posts Record Sept.-Nov. Profits | Nippon.com",
+    "text": "Fast Retailing Posts Record Sept.-Nov. Profits\nNewsfrom Japan\n[Economy](https://www.nippon.com/en/articlelist.html?f=ncf-category&s=Economy)\n- English\n- 日本語\n- 简体字\n- 繁體字\n- Français\n- Español\n- العربية\n- Русский\nTokyo, Jan. 10 (Jiji Press)--Fast Retailing Co. on Thursday reported record profits and revenue for the three months ended in November thanks to robust sales at its Uniqlo casual clothing store chain in Japan.\nThe Japanese company posted a consolidated net profit of 131.9 billion yen for the quarter, up 22.4 pct from a year earlier, and an operating profit of 157.5 billion yen, up 7.4 pct. Revenue rose 10.4 pct to 895.1 billion yen.\nSales of summer clothing at Uniqlo stores in Japan rose sharply especially in September because of high temperatures. Profits and revenue also grew in Southeast Asia, the United States and Europe.\nFast Retailing reported a sharp profit decline in its GU clothing brand. The company plans to beef up the brand’s product development capability.\nEND\n[Copyright The Jiji Press, Ltd.]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Jiji Press, Ltd.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Southeast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:05:33.696+02:00",
+    "updated": "2025-01-10T05:05:33.696+02:00"
+}

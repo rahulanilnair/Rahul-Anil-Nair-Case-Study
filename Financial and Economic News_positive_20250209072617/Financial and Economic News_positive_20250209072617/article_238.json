@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "355b1b703bba47238adf7431afd2e0d4f509258d",
+        "url": "https://www.qatar-tribune.com/article/157672/business/qcbs-foreign-reserves-rise-369-in-december",
+        "site_full": "www.qatar-tribune.com",
+        "site": "qatar-tribune.com",
+        "site_section": "https://www.qatar-tribune.com/business",
+        "site_categories": [
+            "media",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Business - Read Qatar Tribune on the go for unrivalled news coverage",
+        "title": "QCB's foreign reserves rise 3.69% in December - Read Qatar Tribune on the go for unrivalled news coverage",
+        "title_full": "QCB's foreign reserves rise 3.69% in December - Read Qatar Tribune on the go for unrivalled news coverage",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "QA",
+        "main_image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2025/01/09/244179.jpg",
+        "performance_score": 0,
+        "domain_rank": 83234,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "355b1b703bba47238adf7431afd2e0d4f509258d",
+    "url": "https://www.qatar-tribune.com/article/157672/business/qcbs-foreign-reserves-rise-369-in-december",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Qatar Tribune",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "QCB's foreign reserves rise 3.69% in December - Read Qatar Tribune on the go for unrivalled news coverage",
+    "text": "QNA\nDoha\nQatar Central Bank (QCB) has announced a significant increase in its international reserves and foreign currency liquidity, which grew by 3.69 percent in December 2024 compared to the same month in 2023. The total reserves rose to QR 255.003 billion, up from QR 245.928 billion, underscoring the strength of Qatar’s financial position and its prudent economic policies.\nAccording to the latest data released by QCB, the bank’s official reserves saw an increase of approximately QR 8.907 billion year-on-year, reaching QR 195.976 billion by the end of December 2024. This growth occurred despite a decrease of QR 6.562 billion in QCB’s balances of foreign bonds and treasury bills, which stood at QR 127.092 billion at the end of the year.\nOfficial reserves consist of key components such as foreign bonds and treasury bills, cash balances with foreign banks, gold holdings, Special Drawing Rights (SDRs) deposits, and Qatar’s quota at the International Monetary Fund (IMF). When combined with other liquid assets, primarily foreign currency deposits, these components form Qatar’s total international reserves.\nGold holdings played a prominent role in boosting reserves, registering an increase of QR9.428 billion compared to December 2023. By the end of December 2024, the value of gold reserves had reached QR33.800 billion, reflecting a significant rise in the precious metal’s contribution to Qatar’s financial stability. Additionally, QCB’s cash balances with foreign banks grew by QR 6.218 billion over the year, totaling QR 30.003 billion by the end of December.\nOn the other hand, Qatar’s SDR deposits with the IMF witnessed a slight decline of QR 177 million, bringing the balance down to QR 5.050 billion. Despite this marginal drop, the overall rise in reserves reflects a robust financial position, supported by effective asset management and strategic allocation.\nThe consistent growth in international reserves and foreign currency liquidity underscores Qatar’s economic resilience and its ability to navigate global financial challenges. These reserves serve as a vital tool for stabilising the Qatari riyal, managing liquidity in the banking sector, and mitigating the impact of potential external economic shocks.\nThe increase, particularly driven by rising gold holdings and higher foreign bank balances, demonstrates Qatar’s commitment to maintaining a strong financial foundation and fostering sustainable economic growth.\n Copy 09/01/2025 10",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->economy",
+        "Politics->government budget",
+        "Politics->national government",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "QNA\nDoha\nQatar Central Bank",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:05:04.809+02:00",
+    "updated": "2025-01-10T02:05:04.809+02:00"
+}

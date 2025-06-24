@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "341b6ac51ef95eebb252b107ec762ee0ba1b5b8b",
+        "url": "https://www.koreabiomed.com/news/articleView.html?idxno=26286",
+        "site_full": "www.koreabiomed.com",
+        "site": "koreabiomed.com",
+        "site_section": "https://koreabiomed.com",
+        "site_categories": [
+            "biotech_biomedical",
+            "media",
+            "business",
+            "illegal_content"
+        ],
+        "section_title": "KBR",
+        "title": "Shinpoong Pharm aims to attain 24% sales growth through overseas expansion",
+        "title_full": "Shinpoong Pharm aims to attain 24% sales growth through overseas expansion",
+        "published": "2025-01-10T18:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.koreabiomed.com/news/thumbnail/202501/26286_27650_122_v150.jpg",
+        "performance_score": 0,
+        "domain_rank": 90098,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "341b6ac51ef95eebb252b107ec762ee0ba1b5b8b",
+    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=26286",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kim Chan-hyuk",
+    "published": "2025-01-10T18:14:00.000+02:00",
+    "title": "Shinpoong Pharm aims to attain 24% sales growth through overseas expansion",
+    "text": "Shinpoong Pharmaceutical has held its 2025 opening ceremony at its Seoul headquarters and Ansan Plant, announcing its management goals and strategies for the year.\nThe ceremony was held in a solemn atmosphere as the company paid tribute to the victims and bereaved families of the Jeju Air passenger plane crash.\nShinpoong Pharm vowed to attain a 24 percent sales growth through work efficiency and organizational optimization, under the management catchphrase of “achieving the goal through mega-commoditization of intensively cultivated items and new products and exploring overseas markets.”\nTo this end, the company proposed four keywords: business understanding and capacity building, organizational optimization and collaboration, efficient business promotion, and challenging spirit.\n“Last year, we produced significant results, including achieving 10 billion won ($6.8 million) in domestic sales of anti-adhesion drug Medicurtain and 10 billion won in exports of malaria drug Pyramax through winning public procurement order from the Presidential Malaria Initiative (PMI), a U.S. global malaria fight support initiative,” Shinpoong Pharm CEO Ryu Jei-man said.\nRyu added that 2025 will be an important year for Shinpoong Pharm. This year, it will build on its R&D capabilities and lay the foundation for continued development by exploring domestic and overseas markets, visualizing new drug projects, and launching new products.\nShinpoong Pharm plans to launch new products this year, including Hyal Flex Inj., a new drug for osteoarthritis it independently developed, and Avosial, a combination drug for prostate enlargement based on dutasteride and tadalafil, developed in collaboration with Dongkook Pharmaceutical, Dong-A ST, and DongKoo Bio and Pharma.\nThe company also plans to strengthen its global market presence by accelerating the phase 3 clinical trial of stroke drug Otaplimastat (SP-8203) and expanding exports of Pyramax and Medicurtain.\n[kch@docdocdoc.co.kr](mailto:kch@docdocdoc.co.kr)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->ceremony",
+        "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Shinpoong Pharmaceutical",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:50:39.253+02:00",
+    "updated": "2025-01-10T04:50:39.253+02:00"
+}

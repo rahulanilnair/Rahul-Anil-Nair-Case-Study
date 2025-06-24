@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "d840594743c8a90a10222161ce6c339ac284bf55",
+        "url": "https://www.techinasia.com/news/indian-agritech-startup-waycool-raises-44m-funding",
+        "site_full": "www.techinasia.com",
+        "site": "techinasia.com",
+        "site_section": "https://www.techinasia.com/wp-json/techinasia/2.0/categories/investments/posts?page=1&per_page=30",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "",
+        "title": "Indian agritech startup WayCool raises $4.4m in funding",
+        "title_full": "Indian agritech startup WayCool raises $4.4m in funding",
+        "published": "2025-01-09T21:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ID",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3532,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d840594743c8a90a10222161ce6c339ac284bf55",
+    "url": "https://www.techinasia.com/news/indian-agritech-startup-waycool-raises-44m-funding",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Minh Le",
+    "published": "2025-01-09T21:35:00.000+02:00",
+    "title": "Indian agritech startup WayCool raises $4.4m in funding",
+    "text": "Agritech startup WayCool has raised 38.2 crore rupees (around US$4.4 million) in funding led by Trifecta Capital, with participation from Alteria Capital and Stride Ventures.\nRegulatory filings reveal the allocation of series B optionally convertible redeemable preference shares (OCRPS) after a resolution passed on December 30, 2024.\nFounded in 2015 by Karthik Jayaraman and Sanjay Dasari, WayCool sells food products under multiple labels and offers supply chain solutions.\nHowever, profitability challenges have led to workforce reductions, including 270 job cuts in 2024 and around 300 layoffs in 2023.\nRecent WayCool developments Timeline 13-Dec-2024 🌱 Indian agritech startup WayCool co-founder resigns Sanjay Dasari resigns from WayCool’s executive role. Will focus on advisory, fundraising, and angel investments. 07-Feb-2020 🌱 Agritech startup WayCool Foods raises $32m from Lightbox, others WayCool Foods raises $32M in Series C funding. Funds will automate supply chain & expand product range.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->agriculture",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:26:48.861+02:00",
+    "updated": "2025-01-10T07:26:48.861+02:00"
+}

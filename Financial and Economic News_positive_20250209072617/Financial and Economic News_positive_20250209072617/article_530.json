@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "7f46bb45f4c7dd12564457bafa9be532a70536bf",
+        "url": "https://thesun.ng/atcon-hails-fgs-approval-of-data-call-tariff-hike",
+        "site_full": "thesun.ng",
+        "site": "thesun.ng",
+        "site_section": "https://www.sunnewsonline.com",
+        "site_categories": [],
+        "section_title": "The Sun Nigeria &ndash; Voice of the Nation",
+        "title": "ATCON hails FG's approval of data, call tariff hike",
+        "title_full": "ATCON hails FG's approval of data, call tariff hike",
+        "published": "2025-01-10T04:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 53765,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7f46bb45f4c7dd12564457bafa9be532a70536bf",
+    "url": "https://thesun.ng/atcon-hails-fgs-approval-of-data-call-tariff-hike",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rapheal",
+    "published": "2025-01-10T04:58:00.000+02:00",
+    "title": "ATCON hails FG's approval of data, call tariff hike",
+    "text": "The Association of Telecommunication Companies of Nigeria (ATCON) has expressed its approval of the Federal Government’s decision to increase call and data tariffs, as well as invest in the country’s telecom infrastructure. In a statement on Thursday, ATCON President, Tony Emoekpere, described the tariff hike as a long-overdue but welcome move that signifies a work in progress for the sector. Speaking with the News Agency of Nigeria (NAN) in Lagos, Emoekpere emphasized that while the increase was a bit late in coming, it was necessary given the fact that tariffs had remained stagnant for years. He further explained that a 100% tariff hike, though significant, was not as drastic as it could have been if the decision had been delayed further. “Although it’s still a bit late considering how many years the tariff has remained stagnant, a 100% hike will not be a big leap. However, if the federal government’s decision had been delayed longer than this, a 100 per cent tariff hike would have been a lot worse,” Emoekpere remarked. He suggested that Mobile Network Operators (MNOs) now have time to plan for the adjustment, as the hike is expected to be implemented in the first quarter of the year. Emoekpere also applauded the government’s plan to invest in telecommunications infrastructure, which he said was in line with global best practices. According to him, telecommunications is a critical national infrastructure, and the government’s active involvement in this area is crucial for the sector’s growth. He pointed out that in other countries, governments invest in telecom infrastructure to enhance sector performance, and Nigeria’s approach should be no different. “It’s important that the government has a say in telecommunications infrastructure. In other countries, the government still invests in infrastructure, and this would be a welcome development in Nigeria. This would also boost the operations of the sector, because if the government has a vested interest in the sector, it would ensure that the infrastructure is actively protected,” Emoekpere explained. The ATCON president also addressed the issue of telecom infrastructure vandalism, which has been a significant challenge in Nigeria. He believes that with the government’s involvement in infrastructure investment and protection, the level of vandalization would significantly reduce. “Vandalism of telecoms infrastructure has been successful over the years because the infrastructure was not being actively protected. With the government’s involvement, I believe that vandalisation will be reduced to the barest minimum,” he added. Meanwhile, the Minister of Communications, Innovation, and Digital Economy, Dr. Bosun Tijan, who announced the tariff hike during a stakeholder meeting with MNOs in Abuja, clarified that the increment would not reach the full 100% as initially requested by the telecom operators. He also revealed that the Nigerian Communications Commission (NCC) would soon approve and release the new tariffs to the public. The minister highlighted the government’s commitment to investing in telecom infrastructure, which will help improve connectivity across Nigeria. The move reflects the government’s ongoing efforts to strengthen the telecommunications sector, which plays a major role in Nigeria’s economic growth and development.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tony Emoekpere",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ATCON",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Association of Telecommunication Companies of Nigeria",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:34:03.579+02:00",
+    "updated": "2025-01-10T05:34:03.579+02:00"
+}

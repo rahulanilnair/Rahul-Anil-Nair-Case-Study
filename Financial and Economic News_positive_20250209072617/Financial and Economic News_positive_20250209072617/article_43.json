@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "919edbfe288a93041d163593e356900f09825d07",
+        "url": "https://www.therogersvillereview.com/news/national/article_ccfdf87b-cb1d-56f2-90a7-fe2a2fa6176f.html",
+        "site_full": "www.therogersvillereview.com",
+        "site": "therogersvillereview.com",
+        "site_section": "http://www.therogersvillereview.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=news,news/*&f=rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.therogersvillereview.com - RSS Results in news,news/* of type article",
+        "title": "U.S. Senate votes to consider Laken Riley Act | National | therogersvillereview.com",
+        "title_full": "U.S. Senate votes to consider Laken Riley Act | National | therogersvillereview.com",
+        "published": "2025-01-09T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/therogersvillereview.com/content/tncms/custom/image/c2e22e3a-a05a-11e6-9e99-d7e65582769a.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 178538,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "919edbfe288a93041d163593e356900f09825d07",
+    "url": "https://www.therogersvillereview.com/news/national/article_ccfdf87b-cb1d-56f2-90a7-fe2a2fa6176f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thérèse Boudreaux | The Center Square",
+    "published": "2025-01-09T07:00:00.000+02:00",
+    "title": "U.S. Senate votes to consider Laken Riley Act | National | therogersvillereview.com",
+    "text": "(The Center Square) – The U.S. Senate has voted 84-9 to begin debate on the Laken Riley Act, moving the immigration bill forward to consider changes before actually voting on the bill.\nOriginally published on [thecentersquare.com](https://thecentersquare.com), part of the [BLOX Digital Content Exchange](https://www.bloxdigital.com/products_services/cen/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->national government",
+        "Politics->political process",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->social condition",
+        "Social Issue->immigration"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thecentersquare.com",
+        "https://www.bloxdigital.com/products_services/cen/",
+        "https://www.thecentersquare.com",
+        "https://bloxdigital.com/products_services/cen/",
+        "https://www.bloxdigital.com/products_services/cen"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:18:28.285+02:00",
+    "updated": "2025-01-10T00:18:28.285+02:00"
+}

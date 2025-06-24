@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "7c01d4d6932b6d7354cc61f87e9a54567a36960a",
+        "url": "https://nairametrics.com/2024/12/17/why-africa-needs-local-cloud-providers",
+        "site_full": "nairametrics.com",
+        "site": "nairametrics.com",
+        "site_section": "http://nairametrics.com/rss",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Nairametrics",
+        "title": "Why Africa needs local cloud providers",
+        "title_full": "Why Africa needs local cloud providers",
+        "published": "2024-12-17T10:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://nairametrics.com/wp-content/uploads/2024/12/IMG_2935.jpeg",
+        "performance_score": 0,
+        "domain_rank": 17931,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7c01d4d6932b6d7354cc61f87e9a54567a36960a",
+    "url": "https://nairametrics.com/2024/12/17/why-africa-needs-local-cloud-providers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NM Partners",
+    "published": "2024-12-17T10:45:00.000+02:00",
+    "title": "Why Africa needs local cloud providers",
+    "text": "What an awful time to start a company. The economy is depressed, many sectors are struggling, inflation in Nigeria is",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7c01d4d6932b6d7354cc61f87e9a54567a36960a",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:31:55.739+02:00",
+    "updated": "2024-12-17T17:17:36.630+02:00"
+}

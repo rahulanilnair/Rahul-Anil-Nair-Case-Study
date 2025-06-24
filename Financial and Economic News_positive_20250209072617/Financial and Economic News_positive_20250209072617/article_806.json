@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "684049fd81dbc1e14398810c565ba514ce928f0a",
+        "url": "https://article.wn.com/view/2025/01/10/TCS_Infosys_HCLTech_rise_up_to_4_Why_IT_stocks_are_rising_to",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/stocks",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Stocks",
+        "title": "TCS, Infosys, HCLTech rise up to 4%. Why IT stocks are rising today? - Worldnews.com",
+        "title_full": "TCS, Infosys, HCLTech rise up to 4%. Why IT stocks are rising today? - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "684049fd81dbc1e14398810c565ba514ce928f0a",
+    "url": "https://article.wn.com/view/2025/01/10/TCS_Infosys_HCLTech_rise_up_to_4_Why_IT_stocks_are_rising_to",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "TCS, Infosys, HCLTech rise up to 4%. Why IT stocks are rising today? - Worldnews.com",
+    "text": "TCS Infosys HCLTech rise up to Why IT stocks are rising today read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.indiatoday.in/business/story/tcs-infosys-hcltech-share-price-rise-up-to-4-percent-why-it-stocks-are-rising-today-sensex-falls-2662681-2025-01-10?utm_source=rss",
+        "https://www.indiatoday.in/business/story/tcs-infosys-hcltech-share-price-rise-up-to-4-percent-why-it-stocks-are-rising-today-sensex-falls-2662681-2025-01-10",
+        "https://indiatoday.in/business/story/tcs-infosys-hcltech-share-price-rise-up-to-4-percent-why-it-stocks-are-rising-today-sensex-falls-2662681-2025-01-10?utm_source=rss"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCS",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:37:57.035+02:00",
+    "updated": "2025-01-10T08:37:57.035+02:00"
+}

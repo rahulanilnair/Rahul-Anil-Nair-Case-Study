@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "9c33c3d25a698d7f08354d59e0da64bdff0edff7",
+        "url": "https://news.nestia.com/detail/Fixed-licence-for-tourism-players/13189023",
+        "site_full": "news.nestia.com",
+        "site": "nestia.com",
+        "site_section": "https://news.nestia.com/en/list?offset=0&limit=100&featured_tag_filter=true",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+        "title": "Fixed licence for tourism players | Nestia",
+        "title_full": "Fixed licence for tourism players | Nestia",
+        "published": "2025-01-10T05:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/202501/10/c0cbdea86205a3289901df061cb29792_750x750.jpg",
+        "performance_score": 0,
+        "domain_rank": 108524,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9c33c3d25a698d7f08354d59e0da64bdff0edff7",
+    "url": "https://news.nestia.com/detail/Fixed-licence-for-tourism-players/13189023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online - News",
+    "published": "2025-01-10T05:01:00.000+02:00",
+    "title": "Fixed licence for tourism players | Nestia",
+    "text": "PETALING JAYA: A permanent licence for tourism operators, which can be renewed for a fixed fee, will be introduced for their convenience, says Tourism, Arts and Culture Minister Datuk Seri Tiong King Sing.He said applications for this licence could be made online, making it easier and user-friendly for industry players such as travel agents and tour guides.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:39:52.177+02:00",
+    "updated": "2025-01-10T05:39:52.177+02:00"
+}

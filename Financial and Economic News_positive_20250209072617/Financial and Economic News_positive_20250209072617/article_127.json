@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "9b3a974dccc64fdb28540d4fbe40764295ca94b4",
+        "url": "https://www.modbee.com/news/nation-world/national/article298271633.html",
+        "site_full": "www.modbee.com",
+        "site": "modbee.com",
+        "site_section": "https://feeds.mcclatchy.com/modbee/stories",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Homepage",
+        "title": "Lucky Powerball player wins huge prize - but thinks it's a scam. 'That can't be right'",
+        "title_full": "Lucky Powerball player wins huge prize - but thinks it's a scam. 'That can't be right'",
+        "published": "2025-01-10T00:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.miamiherald.com/latest-news/fgnwxa/picture298272008/alternates/LANDSCAPE_1140/PB.jpg",
+        "performance_score": 0,
+        "domain_rank": 12797,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9b3a974dccc64fdb28540d4fbe40764295ca94b4",
+    "url": "https://www.modbee.com/news/nation-world/national/article298271633.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Natalie Demaree",
+    "published": "2025-01-10T00:38:00.000+02:00",
+    "title": "Lucky Powerball player wins huge prize - but thinks it's a scam. 'That can't be right'",
+    "text": "National\nLucky Powerball player wins huge prize — but thinks it’s a scam. ‘That can’t be right’\nA Virginia man didn’t believe his luck when he learned he won big playing Powerball, lottery officials said.\n“That can’t be right. It’s got to be a scam,” Robert Peak told Virginia Lottery officials he said after seeing a message saying that he had won $200,000.\nBut Peak was wrong. He had matched four of the five winning numbers plus the Powerball in the Nov. 30 drawing to win $50,000, and a Power Play addition quadrupled the prize to get his grand total, lottery officials said in a Jan. 8 news release.\nThe winning numbers were 4, 24, 29, 39 and 63, and the Powerball number was 25, according to the Powerball website.\nHe purchased his online through the Virginia lottery app, according to the release. When lottery officials asked how he will use the winnings, he responded, “my wife has plans for it!”\nAccording to Powerball records for the Nov. 30 drawing, one person matched five numbers to win $1 million, and nine people — including Peak — won $50,000. No one won the jackpot.\nThe next drawing is Jan. 11, and the estimated jackpot is $263 million, lottery officials said.\nWhat to know about Powerball\nTo score the jackpot in the Powerball, a player must match all five white balls and the red Powerball.\nThe odds of scoring the jackpot prize are 1 in 292,201,338.\nTickets can be bought on the day of the drawing, but sales times and price vary by state.\nDrawings are broadcast Saturdays, Mondays and Wednesdays at 10:59 p.m. ET and can be streamed online.\nPowerball is played in 45 states, Washington, D.C., Puerto Rico and the U.S. Virgin Islands.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->media and entertainment industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->award and prize"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Peak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9b3a974dccc64fdb28540d4fbe40764295ca94b4",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:05:54.859+02:00",
+    "updated": "2025-01-10T01:05:54.859+02:00"
+}

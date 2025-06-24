@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "4d6e7be8edc911f3068a84d334320452e535feb4",
+        "url": "https://www.mining.com/web/gold-gains-for-third-day-before-us-data-that-may-shape-rate-path",
+        "site_full": "www.mining.com",
+        "site": "mining.com",
+        "site_section": "https://mining.com",
+        "site_categories": [
+            "metals",
+            "business"
+        ],
+        "section_title": "MINING.COM - No 1 source of global mining news and opinion",
+        "title": "Gold gains for third day before US data that may shape rate path - MINING.COM",
+        "title_full": "Gold gains for third day before US data that may shape rate path - MINING.COM",
+        "published": "2025-01-10T02:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.mining.com/wp-content/uploads/2024/04/AdobeStock_749504770-1024x574.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7838,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4d6e7be8edc911f3068a84d334320452e535feb4",
+    "url": "https://www.mining.com/web/gold-gains-for-third-day-before-us-data-that-may-shape-rate-path",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@MiningDotCom",
+    "published": "2025-01-10T02:32:00.000+02:00",
+    "title": "Gold gains for third day before US data that may shape rate path - MINING.COM",
+    "text": "Gold rose for a third day as traders mulled the outlook for the Federal Reserve’s easing path, ahead of key jobs figures due later Friday.\nBullion traded near $2,670 an ounce — touching the highest since mid-December — but showed limited movements with some US financial markets closed Thursday. Recent data showed US private-sector hiring and wage growth slowed in December.\nThe Fed will need to balance that against renewed inflation fears when deciding on cutting rates, with minutes of its meeting last month reaffirming a more cautious approach to easing. Lower borrowing costs are typically positive for gold, which doesn’t offer interest.\nTraders are now shifting attention to Friday’s payrolls data for December, which are expected to show moderating yet still-healthy job growth that economists expect to carry on in 2025. A survey conducted by 22V Research showed most investors are watching the report more closely than usual.\nBullion surged 27% last year in a record-breaking run that was propelled in part by US monetary easing, though the rally lost momentum after Donald Trump’s US presidential election victory buoyed the dollar. Bulls now face the prospect of less impressive gains this year, with Goldman Sachs Group Inc. pushing back a target for gold hitting $3,000 to mid-2026 on expectations for fewer Fed cuts.\nSpot gold added 0.2% to close at $2,667.25 an ounce at 5 p.m. in New York. The Bloomberg Dollar Spot Index was up 0.1%. Platinum and palladium were steady, while silver edged higher.\n(By Sybilla Gross and Preeti Soni)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "22V Research",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fed",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:18:30.561+02:00",
+    "updated": "2025-01-10T03:18:30.561+02:00"
+}

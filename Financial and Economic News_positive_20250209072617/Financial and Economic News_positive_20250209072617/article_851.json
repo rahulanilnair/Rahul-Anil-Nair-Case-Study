@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "5f65ba21b3b19b95924be4d1d680327ecb000a43",
+        "url": "https://www.devdiscourse.com/article/headlines/3221139-seci-lights-up-indias-renewable-future-with-impressive-growth",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "SECI Lights Up India's Renewable Future with Impressive Growth | Headlines",
+        "title_full": "SECI Lights Up India's Renewable Future with Impressive Growth | Headlines",
+        "published": "2025-01-10T05:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_10_5703828.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 8711,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5f65ba21b3b19b95924be4d1d680327ecb000a43",
+    "url": "https://www.devdiscourse.com/article/headlines/3221139-seci-lights-up-indias-renewable-future-with-impressive-growth",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-10T05:45:00.000+02:00",
+    "title": "SECI Lights Up India's Renewable Future with Impressive Growth | Headlines",
+    "text": "The Solar Energy Corporation of India (SECI) has reached over 73 GW in renewable energy project capacity. With groundbreaking growth in trading volume and income, SECI earned an 'Excellent' MoU rating and Navratna status from the Ministry of Finance, signaling its critical role in India's clean energy expansion.\" /",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Environment->sustainability",
+        "Environment->energy resources",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->communities",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "SECI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Renewable Energy Implementing Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of New & Renewable Energy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Finance",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:55:39.468+02:00",
+    "updated": "2025-01-10T11:08:17.571+02:00"
+}

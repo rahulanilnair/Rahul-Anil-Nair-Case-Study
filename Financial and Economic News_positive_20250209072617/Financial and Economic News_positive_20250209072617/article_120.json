@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "efb0b82a94d4a2152141ff338d553308c345e8ae",
+        "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2645700-mexico-inflation-ends-2024-near-4-year-low",
+        "site_full": "www.argusmedia.com",
+        "site": "argusmedia.com",
+        "site_section": "https://www.argusmedia.com",
+        "site_categories": [
+            "logistics",
+            "business"
+        ],
+        "section_title": "Commodity prices, forecasts, news &amp; market analysis | Argus Media",
+        "title": "Mexico inflation ends 2024 near 4-year low",
+        "title_full": "Mexico inflation ends 2024 near 4-year low",
+        "published": "2025-01-09T23:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&amp;iar=0&amp;w=1600&amp;rev=2cf023b4e0484c1bb091b9f72dbf7771&amp;hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
+        "performance_score": 0,
+        "domain_rank": 14632,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "efb0b82a94d4a2152141ff338d553308c345e8ae",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2645700-mexico-inflation-ends-2024-near-4-year-low",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Argus Media",
+    "published": "2025-01-09T23:28:00.000+02:00",
+    "title": "Mexico inflation ends 2024 near 4-year low",
+    "text": "Mexico's consumer price index (CPI) eased to an annual 4.21pc in December, the lowest in nearly four years, as slowing agricultural prices offset increases in energy, consumer goods and services.\nThis marks the lowest annual inflation since February 2021 and a significant slowdown from July's annual peak of 5.57pc, which was driven by weather-impacted food prices. Inflation slowed from 4.55pc in November, marking four months of declines in the past five months. It closed 2024 below the December 2023 reading of 4.66pc, as CPI continues to cool from its peak of 8.7pc in August/September 2022at the height of the global inflation crisis.\nThe December headline rate slightly exceeded Mexican bank Banorte's 4.15pc forecast but aligned with its consensus estimate. Following the results, Banorte revised its end-2025 inflation projection to 4pc from 4.4pc and its core inflation estimate to 3.6pc from 3.7pc.\nThe bank suggested that the data supports the possibility of earlier cuts in 2025 in the central bank's target rate, currently at 10pc. Citi Mexico's January survey of 32 analysts estimated a target rate of 8.50pc by the end of 2025, with the next cut of 25 basis points expected at the next central bank policy meeting on 25 February. The central bank is targeting annual CPI of 2-4pc.\nCore inflation, excluding volatile food and energy prices, accelerated to 3.65pc in December from 3.58pc in November, marking the first uptick after 22 consecutive months of deceleration, according to Mexico's statistics agency (Inegi). Services inflation sped up to 4.94pc from 4.9pc, while consumer goods inflation ticked up to 2.47pc from 2.4pc.\nAgricultural inflation moved to 6.57pc from 10.74pc in November, supported by favorable weather conditions. Banorte noted that the developing La Nina phenomenon could significantly impact meat prices in the coming months.\nMeanwhile, energy inflation accelerated to 5.73pc in December from 5.25pc the previous month, driven by higher LPG prices. The industrial association Coparmex called for a review of Mexico's LPG pricing model, citing risks to supply and distribution.\nElectricity inflation decelerated sharply to 2.65pc from 22pc in November, reflecting the end of seasonal summer subsidies, while natural gas prices fell 5.67pc year over year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:59:53.910+02:00",
+    "updated": "2025-01-10T00:59:53.910+02:00"
+}

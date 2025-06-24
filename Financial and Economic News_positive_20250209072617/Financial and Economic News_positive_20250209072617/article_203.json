@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "d3f88f68c9a309b416da005bdbd096310cd090a9",
+        "url": "https://dunyanews.tv/en/Crime/861523-one-held-as-police-smash-gang-of-atm-hackers-in-karachi",
+        "site_full": "dunyanews.tv",
+        "site": "dunyanews.tv",
+        "site_section": "https://dunyanews.tv/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Dunya News - Latest News, Pakistan News, World News, Sports News and Videos",
+        "title": "One held as police smash gang of ATM hackers in Karachi",
+        "title_full": "One held as police smash gang of ATM hackers in Karachi",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://img.dunyanews.tv/news/2025/January/01-10-25/news_big_images/861523_31809448.jpg",
+        "performance_score": 0,
+        "domain_rank": 35500,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d3f88f68c9a309b416da005bdbd096310cd090a9",
+    "url": "https://dunyanews.tv/en/Crime/861523-one-held-as-police-smash-gang-of-atm-hackers-in-karachi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "One held as police smash gang of ATM hackers in Karachi",
+    "text": "One held as police smash gang of ATM hackers in Karachi\nCrime\nThe suspects are IT experts and active in the city\nKARACHI (Dunya News) - Police have claimed to have busted a gang of hackers by arresting one of its members, Dunya News reported here on Thursday.\nAccording to Special Investigation Unit, the hackers were active in the city. They fraudulently withdrew cash from ATMs, by developing a fault in cash machines, which clutched cards of those who used them.\nThe suspects after developing the fault in the machine stayed out of the booth. When a customer inserted his or her card, it stuck in the machine, leaving them with no option, but to call the hacker standing outside.\nHe in the guise of helping them got their password and other information, and transferred them to his accomplices, who, with the help of this information, later withdrew their cash.\nThey took Rs400,000 from an old man when he sought their help when a machine clutched his card.\nA video of the hackers has gone viral in which a man and a woman could be seen deceiving a customer at an ATM booth.\nAccording to police, the hackers are IT experts and deceiving people for quite some time.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->cyber crime",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Dunya News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:45:35.007+02:00",
+    "updated": "2025-01-10T01:45:35.007+02:00"
+}

@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "fa7b533665925a2cf7d3f7ca769952b5d8e5c4f9",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/01/10/indonesia-to-intensify-defence-partnerships-and-maritime-security-fm",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/opinion/columnists/through-many-windows",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Columnists - Opinion | The Star",
+        "title": "Indonesia to intensify defence partnerships and maritime security: FM | The Star",
+        "title_full": "Indonesia to intensify defence partnerships and maritime security: FM | The Star",
+        "published": "2025-01-10T07:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2025/01/10/3110717.JPG",
+        "performance_score": 0,
+        "domain_rank": 2131,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fa7b533665925a2cf7d3f7ca769952b5d8e5c4f9",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/01/10/indonesia-to-intensify-defence-partnerships-and-maritime-security-fm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2025-01-10T07:46:00.000+02:00",
+    "title": "Indonesia to intensify defence partnerships and maritime security: FM | The Star",
+    "text": "JAKARTA: Indonesia will expand its existing defence partnerships and step up its handling of strategic issues impacting its sovereignty, including maritime security and the safety of sea passage and fisheries, its foreign minister said on Friday (Jan 10).\nSugiono (pic), who uses only one name, said Indonesia would continue to advocate for the completion of a code of conduct between Asean and China on the South China Sea and prioritise Asean's centrality.\nIndonesia considers itself not a party in disputes over the sea, a waterway crucial to global trade, but has recently been tested by forays by China's coast guard into its exclusive economic zone.\nBeijing claims sovereignty over almost the entire South China Sea, putting it at odds with Malaysia, Vietnam and the Philippines, with disputes frequent over the conduct in their EEZs of China's massive fleet of coast guard. China insists it is operating lawfully in its territory.\n\"In the geostrategic sense, Indonesia is close to a source of regional conflict, the South China Sea. Indonesia's position remains prioritising conflict resolution that is peaceful,\" Sugiono said, adding Indonesia would keep pushing for constructive dialogue on a code of conduct.\nRegional commitments to draft a code were first made in 2002 but talks towards its creation only started in 2017 and progress has been limited, with years spent discussing the framework for negotiations and numerous agreements signed to expedite the process.\nThorny issues include whether the code will be legally binding, enforceable and based on international maritime law, under which a 2016 international arbitration panel ruled Beijing's expansive territorial claims had no legal basis.\nChina does not recognise the ruling.\nIn a wide-ranging speech setting out Indonesia's foreign policy that was attended by the diplomatic community, Sugiono also said Indonesia would prioritise completion of talks on free trade agreements and expand its international trade, including with non-traditional partners in Africa and the Pacific.\nHe said Indonesia's joining of the Brics grouping - which includes Russia, China, Brazil, India, Iran, Egypt and South Africa - was not a deviation from Indonesia's international position, but an underlining of its free and active foreign policy.\nHe also said Indonesia would never abandon its support for the Palestinian cause, calling for a ceasefire and accountability for Israel over its role in the Gaza conflict.\nSugiono was appointed in October when new President Prabowo Subianto took office. - Reuters\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->defence",
+        "Politics->international relations",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->national or ethnic minority",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sugiono",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "South",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sea",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:28:11.031+02:00",
+    "updated": "2025-01-10T09:28:11.031+02:00"
+}

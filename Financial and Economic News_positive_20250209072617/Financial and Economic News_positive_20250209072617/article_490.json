@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "e454baf7035d06f8e4e85403235ed4d455de12a9",
+        "url": "https://www.independent.ie/business/tesco-ireland-sales-hit-13bn-over-busiest-christmas-season/a188992652.html",
+        "site_full": "www.independent.ie",
+        "site": "independent.ie",
+        "site_section": "https://independent.ie/farming/machinery",
+        "site_categories": [
+            "media",
+            "rugby",
+            "sports",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Machinery - Irish Independent",
+        "title": "Tesco Ireland sales hit €1.3bn over busiest Christmas season",
+        "title_full": "Tesco Ireland sales hit €1.3bn over busiest Christmas season",
+        "published": "2025-01-10T03:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://focus.independent.ie/thumbor/_HY8CEtRLoCvY-sA8Jyw6__4XEc=/629x460/smart/prod-mh-ireland/e08553a0-f745-4d15-b9c1-e40ee9b1fbd7/80ac9e7c-6fe6-4e25-a70c-ce047d17c89b/IB%20TESCO%20ADAMS.jpg",
+        "performance_score": 0,
+        "domain_rank": 1672,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e454baf7035d06f8e4e85403235ed4d455de12a9",
+    "url": "https://www.independent.ie/business/tesco-ireland-sales-hit-13bn-over-busiest-christmas-season/a188992652.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Donal O'Donovan",
+    "published": "2025-01-10T03:30:00.000+02:00",
+    "title": "Tesco Ireland sales hit €1.3bn over busiest Christmas season",
+    "text": "Tesco Ireland sales hit €1.3bn over busiest Christmas season\nTesco Ireland sales were €1.3bn in the 19 weeks to January 4, which includes the key Christmas shopping weeks. Sales were up 5.5pc on a constant currency bases.\nThe UK-headquartered group reported an overall 4.1pc rise in sales, but shares traded down 1.3pc on Thursday on concerns about the outlook for the UK consumer market.\nIn Ireland it said online sales were up more than 17pc in the period, driven by the launch of same-day Click & Collect and home delivery services.\nTesco Ireland’s CEO Natasha Adams said the third-quarter performance included an expansion of the business here.\n“The significant investment we’ve made in expanding our store footprint nationally (four new stores in Q3*), in multi-year contract extensions with key Irish suppliers, and in pay increases and benefit enhancements for our colleagues highlight our continued commitment to building a thriving Irish economy,” she said.\nAt the group level the UK’s biggest grocer kept its outlook unchanged despite strong food sales over the holidays, with looming UK tax rises set to add to costs.\nUK Chancellor of the Exchequer Rachel Reeves is targeting an extra £40bn in tax to support the National Health Service and infrastructure, with higher payroll taxes the biggest component.\nThat will hit Tesco as the UK’s biggest private-sector employer.\nHigher national insurance contributions, a payroll levy, will add about £250m in costs per year, Tesco chief executive officer Ken Murphy said on an earnings call. “There’s no doubt the budget has impacted the cost of doing business in the UK,” he said.\nUnder Mr Murphy, the group has gained market share from rivals with a push to improve the value and quality of its products, step-up innovation and enhance its customer service.\n“We delivered our biggest ever Christmas, with continued market share growth and switching gains,” he said.\nIndustry data published on Tuesday showed Tesco ended 2024 with a UK grocery market share of 28.5pc, up 80 basis points (bps) on the year and its highest level since January 2016. The Irish market share is lower but was up 40bps.\nTesco has benefited from a strategy of matching the prices of discounter Aldi on some products and the popularity of its Clubcard loyalty scheme, which provides lower prices for members.\nThese programmes are being financed by efficiency savings.\nThe group is also continuing to benefit from the trend of consumers eating more at home rather than dining out, with sales of its ‘Finest’ premium range up 15.5c over the Christmas trading period.\n[\n](https://www.whatsapp.com/channel/0029VaEoLtFIt5rzvz2Vd22O)\nJoin the Irish Independent WhatsApp channel\nStay up to date with all the latest news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->financial and economic news",
+        "Lifestyle and Leisure->holiday",
+        "Lifestyle and Leisure->organic food",
+        "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.whatsapp.com/channel/0029VaEoLtFIt5rzvz2Vd22O",
+        "https://whatsapp.com/channel/0029VaEoLtFIt5rzvz2Vd22O"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Natasha Adams",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:54:11.133+02:00",
+    "updated": "2025-01-10T04:54:11.133+02:00"
+}

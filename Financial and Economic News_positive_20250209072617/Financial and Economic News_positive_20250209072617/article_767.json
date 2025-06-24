@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "24f5dde570b972122603b4a3bdcfa0bfa61aa0ee",
+        "url": "https://en.apa.az/europe/norway-allocates-over-2-billion-in-military-aid-for-ukraine-in-2025-umerov-says-457638",
+        "site_full": "en.apa.az",
+        "site": "apa.az",
+        "site_section": "https://en.apa.az",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "APA.AZ- Latest news from Azerbaijan and the world",
+        "title": "Norway allocates over $2 billion in military aid for Ukraine in 2025, Umerov says",
+        "title_full": "Norway allocates over $2 billion in military aid for Ukraine in 2025, Umerov says",
+        "published": "2025-01-10T07:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://en.apa.az/storage/news/2025/january/10/resize/6780adbad12986780adbad129917364863306780adbad12966780adbad1297.jpg",
+        "performance_score": 0,
+        "domain_rank": 26584,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "24f5dde570b972122603b4a3bdcfa0bfa61aa0ee",
+    "url": "https://en.apa.az/europe/norway-allocates-over-2-billion-in-military-aid-for-ukraine-in-2025-umerov-says-457638",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Apa.az",
+    "published": "2025-01-10T07:20:00.000+02:00",
+    "title": "Norway allocates over $2 billion in military aid for Ukraine in 2025, Umerov says",
+    "text": "Norway has allocated 2 billion euros ($2.1 billion) for military aid to Ukraine in 2025, Defense Minister Rustem Umerov said following a meeting with his Norwegian counterpart on Jan. 9, [APA](https://apa.az) reports citing The Kyiv Independent.\nNorway has been one of Ukraine's staunchest supporters in Europe. Previously, Norwegian Prime Minister Jonas Gahr Stoere on Dec. 16 announced 2.7 billion Norwegian kroner ($242 million) to bolster Ukraine's navy and help it deter Russian threats in the Black Sea.\nUmerov met with Norwegian Defense Minister Bjorn Arild Gram on the sidelines of the Ramstein summit in Germany on Jan. 9. According to Umerov, the 2025 assistance to Ukraine will mark the largest military aid package in Norway's history.\nThe two ministers discussed how to prioritize Norway's assistance.\n\"Special attention was given to the strengthening of air defense — a critical area where we count on Norway's support,\" Umerov said in a social media post following the summit.\nNorway will continue investing in Ukraine's domestic military production and joint projects, particularly ammunition production, he added.\nNorway has pledged a new funding mechanism for Ukraine, the \"Norwegian model,\" meant to complement an existing \"Danish model\" of defense spending. The Danish model aims to purchase arms from Ukrainian manufacturers rather than providing materiel shipments.\nDenmark became the first country to offer to donate arms to Ukraine via direct purchases from the Ukrainian defense industry, as Kyiv's defense budget does not match the capacities of domestic weapons production.\nUkraine's other allies also reaffirmed their support at the Ramstein summit, the last such meeting under U.S. President Joe Biden.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->defence",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jonas Gahr Stoere",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bjorn Arild Gram",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rustem Umerov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Black Sea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ramstein",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:19:56.314+02:00",
+    "updated": "2025-01-10T08:19:56.314+02:00"
+}

@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "69ead0716f75cfdc6f9e751aff3683e7fb6d7598",
+        "url": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port/page2",
+        "site_full": "www.phoronix.com",
+        "site": "phoronix.com",
+        "site_section": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles",
+        "site_categories": [
+            "unix",
+            "tech"
+        ],
+        "section_title": "\r\n\t\t\r\n\t\t\t\r\n\t\t\tLatest Phoronix Articles - \r\n\t\t\r\n\t\tPhoronix Forums\r\n\t",
+        "title": "Redox OS Ends 2024 On A High Note With Dynamic Linking Progress, ifconfig Port - Phoronix Forums",
+        "title_full": "Redox OS Ends 2024 On A High Note With Dynamic Linking Progress, ifconfig Port - Phoronix Forums",
+        "published": "2025-01-09T15:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CZ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5702,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "69ead0716f75cfdc6f9e751aff3683e7fb6d7598",
+    "url": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port/page2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jabberwocky",
+    "published": "2025-01-09T15:54:00.000+02:00",
+    "title": "Redox OS Ends 2024 On A High Note With Dynamic Linking Progress, ifconfig Port - Phoronix Forums",
+    "text": "Originally posted by mangeek\nRedox OS Ends 2024 On A High Note With Dynamic Linking Progress, ifconfig Port\nCollapse\nX\n-\nComment\n-\n-\nOriginally posted by rafanelli[View Post](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port?p=1517753#post1517753)Just when I learned to use `ip -c a`, `ifconfig` makes a comeback!\nComment\n-\n-\nOriginally posted by Jabberwocky[View Post](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port?p=1517789#post1517789)\nHow does one protect against side channel hardware attacks on microkernels, like Spectre and others? Honest question. I've done some searches before writing this question but didn't find any answers my question properly.\nPersonally I am super excited to see where RedoxOS goes and would also really like to know if there are any \"intrinsic\" security benefits to microkernels and this class of attacks.\nComment\n-\n-\nOriginally posted by Jabberwocky[View Post](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port?p=1517789#post1517789)\nHow does one protect against side channel hardware attacks on microkernels, like Spectre and others?\nI would assume that in a microkernel, the kernel could still have those flushes programmed in, but instead of just the kernel, the 'servers' providing some of the core services typically found in monolithic kernels might also need to have those workarounds in them.\nBut imagine how that might be better! Maybe you have a bunch of apps that you don't worry about side-channel attacks with because you're not running in an environment where they're a risk, or they are trusted apps. For those, you might point them at different 'servers' that don't have the slower workarounds built in, and only apps that we worry about side-channel attack on need to use the slower servers with the workarounds!\nComment\n-\n-\nOriginally posted by zexelon[View Post](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517708-redox-os-ends-2024-on-a-high-note-with-dynamic-linking-progress-ifconfig-port?p=1517806#post1517806)\nMost likely with a TON of research. Microkernels are very uncommon in the wild and I doubt any major security researcher has touched one yet. If you want to make fringe group name for yourself, studying this with the likes of RedoxOS and putting out a paper would probably put your name at the forefront of security in this niche\nPersonally I am super excited to see where RedoxOS goes and would also really like to know if there are any \"intrinsic\" security benefits to microkernels and this class of attacks.\nBut I doubt there has been much research into spectre etc for these. They are much less accessible to people not working in the field, they don't tend to run untrusted code (no web browsers), and for microcontrollers the CPUs tend to be simpler and may not even do speculative execution (just some very simple in-order super-scalar things).\nComment\n-\n-\n[Vorpal](https://www.phoronix.com/forums/member/113379-vorpal)yes this a fair point. QNX is probably one of the most common OSs out there outside of desktop/mobile operating systems given its usage in automotive where it has been proven to have some major security issues... but those were not side channel attacks in any way. Most of them were simply asking the TPS sensor to give you access to the whole car while saying please.\nI think the other major one is the L4 kernel.\nComment\n-",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:49:30.118+02:00",
+    "updated": "2025-01-10T00:49:30.118+02:00"
+}

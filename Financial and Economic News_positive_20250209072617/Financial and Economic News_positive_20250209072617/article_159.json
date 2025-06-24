@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b58cfc6aac0b5ebcd7fbbb42c061ec6a855f723b",
+        "url": "https://en.lb.ua/news/2025/01/09/34474_ramstein_partners_add_almost_234m.html",
+        "site_full": "en.lb.ua",
+        "site": "lb.ua",
+        "site_section": "http://en.lb.ua",
+        "site_categories": [
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "News on Ukraine from LB.ua: prompt analysis of Ukrainian politics, economy, culture and sports news",
+        "title": "Ramstein partners add almost $234m to International Fund for Ukraine",
+        "title_full": "Ramstein partners add almost $234m to International Fund for Ukraine",
+        "published": "2025-01-09T19:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://i.lb.ua/english/014/39/67804d30c5c97.jpeg",
+        "performance_score": 0,
+        "domain_rank": 15738,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b58cfc6aac0b5ebcd7fbbb42c061ec6a855f723b",
+    "url": "https://en.lb.ua/news/2025/01/09/34474_ramstein_partners_add_almost_234m.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Photo Facebook; Rustem Umerov",
+    "published": "2025-01-09T19:36:00.000+02:00",
+    "title": "Ramstein partners add almost $234m to International Fund for Ukraine",
+    "text": "Following the Ramstein meeting on 9 January, Ukraine's allies and partners allocated an additional $234 million to the International Fund for Ukraine (IFU).\nThis [is stated](https://www.gov.uk/government/news/30000-new-drones-for-ukraine-in-boost-to-european-security) on the UK government website.\nThe fund is administered by the UK and is used to quickly purchase priority military equipment for Kyiv's needs. For the first time, Germany and Portugal have contributed.\nThe new contributions include:\n- $82.4 million from Denmark for drones, air defence systems and training equipment;\n- $72.6 million from Norway for special capabilities, including drones and maritime training;\n- $52.9 million from Portugal for reconnaissance, surveillance and reconnaissance drones;\n- $24.6 million from Sweden to finance the repair of Archer self-propelled artillery systems and maritime training;\n- $4.9 million from Germany for maritime training;\n- $1.23 million from Iceland to finance coastal radars.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "War, Conflict and Unrest->international military intervention"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gov.uk/government/news/30000-new-drones-for-ukraine-in-boost-to-european-security",
+        "https://gov.uk/government/news/30000-new-drones-for-ukraine-in-boost-to-european-security"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:23:20.170+02:00",
+    "updated": "2025-01-10T01:23:20.170+02:00"
+}

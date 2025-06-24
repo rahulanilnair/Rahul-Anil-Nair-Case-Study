@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "150264ebb3aa215dc61037975acbf9b9fe0ef1c0",
+        "url": "https://www.aa.com.tr/en/economy/germany-s-business-sentiment-declines-in-december/3426650",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "Germany’s business sentiment declines in December",
+        "title_full": "Germany’s business sentiment declines in December",
+        "published": "2024-12-17T09:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/12/17/thumbs_b_c_e7e3f1e9a45459437aeb32de1a124c77.jpg?v=133707",
+        "performance_score": 0,
+        "domain_rank": 1752,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "150264ebb3aa215dc61037975acbf9b9fe0ef1c0",
+    "url": "https://www.aa.com.tr/en/economy/germany-s-business-sentiment-declines-in-december/3426650",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T09:35:00.000+02:00",
+    "title": "Germany’s business sentiment declines in December",
+    "text": "Economy\nGermany’s business sentiment declines in December\nManufacturing, service, trade sectors’ business sentiments fall, while German construction business enjoys slight increase despite worsening expectations\nISTANBUL\nGermany’s business sentiment declined in December, the country’s ifo Institute said on Tuesday.\nThe ifo Business Climate Index, which gauges sentiment among companies operating in the manufacturing, services, trade, and construction sectors, fell to 84.7 points in December, the lowest since May 2020.\n“The decline was due in particular to more pessimistic expectations. By contrast, companies assessed the current situation as better. The weakness of the German economy has become chronic,” the institute said.\nThe German manufacturing sector’s business sentiment declined significantly from minus 22 in November to minus 24.8 in December due to lack of satisfaction with the current business and low expectations, while the lack of orders continued since last month and companies have announced production cuts.\nThe country’s service sector fell to minus 5.6 in December versus minus 3.5 last month. The institute cited “skeptical expectations” and concerns felt in the transport and logistics sectors as main drivers for the decline, though the catering sector reported more positive outlook due to Christmas.\nThe business sentiment in trade saw its two-month upward trend go down in December, falling to minus 29.5 from minus 26.6 last month due to growing pessimism and lack of satisfaction with current business, mainly in wholesale, while retail businesses also reported dissatisfaction.\nMeanwhile, the German construction sector’s business climate climbed from minus 29 last month to minus 26.1 in December as companies operating in the business “were slightly more positive about their current situation” despite worsening expectations.\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:34:02.282+02:00",
+    "updated": "2024-12-17T13:34:02.282+02:00"
+}

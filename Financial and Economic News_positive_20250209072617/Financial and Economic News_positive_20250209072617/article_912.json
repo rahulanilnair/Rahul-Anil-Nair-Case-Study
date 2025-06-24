@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "baa9ebfd616c74aad69ee1a5bac73a04b0b1d8ec",
+        "url": "https://menafn.com/1109075378/Shell-Begins-Production-At-Whale-Facility-In-Gulf-Of-Mexico",
+        "site_full": "menafn.com",
+        "site": "menafn.com",
+        "site_section": "https://menafn.com/tb_news.aspx?tb_html=tb_asia&tb_title=asia - latest news ",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": " Asia - Latest News",
+        "title": "Shell Begins Production At Whale Facility In Gulf Of Mexico",
+        "title_full": "Shell Begins Production At Whale Facility In Gulf Of Mexico",
+        "published": "2025-01-10T08:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://menafn.com/updates/pr/2025-01/10/TNA_b7bf1image_story.jpg",
+        "performance_score": 0,
+        "domain_rank": 6390,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "baa9ebfd616c74aad69ee1a5bac73a04b0b1d8ec",
+    "url": "https://menafn.com/1109075378/Shell-Begins-Production-At-Whale-Facility-In-Gulf-Of-Mexico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2025-01-10T08:09:00.000+02:00",
+    "title": "Shell Begins Production At Whale Facility In Gulf Of Mexico",
+    "text": "( MENAFN - Trend News Agency) BAKU, Azerbaijan, January 10. Shell Offshore Inc., a subsidiary of Shell plc, has announced the commencement of production at its Whale floating production facility in the Gulf of Mexico, Trend reports.\nThe Whale project, a joint venture with Chevron U.S.A. Inc. (Shell holding a 60% stake and Chevron 40%), mirrors the streamlined and cost-efficient design of the Vito platform, which began operations in early 2023.\n“Whale demonstrates our commitment to delivering the energy the world needs today while reducing emissions from our Upstream business,” said Zoë Yujnovich, Shell's Integrated Gas and Upstream Director.“This project plays a key role in our strategy, with a total peak production of more than 500,000 barrels of oil equivalent per day anticipated from 2023 to 2025.”\nThe Whale facility is expected to reach a peak production of 100,000 barrels of oil equivalent per day, with estimated recoverable resources of 480 million barrels of oil equivalent. The platform boasts a 99% replication of Vito's hull design and 80% of its topside systems, contributing to reduced development costs and enhanced efficiency.\nWhale also incorporates energy-efficient gas turbines and compression systems, resulting in approximately 30% lower greenhouse gas emissions intensity over its lifecycle compared to Vito. Shell highlights that its Gulf of Mexico portfolio features some of the lowest greenhouse gas intensities in the world, underscoring the company's focus on sustainability in deep-water operations.\nMENAFN10012025000187011040ID1109075378\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->energy and resource",
+        "Science and Technology->natural science",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zoë Yujnovich",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shell Offshore Inc.",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Chevron U.S.A. Inc.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gulf of",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:23:47.518+02:00",
+    "updated": "2025-01-13T08:36:51.207+02:00"
+}

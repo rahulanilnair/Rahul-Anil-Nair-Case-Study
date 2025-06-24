@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "c3b57fda1464e11d4b4e3a83f696686922842bbe",
+        "url": "https://news-pravda.com/world/2025/01/10/966524.html",
+        "site_full": "news-pravda.com",
+        "site": "news-pravda.com",
+        "site_section": "https://en.news-pravda.com/rss/news",
+        "site_categories": [],
+        "section_title": "Pravda EN",
+        "title": "In 2024, Europe purchased a record amount of liquefied natural gas from Russia - 17.8 million tons, which is 2 million tons more than a year earlier",
+        "title_full": "In 2024, Europe purchased a record amount of liquefied natural gas from Russia - 17.8 million tons, which is 2 million tons more than a year earlier",
+        "published": "2025-01-10T06:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "https://news-pravda.com/img/20250110/727bd65721794effd4e5f2ead47b9f5f_o.jpg",
+        "performance_score": 0,
+        "domain_rank": 177629,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c3b57fda1464e11d4b4e3a83f696686922842bbe",
+    "url": "https://news-pravda.com/world/2025/01/10/966524.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:33:00.000+02:00",
+    "title": "In 2024, Europe purchased a record amount of liquefied natural gas from Russia - 17.8 million tons, which is 2 million tons more than a year earlier",
+    "text": "In 2024, Europe purchased a record amount of liquefied natural gas from Russia - 17.8 million tons, which is 2 million tons more than a year earlier\nIn 2024, Europe purchased a record amount of liquefied natural gas from Russia - 17.8 million tons, which is 2 million tons more than a year earlier.\nThis is reported by Bloomberg with reference to Rystad Energy.\nRussia has overtaken Qatar to become the second largest LNG supplier to Europe after the United States.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:26:15.953+02:00",
+    "updated": "2025-01-10T07:26:15.953+02:00"
+}

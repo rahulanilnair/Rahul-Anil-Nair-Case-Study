@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "f80863469958f5969e1c9b3924d530183fb17295",
+        "url": "https://www.devdiscourse.com/article/business/3197391-global-currencies-under-pressure-amidst-economic-policy-uncertainty",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Global Currencies Under Pressure Amidst Economic Policy Uncertainty | Business",
+        "title_full": "Global Currencies Under Pressure Amidst Economic Policy Uncertainty | Business",
+        "published": "2024-12-17T10:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2024_09_39_13_1985349.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9155,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f80863469958f5969e1c9b3924d530183fb17295",
+    "url": "https://www.devdiscourse.com/article/business/3197391-global-currencies-under-pressure-amidst-economic-policy-uncertainty",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T10:44:00.000+02:00",
+    "title": "Global Currencies Under Pressure Amidst Economic Policy Uncertainty | Business",
+    "text": "Global Currencies Under Pressure Amidst Economic Policy Uncertainty\nEmerging market currencies saw a decline, and stocks fell as anticipation grows over central bank decisions, including an expected rate cut from the Federal Reserve. The Hungarian forint stabilizes but remains down for the year. Global market movements are influenced by varying central bank policies and upcoming political developments.\n[Devdiscourse News Desk](/devdiscourse-stories)| Updated: 17-12-2024 16:44 IST | Created: 17-12-2024 16:44 IST\nEmerging market currencies experienced a downturn on Tuesday, while stocks also fell as investors awaited crucial central bank meetings this week. Among them, the Federal Reserve is anticipated to cut interest rates by a quarter point.\nThe Hungarian forint, down 0.2% against the euro, has seen stabilization since Fitch upgraded Hungary's rating outlook earlier this month. However, it remains over 6% down this year. Analysts expect Hungary to maintain its current interest rate, with a keen eye on the post-meeting press conference for further insights.\nAs the Russian rouble edged up, market attention centers on the upcoming forum where central bank and finance ministry officials will speak, and Friday's rate decision remains a focal point. Meanwhile, political and economic developments across regions, from Romania's presidential election turmoil to China's fiscal policy changes, are set to impact market dynamics.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:18:56.349+02:00",
+    "updated": "2024-12-17T13:18:56.349+02:00"
+}

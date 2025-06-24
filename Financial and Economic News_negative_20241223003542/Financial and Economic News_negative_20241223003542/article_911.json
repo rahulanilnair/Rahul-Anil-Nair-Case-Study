@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "72379ac74b1d4af42cfbc0d0579e2455591d3785",
+        "url": "https://markets.businessinsider.com/news/stocks/futures-pointing-to-initial-pullback-on-wall-street-1034145645",
+        "site_full": "markets.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "https://markets.businessinsider.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sg",
+            "top_news_rs",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_fi",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "News | Financial and Business News | Markets Insider",
+        "title": "Futures Pointing To Initial Pullback On Wall Street | Markets Insider",
+        "title_full": "Futures Pointing To Initial Pullback On Wall Street | Markets Insider",
+        "published": "2024-12-17T15:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 124,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "72379ac74b1d4af42cfbc0d0579e2455591d3785",
+    "url": "https://markets.businessinsider.com/news/stocks/futures-pointing-to-initial-pullback-on-wall-street-1034145645",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T15:48:00.000+02:00",
+    "title": "Futures Pointing To Initial Pullback On Wall Street | Markets Insider",
+    "text": "(RTTNews) - Stocks may see initial weakness on Tuesday, giving back ground following the advance seen in the previous session. The major index futures are currently pointing to a lower open for the markets, with the S&P 500 futures down by 0.4 percent.\nTraders may look to cash in on yesterday's gains, which saw the Nasdaq surge to a new record closing high amid a rally by tech stocks.\nMeanwhile, the Dow closed lower for the eighth consecutive session on Monday and is poised to see further downside in early trading.\nThe downward momentum on Wall Street comes as trades look ahead to the Federal Reserve's monetary policy announcement on Wednesday.\nThe Fed is widely expected to continue cutting interest rates, with CME Group's FedWatch Tool currently indicating a 97.1 percent chance the central bank will lower rates by another 25 basis points.\nTraders are likely to pay close attention to the Fed's accompanying statement as well as officials' latest economic projections, including their forecasts for rates.\nRecent data showing inflation remains sticky has led to some worries the Fed will lower rates slower than previously anticipated next year.\nShortly before the start of trading, the Federal Reserve is scheduled to release its report on industrial production in the month of November. Industrial production is expected to rise by 0.3 percent in November after dipping by 0.3 percent in October.\nFollowing the lackluster performance seen during last Friday's session, stocks moved mostly higher during trading on Monday. The tech-heavy Nasdaq led the charge, surging to a new record closing high.\nThe Nasdaq pulled back off its best levels going into the close but still ended the day up 247.17 points or 1.2 percent at 20,173.89.\nThe S&P 500 also climbed 22.99 points or 0.4 percent to 6,074.08, while the narrower Dow bucked the uptrend and fell 110.58 points or 0.3 percent to 43,717.48. The Dow closed lower for the eighth consecutive session, falling to its lowest closing level in almost a month.\nIn overseas trading, stock markets across the Asia-Pacific region turned in a mixed performance on Tuesday. Japan's Nikkei 225 Index dipped by 0.2 percent and China's Shanghai Composite Index slid by 0.7 percent, while Australia's S&P/ASX 200 Index advanced by 0.8 percent.\nMeanwhile, European stocks have moved mostly lower on the day. While the U.K.'s FTSE 100 Index is down by 0.8 percent, the German DAX Index is down by 0.2 percent and the French CAC 40 Index is just below the unchanged line.\nIn commodities trading, crude oil futures are sliding $0.82 to $69.89 a barrel after falling $0.58 to $70.71 a barrel on Monday. Meanwhile, after slipping $5.80 to $2,670 an ounce in the previous session, gold futures are declining $11.60 to $2,658.40 an ounce.\nOn the currency front, the U.S. dollar is trading at 153.93 yen compared to the 154.15 yen it fetched at the close of New York trading on Monday. Against the euro, the dollar is valued at $1.0494 compared to yesterday's $1.0512.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "CME Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:02:04.140+02:00",
+    "updated": "2024-12-17T16:02:04.140+02:00"
+}

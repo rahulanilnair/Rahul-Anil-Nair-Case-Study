@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "76f1ae6d451651e1ca8fc636ee6d725b71ae05de",
+        "url": "https://www.devdiscourse.com/article/headlines/3197689-eu-cracks-down-new-sanctions-target-shadow-fleet-and-chinese-entities",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "EU Cracks Down: New Sanctions Target Shadow Fleet and Chinese Entities | Headlines",
+        "title_full": "EU Cracks Down: New Sanctions Target Shadow Fleet and Chinese Entities | Headlines",
+        "published": "2024-12-17T13:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/15_07_2024_15_37_32_7037895.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9119,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "76f1ae6d451651e1ca8fc636ee6d725b71ae05de",
+    "url": "https://www.devdiscourse.com/article/headlines/3197689-eu-cracks-down-new-sanctions-target-shadow-fleet-and-chinese-entities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-12-17T13:09:00.000+02:00",
+    "title": "EU Cracks Down: New Sanctions Target Shadow Fleet and Chinese Entities | Headlines",
+    "text": "EU Cracks Down: New Sanctions Target Shadow Fleet and Chinese Entities\nThe European Union unveiled its 15th sanctions package against Russia, targeting Chinese entities and expanding the list of sanctioned vessels. This includes 52 shadow fleet ships circumventing Western restrictions and Chinese individuals supplying sensitive components to Russia. New financial measures aim to ease burdens on EU securities depositories.\nThe European Union has announced its 15th package of sanctions against Russia, in response to the ongoing invasion of Ukraine. This latest round includes tighter measures on Chinese entities, adding to the list of targeted individuals and sectors. The EU Commission revealed that 52 more vessels from Russia's 'shadow fleet' have now been sanctioned.\nThese vessels have been involved in transporting oil, arms, and grains, defying Western restrictions. The sanctions extend to 84 new individuals and entities, including seven Chinese individuals and organizations. This marks the first comprehensive sanctions on China, which include a travel ban and asset freeze.\nDiplomats emphasized that previous Chinese listings were not as extensive. The updated measures also involve senior figures in the Russian energy sector and financial aids to EU countries handling Russia's immobilized central bank assets. The EU is already preparing a 16th sanctions package for January.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "European Union",
+                "sentiment": "none"
+            },
+            {
+                "name": "EU Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:48:26.458+02:00",
+    "updated": "2024-12-17T15:48:26.458+02:00"
+}

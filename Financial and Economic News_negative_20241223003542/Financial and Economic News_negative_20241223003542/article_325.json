@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "785ed8ea719a4023a908b6338fc76b6804d08956",
+        "url": "https://www.observertoday.com/news/top-stories/2024/12/councilwoman-expresses-budget-regrets",
+        "site_full": "www.observertoday.com",
+        "site": "observertoday.com",
+        "site_section": "https://observertoday.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " News, Sports, Jobs - Observer Today",
+        "title": "Councilwoman expresses budget regrets",
+        "title_full": "Councilwoman expresses budget regrets",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 44647,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "785ed8ea719a4023a908b6338fc76b6804d08956",
+    "url": "https://www.observertoday.com/news/top-stories/2024/12/councilwoman-expresses-budget-regrets",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "M J Stafford",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Councilwoman expresses budget regrets",
+    "text": "Councilwoman expresses budget regrets\nDunkirk Councilperson Natalie Luczkowiak took some shots at City Hall in a Sunday statement about Dunkirk’s 2025 budget.\n“The budget that was passed did not meet my expectations,” the First Ward representative said. “However, I, along with (Councilman-at-large Nick Weiser, who chairs the council) and all of the council remained unified in order to pass a budget that was less than a 108% increase.”\nThe city council approved a budget with an 84% property tax increase Saturday. The original budget proposal from Mayor Kate Wdowiasz contained the 108% increase. Wdowiasz vetoed changes that the council made to her budget, but councilors voted unanimously to override her.\n“I know City Hall exists because of the taxpayers, and not the other way around,” Luczkowiak said.\n“I, myself, had identified many ways to cut and save and therefore create a real budget that had a savings of over $2 million. And that did not include letting go of any employees and was before sending back a pumper,” she added. (The pumper reference is about reported plans to sell back one of two fire trucks the city recently purchased.)\nLuczkowiak stated that “Many, many lines within the budget were inflated for 2025, where it was clear they would meet or better the projected budget of 2024.”\nFor example, she said that the city had expended less than half of its 2024 allocation for water maintenance by the end of September. “Definitely, we were in line to meet the 2024 budget of $140,000. So why the overinflated amount of $200,000 for 2025? We have spent years and millions of dollars on maintenance and updates with millions given in grants. Savings could have been $100,000.”\nDepartment of Public Works Director Randy Woodbury responded, “The mayor did not ‘inflate’ anything, but was realistic that average costs over years, rather just a portion of one year, requires budgeting for both ‘band aid’ repairs, when possible, and for replacement repairs when needed.”\nHe added, “DPW looks forward to continued dialogue on water main maintenance over the budget year. I am sure all are open to calm and polite edification on these items on balancing (an) approach to water main maintenance as both reactive and also preferably proactive.”\nWoodbury noted that about half of the city’s water service pipes are at, or exceeding, their “design life” of 100 years.\nLuczkowiak echoed an occasional nemesis, Councilperson Nancy Nichols, in stating that city department heads failed to do a council request for 10% cuts to their budgets. Nichols alleged it was due to pressure from Wdowiasz.\nAs for selling one of the purchased fire trucks, “we don’t even have them yet. It just takes picking up the phone,” Luczkowiak said. “One pumper is a lot for a small city of 12 to 13,000 people. This would have helped our debt obligations.”\nLuczkowiak ended her statement by referencing a proposal to change the city’s decreasing block rate structure for water sales, which lets large customers pay less upon reaching certain levels of usage.\n“There is an identified way to create revenue through our water that can reduce the tax burden in 2026. It was known about back in February and nothing was done about it,” she said. “So the council, with the lead of our chair, will proceed to work on that ourselves this next year.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kate Wdowiasz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nick Weiser",
+                "sentiment": "none"
+            },
+            {
+                "name": "Luczkowiak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:04:10.412+02:00",
+    "updated": "2024-12-17T13:04:10.412+02:00"
+}

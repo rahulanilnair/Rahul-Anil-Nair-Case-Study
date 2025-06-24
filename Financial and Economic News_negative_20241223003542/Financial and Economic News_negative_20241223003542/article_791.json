@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "8e2e1bd2e7c9c3b793d5afda9091a114e763422d",
+        "url": "https://www.fbherald.com/news/national/stock-markets-mostly-drop-awaiting-fed-policy-update/article_fdc899aa-a836-552e-a8be-4c6b8b5ea729.html",
+        "site_full": "www.fbherald.com",
+        "site": "fbherald.com",
+        "site_section": "https://fbherald.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "fbherald.com | Fort Bend's Daily Newspaper - Since 1892",
+        "title": "Stock markets mostly drop awaiting Fed policy update | News | fbherald.com",
+        "title_full": "Stock markets mostly drop awaiting Fed policy update | News | fbherald.com",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/9/5b/95bd1e4e-ba4b-51d8-b41c-c63cd0fcced9/6760eccb09f02.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 138791,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e2e1bd2e7c9c3b793d5afda9091a114e763422d",
+    "url": "https://www.fbherald.com/news/national/stock-markets-mostly-drop-awaiting-fed-policy-update/article_fdc899aa-a836-552e-a8be-4c6b8b5ea729.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Stock markets mostly drop awaiting Fed policy update | News | fbherald.com",
+    "text": "Major stock markets mostly fell Tuesday as attention turned to the Federal Reserve's upcoming policy decision, with traders hoping for guidance on its interest rate plans as president-elect Donald Trump prepares to take office.\nWall Street ended mostly on the front foot Monday, with a surge in tech giants helping the Nasdaq to a record high, but Asia was unable to pick up the baton Tuesday.\nLondon slid in late morning deals as official data showing a jump in UK wages growth cemented forecasts that the Bank of England will avoid cutting interest rates this week.\nParis and Frankfurt rose, as investors looked past news that German business confidence this month hit the lowest level since the start of the coronavirus pandemic.\nBitcoin traded close to a record high of almost $107,791 reached Monday on continued optimism that Trump will introduce measures to deregulate the cryptocurrency market.\nOil prices retreated, hit by concerns that China's struggling economy will impact demand for crude.\n\"Investors are awaiting the latest Federal Reserve decision ahead of which the retail sales release later today could provide some colour as to the current level of consumer spending around Black Friday and the traditionally crucial festive decision,\" noted Richard Hunter, head of markets at Interactive Investor.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:24:46.826+02:00",
+    "updated": "2024-12-17T15:24:46.826+02:00"
+}

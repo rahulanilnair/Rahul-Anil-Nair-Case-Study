@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "843a0cd6ba06b8340364a4eabf176fe7dbc9e0e6",
+        "url": "https://www.newsbreak.com/forbes-advisor-555773/3752887054064-new-cfpb-rule-keeps-medical-debt-off-credit-reports-what-you-need-to-know",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/forbes-advisor-555773",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Forbes Advisor&#x27;s Home Page | NewsBreak",
+        "title": "New CFPB Rule Keeps Medical Debt Off Credit Reports: What You Need to Know - NewsBreak",
+        "title_full": "New CFPB Rule Keeps Medical Debt Off Credit Reports: What You Need to Know - NewsBreak",
+        "published": "2025-01-09T23:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3NLm27_0y1UlaGo00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "843a0cd6ba06b8340364a4eabf176fe7dbc9e0e6",
+    "url": "https://www.newsbreak.com/forbes-advisor-555773/3752887054064-new-cfpb-rule-keeps-medical-debt-off-credit-reports-what-you-need-to-know",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Robin Saks Frankel",
+    "published": "2025-01-09T23:17:00.000+02:00",
+    "title": "New CFPB Rule Keeps Medical Debt Off Credit Reports: What You Need to Know - NewsBreak",
+    "text": "By Robin Saks Frankel ,\n6 hours ago Americans will no longer have to decide what’s more important: Their health or their credit score. Finalized on January 7, a new rule from the Consumer Financial Protection Bureau (CFPB) prohibits credit reporting agencies from including medical debt information in the credit reports and scores they provide to lenders. It’s expected to impact nearly 15 million Americans who have previously been haunted by an estimated $49 billion in medical bills on their credit reports. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health insurance",
+        "Health->government health care",
+        "Social Issue->poverty",
+        "Social Issue->social services",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robin Saks Frankel",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Consumer Financial Protection Bureau",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:38:41.732+02:00",
+    "updated": "2025-01-10T00:38:41.732+02:00"
+}

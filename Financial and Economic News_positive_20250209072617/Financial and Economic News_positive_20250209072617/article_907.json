@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "b21d26781e3bb1d8908a21fdbe1a3cf8777e071b",
+        "url": "https://www.deccanherald.com/business/markets/bse-expects-record-breaking-ipo-run-to-continue-unabated-in-2025-ceo-says-3349280",
+        "site_full": "www.deccanherald.com",
+        "site": "deccanherald.com",
+        "site_section": "https://www.deccanherald.com/features/music",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": " Music and Singers News: Latest Music and Songs News, Music Albums and Singers News ",
+        "title": "BSE expects record-breaking IPO run to continue unabated in 2025, CEO says",
+        "title_full": "BSE expects record-breaking IPO run to continue unabated in 2025, CEO says",
+        "published": "2025-01-10T06:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.deccanherald.com/deccanherald%2F2025-01-07%2Fvrpw7nzv%2Fbse_pti_1059481_1639137092.jpg?rect=0%2C23%2C610%2C320&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 2794,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b21d26781e3bb1d8908a21fdbe1a3cf8777e071b",
+    "url": "https://www.deccanherald.com/business/markets/bse-expects-record-breaking-ipo-run-to-continue-unabated-in-2025-ceo-says-3349280",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T06:45:00.000+02:00",
+    "title": "BSE expects record-breaking IPO run to continue unabated in 2025, CEO says",
+    "text": "Last year, 91 large firms went public on the BSE, earlier known as the Bombay Stock Exchange, and the NSE, or National Stock Exchange, raising a record Rs 1.6 lakh crore via initial public offerings (IPOs), according to analytics firm Prime Database. Reuters Last Updated : 10 January 2025, 07:15 IST Follow Us :\nComments ADVERTISEMENT Published 10 January 2025, 07:15 IST India News Business News Markets BSE IPO Follow us on : Follow Us",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->investment and opinion pieces"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sundararaman Ramamurthy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Stock Exchange",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bombay Stock Exchange",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            },
+            {
+                "name": "NSE",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:20:13.880+02:00",
+    "updated": "2025-01-10T10:13:16.859+02:00"
+}

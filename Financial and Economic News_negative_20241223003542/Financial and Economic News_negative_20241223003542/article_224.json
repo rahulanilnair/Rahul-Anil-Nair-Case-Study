@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "da400e253a0d1e8090466484f54a95cd49fd5bb2",
+        "url": "https://www.insider.co.uk/news/scottish-company-insolvencies-up-5-34327893",
+        "site_full": "www.insider.co.uk",
+        "site": "insider.co.uk",
+        "site_section": "https://www.insider.co.uk/partner-stories",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "insider.co.uk - Scottish business news as it happens",
+        "title": "Scottish company insolvencies up 5% year-on-year - Business Insider",
+        "title_full": "Scottish company insolvencies up 5% year-on-year - Business Insider",
+        "published": "2024-12-17T12:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i2-prod.insider.co.uk/news/article31433607.ece/ALTERNATES/s1200/0_Michelle-Elliot-headshot.jpg",
+        "performance_score": 0,
+        "domain_rank": 44856,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "da400e253a0d1e8090466484f54a95cd49fd5bb2",
+    "url": "https://www.insider.co.uk/news/scottish-company-insolvencies-up-5-34327893",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peter A Walker",
+    "published": "2024-12-17T12:20:00.000+02:00",
+    "title": "Scottish company insolvencies up 5% year-on-year - Business Insider",
+    "text": "During November there were 114 company insolvencies registered in Scotland, 5% higher year-on-year.\nThe latest statistics from the Insolvency Service showed that this was comprised of 55 creditors' voluntary liquidations (CVLs), 54 compulsory liquidations and five administrations. There were no company voluntary arrangements or receivership appointments.\nHistorically, compulsory liquidations were the most common type of company insolvency in Scotland, but since April 2020, numbers of CVLs have typically remained higher than numbers of compulsory liquidations.\nBetween 26 June 2020 and 30 November 2024, there were two restructuring plans in Scotland. There were no moratoriums.\nThe total insolvency rate in Scotland in the 12 months to November 2024 was 53.2 per 10,000 companies on the effective register. This was down by 0.9 from the preceding 12 months, ending November 2023.\nMichelle Elliot, restructuring advisory partner at FRP in Glasgow, commented: “Insolvency levels, particularly liquidations, have remained high throughout the course of the year and, despite improving economic conditions - including lower levels of inflation and interest rate cuts - we anticipate them remaining so in 2025, as firms continue to carry unsustainable levels of debt.\n“Increased National Insurance contributions will add to firms costs next year, and businesses in consumer-led sectors like retail, leisure and hospitality are likely to be at risk should Christmas trading prove underwhelming.\n“The volume of administration appointments - which are more likely to impact medium to larger sized trading businesses than insolvent company winding ups - will be an important barometer of business health in Scotland over the next 12 months.”\nDon't miss the latest headlines with our twice-daily newsletter -[ sign up here for free](https://www.insider.co.uk/newsletter-preference-centre/?view=Solus&mailingListId=f5fa3ce5-d135-4745-aee3-0aa00bed2305&utm_source=solusarticle).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michelle Elliot",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Insolvency Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "FRP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:34:21.177+02:00",
+    "updated": "2024-12-17T12:34:21.177+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "48fee1e4dadc86237026b97d3dba5c378ca0b602",
+        "url": "https://ng.investing.com/news/analyst-ratings/jefferies-reiterates-underperform-on-centene-shares-on-concerns-93CH-1679593",
+        "site_full": "ng.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ng.investing.com/news/analyst-ratings",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Stock Analyst Ratings: Upgrades and Downgrades - Investing.com NG",
+        "title": "Jefferies reiterates underperform on Centene shares on concerns By Investing.com",
+        "title_full": "Jefferies reiterates underperform on Centene shares on concerns By Investing.com",
+        "published": "2024-12-17T06:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "48fee1e4dadc86237026b97d3dba5c378ca0b602",
+    "url": "https://ng.investing.com/news/analyst-ratings/jefferies-reiterates-underperform-on-centene-shares-on-concerns-93CH-1679593",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T06:12:00.000+02:00",
+    "title": "Jefferies reiterates underperform on Centene shares on concerns By Investing.com",
+    "text": "On Tuesday, Jefferies reaffirmed its Underperform rating on shares of Centene Corporation (NYSE: CNC ) with a steady price target of $52.00, well below the current trading price of $59.17. The $29.87 billion healthcare provider, which InvestingPro analysis suggests is currently undervalued, faces several challenges according to the firm's analyst.\nAmong the key issues cited were the company's limited focus on the complexities of the Health Insurance Exchange (HIX) market and risk pool. Moreover, the analyst expressed skepticism regarding Centene's guidance for steady year-over-year Prescription Drug Plan (PDP) margins, considering it overly optimistic.\nThe report also pointed to a subtle indication that Centene's margin target for Medicare Advantage (MA) in 2027 may have been effectively reduced by approximately 1.5%. Despite these concerns, InvestingPro data shows Centene maintains a GREAT overall financial health score, with a P/E ratio of 10.22 and strong revenue of $146.2 billion.\nThe analyst suggested that while upcoming HIX Snapshot 3 could temporarily alleviate some concerns, especially if auto re-enrollment numbers are strong, this relief is expected to be short-lived. The anticipated regulatory measures set to take effect in 2025, such as a crackdown on brokers and penalties for failure to reconcile accounts, are likely to pose further challenges to the company.\nJefferies' stance remains unchanged despite minor adjustments to estimates, implying that the investment firm sees more downside than upside potential in Centene's stock at this time. The analyst's comments reflect a cautious view of the company's ability to navigate the evolving healthcare landscape and maintain profitability in certain segments of its business.\nThe next significant event for Centene investors is the release of HIX Snapshot 3, which will provide more data on the insurer's performance and could influence market sentiment. However, the report suggests that any positive news from this update may be overshadowed by the looming changes in regulatory policies that could impact the company's operations and financial health.\nCentene's stock rating and price target by Jefferies serve as indicators for investors regarding the firm's perspective on the company's current position and future prospects within the healthcare industry.\nFor a deeper understanding of Centene's potential, InvestingPro subscribers can access 8 additional ProTips and a comprehensive Pro Research Report, offering valuable insights into the company's valuation, financial health, and growth prospects among 1,400+ top US stocks.\nIn other recent news, Centene Corporation has been the focus of several adjustments by financial analysts. Despite an anticipated decline in adjusted earnings per share due to the expiration of eAPTCs, JPMorgan upgraded Centene to Overweight, citing an attractive investment relative to its current market valuation.\nTruist Securities adjusted Centene's stock price target to $84, maintaining a Buy rating based on the company's robust long-term targets and solid initial guidance for 2025. Conversely, Stephens cut Centene's stock price target from $75.00 to $73.00, retaining an Equal Weight rating on the company's shares.\nFurthermore, UBS upgraded Centene's rating from Neutral to Buy, adjusting the price target to $80.00 based on the company's strong financial outlook and market position. However, Jefferies downgraded Centene to Underperform, reducing the price target to $52.00 due to potential regulatory changes that could impact the company's earnings.\nIn terms of financial outlook, Centene projects total revenues ranging from $166.5 billion to $169.5 billion for 2025, with an adjusted diluted earnings per share forecast for 2025 of over $7.25, exceeding the consensus estimate of $7.05. The company also reaffirmed its 2024 adjusted diluted EPS guidance of more than $6.80.\nIn the realm of executive changes, Sunshine Health, part of Centene Corporation, announced the appointment of Charlene Zein as its new CEO. These are among the recent developments for Centene Corporation.\nThis article was generated with the support of AI and reviewed by an editor. For more information see our T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Centene Corporation",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Health Insurance Exchange",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:35:51.228+02:00",
+    "updated": "2024-12-17T14:35:51.228+02:00"
+}

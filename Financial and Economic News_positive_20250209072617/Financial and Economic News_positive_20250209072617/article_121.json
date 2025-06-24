@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "958f5e2ab9ffe3f4841017129be26266d34d2e15",
+        "url": "https://www.inkl.com/news/microsoft-joins-meta-google-and-other-tech-giants-in-donating-1-million-to-president-trump-s-record-breaking-inauguration-fund",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Microsoft joins Meta, Google and other tech giants in donating $1 million to President Trump's record-breaking inauguration fund",
+        "title_full": "Microsoft joins Meta, Google and other tech giants in donating $1 million to President Trump's record-breaking inauguration fund",
+        "published": "2025-01-09T21:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21401108/kqFbMopXBE5TgEyN7XE8xT.jpg",
+        "performance_score": 0,
+        "domain_rank": 19056,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "958f5e2ab9ffe3f4841017129be26266d34d2e15",
+    "url": "https://www.inkl.com/news/microsoft-joins-meta-google-and-other-tech-giants-in-donating-1-million-to-president-trump-s-record-breaking-inauguration-fund",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T21:57:00.000+02:00",
+    "title": "Microsoft joins Meta, Google and other tech giants in donating $1 million to President Trump's record-breaking inauguration fund",
+    "text": "Microsoft will contribute $1 billion to President Donald Trump's inauguration fund. The company joins other tech giants that have contributed to the same fund, including Google and Meta. Amazon is also reportedly considering a donation. OpenAI CEO Sam Altman shared last month that he would contribute $1 million to the fund personally. Apple CEO Tim Cook reportedly followed suit and will contribute $1 million as well.\nA Microsoft spokesperson told [CNBC](https://www.cnbc.com/2025/01/09/microsoft-contributes-1-million-to-trumps-inauguration-fund.html) that Microsoft contributed $500,000 to President Trump's first inauguration fund as well as $500,000 to President Joe Biden's inauguration fund. Microsoft did not specify why the contribution in 2025 is double that of contributions to previous inauguration funds. It is possible the tech giant wanted to match the amount other companies had publicly committed to contribute.\nMicrosoft CEO Satya Nadella has met with President Trump several times in the past, according to CNBC. Nadella was in his current role back when Microsoft had a brief opportunity to [purchase TikTok](https://www.windowscentral.com/microsoft/microsoft-might-get-another-crack-at-buying-tiktok-if-this-bipartisan-us-legislative-proposal-gets-a-say-in-it) back in 2020. That saga centered around national security concerns and a purchase by Microsoft was seen as a potential solution, though an acquisition never materialized.\nTrump's inauguration fund is setting records regarding funding. [Forbes](https://www.forbes.com/sites/mollybohannon/2025/01/09/google-will-donate-another-1-million-to-trumps-record-high-inaugural-fund/) reports that over $170 million has been raised for the fund so far.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->national elections",
+        "Politics->political campaigns",
+        "Politics->government budget",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.windowscentral.com/microsoft/microsoft-might-get-another-crack-at-buying-tiktok-if-this-bipartisan-us-legislative-proposal-gets-a-say-in-it",
+        "https://www.forbes.com/sites/mollybohannon/2025/01/09/google-will-donate-another-1-million-to-trumps-record-high-inaugural-fund/",
+        "https://www.cnbc.com/2025/01/09/microsoft-contributes-1-million-to-trumps-inauguration-fund.html",
+        "https://windowscentral.com/microsoft/microsoft-might-get-another-crack-at-buying-tiktok-if-this-bipartisan-us-legislative-proposal-gets-a-say-in-it",
+        "https://www.forbes.com/sites/mollybohannon/2025/01/09/google-will-donate-another-1-million-to-trumps-record-high-inaugural-fund",
+        "https://cnbc.com/2025/01/09/microsoft-contributes-1-million-to-trumps-inauguration-fund.html",
+        "https://forbes.com/sites/mollybohannon/2025/01/09/google-will-donate-another-1-million-to-trumps-record-high-inaugural-fund/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Satya Nadella",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sam Altman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tim Cook",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:00:02.016+02:00",
+    "updated": "2025-01-10T01:00:02.016+02:00"
+}

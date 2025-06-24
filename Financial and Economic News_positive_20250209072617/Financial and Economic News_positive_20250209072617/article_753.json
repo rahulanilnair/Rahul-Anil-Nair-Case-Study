@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "ffeb42a5bec907ea8263cec297b83fbb2743a59f",
+        "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-vladdy-avoid-arbitration-one-year-contract-1.7427679?cmp=rss",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Blue Jays, star slugger Guerrero avoid arbitration with 1-year contract",
+        "title_full": "Blue Jays, star slugger Guerrero avoid arbitration with 1-year contract",
+        "published": "2025-01-10T04:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.7427683.1736473486!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/vladimir-guerrero-jr.jpg?im=Resize%3D620",
+        "performance_score": 0,
+        "domain_rank": 339,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ffeb42a5bec907ea8263cec297b83fbb2743a59f",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-vladdy-avoid-arbitration-one-year-contract-1.7427679?cmp=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canadian Press",
+    "published": "2025-01-10T04:45:00.000+02:00",
+    "title": "Blue Jays, star slugger Guerrero avoid arbitration with 1-year contract",
+    "text": "[Olympics Summer](https://www.cbc.ca/sports/baseball/mlb)\nBlue Jays, star slugger Guerrero avoid arbitration with 1-year contract\nToronto 1st baseman secures $28.5M US deal entering final year under club control\nThe Toronto Blue Jays and slugger Vladimir Guerrero Jr. have avoided arbitration.\nThe Blue Jays announced Thursday that they agreed to one-year contracts with all seven of their arbitration-eligible players, including Guerrero at $28.5 million US.\nToronto also reached agreements with infielder Ernie Clement ($1.975M), catcher Alejandro Kirk ($4.6M), outfielder Daulton Varsho ($8.2M) and right-handed pitchers Alek Manoah ($2.2M), Zach Pop ($900K) and Nick Sandlin ($1.63M).\nPlayers and teams were to exchange proposed arbitration figures Thursday.\nGuerrero had a resurgent past season. The star first baseman hit .323 with 30 homers and 103 RBIs, earning his fourth all-star nod and the Silver Slugger Award.\nThe 25-year-old face of the franchise, who enters his final season under team control in 2025, also finished sixth in American League MVP voting during a down year for the Blue Jays.\nAfter reaching the post-season in 2020, '22 and '23, — falling in the wild-card round each time — Toronto finished last in the AL East last year at 74-88.\nLast winter, Guerrero was awarded $19.9 million when an arbitration panel picked his request over the team's offer of $18.05 million.\nJuan Soto set a record for an arbitration-eligible player when he agreed last year to a $31-million deal with the New York Yankees, topping Shohei Ohtani's $30-million 2023 contract with the Los Angeles Angels. Soto became a free agent in November and signed a record $765 million, 15-year contract with the New York Mets.\nThere were 155 players eligible for arbitration at the start of the day and a majority were expected to agree to deals.\nFor players failing to reach agreements, hearings will be scheduled before three-person panels from Jan. 27 through Feb. 14 at St. Petersburg, Fla.\nPlayers went 9-6 in hearings last winter, leading teams with a 353-266 advantage since arbitration started in 1974.\nGuerrero, who made his big-league debut with Toronto in April 2019, played third base in his rookie year before moving across the diamond in the pandemic-shortened 2020 season.\nHis best year came in 2021, when he finished second in the AL MVP race after hitting .311 with 48 homers and 111 RBIs.\nGuerrero won a Gold Glove in '22 but his offensive numbers slipped a little, a trend that continued in '23. He was in top form this past year, though, anchoring the lineup with a .940 OPS and .544 slugging percentage.\nThe Blue Jays will open the 2025 regular season on March 27 against the visiting Baltimore Orioles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->sport industry",
+        "Sport->baseball",
+        "Sport->sports transaction",
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Guerrero",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Daulton Varsho",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alejandro Kirk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ernie Clement",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nick Sandlin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alek Manoah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zach Pop",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Toronto Blue Jays",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:09:28.859+02:00",
+    "updated": "2025-01-10T08:09:28.859+02:00"
+}

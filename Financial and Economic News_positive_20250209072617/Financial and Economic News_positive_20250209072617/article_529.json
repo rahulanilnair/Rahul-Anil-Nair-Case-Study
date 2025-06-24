@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "928120ebf783ff47b512e30fdd59254d79daf139",
+        "url": "https://www.hellenicshippingnews.com/strong-wage-growth-raises-odds-of-bank-of-japan-rate-hike-in-january",
+        "site_full": "www.hellenicshippingnews.com",
+        "site": "hellenicshippingnews.com",
+        "site_section": "https://www.hellenicshippingnews.com",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Hellenic Shipping News Worldwide | Hellenic Shipping News Worldwide, Online Daily Newspaper on Hellenic and International Shipping",
+        "title": "Strong wage growth raises odds of Bank of Japan rate hike in January",
+        "title_full": "Strong wage growth raises odds of Bank of Japan rate hike in January",
+        "published": "2025-01-09T23:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GR",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 19890,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "928120ebf783ff47b512e30fdd59254d79daf139",
+    "url": "https://www.hellenicshippingnews.com/strong-wage-growth-raises-odds-of-bank-of-japan-rate-hike-in-january",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hellenicshippingnews",
+    "published": "2025-01-09T23:00:00.000+02:00",
+    "title": "Strong wage growth raises odds of Bank of Japan rate hike in January",
+    "text": "Wage growth rose firmer than expected but not catching up with inflation rise\nLabour cash earnings growth jumped 3.0% year-on-year in November (vs 2.2% in October, 2.7% market consensus) thanks to a rise in minimum wages and a big bonus gain. However, inflation-adjusted real cash earnings dropped -0.3% in November (-0.4% in October, market consensus -0.6%), which have yet to catch up with rising inflation despite solid nominal wage growth. Inflation accelerated in November and December as the government energy subsidy programme ended. The more important gauge of earnings, the same sample-based cash earnings, the BoJ’s preferred measure, rose even stronger than headline growth at 3.5% (vs 2.8% in October, market consensus), increasing the likelihood of a January hike.\nBoJ set to hike in January, but it’s a close call\nMarket expectations for a BoJ rate hike had been leaning towards a March hike rather than a January hike after Governor Ueda’s dovish comments in December. At the last BoJ meeting, Governor Ueda cited two factors for a hold. Firstly, growing uncertainty about Trump’s policies and secondly, waiting for clearer signs of sustainable wage growth. These all point to a March hike. The preliminary Shunto results will be available in March, and by then Trump’s policies will be fairly clear.\nBut we believe that recent data – including solid consumption, 2% above inflation for a considerable period, and continued healthy wage growth – support a January hike. Also, there have been encouraging signs already that next year’s wage growth will be almost as strong as this year’s from early wage talks of some large companies. With the Fed’s rate cut pace expected to be slowed down, USDJPY is likely to get more upside pressures, resulting in adding more inflationary pressures. Tokyo inflation showed a 3.0% YoY gain in January. Indeed, Trump’s policies are a key factor to consider, poses risks to our base case scenario. We maintain our January hike call but will closely monitor Trump’s inauguration and his policy development.\nSource: ING",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ueda",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bank of Japan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Labour",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:33:36.450+02:00",
+    "updated": "2025-01-10T05:33:36.450+02:00"
+}

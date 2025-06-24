@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "065daed5de87036b62369bd8985b775d821a086f",
+        "url": "https://spectrumlocalnews.com/nys/jamestown/politics/2025/01/10/universal-free-school-meals-",
+        "site_full": "spectrumlocalnews.com",
+        "site": "spectrumlocalnews.com",
+        "site_section": "https://spectrumlocalnews.com/services/contentfeed.nys%7Cjamestown%7Cpolitics.hero.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Politics | Jamestown New York | Spectrum News",
+        "title": "Free school meals could get bipartisan support in N.Y.",
+        "title_full": "Free school meals could get bipartisan support in N.Y.",
+        "published": "2025-01-10T02:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s7d2.scene7.com/is/image/TWCNews/school_lunch_file_0102",
+        "performance_score": 0,
+        "domain_rank": 5389,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "065daed5de87036b62369bd8985b775d821a086f",
+    "url": "https://spectrumlocalnews.com/nys/jamestown/politics/2025/01/10/universal-free-school-meals-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jack Arpey",
+    "published": "2025-01-10T02:54:00.000+02:00",
+    "title": "Free school meals could get bipartisan support in N.Y.",
+    "text": "Gov. Kathy Hochul is expected to announce in the coming days support for funding universal school meals in the next state budget, sources told Spectrum News 1 . The program is said to have a $250 million price tag.\nThe governor would join a bipartisan campaign that both Senate Majority Leader Andrea Stewart-Cousins and Assembly Speaker Carl Heastie have thrown their support behind this week.\nThe push for universal free school meals spans multiple legislative sessions, and bill sponsors state Sen. Michelle Hinchey and Assemblymember Jessica González-Rojas have already rallied to dramatically expand funding.\nThis would be the final push.\nAs an advocate taking part in the effort, Emily Ledyard, who goes by Em, has worked tirelessly to make sure New York students don’t have to make the choice that she faced: Eating breakfast and lunch in the face of bullying — or going without.\n“I didn’t eat unless I had those meals,” Ledyard said. “The bullying that I faced from being on free school meals and having it be something that separated the students that are 'the haves and the have nots,' bullying happened. I didn’t want to eat breakfast because of that.”\nLast year, Ledyard stood on the state Capitol’s Million Dollar Staircase with Hinchey, González-Rojas and other lawmakers to push the governor to bring school meals from the current 90% funding, to 100%.\n“This is something that would save families hundreds of dollars,” González-Rojas said.\nThe newly appointed chair of the Assembly’s taskforce on women’s issues pointed out that the proposal fits right into the governor’s affordability agenda. In addition to reducing stigma and bullying, it would also override a current patchwork of state and federal programs that are either income or district-based, leaving some families to fall through the cracks.\n“It’s a very complicated dynamic and the best thing to do, and the healthiest and most affordable thing to do for our families, is to provide universal coverage for all of our children,” she said.\nState Sen. Jake Ashby is one of several Republican lawmakers to back the proposal. The list also includes Assemblymembers Brian Maher and Matt Slater, as well as state Sen. Rob Rolison.\n“It’s not often that we get to talk about a bipartisan legislative win,” Ashby said.\nHe stressed the conversation isn’t just about the meals themselves, but the positive impact it would have in the classroom.\n“I think most people, if not all people, learn better when they’re not hungry,” Ashby said. “If we're serious about funding education in this state, this is part of the equation.”\nSince last session, Ledyard and her partner have moved to Minnesota, in part, because of a belief that state programming there, which includes free school lunches, offers more insulation against fluctuating federal policy. But she encourages students in New York to make sure the proposal makes it over the finish line when the state budget is due in April.\n“Put pressure, put pressure on the governor, write into her. Prove it to us kids that don’t believe that this is going to happen, let’s make it happen,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->education policy",
+        "Politics->government policy",
+        "Politics->political development",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathy Hochul",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Andrea Stewart-Cousins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Michelle Hinchey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Emily Ledyard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carl Heastie",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Spectrum News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:52:12.261+02:00",
+    "updated": "2025-01-10T04:52:12.261+02:00"
+}

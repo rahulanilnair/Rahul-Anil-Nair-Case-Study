@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "ad9ebf31e3185a4f97b00f5440628f8355ad24ad",
+        "url": "https://en.daibieunhandan.vn/malaysia-seeks-to-strengthen-economic-cooperation-with-asean-members-post292496.html",
+        "site_full": "en.daibieunhandan.vn",
+        "site": "daibieunhandan.vn",
+        "site_section": "https://en.daibieunhandan.vn/world",
+        "site_categories": [
+            "top_news_vn",
+            "top_news"
+        ],
+        "section_title": "World | The People’s Deputies",
+        "title": "Malaysia seeks to strengthen economic cooperation with ASEAN members",
+        "title_full": "Malaysia seeks to strengthen economic cooperation with ASEAN members",
+        "published": "2025-01-10T04:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "https://cdn-en.daibieunhandan.vn/images/b95c4e20c8d7d6b3a6fb02b9857809e98df84c2538ee87b55b27c740fb9fee04d210c55137f6bf5ff8d2a962437e504b144bf355ef1864fb93654e2b5f328c9792913ce2b8f8f89b080f0746eb5fb290/malaysia-economic-forum-2846.jpg.webp",
+        "performance_score": 0,
+        "domain_rank": 169119,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ad9ebf31e3185a4f97b00f5440628f8355ad24ad",
+    "url": "https://en.daibieunhandan.vn/malaysia-seeks-to-strengthen-economic-cooperation-with-asean-members-post292496.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The People's Deputies",
+    "published": "2025-01-10T04:45:00.000+02:00",
+    "title": "Malaysia seeks to strengthen economic cooperation with ASEAN members",
+    "text": "The Malaysian economic forum (FEM) 2025 was held in Kuala Lumpur on January 9 to discuss cooperation orientations and key initiatives for the Association of Southeast Asian Nations (ASEAN) and Malaysia in the coming year.\nThe forum brought together over 50 speakers from various sectors, including fiscal and monetary policy, technology, green growth, and education reform.\nSpeaking at the event, Malaysian Prime Minister Anwar Ibrahim underscored the importance of deepening ties with Southeast Asian neighbours to address future challenges effectively.\nHe said this year, Malaysia plans to solidify its position as a hub for electricity and high-quality human resources, and diversify supply chains via such key sectors such as oil and gas, semiconductors, and Islamic finance.\nASEAN is projected to become the world’s fourth-largest economic bloc, thanks to enhanced partnerships with non-regional countries such as India and China. As the ASEAN Chair in 2025, Malaysia is committed to working with member states to address shared challenges, promote economic development, and ensure peace and stability in the region.\nASEAN’s strength lies in its vast market of approximately 665 million people, with a middle-class population expected to double compared to two decades ago. While other regions face predictions of slower or declining economic growth, the bloc is forecast to grow between 4% and 5% over the next decade./.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anwar Ibrahim",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ASEAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Association of Southeast Asian Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:04:47.363+02:00",
+    "updated": "2025-01-10T06:04:47.363+02:00"
+}

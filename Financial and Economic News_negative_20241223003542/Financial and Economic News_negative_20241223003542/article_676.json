@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "ea8204a821c67d217649d7105c32ee18f403339f",
+        "url": "https://timesofindia.indiatimes.com/city/noida/5-held-for-smuggling-drugs-from-shillong-selling-them-online/articleshow/116403145.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/business/startups",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "5 held for smuggling drugs from Shillong, selling them online | Noida News - Times of India",
+        "title_full": "5 held for smuggling drugs from Shillong, selling them online | Noida News - Times of India",
+        "published": "2024-12-17T14:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-116403144,width-1070,height-580,imgsize-49942,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ea8204a821c67d217649d7105c32ee18f403339f",
+    "url": "https://timesofindia.indiatimes.com/city/noida/5-held-for-smuggling-drugs-from-shillong-selling-them-online/articleshow/116403145.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advitya Bahl",
+    "published": "2024-12-17T14:14:00.000+02:00",
+    "title": "5 held for smuggling drugs from Shillong, selling them online | Noida News - Times of India",
+    "text": "Noida: Five persons, including a woman, were arrested for allegedly operating an online drug trafficking network across NCR. The suspects were caught with 30kg of Shillong ganja, 236 grams of hash (charas), and a Hyundai Creta vehicle.The five who were arrested were Bintu alias Kalu (33) from Bulandshahr, Satendra Sharma (39), Sandeep Kumar (32), and Ashif Jamal (24) from Bihar, all currently staying in Sector 45. Their woman accomplice, Kajal Kumari (20) of Bihar who lives in Ghaziabad, was also arrested.The arrests were made by a team of the Phase 3 police station from near a dumping ground in Sector 71, according to Shakti Mohan Avasthy, DCP (central Noida).DCP Avasthy identified Bintu as the operation's mastermind, who sourced cannabis from Shillong and transported it to NCR with Kajal's help to avoid suspicion. The group established a fake online store to process orders and deliver drugs through courier services. The seized cannabis has an estimated market value of Rs 50,000 a kg.The gang, police said, had been operating for almost five years, serving hundreds of customers and earning substantial profits. While Bunty managed the procurement, Kajal and other members recruited clients by targeting school and college students through online platforms. The operation initially involved physical sales but transitioned to online transactions to minimise detection risks. \\\"Sandeep and Kajal served as couriers, while Ashok and Satendra handled the transportation,\\\" Avasthy said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Satendra Sharma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sandeep Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kajal Kumari",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashif Jamal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bintu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kalu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NCR",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Shillong",
+                "sentiment": "none"
+            },
+            {
+                "name": "Noida",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:52:46.020+02:00",
+    "updated": "2024-12-17T14:52:46.020+02:00"
+}

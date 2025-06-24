@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "e8d27e48a053ae0327e219f5ab648dc7598d3517",
+        "url": "https://usa.news-pravda.com/world/2025/01/09/77012.html",
+        "site_full": "usa.news-pravda.com",
+        "site": "news-pravda.com",
+        "site_section": "https://usa.news-pravda.com/rss/news",
+        "site_categories": [],
+        "section_title": "Pravda USA",
+        "title": "SpaceX launches rocket with satellites for US intelligence needs",
+        "title_full": "SpaceX launches rocket with satellites for US intelligence needs",
+        "published": "2025-01-10T06:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "https://usa.news-pravda.com/img/20250109/9eb37b2dbfaee42dcb45ff4acbc0a306_o.jpg",
+        "performance_score": 0,
+        "domain_rank": 177629,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e8d27e48a053ae0327e219f5ab648dc7598d3517",
+    "url": "https://usa.news-pravda.com/world/2025/01/09/77012.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:04:00.000+02:00",
+    "title": "SpaceX launches rocket with satellites for US intelligence needs",
+    "text": "SpaceX launches rocket with satellites for US intelligence needs\nNEW YORK, January 10th. /tass/. On Thursday, SpaceX launched a Falcon-9 launch vehicle with satellites for the needs of the US National Directorate of Military Space Intelligence (NVCR). The broadcast was conducted on the company's website.\nThe launch of the rocket as part of the NROL-153 mission took place at 22:54 East Coast time (06:54 GMT on January 10) from the Vandenberg Air Force Base in California. It is expected that in 2025, SpaceX will carry out at least four more such launches to fulfill the tasks of American intelligence.\nThe activities of the NUVKR, which controls US reconnaissance satellites, are strictly classified. The parameters and description of the devices are not disclosed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->scientific exploration",
+        "Science and Technology->aerospace engineering",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "US National Directorate of Military Space Intelligence",
+                "sentiment": "none"
+            },
+            {
+                "name": "SpaceX",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:06:10.064+02:00",
+    "updated": "2025-01-10T07:06:10.064+02:00"
+}

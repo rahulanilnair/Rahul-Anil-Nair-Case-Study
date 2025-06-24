@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "b3eb35eb3a6add365c8495d9c581b954f403e030",
+        "url": "https://www.irishtimes.com/business/2024/12/17/tiktoks-irish-arm-sets-aside-1bn-to-cover-cost-of-possible-data-breach-fines",
+        "site_full": "www.irishtimes.com",
+        "site": "irishtimes.com",
+        "site_section": "https://irishtimes.com/ireland/2024/11/18/ireland-weather-yellow-weather-warning-as-sleet-and-snow-forecast-in-some-areas",
+        "site_categories": [
+            "media",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Ireland weather: Yellow warning as snow possible in some counties and temperatures to plummet nationwide – The Irish Times",
+        "title": "TikTok’s Irish arm sets aside $1bn to cover cost of possible data breach fines",
+        "title_full": "TikTok’s Irish arm sets aside $1bn to cover cost of possible data breach fines",
+        "published": "2024-12-17T12:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://www.irishtimes.com/resizer/v2/SOYFSRCHD2XCLS7ZL6TDONSDLI.jpg?smart=true&amp;auth=bd6d71ee6dbd2ae413bbce334da04947cd830f13284e662984a988cd6c9af607&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 930,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3eb35eb3a6add365c8495d9c581b954f403e030",
+    "url": "https://www.irishtimes.com/business/2024/12/17/tiktoks-irish-arm-sets-aside-1bn-to-cover-cost-of-possible-data-breach-fines",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eoin Burke-Kennedy",
+    "published": "2024-12-17T12:36:00.000+02:00",
+    "title": "TikTok’s Irish arm sets aside $1bn to cover cost of possible data breach fines",
+    "text": "The Irish arm of TikTok set aside over $1 billion (€950 million) in 2023 to cover the cost of potential fines relating to two Data Protection Commission (DPC) investigations.\nAccording to recently filed accounts for TikTok Technology Limited, the Chinese-owned video-sharing platform saw its revenue in Ireland almost double to $650 million last year on the back of what it said was “higher demand” for its services.\nHowever, the company reported a loss of just over $1 billion for last year after setting aside $1 billion to cover possible fines and legal costs stemming from two DPC investigations.\nThe first relating to children’s privacy on the app saw the company fined €345 million in 2023. The second and ongoing inquiry relates to the transfer of user data to China and TikTok’s compliance with legal requirements for the transfer of personal data to third countries.\nREAD MORE Concerns raised about the risks to taxpayers from how housing bodies and the LDA fund construction deals",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TikTok Technology Limited",
+                "sentiment": "none"
+            },
+            {
+                "name": "DPC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:53:27.653+02:00",
+    "updated": "2024-12-17T14:19:55.871+02:00"
+}

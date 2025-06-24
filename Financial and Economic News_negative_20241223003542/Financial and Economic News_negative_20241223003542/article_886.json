@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "99fbf2e483e6b6892dc6477b17d24ab7bd4bfea7",
+        "url": "https://www.brecorder.com/news/40338107/ireland-fines-meta-251mn-euros-over-facebook-hacks",
+        "site_full": "www.brecorder.com",
+        "site": "brecorder.com",
+        "site_section": "https://www.brecorder.com/feeds/latest-news",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_pk",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Business Recorder - Latest News",
+        "title": "Ireland fines Meta 251mn euros over Facebook hacks",
+        "title_full": "Ireland fines Meta 251mn euros over Facebook hacks",
+        "published": "2024-12-17T10:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.brecorder.com/large/2024/12/1718221320c7a61.jpg?r=182220",
+        "performance_score": 0,
+        "domain_rank": 13593,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "99fbf2e483e6b6892dc6477b17d24ab7bd4bfea7",
+    "url": "https://www.brecorder.com/news/40338107/ireland-fines-meta-251mn-euros-over-facebook-hacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (AFP)",
+    "published": "2024-12-17T10:22:00.000+02:00",
+    "title": "Ireland fines Meta 251mn euros over Facebook hacks",
+    "text": "Technology Ireland fines Meta 251mn euros over Facebook hacks AFP Published 17 Dec, 2024 06:22pm Facebook Twitter Whatsapp Comments\nPhoto: Reuters Follow us\nDUBLIN: An Irish regulator helping police European Union data privacy said Tuesday it had fined Facebook-owner Meta 251 million euros ($263 million) for a data protection failure that saw Facebook accounts hacked.\nThe Data Protection Commission (DPC) criticised Meta for a security flaw in its video upload function which hackers were able to exploit to gain full access to other users’ Facebook profiles.\nOver a two week period in 2018, unauthorised users were able to hack into around 29 million Facebook accounts globally.\nThe personal data involved included email addresses, phone numbers, locations and places of work.\nFacebook-parent Meta settles with Australia’s privacy watchdog over Cambridge Analytica lawsuit\n“The failure to build in data protection requirements throughout the design and development cycle can expose individuals to very serious risks and harms, including a risk to the fundamental rights and freedoms of individuals,” said Graham Doyle, the regulator’s head of communications.\n“By allowing unauthorised exposure of profile information, the vulnerabilities behind this breach caused a grave risk of misuse of these types of data,” he added.\nMeta Ireland and its US parent company remedied the breach shortly after its discovery, the DPC said, and reported the issue to the regulator in September 2018.\nIt is the latest fine in a series issued to the US social media giant and its rivals, as global regulators crack down on tech companies.\nIn September, the DPC fined Meta 91 million euros for failing to put measures in place to protect users’ password data and for taking too long to alert the regulator of the issue.\nfacebook Meta Comments 200 characters Pakistan\nPakistan records massive $729mn current account surplus in November 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:48:56.893+02:00",
+    "updated": "2024-12-17T16:31:41.996+02:00"
+}

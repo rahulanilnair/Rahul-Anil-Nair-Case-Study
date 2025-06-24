@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "4e1a406ba20b41d3a0c44fa64b12944c38aa8a9e",
+        "url": "https://www.essexlive.news/news/essex-news/chelmsford-council-likely-bring-60-9791107",
+        "site_full": "www.essexlive.news",
+        "site": "essexlive.news",
+        "site_section": "https://www.essexlive.news/whats-on/family-kids",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Family and Kids - Latest news on family and kids events from Essex Live",
+        "title": "Chelmsford Council likely to bring in £60 garden waste charge for residents - Essex Live",
+        "title_full": "Chelmsford Council likely to bring in £60 garden waste charge for residents - Essex Live",
+        "published": "2024-12-17T11:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i2-prod.hertfordshiremercury.co.uk/incoming/article9114783.ece/ALTERNATES/s1200/0_Council-funding.jpg",
+        "performance_score": 0,
+        "domain_rank": 22474,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4e1a406ba20b41d3a0c44fa64b12944c38aa8a9e",
+    "url": "https://www.essexlive.news/news/essex-news/chelmsford-council-likely-bring-60-9791107",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Piers Meyler",
+    "published": "2024-12-17T11:20:00.000+02:00",
+    "title": "Chelmsford Council likely to bring in £60 garden waste charge for residents - Essex Live",
+    "text": "frontpage News Essex News Chelmsford City Council News Chelmsford Council likely to bring in £60 garden waste charge for residents The council has 'little choice' but to bring in the annual charge for kerbside waste collection",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:37:24.999+02:00",
+    "updated": "2024-12-17T14:31:01.005+02:00"
+}

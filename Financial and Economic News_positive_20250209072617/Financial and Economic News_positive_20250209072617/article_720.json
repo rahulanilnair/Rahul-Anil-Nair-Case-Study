@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "2b863004914271b159e2645b847a673a1ac7464e",
+        "url": "https://www.caclubindia.com/news/cgst-officers-detect-rs-15-crore-gst-evasion-two-directors-arrested-24363.asp",
+        "site_full": "www.caclubindia.com",
+        "site": "caclubindia.com",
+        "site_section": "https://www.caclubindia.com/stream",
+        "site_categories": [
+            "tax_planning",
+            "finance"
+        ],
+        "section_title": "Site Stream",
+        "title": "CGST Officers Detect Rs 15 Crore GST Evasion, Two Directors Arrested",
+        "title_full": "CGST Officers Detect Rs 15 Crore GST Evasion, Two Directors Arrested",
+        "published": "2025-01-10T06:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.caclubindia.com/img/preview/articles/20240629090346_arrest.png?imgver=24363",
+        "performance_score": 0,
+        "domain_rank": 42807,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b863004914271b159e2645b847a673a1ac7464e",
+    "url": "https://www.caclubindia.com/news/cgst-officers-detect-rs-15-crore-gst-evasion-two-directors-arrested-24363.asp",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2025-01-10T06:02:00.000+02:00",
+    "title": "CGST Officers Detect Rs 15 Crore GST Evasion, Two Directors Arrested",
+    "text": "In a significant crackdown, the Preventive Wing of the Central Goods and Services Tax (CGST) department uncovered GST evasion of approximately Rs 15 crore through fraudulent Input Tax Credit (ITC) claims. The discovery followed searches at four premises of M/S Pyrol Fuel Industries Private Limited, a bitumen company based in Indore.\nThe CGST and Central Excise Commissionerate, Indore, arrested the company's directors, Kartik Agrawal and Sheel Panchal, on Tuesday. Both were remanded to judicial custody for 10 days, until January 17.\nFraudulent ITC Claims Uncovered\nInvestigations revealed that the company's directors availed ITC from bogus, non-existent firms without receiving any actual goods, violating Section 16 of the CGST Act, 2017. The fraudulent ITC was then used to settle their outward tax liabilities.\nDespite being issued multiple summons under Section 70 of the CGST Act, 2017, the accused failed to comply, prompting the department to intensify its probe. Searches conducted at the company's premises on Monday provided substantial evidence of the fraudulent activities.\nKey Findings and Arrests\nBased on the findings, Agrawal and Panchal were identified as the masterminds behind the tax evasion scheme. They were arrested under Section 69 of the CGST Act, 2017, and presented before the jurisdictional magistrate, who ordered their judicial custody.\nImpact on Road Construction Sector\nSources revealed that M/S Pyrol Fuel Industries Private Limited primarily deals in bitumen, supplying it to road construction contractors. The investigation has also unearthed connections with prominent road construction contractors, whose involvement is under scrutiny.\nOngoing Investigation\nThe case highlights the CGST department's commitment to combating tax fraud. Officials confirmed that further investigations are underway to trace the full extent of the evasion and identify additional parties involved in the fraudulent network.\nThis development serves as a stern warning to businesses attempting to evade GST through illegal ITC claims, emphasizing strict enforcement of the CGST Act, 2017.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->fraud",
+        "Social Issue->discrimination",
+        "Social Issue->social condition",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:50:54.171+02:00",
+    "updated": "2025-01-10T07:50:54.171+02:00"
+}

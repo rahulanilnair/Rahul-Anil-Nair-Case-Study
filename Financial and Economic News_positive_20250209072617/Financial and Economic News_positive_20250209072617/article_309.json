@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "4f32304692b111e467f6f86eabdbc6a7b7f9b1d5",
+        "url": "https://www.newsbreak.com/talk-1340-520747/3753290869895-eight-texas-hospitals-lauded-as-best-in-the-nation-by-experts",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/talk-1340-520747",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Talk 1340&#x27;s Home Page | NewsBreak",
+        "title": "Eight Texas Hospitals Lauded As Best In The Nation By Experts - NewsBreak",
+        "title_full": "Eight Texas Hospitals Lauded As Best In The Nation By Experts - NewsBreak",
+        "published": "2025-01-10T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2JujWm_0y1uOXju00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f32304692b111e467f6f86eabdbc6a7b7f9b1d5",
+    "url": "https://www.newsbreak.com/talk-1340-520747/3753290869895-eight-texas-hospitals-lauded-as-best-in-the-nation-by-experts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Talk 1340",
+    "published": "2025-01-10T01:00:00.000+02:00",
+    "title": "Eight Texas Hospitals Lauded As Best In The Nation By Experts - NewsBreak",
+    "text": "1 hours ago 9 Texas Hospitals Get Dismal \"D\" Rating For Patient Safety. According to The Leapfrog Group, which has collected patient safety data for over 20 years, these were the worst-scoring Texas hospitals for patient safety for Fall 2024. The Leapfrog Group uses many criteria to produce these scores- everything from how... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Health->health organisation",
+        "Health->health facility",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:44:54.528+02:00",
+    "updated": "2025-01-10T02:44:54.528+02:00"
+}

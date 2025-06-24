@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "5eab36b05d50cce11eda43a6e6b0f24304df5d64",
+        "url": "https://www.ntd.com/longshoremen-reach-tentative-agreement-with-ports-shippers-averting-potential-strike_1039609.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://www.ntd.com/feed",
+        "site_categories": [
+            "real_estate",
+            "architects"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "title": "Longshoremen Reach Tentative Agreement With Ports, Shippers, Averting Potential Strike",
+        "title_full": "Longshoremen Reach Tentative Agreement With Ports, Shippers, Averting Potential Strike",
+        "published": "2025-01-10T00:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2025/01/id1039610-Dockworkers_Strike_25007498673739.jpg-1200x630.webp",
+        "performance_score": 0,
+        "domain_rank": 19164,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5eab36b05d50cce11eda43a6e6b0f24304df5d64",
+    "url": "https://www.ntd.com/longshoremen-reach-tentative-agreement-with-ports-shippers-averting-potential-strike_1039609.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NTD Newsroom",
+    "published": "2025-01-10T00:59:00.000+02:00",
+    "title": "Longshoremen Reach Tentative Agreement With Ports, Shippers, Averting Potential Strike",
+    "text": "U.S. longshoremen reached a contract agreement with ports and shippers Wednesday, averting a potential strike that could have damaged the American economy.\nThe International Longshoremen’s Association union and the U.S. Maritime Alliance of ports and shipping companies said they had reached a tentative agreement for a six-year contract, a week ahead of a Jan. 15 deadline.\nIn a joint statement, the two sides said the agreement protects union jobs and allows ports on the East and Gulf coasts to modernize with new technology, “making them safer and more efficient, and creating the capacity they need to keep our supply chains strong.”\nThey said they were not releasing details of the agreement publicly to give union members a chance to review and approve the document. The ratification process is likely to take weeks.\nIn a statement Wednesday night, President Joe Biden said the tentative agreement “shows that labor and management can come together to benefit workers and their employers.”\n“I applaud the dockworkers’ union for delivering a strong contract,” Biden added. “Their members kept our ports open during the pandemic, as we worked together to unsnarl global supply chains. Thank you to the carriers and port operators who play an essential role in our nation’s economy.”\nThe 45,000 longshoremen staged a three-day strike in October. They suspended the walkout after agreeing to a 62 percent pay increase over six years that would have sent hourly wages at the top of the pay scale from $39 to $63. But that truce was contingent upon reaching an agreement by Jan. 15 over automation: The union worried that machines—especially semi-automated cranes—would replace human workers.\nWednesday’s agreement came a day after the two sides resumed negotiations. “This is a win-win agreement that creates ILA jobs, supports American consumers and businesses, and keeps the American economy the key hub of the global marketplace,” they said in the statement.\nA strike would have shut down ports along the East and Gulf coasts and would have begun damaging the economy if it lasted much more than a week, economists said.\nAutomation has long been a contentious issue at U.S. ports. Longshoremen worry that machines—such as semi-automated cranes that don’t need their own individual operators—will supplant human workers. Even if the ports agree to protect existing jobs as they modernize, they could need fewer workers as they get more efficient, meaning the port workforce and the union could shrink over time.\nPort operators and shipping companies argue that U.S. ports are falling behind more automated ports such as those in Rotterdam, Dubai, and Singapore.\nPresident-elect Donald Trump had weighed in for the union.\nAfter meeting union president Harold Daggett at his Mar-a-Lago club in Palm Beach, Florida, Trump posted on social media last month that additional automation of ports would hurt workers: “The amount of money saved is nowhere near the distress, hurt and harm it causes for American workers, in this case, our Longshoremen.’’ Trump added that he knows “just about everything there is to know about’’ automation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Labor"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Labor->employment",
+        "Labor->labour relations",
+        "Labor->collective agreements"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Longshoremen’s Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Maritime Alliance",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5eab36b05d50cce11eda43a6e6b0f24304df5d64",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:47:54.921+02:00",
+    "updated": "2025-01-10T01:47:54.921+02:00"
+}

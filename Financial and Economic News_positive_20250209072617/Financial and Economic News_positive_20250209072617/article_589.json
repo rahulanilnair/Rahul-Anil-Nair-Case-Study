@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "7fb82106d283d10586e4a69ef300b5cca8870821",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/01/10/singapore-tops-global-innovation-ranking-of-over-70-countries",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/opinion/columnists/citycism",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Columnists - Opinion | The Star",
+        "title": "Singapore tops global innovation ranking of over 70 countries | The Star",
+        "title_full": "Singapore tops global innovation ranking of over 70 countries | The Star",
+        "published": "2025-01-10T05:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2025/01/10/3110445.jpg",
+        "performance_score": 0,
+        "domain_rank": 2131,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fb82106d283d10586e4a69ef300b5cca8870821",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/01/10/singapore-tops-global-innovation-ranking-of-over-70-countries",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lim Yan Liang",
+    "published": "2025-01-10T05:04:00.000+02:00",
+    "title": "Singapore tops global innovation ranking of over 70 countries | The Star",
+    "text": "LAS VEGAS: Singapore has been named the world’s most innovative country, taking first place in a ranking of nations based on wide-ranging indicators such as workforce education level and new business creation rate.\nIt overtook the US to top the latest Global Innovation Scorecard, a biennial ranking of 74 countries and the European Union that the Consumer Trade Association (CTA), a US trade body, has tabulated since 2019.\nOut of 25 countries that were named global innovation champions, Singapore received the highest composite score, a jump from its 15th position in 2023.\nRounding off the top five innovative countries were the US, New Zealand, Sweden and Switzerland.\nThe Republic was presented with the Global Innovation Champion award on Jan 9 at CES, the world’s largest tech fair where companies showcase their latest products and prototypes, in Las Vegas. The four-day exhibition, formerly known as the Consumer Electronics Show, concludes on Jan 10.\nCTA said its scorecard measures countries on the basis of their political, economic and demographic realities to see how well-placed they are to fuel tech innovation, with the latest edition evaluating countries on a wider range of metrics than before.\nWhile the 2023 scorecard had 40 indicators, the latest one had 56, comprising a range of data sources from agencies such as the World Trade Organisation, the World Intellectual Property Organisation and the United Nations Conference on Trade and Development.\nSingapore achieved top scores in four of the 16 categories measured: business environment resilience and data transparency; the pro-innovation nature of its legal environment; its friendliness towards start-ups and small businesses; and its tax policies for companies.\nThe Republic also scored well in other categories, such as the ethnic and immigrant diversity of its workforce; openness to telehealth and cross-border data flows; and broadband speeds.\nCTA chief executive officer Gary Shapiro said in a brief ceremony that the scorecard looked at whether countries have the conditions that catalyse their innovators to invent a better future.\n“That means not just evaluating the investment in cutting-edge sectors or red tape for start-ups, but also recognising that countries that ensure freedom of speech create opportunities for workforce diversity and respect people’s fundamental freedoms,” he said.\n“By celebrating the best of the best, our innovation champions, we encourage other countries to follow their lead.”\nAs always, the countries that rank highest on the scorecard demonstrate the best of collaboration between government and industry, added Shapiro.\nIn a Facebook post on Jan 9, Enterprise Singapore said the Republic is proud to be the highest-scoring innovation champion of all the countries evaluated.\n“This top honour recognises Singapore’s skilled workforce, advanced broadband connectivity, entrepreneurial climate and openness to new technologies,” it said. - The Straits Times/ANN\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:29:08.233+02:00",
+    "updated": "2025-01-10T06:29:08.233+02:00"
+}

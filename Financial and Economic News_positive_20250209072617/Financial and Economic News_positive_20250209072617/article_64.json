@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "e6d919c318ea89eec34d4744b361ac2fcf87069d",
+        "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-013-3867895",
+        "site_full": "uk.investing.com",
+        "site": "investing.com",
+        "site_section": "https://uk.investing.com/news/stock-market-news",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Stock Market News | Share News - Investing.com UK",
+        "title": "Brazil shares higher at close of trade; Bovespa up 0.13% By Investing.com",
+        "title_full": "Brazil shares higher at close of trade; Bovespa up 0.13% By Investing.com",
+        "published": "2025-01-09T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXNPEC37167_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1167,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e6d919c318ea89eec34d4744b361ac2fcf87069d",
+    "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-013-3867895",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2025-01-09T23:30:00.000+02:00",
+    "title": "Brazil shares higher at close of trade; Bovespa up 0.13% By Investing.com",
+    "text": "Investing.com – Brazil equities were higher at the close on Thursday, as gains in the Real Estate , Public Utilities and Industrials sectors propelled shares higher.\nAt the close in Sao Paulo, the Bovespa rose 0.13%.\nThe biggest gainers of the session on the Bovespa were Minerva SA/Brazil (BVMF: BEEF3 ), which rose 5.79% or 0.28 points to trade at 5.12 at the close. Banco BTG Pactual SA (BVMF: BPAC11 ) added 2.44% or 0.68 points to end at 28.60 and Atacadao SA (BVMF: CRFB3 ) was up 2.41% or 0.13 points to 5.53 in late trade.\nBiggest losers included Companhia Siderurgica Nacional (BVMF: CSNA3 ), which lost 3.99% or 0.31 points to trade at 7.45 in late trade. Hapvida Participacoes e Investimentos (BVMF: HAPV3 ) declined 3.83% or 0.09 points to end at 2.26 and Braskem SA (BVMF: BRKM5 ) shed 3.08% or 0.35 points to 11.03.\nDeclining stocks outnumbered rising ones by 508 to 357 and 64 ended unchanged on the B3 Stock Exchange.\nThe CBOE Brazil Etf Volatility , which measures the implied volatility of Bovespa options, was down 0.30% to 30.17.\nIn commodities trading, Gold Futures for February delivery was up 0.71% or 19.01 to $2,691.41 a troy ounce. Meanwhile, Crude oil for delivery in February rose 1.17% or 0.86 to hit $74.18 a barrel, while the March US coffee C contract rose 0.62% or 1.95 to trade at $318.40 .\nUSD/BRL was down 1.18% to 6.03, while EUR/BRL fell 1.35% to 6.21.\nThe US Dollar Index Futures was up 0.06% at 108.99.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Lifestyle and Leisure->wellness",
+        "Lifestyle and Leisure->trend",
+        "Lifestyle and Leisure->lifestyle",
+        "Social Issue->population and census",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:25:23.215+02:00",
+    "updated": "2025-01-10T00:25:23.215+02:00"
+}

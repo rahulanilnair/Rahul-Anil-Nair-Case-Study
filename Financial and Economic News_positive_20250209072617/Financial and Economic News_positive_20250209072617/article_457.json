@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "40ed8aa52c9247dd8616970a06d02524e0aa25f7",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-on-track-for-weekly-gain-us-data-on-tap/articleshow/117101735.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/markets",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",
+        "title": "Gold prices on track for weekly gain; US data on tap - The Economic Times",
+        "title_full": "Gold prices on track for weekly gain; US data on tap - The Economic Times",
+        "published": "2025-01-10T01:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-117101750,width-1200,height-630,imgsize-18358,overlay-etmarkets/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40ed8aa52c9247dd8616970a06d02524e0aa25f7",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-on-track-for-weekly-gain-us-data-on-tap/articleshow/117101735.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T01:37:00.000+02:00",
+    "title": "Gold prices on track for weekly gain; US data on tap - The Economic Times",
+    "text": "Gold prices remained stable on Friday during early Asian hours, poised for their strongest week since mid-November, as investors awaited U.S. jobs data to gauge how aggressively the Federal Reserve might cut interest rates this year. FUNDAMENTALS* Spot gold was unchanged at $2,670.16 per ounce, as of 0044 GMT. Bullion has gained more than 1% so far this week. * U.S. gold futures edged 0.1% higher to $2,694.50. * Investors will closely watch the key government payrolls report scheduled for release at 08:30 a.m. ET. According to a Reuters survey, non-farm payrolls are expected to have increased by 160,000 jobs in December, following a jump of 227,000 in November. * The bullion strengthened to a nearly four-week high in the previous session, supported by safe-haven demand, while investors weighed how U.S. President-elect Donald Trump's policies would impact the economy and inflation. * Trump will return to office on Jan. 20 and his proposed tariffs and protectionist policies are expected to fuel inflation. * Kansas City Federal Reserve President Jeff Schmid signalled on Thursday a reluctance to cut interest rates again as the U.S. central bank comes into the new year facing a resilient economy and inflation that remains above its 2% target. * Bullion is used as a hedge against inflation, although higher interest rates reduce the appeal of holding non-yielding bullion. * Top consumer China's consumer inflation slowed in December, while producer price deflation persisted, as Beijing ramped up policy support to bolster a faltering economy. * Spot silver shed 0.1% to $30.12 per ounce, platinum dropped 0.1% to $957.98 and palladium added nearly 1% to $934.28. All three metals were headed for a weekly gain. DATA/EVENTS (GMT) 0400 China Overall Comprehensive Risk Q1 0400 Japan Overall Comprehensive Risk Q1 1330 US Non-Farm Payrolls Dec 1330 US Unemployment Rate Dec 1330 US Average Earnings YY Dec 1500 US U Mich Sentiment Prelim Jan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jeff Schmid",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Economic Times Gold",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kansas City Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:31:11.250+02:00",
+    "updated": "2025-01-10T04:31:11.250+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "e7db463c7376ca77c297ea52a34bdd877f4df123",
+        "url": "https://kyivindependent.com/canada-to-allocate-305-million-in-military-assistance-to-ukraine",
+        "site_full": "kyivindependent.com",
+        "site": "kyivindependent.com",
+        "site_section": "https://kyivindependent.com/ft-ukraine",
+        "site_categories": [],
+        "section_title": "FT: Ukraine signs first major deal with US company for LNG supplies",
+        "title": "Canada to allocate $305 million in military assistance to Ukraine",
+        "title_full": "Canada to allocate $305 million in military assistance to Ukraine",
+        "published": "2025-01-10T00:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets.kyivindependent.com/content/images/2023/10/bill-blair.jpg",
+        "performance_score": 0,
+        "domain_rank": 8004,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7db463c7376ca77c297ea52a34bdd877f4df123",
+    "url": "https://kyivindependent.com/canada-to-allocate-305-million-in-military-assistance-to-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olena Goncharova",
+    "published": "2025-01-10T00:55:00.000+02:00",
+    "title": "Canada to allocate $305 million in military assistance to Ukraine",
+    "text": "Canada has pledged $305 million (CAD $440 million) in additional military assistance to Ukraine, Canadian Defense Minister Bill Blair announced at Ramstein Air Base in Germany on Jan. 9.\nThe [announcement](https://www.canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html) includes $138 million (CAD $200 million) allocated to [Czechia’s initiative](https://kyivindependent.com/ukraine-receives-over-one-third-of-shells-from-czechia/) for procuring and delivering large-calibre [ammunition](https://kyivindependent.com/ukraine-to-receive-another-180-000-rounds-of-ammunition-for-gepard-systems/) to Ukraine, adding to over $36 million (CAD $53 million) pledged last year.\nThis funding has already resulted in the delivery of approximately 11,500 rounds of large-calibre ammunition. Another $35 million (CAD $50 million) will be dedicated to procuring various calibres of ammunition from Canadian manufacturers.\n\"The military assistance announced today provides Ukrainians with resources needed to resist Russian aggression,\" Blair said. \"The (contact group), through the leadership of Secretary Austin, has been vital in ensuring that the military aid we’re collectively providing Ukraine is comprehensive, well-coordinated, and meets the country’s most pressing needs. Canada remains strongly committed to working with our Allies and partners to support Ukraine until victory.\"\nBlair also committed $70 million (CAD $100 million) to the Danish Model, which supports Ukraine’s domestic production of military drones. Drones have played a crucial role in the war, with Ukraine’s defense industry advancing rapidly in this area. This funding builds on [Canada](https://kyivindependent.com/canada-sends-nasams-system-to-ukraine/)’s earlier contributions, including $2 million (CAD $3 million) provided in April 2024 and the donation of 900 Canadian-built [SkyRanger drones](https://kyivindependent.com/netherlands-germany-canada-lithuania-to-provide-ukraine-with-military-aid-via-drone-coalition/), of which 560 have already reached [Ukraine](https://kyivindependent.com/trump-revises-ukraine-peace-timeline-ft-reports/).\nSince February 2022, Canada has provided $3.1 billion (CAD $4.5 billion) in military assistance to Ukraine. This support has included advanced weaponry, drones, and vehicles.\nBlair added that deliveries of approximately [1,300 CRV-7 rocket](https://kyivindependent.com/canada-new-aid-package/) warheads were completed in December 2024, following the shipment of over 2,000 rocket motors earlier in the year. The first batch of Armoured Combat Support Vehicles arrived in the fall, with training completed, and an additional 40 vehicles are set for delivery by the end of 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->defence",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "War, Conflict and Unrest->international military intervention"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html",
+        "https://canada.ca/en/department-national-defence/news/2025/01/defence-minister-bill-blair-commits-440-million-in-military-assistance-to-ukraine.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:26:44.562+02:00",
+    "updated": "2025-01-10T02:26:44.562+02:00"
+}

@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "ad5fe90ccc270009e2910e5a4beca94e21ef1382",
+        "url": "https://www.cyclinguk.org/cycle-campaigning/budgets-action",
+        "site_full": "www.cyclinguk.org",
+        "site": "cyclinguk.org",
+        "site_section": "http://ctc.org.uk/rss.xml",
+        "site_categories": [
+            "bicycling",
+            "sports"
+        ],
+        "section_title": "Cycling UK - Let's make a better world by bike",
+        "title": "Save the cycling budget",
+        "title_full": "Save the cycling budget",
+        "published": "2024-12-13T11:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 20097,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ad5fe90ccc270009e2910e5a4beca94e21ef1382",
+    "url": "https://www.cyclinguk.org/cycle-campaigning/budgets-action",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Richard Burn",
+    "published": "2024-12-13T11:18:00.000+02:00",
+    "title": "Save the cycling budget",
+    "text": "Save the cycling budget Funding for cycling could be slashed in Wales and Scotland The Welsh and Scottish Governments are backpedalling on the investment needed to tackle the climate crisis, improve public health, and give people real transport choices.   \nBut there’s still time to act.\nThe budgets will be voted on in February 2025.\nWrite to your MSPs or MSs and ask them to protect funding for cycling.\nAsk your MSPs to stop the cuts to active travel in Scotland The Scottish government plans to slash more than £30 million from next year's active travel budget, while finding the money to increase spending on road building.\nThe government is now back-pedalling on the support for cycling it promised would help tackle the climate crisis, improve public health, and give people real transport choices.\nEmail your MSPs so they can let the government know they don’t support the cuts and ask why it’s breaking its promises.\nAsk your MSs to save the Welsh cycling budget The Welsh budget failed to mention cycling.\nWe’re concerned that the government is about to backpedal on the investment needed to tackle the climate crisis, improve public health, and give people real transport choices.   \nThat’s why we urgently need your help to save the active travel budget.\nBy writing to your MSs, you can show the government this matters to you.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Wales",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:59:19.385+02:00",
+    "updated": "2024-12-17T12:59:19.385+02:00"
+}

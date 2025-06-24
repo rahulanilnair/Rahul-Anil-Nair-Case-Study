@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "6d30f3b808596787e4c082b3731f6260a40815da",
+        "url": "https://www.businesstoday.in/markets/stocks/story/irctc-shares-at-rs-900-buy-stock-says-macquarie-460244-2025-01-10",
+        "site_full": "www.businesstoday.in",
+        "site": "businesstoday.in",
+        "site_section": "https://www.businesstoday.in/news",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business News Today: Top Headlines, Share Market, Finance and Economy News Updates",
+        "title": "IRCTC shares at Rs 900? Buy stock, says Macquarie",
+        "title_full": "IRCTC shares at Rs 900? Buy stock, says Macquarie",
+        "published": "2025-01-10T06:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202501/6780955ee59ea-irctc-shares-have-fallen-25-per-cent-in-the-past-six-months-against-a-3-per-cent-drop-in-the-bse-sen-103449395-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3757,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d30f3b808596787e4c082b3731f6260a40815da",
+    "url": "https://www.businesstoday.in/markets/stocks/story/irctc-shares-at-rs-900-buy-stock-says-macquarie-460244-2025-01-10",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@business_today",
+    "published": "2025-01-10T06:05:00.000+02:00",
+    "title": "IRCTC shares at Rs 900? Buy stock, says Macquarie",
+    "text": "IRCTC is the only entity authorised by Indian Railways to provide catering services to railways, online railway tickets and packaged drinking water at railway stations and trains in India.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Macquarie Foreign",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:07:51.485+02:00",
+    "updated": "2025-01-10T06:15:46.001+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "0da5cc96683f0f456625e2be4d61fb19121519cd",
+        "url": "https://www.news9live.com/technology/tech-news/meta-facebook-data-breach-eu-251-million-fine-2775788",
+        "site_full": "www.news9live.com",
+        "site": "news9live.com",
+        "site_section": "https://www.news9live.com/photogallery/lifestyle-images/free-valentines-day-images-and-backgrounds-to-download-celebrate-love-in-style-2437796",
+        "site_categories": [],
+        "section_title": "Download FREE Valentine's Day images and backgrounds for lovers and loved ones | Valentine's Day images' list | Lifestyle Images - News9live",
+        "title": "Meta Fined €251 Million Over Facebook Data Breach Affecting 29 Million Users",
+        "title_full": "Meta Fined €251 Million Over Facebook Data Breach Affecting 29 Million Users",
+        "published": "2024-12-17T12:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://images.news9live.com/wp-content/uploads/2024/12/meta-fined-euro.png",
+        "performance_score": 0,
+        "domain_rank": 19112,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0da5cc96683f0f456625e2be4d61fb19121519cd",
+    "url": "https://www.news9live.com/technology/tech-news/meta-facebook-data-breach-eu-251-million-fine-2775788",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Siddharth Shankar",
+    "published": "2024-12-17T12:57:00.000+02:00",
+    "title": "Meta Fined €251 Million Over Facebook Data Breach Affecting 29 Million Users",
+    "text": "[Tech News](https://www.news9live.com/technology/tech-news)\nMeta Fined €251 Million Over Facebook Data Breach Affecting 29 Million Users\nThe Irish Data Protection Commission has fined Meta €251 million for a 2018 Facebook data breach that exposed personal details of 29 million users worldwide, including 3 million from Europe. The breach, caused by a flaw in Facebook's \"View As\" feature, compromised sensitive user data. Meta is expected to appeal the decision.\nThe Irish Data Protection Commission (DPC) has [hit](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-meta-eu251-million) Meta—Facebook’s parent company—with a massive €251 million fine (approximately ₹2,270 crore) for failing to protect user data. The penalty follows a personal data breach that occurred in 2018, impacting 29 million Facebook accounts globally, including 3 million users in Europe. The breach exposed sensitive information, and regulators are now holding Meta accountable for its security lapses.\nWhy was Meta fined?\nThe issue began with Facebook’s “View As” feature, which allowed users to view their profiles as others would see them. Combined with the platform’s video uploader tool, this feature accidentally generated user tokens—coded access keys—that unauthorized users could exploit. With these tokens, attackers gained access to other users’ accounts and personal data.\nThe leaked information was significant. It included users’ full names, email addresses, phone numbers, workplaces, locations, religious preferences, and even children’s data. Facebook security teams only identified the breach when they noticed a strange spike in video uploads between September 14 and 28, 2018. By then, however, the damage had been done.\nIn its investigation, the DPC identified multiple violations of GDPR rules. The regulators pointed out that Meta had failed to include strong data protection measures in its systems during the design process. Additionally, Meta didn’t provide enough details in its breach notification to authorities and failed to document the incident properly, which hampered verification. These shortcomings led the DPC to take strong action.\nDPC Deputy Commissioner Graham Doyle emphasized the severity of the situation, explaining that exposing profile information carries serious risks. Facebook profiles often include personal details like political beliefs, religious views, and group memberships—information that users might only want to share in specific contexts. Doyle stated that the vulnerabilities behind this breach caused a “grave risk of misuse” of such data.\nMeta’s reply\nMeta, unsurprisingly, has responded defensively and plans to appeal the decision. A spokesperson for the company said that they acted quickly to fix the problem as soon as it was discovered. They also claimed that Meta proactively informed the affected users and the DPC. Meta insists they have strong, industry-leading security measures in place to protect people across their platforms.\nDespite Meta’s claims, this fine is the latest in a series of penalties from the DPC. Over the years, Meta has faced €2.8 billion in fines from the Irish regulator. However, only €17 million has been collected so far, as legal challenges have slowed the process.\nClick for more latest [Tech news](https://www.news9live.com/technology/tech-news). Also get top headlines and [latest news](/latest-news) from [India](/india) and around the [world](/world) at News9.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-meta-eu251-million",
+        "https://dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-meta-eu251-million"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Irish Data Protection Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook",
+                "sentiment": "none"
+            },
+            {
+                "name": "DPC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:30:11.510+02:00",
+    "updated": "2024-12-17T15:30:11.510+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "26c0ce7d9f54a8a12591eb95cfd902a1b94fba32",
+        "url": "https://yro.slashdot.org/story/24/12/17/0233232/tiktok-asks-supreme-court-to-block-law-banning-its-us-operations",
+        "site_full": "yro.slashdot.org",
+        "site": "slashdot.org",
+        "site_section": "http://mobile.slashdot.org/index.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Slashdot",
+        "title": "TikTok Asks Supreme Court To Block Law Banning Its US Operations",
+        "title_full": "TikTok Asks Supreme Court To Block Law Banning Its US Operations",
+        "published": "2024-12-17T15:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a.fsdn.com/sd/topics/court_64.png",
+        "performance_score": 0,
+        "domain_rank": 629,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 3
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "26c0ce7d9f54a8a12591eb95cfd902a1b94fba32",
+    "url": "https://yro.slashdot.org/story/24/12/17/0233232/tiktok-asks-supreme-court-to-block-law-banning-its-us-operations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BeauHD",
+    "published": "2024-12-17T15:00:00.000+02:00",
+    "title": "TikTok Asks Supreme Court To Block Law Banning Its US Operations",
+    "text": "TikTok Asks Supreme Court To Block Law Banning Its US Operations (reuters.com)\nasked the Supreme Court on Monday to temporarily block a lawthat would effectively\nban itin the United States in a\nmatter of weeks. Saying that the law violates both its First Amendment rights and those of its 170 million American users, TikTok, which is controlled by a Chinese parent company, urged the justices to maintain the status quo while they decide whether to hear an appeal. \"Congress's unprecedented attempt to single out applicants and bar them from operating one of the most significant speech platforms in this nation presents grave constitutional problems that this court likely will not allow to stand,\" lawyers for TikTok wrote in their emergency application.\nPresident Biden signed the law this spring after it was enacted with wide bipartisan support. Lawmakers said the app's ownership represented a risk because the Chinese government's oversight of private companies would allow it to retrieve sensitive information about Americans or to spread propaganda, though they have not publicly shared evidence that this has occurred. They have also noted that American platforms like Facebook and YouTube are banned in China, and that TikTok itself is not allowed in the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TikTok Asks Supreme Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:07:54.956+02:00",
+    "updated": "2024-12-17T15:07:54.956+02:00"
+}

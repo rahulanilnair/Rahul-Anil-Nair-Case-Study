@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "1d08bb3b7df160951e93963f98724b8a0aedaf2f",
+        "url": "https://en.hespress.com/100467-moroccos-gdp-growth-expected-at-3-2-in-2025-3-4-in-2026-un.html",
+        "site_full": "en.hespress.com",
+        "site": "hespress.com",
+        "site_section": "https://en.hespress.com",
+        "site_categories": [],
+        "section_title": "HESPRESS English - Morocco News",
+        "title": "Morocco's GDP Growth Expected at 3.2% in 2025, 3.4% in 2026, UN",
+        "title_full": "Morocco's GDP Growth Expected at 3.2% in 2025, 3.4% in 2026, UN",
+        "published": "2025-01-10T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MA",
+        "main_image": "https://e2.hespress.com/wp-content/overlay/2024/09/economie-copie-4.jpg",
+        "performance_score": 0,
+        "domain_rank": 34267,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1d08bb3b7df160951e93963f98724b8a0aedaf2f",
+    "url": "https://en.hespress.com/100467-moroccos-gdp-growth-expected-at-3-2-in-2025-3-4-in-2026-un.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amira EL MASAITI",
+    "published": "2025-01-10T00:00:00.000+02:00",
+    "title": "Morocco's GDP Growth Expected at 3.2% in 2025, 3.4% in 2026, UN",
+    "text": "Morocco’s Gross Domestic Product (GDP) is expected to grow by 3.2% in 2025 and 3.4% in 2026, according to a new United Nations’ report released Thursday in New York.\nTitled World Economic Situation and Prospects (WESP) 2025, the report also states that global economic growth is projected to remain at 2.8% in 2025, unchanged from 2024, noting that lower inflation and ongoing monetary easing in many economies could provide a modest boost to global economic activity in 2025.\n“While the global economy has demonstrated resilience, withstanding a series of mutually reinforcing shocks, growth remains below the pre-pandemic average of 3.2%, constrained by weak investment, sluggish productivity growth, and high debt levels”, according to this report by the UN Department of Economic and Social Affairs.\nIn Africa, the report indicates that growth is forecast to rise modestly from 3.4% in 2024 to 3.7% in 2025, thanks to recoveries in major economies, noting however that rising debt-servicing costs, lack of employment opportunities and increasing severity of climate-change impacts weigh on the continent’s outlook.\nTo address the interconnected crises of debt, inequality, and climate change around the world, the UN report calls for bold multilateral action, inviting governments to avoid “overly restrictive” fiscal policies and instead focus on mobilizing investments in clean energy, infrastructure, and critical social sectors such as health and education.\nIn the foreword to the report, António Guterres, United Nations Secretary-General called for making 2025 “the year we put the world on track for a prosperous, sustainable future for all”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN Department of Economic and Social Affairs",
+                "sentiment": "none"
+            },
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:28:25.323+02:00",
+    "updated": "2025-01-10T07:28:25.323+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "e90897b87d635d7d8ad6da505767ca0e5e92070e",
+        "url": "https://article.wn.com/view/2025/01/09/US_Announces_500_Million_Arms_Package_for_Ukraine",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/world",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - World",
+        "title": "US Announces $500 Million Arms Package for Ukraine - Worldnews.com",
+        "title_full": "US Announces $500 Million Arms Package for Ukraine - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e90897b87d635d7d8ad6da505767ca0e5e92070e",
+    "url": "https://article.wn.com/view/2025/01/09/US_Announces_500_Million_Arms_Package_for_Ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "US Announces $500 Million Arms Package for Ukraine - Worldnews.com",
+    "text": "The Department of Defense announced another $500 million in arms and military support for Ukraine on Jan. 9. The arms package includes RIM-7 surface-to-air missiles, as well as AIM-7 and AIM-9M air-to-air missiles, which the Pentagon said would be used to bolster Ukraine’s air defense",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->mankind",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Department of Defense",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pentagon",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:03:40.312+02:00",
+    "updated": "2025-01-10T02:03:40.312+02:00"
+}

@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "5208d4463199de4ef7fe16c488e7d8c178dc67b8",
+        "url": "https://www.nasdaq.com/articles/nat-gas-prices-gain-cold-us-temps-spur-heating-demand",
+        "site_full": "www.nasdaq.com",
+        "site": "nasdaq.com",
+        "site_section": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "stocks",
+            "enterprise_news"
+        ],
+        "section_title": "Stocks Feed",
+        "title": "Nat-Gas Prices Gain as Cold US Temps Spur Heating Demand",
+        "title_full": "Nat-Gas Prices Gain as Cold US Temps Spur Heating Demand",
+        "published": "2025-01-09T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 764,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5208d4463199de4ef7fe16c488e7d8c178dc67b8",
+    "url": "https://www.nasdaq.com/articles/nat-gas-prices-gain-cold-us-temps-spur-heating-demand",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barchart",
+    "published": "2025-01-09T23:49:00.000+02:00",
+    "title": "Nat-Gas Prices Gain as Cold US Temps Spur Heating Demand",
+    "text": "February Nymex natural gas (NGG25) on Thursday closed up by +0.050 (+1.37%).\nFeb nat-gas prices Thursday added to Wednesday's sharp gains and posted a 1-week high. Below-normal US temperatures are boosting heating demand for nat-gas and are supporting prices. Forecaster Maxar Technologies said Thursday that widespread low temperatures persist across the Midwest and East and that temperatures from Jan 18-22 will run colder than previously expected for the Midwest.\nLower-48 state dry gas production Thursday was 101 bcf/day (-4.3% y/y), according to BNEF. Lower-48 state gas demand Thursday was 121.8 bcf/day (+16.9% y/y), according to BNEF. LNG net flows to US LNG export terminals Thursday were 14.7 bcf/day (+2.5% w/w), according to BNEF.\nA decline in US electricity output is negative for nat-gas demand from utility providers. The Edison Electric Institute reported Wednesday that total US (lower-48) electricity output in the week ended January 4 fell -2.73% y/y to 77,5180 GWh (gigawatt hours), although US electricity output in the 52-week period ending January 4 rose +2.37% y/y to 4,179,498 GWh.\nWednesday's weekly EIA report was slightly bearish for nat-gas prices since nat-gas inventories for the week ended January 3 fell -40 bcf, a smaller draw than expectations of -42, and much less than the 5-year average draw for this time of year of -93 bcf. As of January 3, nat-gas inventories were up +1.1% y/y and were +6.5% above their 5-year seasonal average, signaling ample nat-gas supplies. In Europe, gas storage was 69% full as of January 7, below the 5-year seasonal average of 75% full for this time of year.\nBaker Hughes reported last Friday that the number of active US nat-gas drilling rigs in the week ending January 3 rose +1 to 103 rigs, modestly above the 3-1/2 year low from September 6 of 94 rigs. Active rigs have fallen since posting a 5-1/4 year high of 166 rigs in Sep 2022, up from the pandemic-era record low of 68 rigs posted in July 2020 (data since 1987).\nOn the date of publication,Rich Asplunddid not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy\nhere. More news from Barchart\nCommodity Market Roundup- December’s Top Performers and UnderperformersThese 2 Dividend Stocks Were Stars in November. Is It Too Late to Buy?Why Did the Natural Gas Futures Rally Run Out of Steam?3 Energy ETFs to Invest in the Data Center Power Surge\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Weather"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial and economic news",
+        "Weather->weather statistic"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Edison Electric Institute",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Midwest",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:23:28.800+02:00",
+    "updated": "2025-01-10T01:23:28.800+02:00"
+}

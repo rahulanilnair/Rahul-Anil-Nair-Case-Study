@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "caac454a532415dc0133f49872419068c007fef4",
+        "url": "https://www.standardmedia.co.ke/nairobi/article/2001508216/us-national-charged-in-nairobi-court-over-sh174m-fake-gold-scam",
+        "site_full": "www.standardmedia.co.ke",
+        "site": "standardmedia.co.ke",
+        "site_section": "https://www.standardmedia.co.ke/business/politics",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " The Standard - Kenya &amp; World News | Latest and Breaking news\n",
+        "title": "US national charged in Nairobi court over Sh174m fake gold scam",
+        "title_full": "US national charged in Nairobi court over Sh174m fake gold scam",
+        "published": "2024-12-17T15:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KE",
+        "main_image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/o45GUHlAVhas5Pbkuf5jryP819mDM9cIZlkPaBmr.jpg",
+        "performance_score": 0,
+        "domain_rank": 7667,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "caac454a532415dc0133f49872419068c007fef4",
+    "url": "https://www.standardmedia.co.ke/nairobi/article/2001508216/us-national-charged-in-nairobi-court-over-sh174m-fake-gold-scam",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nancy Gitonga",
+    "published": "2024-12-17T15:18:00.000+02:00",
+    "title": "US national charged in Nairobi court over Sh174m fake gold scam",
+    "text": "Please enable JavaScript to read this content.\nA US national Sergio Patrick Antonucci has been charged in a Nairobi court with defrauding businessman Tanner Caldwell Cook of Sh 174 million in [a fake gold deal](https://www.standardmedia.co.ke/main-staging/article/2001494301/suspect-in-fake-gold-scam-arrested-in-utawala).\nAntonucci, who appeared before Milimani Chief Magistrate Susan Situbi on Monday, denied two criminal charges of conspiracy to commit a felony and obtaining money by false pretenses.\nThe charges stem from an alleged scheme in which Antonucci, along with others not before the court, falsely claimed to facilitate the sale of 2,820 kilograms of gold, valued at 1,271,200.74 US dollars, to his fellow U.S. national, Cook.\nAccording to the Office of the Director of Public Prosecutions (ODPP), the offences took place between March 31 and May 30, 2024, in Nairobi, County, where Antonucci and his accomplices purportedly misled Cook into believing they could secure the gold sale, knowing that the offer was fraudulent.\nThe accused also faced another charge of obtaining 1,271,200.74 US dollars from Cook under the same false pretense.\nAccording to the Directorate of Criminal Investigations (DCI), the businessman was reportedly introduced to Antonucci in Las Vegas, Nevada, in July 2023.\nAntonucci, who posed as an experienced banker, investor, and legal consultant specializing in navigating hostile and complex African markets, convinced Cook to hire him to oversee [the gold transactions](https://www.standardmedia.co.ke/amp/main-staging/article/2001494800/main-suspect-in-sh131m-fake-gold-scam-arrested) in the region.\nCook, trusting Antonucci’s credentials, made a series of payments, including an initial signing bonus of USD 50,000 in August 2023, followed by further payments of USD 15,000 in January and February 2024.\nDuring a subsequent trip to Nairobi, Antonucci introduced Cook to several individuals, including Caden Gebhard, a man claiming to be an active-duty U.S. soldier with the 19th Special Forces Group.\nGebhard was allegedly portrayed as a key contact with critical regional influence.\nThe complainant was then introduced to a Congolese accomplice, Eric Kalala Mukendi, as well as the alleged gold seller and licenced exporter at the Four Points by Sheraton Hotel in Hurlingham, Nairobi.\nAt this point, the victim, through his company AURUMSIC ONE LLC, signed a Sales and Purchase Agreement with AERO Logistics for the purchase of 2,820 kilograms of gold.\nBetween March 31, 2024, and May 30, 2024, the victim allegedly paid USD 1,271,200 to facilitate the transaction\nDespite paying the substantial sum, no gold was delivered.\nStay informed. Subscribe to our newsletter\nAfter realizing the deal was a scam, Cook reported the matter to DCL detectives who lodged investigations into the matter.\nOn December 15, 2024, the police arrested Antonucci upon arriving in Nairobi from Dubai and was charged with conspiracy and obtaining money by false pretenses.\nAfter the charges were read, Antonucci’s defence lawyer requested his release on bail, assuring the court that his client was willing to comply with any conditions, including depositing his passport and refraining from interfering with prosecution witnesses.\nThe prosecution opposed his release on bail, citing the possibility that he might flee due to his unknown permanent residence.\nHowever, Magistrate Shitubi granted Antonucci a Sh 10 million bond with a surety of a similar amount\nThe case will be mentioned on January 23, 2025, for pretrial directions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sergio Patrick Antonucci",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tanner Caldwell Cook",
+                "sentiment": "none"
+            },
+            {
+                "name": "Susan Situbi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:31:45.852+02:00",
+    "updated": "2024-12-17T15:31:45.852+02:00"
+}

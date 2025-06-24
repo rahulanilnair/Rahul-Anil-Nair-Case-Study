@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "6e56628a1c4a82c5d8f729ca6b8e859427420229",
+        "url": "https://www.myfxbook.com/news/canadian-market-likely-to-open-lower/32027",
+        "site_full": "www.myfxbook.com",
+        "site": "myfxbook.com",
+        "site_section": "https://www.myfxbook.com/news/yen-falls-against-majors",
+        "site_categories": [],
+        "section_title": "Forex News | Myfxbook",
+        "title": "Canadian Market Likely To Open Lower",
+        "title_full": "Canadian Market Likely To Open Lower",
+        "published": "2024-12-17T14:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.mfbcdn.net/images/news/32027/mobile.webp",
+        "performance_score": 0,
+        "domain_rank": 30115,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6e56628a1c4a82c5d8f729ca6b8e859427420229",
+    "url": "https://www.myfxbook.com/news/canadian-market-likely-to-open-lower/32027",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews",
+    "published": "2024-12-17T14:57:00.000+02:00",
+    "title": "Canadian Market Likely To Open Lower",
+    "text": "Canadian Market Likely To Open Lower\n(RTTNews) - Lower Canadian and U.S. futures, and weak commodity prices point to a negative start on Bay Street Tuesday morning. Canadian inflation data and U.S. retail sales data are in focus, and investors are also looking ahead to the Federal Reserve's monetary policy meeting that gets underway today.\nCanadian inflation data for the month of November is due at 8:30 AM ET.\nThe annual inflation rate in Canada rose to 2% in October from an over-three-year low of 1.6% in the previous month. The CPI increased 0.4% in October over the previous month.\nThe annual core inflation rate ticked higher to 1.7% in October, up from 1.6% in September. On a monthly basis, core inflation rose by 0.4% in October, after coming in flat in the prior month.\nThe new housing price index score for the month of November is also due at 8:30 AM ET.\nThe Canadian market closed weak on Monday, extending losses to a third straight session as weak oil and gold prices weighed on energy and materials stocks. Communications shares were the other major losers.\nThe benchmark S&P/TSX Composite Index closed down 127.09 points or 0.5% at 25,147.21.\nAsian stocks turned in a mixed performance on Tuesday as investors eyed the interest rate decisions from the Federal Reserve, the Bank of Japan and Bank of England for hints on where interest rates are headed in 2025.\nEuropean stocks are weak with investors looking ahead to a slew of central bank decisions this week, and closely watching the latest political developments in Germany and France.\nIn commodities, West Texas Intermediate Crude oil futures are down $0.76 or 1.07% at $69.95 a barrel.\nGold futures are down $10.80 or 0.4% at $2,659.20 an ounce, while Silver futures are lower by $0.302 or 0.97% at $30.755 an ounce.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "6e56628a1c4a82c5d8f729ca6b8e859427420229",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:11:42.298+02:00",
+    "updated": "2024-12-17T15:11:42.298+02:00"
+}

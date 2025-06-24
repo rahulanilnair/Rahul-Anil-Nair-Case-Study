@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "da0cbccf4d721572f785bfed07103aa7476d3c39",
+        "url": "https://www.newsbreak.com/wkbn-1589963/3753294349102-guardians-sign-2-key-starters-avoiding-arbitration",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wkbn-1589963",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WKBN&#x27;s Home Page | NewsBreak",
+        "title": "Guardians sign 2 key starters, avoiding arbitration - NewsBreak",
+        "title_full": "Guardians sign 2 key starters, avoiding arbitration - NewsBreak",
+        "published": "2025-01-10T00:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0lnNnr_0y1ucSKP00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "da0cbccf4d721572f785bfed07103aa7476d3c39",
+    "url": "https://www.newsbreak.com/wkbn-1589963/3753294349102-guardians-sign-2-key-starters-avoiding-arbitration",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T00:04:00.000+02:00",
+    "title": "Guardians sign 2 key starters, avoiding arbitration - NewsBreak",
+    "text": "By Chad Krispinsky ,\n2 hours ago\nCLEVELAND (WKBN) — The Cleveland Guardians have officially signed outfielders Steven Kwan and Lane Thomas to one-year deals, avoiding arbitration.\nAccording to Cleveland.com, the contract for Thomas is worth $7.825 million.\nMeanwhile, KPRC’s Ari Alexander is reporting that Kwan’s deal is valued at $4.175 million.\nLast season, Thomas was acquired by Cleveland in a trade with the Washington Nationals. Between Cleveland and Washington last season, Thomas posted a batting average of .237 with 15 home runs, 63 RBIs and 32 stolen bases.\nKwan won a Gold Glove for the third straight season in 2024. The All-Star appeared in 122 games with Cleveland, batting .292 with 14 homers, 44 RBIs and 12 steals.\nCopyright 2025 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WKBN.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Sport->baseball",
+        "Sport->sport industry",
+        "Sport->sports transaction",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0lnNnr_0y1ucSKP00",
+        "https://img.particlenews.com/image.php?url=0lnNnr_0y1ucSKP00",
+        "https://www.wkbn.com",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=0lnNnr_0y1ucSKP00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0lnNnr_0y1ucSKP00",
+        "https://wkbn.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:38:05.267+02:00",
+    "updated": "2025-01-10T02:38:05.267+02:00"
+}

@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "7c045a4d2dc2fcc8e704494e67880b42c1500cc3",
+        "url": "https://www.cbsnews.com/detroit/news/michigan-legislature-minimum-wages-tipped-wages",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.cbsnews.com/detroit/latest/rss/local-news",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Local News - CBS Detroit",
+        "title": "Michigan Legislature makes moves to change minimum and tipped wages - CBS Detroit",
+        "title_full": "Michigan Legislature makes moves to change minimum and tipped wages - CBS Detroit",
+        "published": "2025-01-10T03:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/10/b29bc65c-6a4f-465c-8e6c-cfa81fcaec74/thumbnail/1200x630/0f0d480427e105c9b154f280fab3bc7e/gettyimages-2090256442.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7c045a4d2dc2fcc8e704494e67880b42c1500cc3",
+    "url": "https://www.cbsnews.com/detroit/news/michigan-legislature-minimum-wages-tipped-wages",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T03:35:00.000+02:00",
+    "title": "Michigan Legislature makes moves to change minimum and tipped wages - CBS Detroit",
+    "text": "LANSING, Mich. (CBS DETROIT) — After months of calls to intervene, the Michigan Legislature took action this week on minimum and tipped wages.\nIn the first days of the session, Democratic lawmakers in the Michigan Senate introduced a set of bills that they say would accelerate the minimum wage increase, strengthen protections against wage theft, and maintain the state's tipped credit.\n\"Our intention here is to make sure we're addressing their concerns so they can still operate and be successful while protecting workers all at the same time,\" said state Sen. Kevin Hertel.\nThe four-bill package introduced by Sens. Kevin Hertel, David Camilleri and Sam Singh aims to be a practical approach to easing the burden on small businesses. The Michigan House also took steps to soften the change.\n\"We are going to have a special committee come together and thoroughly look at this legislation so that it is flexible for businesses,\" said Rep. Jamie Thompson.\nRaising the state's minimum wage, phasing out the tipped wage credit and offering mandatory paid time off will have a major impact on business owners like Greg Cowley, who co-owns John Cowley and Sons pub in Farmington.\n\"It's really almost a $75,000 to $100,000 impact on my business,\" said Cowley.\nThis week, the pub implemented an automatic 20% gratuity policy to try to keep its services and servers.\nJohn Sellek, a spokesman with Save MI Tips, says that after months without traction, this week has been a breath of fresh air.\n\"We feel like we broke a logjam, we've got a long way to go and almost no time on our hands. But finally, there's movement both in the House and the Senate. That's exciting,\" said Sellek. \"Now we just need to make sure everything gets wrapped up before mid-February.\"\nIn: Minimum Wage Politics Michigan Elle Meyers Elle Meyers joined the CBS News Detroit team in April of 2023 after spending two years covering Michigan's capitol. Elle is an Oregon native and a graduate of the University of Oregon (go Ducks!), where she double majored in journalism and political science, both of which have served her well in her journey to Detroit.\nTwitter Facebook Instagram",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/_ElleMeyersTV",
+        "https://www.instagram.com/elle.meyerstv/",
+        "https://www.facebook.com/Elle.Meyers13/",
+        "https://www.instagram.com/elle.meyerstv",
+        "https://facebook.com/Elle.Meyers13/",
+        "https://instagram.com/elle.meyerstv/",
+        "https://www.twitter.com/_ElleMeyersTV",
+        "https://www.facebook.com/Elle.Meyers13"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Camilleri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamie Thompson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kevin Hertel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sam Singh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:31:12.379+02:00",
+    "updated": "2025-01-10T04:31:12.379+02:00"
+}

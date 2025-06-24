@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "60a2819a0eee9ed952664c169737560cde674089",
+        "url": "https://euro.dayfr.com/news/2493383.html",
+        "site_full": "euro.dayfr.com",
+        "site": "dayfr.com",
+        "site_section": "https://euro.dayfr.com",
+        "site_categories": [],
+        "section_title": "DayFR Euro",
+        "title": "Public investment: effectiveness called into question",
+        "title_full": "Public investment: effectiveness called into question",
+        "published": "2024-12-17T09:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FR",
+        "main_image": "https://euro.dayfr.com/temp/resized/medium_2024-12-17-2e76388ff9.jpg",
+        "performance_score": 0,
+        "domain_rank": 71149,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60a2819a0eee9ed952664c169737560cde674089",
+    "url": "https://euro.dayfr.com/news/2493383.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "serena.",
+    "published": "2024-12-17T09:20:00.000+02:00",
+    "title": "Public investment: effectiveness called into question",
+    "text": "With an investment rate of around 31.5% of GDP since the mid-2000s, Morocco has significantly strengthened access to basic infrastructure. However, the growth generated does not reflect the extent of the efforts made.\nThe 2025 finance law allocates a record envelope of 340 billion dirhams to support public investment. A budgetary effort made by the State to revive an economy still weakened by the after-effects of the health crisis, stimulate private investment, rebuild infrastructure affected by the Al-Haouz earthquake and continue the development of strategic sectors such as water and energy.\nIn a recent analysis issued by Bank Al-Maghrib, the question of the efficiency of public investment is addressed from the angle of its real impact on economic and social development. Based on a comparative study, the authors of the analysis evaluate the technical efficiency of direct investments made by the State and local authorities.\nThe results are clear. They show that nearly 34% on average of public resources invested by Morocco are lost each year and nearly 30% for all developing countries. By country group, these losses are of the order of 45% in low-income countries, 29% in lower-middle-income countries and 25% in upper-middle-income countries.\nMorocco among the champions of public investment\nNearly 34% of public resources mobilized each year for investment are “wasted”, a worrying level which far exceeds the standards of upper middle-income countries, where this inefficiency reaches 25%. Since the mid-2000s, Morocco has had one of the highest investment rates among developing countries, reaching 31.5% of GDP.\nCertainly, the public investments committed, which represent on average 5.3% of GDP, have enabled major progress in basic infrastructure. The analysis highlights, for example, the spectacular progression of electrification, from 18% in 1995 to 99.6% in 2019. Likewise, nearly 80% of the rural population now has passable roads, compared to only 54% in 2005. Despite these achievements, economic results remain disappointing.\nAnnual growth, limited to 3.5% on average over the last two decades, does not reflect the extent of the efforts made. This poor performance is believed to be due to structural deficiencies, such as poorly designed projects, lax selection processes and insufficient monitoring. An observation of failure which aligns with the observations of the Court of Auditors which also points out the inefficiency of public spending.\nLoss\nOn this point, international benchmarks provide valuable insight. Indeed, the public investment efficiency score, estimated at 66%, reflects a loss of approximately 34% of the resources mobilized. This level is nevertheless lower than that of upper middle-income countries, where average efficiency reaches 75%. A reality which highlights persistent shortcomings in the selection, design and monitoring of projects, exacerbated by recurring institutional flaws.\nBeyond the mobilization of funds, it is now the quality of their use which should guide the priorities of decision-makers, the study recommends. “The report warns of a dangerous spiral. It is clear that state interventionism in the economy slows down growth, increases unemployment and amplifies deficits.\nAt more than 90% of GDP, public debt now requires us to break with this model,” warns Oussama Ouassini, economic intelligence expert. Suffice to say that the challenges to be met are immense. Between galloping demographics, declining water resources, the imperative to implement a new development model coupled with universal social coverage, Morocco finds itself at a pivotal moment in its development.\nWhere the State and public actors were content to invest, it becomes imperative to maximize the efficiency of resources to now guarantee impact.\nThe effectiveness of investments singled out by the Court of Auditors\nThe efficiency of public spending is a sine qua non condition for meeting development challenges at a time when Morocco aims to double the share of private investment in GDP and strengthen the attractiveness of foreign capital.\nIn its latest annual report, the Court of Auditors highlights structural weaknesses in the management of public investments in Morocco, which are nevertheless essential to stimulate growth and reduce disparities.\nAmong the pitfalls identified are preliminary studies that are often insufficient or non-existent, poor consideration of territorial specificities and persistent difficulties linked to land mobilization. These flaws hinder the realization of structuring projects and limit the impact of infrastructure on citizens and the national economy.\nThe institution headed by Zineb El Adaoui recommends strengthened governance and rigorous monitoring mechanisms, emphasizing the importance of intersectoral coordination to maximize benefits.\nAyoub Ibnoulfassih / ECO Inspirations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bank Al-Maghrib",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:27:04.237+02:00",
+    "updated": "2024-12-17T15:27:04.237+02:00"
+}

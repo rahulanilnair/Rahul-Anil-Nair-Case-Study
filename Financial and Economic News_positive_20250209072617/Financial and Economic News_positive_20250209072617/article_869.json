@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "62a0701a57ba86d24068da84203b085036a2f500",
+        "url": "https://energy.economictimes.indiatimes.com/news/renewable/ireda-sanctions-13226-81-crore-loans-in-q3-fy25-records-45-growth/117109650",
+        "site_full": "energy.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com/",
+        "site_categories": [
+            "media",
+            "business",
+            "green_solutions",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n        Latest Business News | The Economic Times B2B    ",
+        "title": "Q3 FY 2024-25 Financial Results: IREDA sanctions ₹13,226.81 crore loans in Q3 FY25, records 45% growth, ET EnergyWorld",
+        "title_full": "Q3 FY 2024-25 Financial Results: IREDA sanctions ₹13,226.81 crore loans in Q3 FY25, records 45% growth, ET EnergyWorld",
+        "published": "2025-01-10T06:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-117109650,imgsize-91178,width-1200,height=765,overlay-etenergy/renewable/ireda-sanctions-13226-81-crore-loans-in-q3-fy25-records-45-growth.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "62a0701a57ba86d24068da84203b085036a2f500",
+    "url": "https://energy.economictimes.indiatimes.com/news/renewable/ireda-sanctions-13226-81-crore-loans-in-q3-fy25-records-45-growth/117109650",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETEnergyworld.com",
+    "published": "2025-01-10T06:18:00.000+02:00",
+    "title": "Q3 FY 2024-25 Financial Results: IREDA sanctions ₹13,226.81 crore loans in Q3 FY25, records 45% growth, ET EnergyWorld",
+    "text": "New Delhi: Indian Renewable Energy Development Agency Ltd. (IREDA) has reported a 35.57% rise in its revenue from operations for the third quarter of FY 2024-25, reaching ₹1,698.99 crore compared to ₹1,253.20 crore in the same quarter of the previous fiscal.The company, India’s largest Green Financing NBFC, announced its quarterly results within nine days, becoming the only corporate to achieve this milestone.Profit before tax (PBT) for the quarter stood at ₹538.20 crore, up 39.38% from ₹386.14 crore in Q3 FY24. Profit after tax (PAT) increased by 26.77% to ₹425.37 crore from ₹335.54 crore recorded in the corresponding period last year.Loan sanctions rose by 45.01% to ₹13,226.81 crore compared to ₹9,121.11 crore in Q3 FY24, while loan disbursements grew by 25.27% to ₹7,448.96 crore from ₹5,946.45 crore. The loan book expanded by 36.34% to ₹68,959.61 crore, up from ₹50,579.67 crore in the same quarter last fiscal.The company’s net worth increased by 20.99% to ₹9,842.07 crore from ₹8,134.56 crore in Q3 FY24, while its earnings per share (EPS) rose by 15.03% to ₹1.58 from ₹1.38.During a board meeting held to approve the financial results, IREDA's CMD, Pradip Kumar Das, highlighted the company’s contribution to India's renewable energy goals. “Our outstanding performance in Q3 FY 2024-25 reflects IREDA's steadfast commitment to accelerating India's renewable energy transition. The significant growth in loan sanctions, disbursements, and the expansion of our loan book highlight our pivotal role in financing sustainable energy projects,” he said.He further acknowledged the efforts of Team IREDA and expressed gratitude to the Ministry of New & Renewable Energy (MNRE) and other stakeholders for their continuous support.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Indian Renewable Energy Development Agency Ltd.",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:02:21.451+02:00",
+    "updated": "2025-01-10T09:02:21.451+02:00"
+}

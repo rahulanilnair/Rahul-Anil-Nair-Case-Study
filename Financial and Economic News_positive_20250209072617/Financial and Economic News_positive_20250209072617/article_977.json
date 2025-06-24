@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "74b2c8c1827ade6fd491643599e395be5e5f9cbf",
+        "url": "https://pakobserver.net/pakistan-records-remittances-inflow-of-3-1-billion-in-december-2024",
+        "site_full": "pakobserver.net",
+        "site": "pakobserver.net",
+        "site_section": "https://pakobserver.net/rss",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan Observer",
+        "title": "Pakistan records remittances inflow of $3.1 billion in December 2024",
+        "title_full": "Pakistan records remittances inflow of $3.1 billion in December 2024",
+        "published": "2025-01-10T04:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://pakobserver.net/wp-content/uploads/2021/05/Spurt-in-home-remittances.jpg",
+        "performance_score": 0,
+        "domain_rank": 36568,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "74b2c8c1827ade6fd491643599e395be5e5f9cbf",
+    "url": "https://pakobserver.net/pakistan-records-remittances-inflow-of-3-1-billion-in-december-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Report",
+    "published": "2025-01-10T04:05:00.000+02:00",
+    "title": "Pakistan records remittances inflow of $3.1 billion in December 2024",
+    "text": "KARACHI – Pakistan recorded workers’ remittances inflow of $ 3.1 billion during December 2024.\nAccording to data released by the State Bank of Pakistan (SBP) on Friday, remittances increased by 29.3 per cent year over year and 5.6 per cent month over month.\nCumulatively, with an inflow of $17.8 billion, workers’ remittances increased by 32.8 per cent during H1FY25 compared to $13.4 billion received during H1FY24.\nRemittance inflows during December 2024 were mainly sourced from Saudi Arabia ($770.6 million), the United Arab Emirates ($631.5 million), the United Kingdom ($456.9 million), and the United States of America ($284.3 million).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:44:40.260+02:00",
+    "updated": "2025-01-10T09:44:40.260+02:00"
+}

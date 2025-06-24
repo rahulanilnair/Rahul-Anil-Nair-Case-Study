@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "1def4fabac4f503999422cf639f71e05f525f535",
+        "url": "https://www.deccanherald.com/business/companies/alibaba-to-sell-china-department-store-chain-intime-for-13-billion-loss-3321010",
+        "site_full": "www.deccanherald.com",
+        "site": "deccanherald.com",
+        "site_section": "https://www.deccanherald.com/india/chandigarh",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Chandigarh News, Latest Chandigarh News, New Chandigarh News Today and Headlines | Deccan Herald ",
+        "title": "Alibaba to sell China department store chain Intime for $1.3 billion loss",
+        "title_full": "Alibaba to sell China department store chain Intime for $1.3 billion loss",
+        "published": "2024-12-17T08:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.deccanherald.com/deccanherald%2F2024-12-17%2F6tch39a7%2F2024newsmlRC2N8BAWFUCE236955446.jpeg?rect=0%2C51%2C3500%2C1838&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 2852,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1def4fabac4f503999422cf639f71e05f525f535",
+    "url": "https://www.deccanherald.com/business/companies/alibaba-to-sell-china-department-store-chain-intime-for-13-billion-loss-3321010",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-12-17T08:57:00.000+02:00",
+    "title": "Alibaba to sell China department store chain Intime for $1.3 billion loss",
+    "text": "<p>Alibaba Group said on Tuesday it would sell its Chinese department store unit Intime and book a $1.3 billion loss from the deal, as the retail giant reshuffles its business portfolio to focus on its core e-commerce operation.</p><p>The sale marks a further acceleration of Alibaba's restructuring after the group split into six business units last year in its biggest-ever revamp and announced a series of top management reshuffles afterwards.</p><p>The company last month unveiled a plan to integrate its domestic Chinese and international e-commerce platforms into a single business unit run by one leader for the first time, as it faces growing competition from discount-heavy retailers at home and abroad.</p>.Gucci quits US anti-counterfeiting group after Alibaba joins.<p>Rival platforms such as PDD Holdings' Pinduoduo and Temu, along with ByteDance's Douyin and TikTok, have stepped up competition with Alibaba by targeting cost-conscious shoppers with rock-bottom prices on everything from headphones to sweaters.</p><p>China's challenging consumer environment has put pressure on all retailers and e-commerce platforms.</p><p>\"I think in the short term Alibaba just doesn't have the attention to actually do offline retail and do it well,\" said Jianggan Li, founder and CEO of Momentum Works, a venture and insights firm, though \"finding the right buyer at the right price\" for offline assets remains a challenge.</p>.<p>Alibaba said on Tuesday it would sell Intime to a consortium comprising Youngor Fashion and members of Intime's management team for 7.4 billion yuan ($1.02 billion), subject to customary regulatory approvals.</p><p>Alibaba purchased Intime in 2017 in a $2.6 billion deal to expand into the bricks-and-mortar retail segment and currently holds a 99% stake in the business.</p><p>The e-commerce giant has been looking to sell a number of consumer sector assets, including Intime, grocery business Freshippo and retailer RT-Mart to focus on its core business, Reuters reported in February.</p>.<p>At the time, Alibaba Chairman Joe Tsai told analysts that while it made sense to exit the businesses, challenging market conditions meant it would take time.</p><p>Alibaba, under former boss Daniel Zhang, expanded its presence in the retail sector by taking over several brick-and-mortar chains, including electronics retailer Suning and hypermarket operator Sun Art Retail, which runs RT-Mart.</p><p>The once vaunted \"New Retail\" model, a term coined by Alibaba co-founder Jack Ma, was meant to offer the best of both e-commerce and brick-and-mortar but also featured higher rents and labour costs than pure e-commerce, and the expense of integrating complex systems.</p><p>In April, Ma expressed support for the internet giant's restructuring efforts, and acknowledged past mistakes in a lengthy memo to employees.</p>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Alibaba Group",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:39:15.421+02:00",
+    "updated": "2024-12-17T11:39:15.421+02:00"
+}

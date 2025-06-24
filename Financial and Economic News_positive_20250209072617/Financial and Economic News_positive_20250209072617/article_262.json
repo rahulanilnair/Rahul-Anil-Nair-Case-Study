@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "bd7389bc60bf64d2300ffd7a9e1f227011432fee",
+        "url": "https://broadbandbreakfast.com/usda-to-open-applications-for-26-million-community-connect-program",
+        "site_full": "broadbandbreakfast.com",
+        "site": "broadbandbreakfast.com",
+        "site_section": "https://broadbandbreakfast.com/feed/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Broadband Breakfast",
+        "title": "USDA to Open Applications for $26 Million Community Connect Program",
+        "title_full": "USDA to Open Applications for $26 Million Community Connect Program",
+        "published": "2025-01-10T01:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://broadbandbreakfast.com/content/images/2025/01/Pulse-Fiber-construction-small-pi-1.png",
+        "performance_score": 0,
+        "domain_rank": 95620,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bd7389bc60bf64d2300ffd7a9e1f227011432fee",
+    "url": "https://broadbandbreakfast.com/usda-to-open-applications-for-26-million-community-connect-program",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jericho Casper",
+    "published": "2025-01-10T01:40:00.000+02:00",
+    "title": "USDA to Open Applications for $26 Million Community Connect Program",
+    "text": "Funding\nUSDA to Open Applications for $26 Million Community Connect Program\nRecipients last year included NEK Community Broadband, Lewis County PUD, and Pulse Broadband.\n[Jericho Casper](/author/jericho/)\nWASHINGTON, Jan. 9, 2025 – With $26 million on the table, the U.S. Department of Agriculture has called rural innovators to apply for its 2025 Community Connect Grants.\nThe Community Connect program defines areas eligible for awards as those receiving Internet service below 10 Megabits per second (Mbps) * 1 Mbps. While this threshold ensures funding targets areas with little or no connectivity, it contrasts with definitions used in other USDA initiatives, like the ReConnect Program, in which areas lacking speeds of 100 Mbps download and 20 Mbps upload now qualify for funding, significantly expanding eligibility.\nThe difference highlights ongoing debates within federal broadband policy over what constitutes \"sufficient\" internet access. Recent discussions have centered on whether programs under the USDA’s Rural Utilities Service should prioritize areas with speeds between 100 * 20 Mbps and 100 * 100 Mbps, in a push to future-proof rural broadband infrastructure.\nRecipients of the Community Connect program can use the funds for constructing or leasing broadband infrastructure, delivering free Internet service to public institutions for two years, or creating community centers with public Internet access. Up to $150,000 of each grant may be dedicated to the improvement, expansion, construction or acquisition of such centers.\nApplications open on Feb. 20, with a submission deadline of Apr. 21. Eligible applicants include local governments, nonprofits, federally recognized tribes, cooperatives, private corporations, and other legal entities.\nThe 2024 awards exemplify the program’s commitment to partnering with a diverse range of local organizations, including rural telephone cooperatives, public utilities, municipal broadband providers, and private companies. In total, the USDA awarded more than $66 million last year across 16 projects, with 9 awards going to public providers and 7 awards to private entities.\nNotable recipients among public organizations include:\n- City of Loveland and Pulse Broadband in Colorado\nThe USDA awarded[over $1 million]to Pulse Broadband, Loveland’s municipal internet service provider, to expand broadband to residents of Big Thompson Canyon and Viestenz-Smith Mountain Park, areas with historically poor connectivity. Pulse, a division of Loveland Water and Power, operates a 100% fiber-optic broadband network, providing high-speed internet to homes and businesses across the region.\n- NEK Community Broadband in Vermont\nNEK Community Broadband, a nonprofit communications union district serving Vermont’s Northeast Kingdom, received $2.8 million to expand fiber broadband to Groton and parts of South Ryegate. The funding will support the creation of a community hub, provide new equipment for the cities’ libraries, and deploy a Wi-Fi hotspot that addresses a significant dead zone that has long challenged first responders in the area.\n- Public Utility District 1 of Lewis County in Washington\nThe USDA awarded n[early $4.9 million]to Lewis County PUD to build a fiber-to-the-premises network, providing broadband access to 1,152 residents and 16 businesses in rural areas. The project includes a community center located at Lewis County Fire District No. 11 in Pe Ell, where residents will have access to free internet for at least two years. The PUD, a community-owned utility, has been instrumental in expanding infrastructure to rural Washington.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Community Connect Program Funding\nUSDA",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:24:59.402+02:00",
+    "updated": "2025-01-10T02:24:59.402+02:00"
+}

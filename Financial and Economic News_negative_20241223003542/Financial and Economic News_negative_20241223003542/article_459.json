@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "5106212f067501f290147416f6ffb7d2af654e8f",
+        "url": "https://news.az/news/gold-prices-dip-as-traders-await-fed-decision",
+        "site_full": "news.az",
+        "site": "news.az",
+        "site_section": "https://news.az",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News.az - Latest news from Azerbaijan",
+        "title": "Gold prices dip as traders await Fed decision",
+        "title_full": "Gold prices dip as traders await Fed decision",
+        "published": "2024-12-17T13:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://news.az/photos/2024/12/1734435260.jpg",
+        "performance_score": 0,
+        "domain_rank": 49197,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5106212f067501f290147416f6ffb7d2af654e8f",
+    "url": "https://news.az/news/gold-prices-dip-as-traders-await-fed-decision",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mehman",
+    "published": "2024-12-17T13:33:00.000+02:00",
+    "title": "Gold prices dip as traders await Fed decision",
+    "text": "Gold prices dip as traders await Fed decision\nPhoto: iStock\nGold prices slipped, alongside most commodities and equity markets, as traders brace for a wave of interest rate decisions from key central banks, including the US Federal Reserve.\nBullion traded near $2,640 an ounce, after notching a modest gain in the previous session as investors parsed mixed US data. Activity at US service providers expanded at the fastest pace since October 2021, while a measure of New York state factory activity retreated by the most since last May,[News.Az](https://news.az)reports, citing\n[Bloomberg.](https://www.bloomberg.com/europe)\nThe Fed makes its final policy decision of the year on Wednesday, followed by announcements in Japan and the UK this week. Interest-rate swaps are almost fully pricing in a quarter-point cut in the US, and traders will focus on policymakers’ language for clues on the 2025 outlook. Lower rates are typically positive for gold, which doesn’t pay interest.\nThe precious metal has risen by more than 28% this year, putting it on track for its biggest annual gain since 2010. Its strength has been supported by easing in the US, safe-haven demand and sustained buying by the world’s central banks. The value of Indian gold imports surged to a record in November after the government cut customs levies.\n“Gold is in a bit of a Goldilocks situation,” Max Layton, global head of commodities research at Citigroup Inc., said in an interview on Bloomberg TV. Layton said that whether inflation remained higher or lower than expected, gold would benefit from both a downturn in the US economy, and lower rates.\nSpot gold was down 0.5% at $2,639.21 an ounce at 10:57 a.m. in London. The Bloomberg Dollar Spot Index rose 0.1%, while silver, palladium and platinum were all lower.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bloomberg.com/europe",
+        "https://bloomberg.com/europe"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Fed",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:42:00.471+02:00",
+    "updated": "2024-12-17T13:42:00.471+02:00"
+}

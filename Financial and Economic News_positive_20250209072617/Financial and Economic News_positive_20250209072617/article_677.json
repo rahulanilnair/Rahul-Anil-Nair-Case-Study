@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "55319973affbbf18d41ad297a3c455f10519cf90",
+        "url": "https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/tech-can-tackle-menace-of-cyber-frauds-say-experts/117104974",
+        "site_full": "ciso.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com",
+        "site_categories": [
+            "hacking",
+            "tech",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n        Latest Business News | The Economic Times B2B    ",
+        "title": "Tech can tackle menace of cyber frauds, say experts, IT Security News, ET CISO",
+        "title_full": "Tech can tackle menace of cyber frauds, say experts, IT Security News, ET CISO",
+        "published": "2025-01-10T06:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-117104974,imgsize-36604,width-1200,height=765,overlay-etciso/cybercrime-fraud/tech-can-tackle-menace-of-cyber-frauds-say-experts.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55319973affbbf18d41ad297a3c455f10519cf90",
+    "url": "https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/tech-can-tackle-menace-of-cyber-frauds-say-experts/117104974",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T06:57:00.000+02:00",
+    "title": "Tech can tackle menace of cyber frauds, say experts, IT Security News, ET CISO",
+    "text": "C3iHub, the Cybersecurity Technology Innovation Hub at IIT Kanpur, in collaboration with the University of Tulsa, USA, hosted annual International Conference on Digital Forensics in New Delhi, in the presence of over 350 distinguished professionals from various investigative agencies, forensic labs, academic institutions, law enforcement, and govt bodies, along with participants from abroad. In the two-day event, participants presented insightful research papers on dashcam and mobile forensics, deepfake detection, product authentication, forensic tools, and industrial control systems. There were panel discussions on govt initiatives and policies for cybersecurity ecosystem and laws, regulations and digital forensics. Indigenous mobile forensic tool 'CHITRAGUPT' by Forensic CyberTech Pvt Ltd was launched, providing solution for extraction, analysis and reporting and extraction of data from mobile devices.Keynote lectures were delivered by Lt Gen M Unnikrishnan Nair, National Cybersecurity Coordinator at the National Security Council Secretariat, Govt of India, on 'Digital Forensics: Challenges Arising Due to Emerging Technologies', and Dr Gaurav Gupta, director and scientist 'F' in ministry of electronics and information technology (MeitY), on 'Evolving digital forensics ecosystem'. Nair highlighted challenges to defence against ransomware attacks, detecting advanced malware and grappling with difficulty of discerning truth from falsehood in digital environments. He emphasised role of research in addressing these issues and called for greater collaboration and a unified effort to protect citizens and critical infrastructures in the face of rapidly evolving technological threats.Dr Gaurav Gupta discussed the evolving landscape of computer frauds and cybercrimes, highlighting emerging forensic challenges and their potential solutions related to Cyber-Physical Systems, Quantum Computing, IoT, and other advanced technologies. He also mentioned his students' patent-pending solution for the world's first anti-counterfeiting printable solution, which can be generated with a standard colour printer and easily verified for authenticity using just a customised smartphone app. Gupta said, \\\"Since criminals are the most creative but lazy people on earth, these traits can be used to develop solutions to tackle the menace of computer frauds and cybercrimes. The country needs a digital forensic mission to develop ecosystem to ensure people trust in digital technologies.\\\" Organising chair of the conference, department of computer science and engineering, dean of digital infrastructure and automation and chief information security officer at IIT Jodhpur, Prof Somitra Kr Sanadhya said, \\\"My area of work is centred around computer security and digital forensics promises to deliver solutions that could benefit law enforcement agencies to speed up investigation of cases involving electronic evidence. My aim in being associated with the 21st International Conference on Digital Forensics is to introduce students interested in pursuing research in the field of digital forensics to top-notch research happening in this area.\\\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->social sciences",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->discrimination",
+        "Social Issue->social networking",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Cybersecurity Technology Innovation Hub",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Security Council Secretariat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Digital Forensics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:20:37.769+02:00",
+    "updated": "2025-01-10T07:20:37.769+02:00"
+}

@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "a2c6c137d94606b8132e9b69118d116d1a4fedcc",
+        "url": "https://euro.dayfr.com/news/2493355.html",
+        "site_full": "euro.dayfr.com",
+        "site": "dayfr.com",
+        "site_section": "https://euro.dayfr.com",
+        "site_categories": [],
+        "section_title": "DayFR Euro",
+        "title": "Insolvency | Lion Électrique will protect itself from its creditors",
+        "title_full": "Insolvency | Lion Électrique will protect itself from its creditors",
+        "published": "2024-12-17T09:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FR",
+        "main_image": "https://euro.dayfr.com/temp/resized/medium_2024-12-17-d7bc6a9ab7.jpg",
+        "performance_score": 0,
+        "domain_rank": 71149,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2c6c137d94606b8132e9b69118d116d1a4fedcc",
+    "url": "https://euro.dayfr.com/news/2493355.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "amel.",
+    "published": "2024-12-17T09:12:00.000+02:00",
+    "title": "Insolvency | Lion Électrique will protect itself from its creditors",
+    "text": "Lion Électrique, one of the symbols of the electrification of transportation in Quebec, is in a dead end. Unable to find money to replenish its coffers, the manufacturer of school buses and electric trucks will shelter itself from its creditors.\nPosted at 7:33 a.m.\nUpdated at 7:50 a.m.\nA sign that the company based in Saint-Jérôme had no more options: it asked its employees to stay at home on Tuesday.\nInsolvent, the builder was unable to repay a loan of 30 million to the Caisse de dépôt et placement du Québec (CDPQ) and Finalta Capital. In addition, it was unable to reach an agreement with its lenders to obtain further relaxations of the conditions of a loan of US 117 million taken out from a banking syndicate.\nIn both cases, the deadline was set for December 16.\nTurning towards the Corporate Creditors Arrangement Act (LACC), Lion Électrique will be able to continue its activities while benefiting from the protection of the courts in an attempt to reach an agreement with its creditors.\n“The company is currently in discussions with its senior lenders to obtain additional funds under a new credit facility,” she explains in a press release.\nBy opting for creditor protection, Lion is putting at risk approximately 200 million which were offered to it by the governments of Quebec and Canada as well as institutions such as the CDPQ and the Fonds de solidarité FTQ. Retail investors who bought the company’s shares in recent years also risk ending up empty-handed.\nThe International Association of Machinists and Aerospace Workers (IAMAW), currently negotiating the first collective agreement for employees of the Saint-Jérôme factory, is concerned about the turn of events at the dawn of the holiday season.\n“If Lion Électrique is not taken over by Quebec interests, our electric school buses will continue to be manufactured outside Quebec,” lamented its Quebec representative Éric Rancourt.\nTo try to save the furniture, the manufacturer has been negotiating, since the beginning of the month, with a group of private investors including the real estate developer Groupe Mach and the Saputo family holding company (Jolina).\nHowever, it was not possible to reach an agreement. The Press reported Monday that negotiations were breaking down.\nFor about a year, Lion has blamed its liquidity challenges on the administrative burden of a federal transportation electrification program, which would have the effect of slowing down its sales of school buses.\nHowever, there are other factors that come into play. Alongside its assembly line in Saint-Jérôme, in the Laurentians, the manufacturer spent more than 230 million US dollars to build a battery factory in Mirabel as well as its assembly plant in the United States. Production is currently at a standstill in these two complexes.\nAdded to this is a slowdown in demand while the shift to electricity is slower than expected, a phenomenon that affects the entire industry.\nOn the floor of the Toronto Stock Exchange on Monday, Lion shares closed at 35 cents. That stock price is a far cry from the peak of around $25 reached in spring 2021 after the company arrived on Bay Street and Wall Street.\nPublic money at risk in Lion Électrique\n- 2021: 19 million from Investissement Québec (IQ) for the purchase of shares\n- 2021: 37 million taken from a loan offered by Quebec for the battery pack factory\n- 2021: 21 million taken from Ottawa loan for battery pack complex\n- 2022: 15 million in loan from the Caisse de dépôt et placement du Québec\n- 2023: 98 million loaned by IQ, the FTQ Solidarity Fund and Fondaction\n- 2024: 7.5 million in loan from the Quebec government",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "LACC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:27:07.034+02:00",
+    "updated": "2024-12-17T15:27:07.034+02:00"
+}

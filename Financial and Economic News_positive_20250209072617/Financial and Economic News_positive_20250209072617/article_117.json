@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "4ed526680b0fbd079a3ed7e3fe7d4ab1bb1dcb19",
+        "url": "https://www.bursa.ro/why-2025-could-be-the-year-of-the-so-called-altcoins-44324452",
+        "site_full": "www.bursa.ro",
+        "site": "bursa.ro",
+        "site_section": "https://www.bursa.ro/suplimente",
+        "site_categories": [
+            "tennis",
+            "sports"
+        ],
+        "section_title": "Suplimentele BURSA | BURSA.RO",
+        "title": "Why 2025 could be the year of the so-called &#34;altcoins&#34;?",
+        "title_full": "Why 2025 could be the year of the so-called &#34;altcoins&#34;?",
+        "published": "2025-01-10T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "RO",
+        "main_image": "https://www.bursa.ro/_img/articole/mare/544234.jpg",
+        "performance_score": 0,
+        "domain_rank": 75273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4ed526680b0fbd079a3ed7e3fe7d4ab1bb1dcb19",
+    "url": "https://www.bursa.ro/why-2025-could-be-the-year-of-the-so-called-altcoins-44324452",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BURSA",
+    "published": "2025-01-10T00:00:00.000+02:00",
+    "title": "Why 2025 could be the year of the so-called &#34;altcoins&#34;?",
+    "text": "Bitcoin saw strong growth last year, but other segments of the crypto market will perform in 2025, according to industry experts, writes Business Insider. In their opinion, the so-called \"altcoins\" or alternative currencies - that is, cryptocurrencies that are not Bitcoin - will grow this year, amid Donald Trump's promises of less regulation of digital assets.\nLast year, Bitcoin appreciated by about 120%, the evolution being favored by the launch of ETFs on Bitcoin spot, the so-called \"halving\" of the rewards that miners receive for supporting the blockchain network and Trump's victory in November. Along the way, Bitcoin exceeded the 100,000 euro threshold and appreciated by 50% in a single month, a period in which many \"altcoins\", such as Ethereum with a plus of 59%, XRP or Solana, also had massive growth.\nBut Bitcoin's appreciation has been tempered by hawkish comments from Federal Reserve officials, while other cryptocurrencies show signs of continued momentum, according to Business Insider. Bitcoin has lost 15% in the past two weeks since the Fed's hawkish remarks, while ETFs have seen massive outflows, losing $680 million in one day, according to data compiled by Bloomberg.\n\"Given that Ethereum is the only other major cryptocurrency for which spot ETFs have been approved, it likely represented a rotation target,\" Citi analysts wrote in a note published earlier this week.\nOther cryptocurrencies have performed even better, increasing their shares of the global crypto market cap. In addition, respondents to a recent survey see 2025 as a year of better performance for altcoins, according to the bank's team. \"Some market participants are betting on an \"alternative season' in 2025, after a strong year for Bitcoin,\" the analysts said.\nAccording to experts, the divergent movements between Bitcoin and other cryptocurrencies are the result of a fundamental difference in the factors influencing the two market segments. Bitcoin is fairly well regulated, with futures, ETFs, options and more, so the price increase is driven by excitement about wider adoption, believes Andrew Baehr of CoinDesk Indices.\nBut \"altcoins\" are more of a gray area, having been targeted by the Securities and Exchange Commission (SEC) for a long time, which has deemed many cryptos to be unregistered securities. Therefore, the prospect of favorable crypto regulations will be the main driver of price movement for so-called \"altcoins\" in 2025.\nOne example of this was the evolution of the XRP token, which in recent years has been the target of a lawsuit filed by the SEC, but which has risen sharply after Trump's election and the announcement that Gary Gensler will resign as head of the Commission.\n\"With the market expecting the SEC to take a step back in 2025, more crypto projects will emerge in the United States,\" says Baehr. \"Decentralized projects will need a blockchain to run, and Ethereum seems like the likely candidate.\"\nBaehr pointed out that, after the election, Ethereum's performance was partly in line with other cryptocurrencies, the specific reason being that the prospects for crypto projects are much better under the new White House administration.\nAccording to Citi analysts, political support would help strengthen the legitimacy of \"altcoins\", which will likely lead to an increase in prices. \"Bitcoin is classified as a commodity and already has spot ETFs and futures contracts, while the definition of other crypto assets is more unclear, and the range of investment options is also more limited,\" said Citi analysts, in whose opinion the support that will come from the political area will give a huge boost to \"altcoins\", compared to Bitcoin, writes Business Insider.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Economy, Business and Finance->financial and economic news",
+        "Science and Technology->technology and engineering",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bitcoin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:57:39.524+02:00",
+    "updated": "2025-01-10T00:57:39.524+02:00"
+}

@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "7f12818a82ec647204bb9ebe1e435da0300b2612",
+        "url": "https://article.wn.com/view/2025/01/10/China_hails_trade_investment_achievements_of_RCEP_at_threeye",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/china",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "China",
+        "title": "China hails trade, investment achievements of RCEP at three-year mark - Worldnews.com",
+        "title_full": "China hails trade, investment achievements of RCEP at three-year mark - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7f12818a82ec647204bb9ebe1e435da0300b2612",
+    "url": "https://article.wn.com/view/2025/01/10/China_hails_trade_investment_achievements_of_RCEP_at_threeye",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "China hails trade, investment achievements of RCEP at three-year mark - Worldnews.com",
+    "text": "BEIJING, Jan. 9 (Xinhua) -- The Regional Comprehensive Economic Partnership (RCEP) has deepened trade and investment cooperation among its members since it came into force three years ago, and has effectively consolidated the fundamentals of China's foreign trade, China's Commerce Ministry spokesperson He Yadong said on",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->economy",
+        "Politics->international relations",
+        "Politics->economic policy",
+        "Social Issue->emigration",
+        "Social Issue->social condition",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "He Yadong",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Commerce Ministry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:18:36.621+02:00",
+    "updated": "2025-01-10T03:18:36.621+02:00"
+}

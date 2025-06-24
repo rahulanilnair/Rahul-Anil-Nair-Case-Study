@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "d73994137569e0c6f45d07e1de5a5be629e34fc0",
+        "url": "https://www.stockwatch.com/News/Item?bid=Z-C:*MKTGOLD-3640266&amp;symbol=*MKTGOLD&amp;region=C",
+        "site_full": "www.stockwatch.com",
+        "site": "stockwatch.com",
+        "site_section": "https://www.stockwatch.com/#home",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "\r\n\tStockwatch\r\n",
+        "title": "by Stockwatch Business Reporter New York spot gold rose $6.8",
+        "title_full": "by Stockwatch Business Reporter New York spot gold rose $6.8",
+        "published": "2025-01-10T00:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 127023,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d73994137569e0c6f45d07e1de5a5be629e34fc0",
+    "url": "https://www.stockwatch.com/News/Item?bid=Z-C:*MKTGOLD-3640266&amp;symbol=*MKTGOLD&amp;region=C",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T00:57:00.000+02:00",
+    "title": "by Stockwatch Business Reporter New York spot gold rose $6.8",
+    "text": "by Stockwatch Business Reporter\nNew York spot gold rose $6.80 to close at $2,669.90 Thursday while the TSX Venture Exchange added 4.95 points to 615.08 and the TSX gold index rose 3.35 points to 360.56. Most Canadian gold miners gained ground. Equinox Gold Corp. (EQX), which said that it had a strong 2024, added 35 cents to $8.70 on 4.14 million shares today. Equinox had added 30 cents Tuesday and 76 cents yesterday on word that it has extended the life of its Fazenda mine in Brazil to 2033.\nOn the other hand, Wayne Bramwell's Westgold Resources Ltd. (WGX) lost 34 cents to $2.32 on 1.4 million shares on preliminary production results for its second quarter of fiscal 2025. The company produced 80,886 ounces, up a bit from the previous quarter but not enough to impress investors. Mr. Bramwell, managing director and chief executive officer, was brimming with good cheer. He touted the ramping up of production at Bluebird and Beta-Hunt, and the progress toward a first pour at Great Fingall, expected later this year. He had more to say, but the market was unenthused.\nThe remainder is available to Stockwatch subscribers.\nSign-up for a FREE 30-day Stockwatch subscription and SEE NO ADS\n© 2025 Canjex Publishing Ltd. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wayne Bramwell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Stockwatch Business Reporter\nNew York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stockwatch Business Reporter New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Westgold Resources Ltd.",
+                "sentiment": "none"
+            },
+            {
+                "name": "TSX Venture Exchange",
+                "sentiment": "none"
+            },
+            {
+                "name": "Equinox Gold Corp.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:47:36.271+02:00",
+    "updated": "2025-01-10T01:47:36.271+02:00"
+}

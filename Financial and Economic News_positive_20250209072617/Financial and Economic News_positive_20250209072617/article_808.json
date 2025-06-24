@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "98360bc03980907a916b729ab3cc957129280f02",
+        "url": "https://www.newsbreak.com/reuters-555486/3753693282104-tsmc-s-fourth-quarter-revenue-handily-beats-market-forecast",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "title": "TSMC's fourth-quarter revenue handily beats market forecast - NewsBreak",
+        "title_full": "TSMC's fourth-quarter revenue handily beats market forecast - NewsBreak",
+        "published": "2025-01-10T07:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1PtqnR_0y2IwtYH00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98360bc03980907a916b729ab3cc957129280f02",
+    "url": "https://www.newsbreak.com/reuters-555486/3753693282104-tsmc-s-fourth-quarter-revenue-handily-beats-market-forecast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T07:39:00.000+02:00",
+    "title": "TSMC's fourth-quarter revenue handily beats market forecast - NewsBreak",
+    "text": "By Reuters ,\n58 minutes ago\nTAIPEI (Reuters) - TSMC, the world's largest contract chipmaker, on Friday reported fourth-quarter revenue of T$868.42 billion ($26.36 billion), according to Reuters calculations, easily beating a market forecast, as the company reaps the benefit from artificial intelligence demand.\nAn LSEG SmartEstimate, drawn from 23 analysts, had predicted fourth-quarter revenue of T$853.57 billion.\nTaiwan Semiconductor Manufacturing Co (TSMC) is a major supplier to companies including Apple and Nvidia.\n($1 = 32.9530 Taiwan dollars)\n(Reporting by Ben Blanchard and Faith Hung; Editing by Tom Hogue)\n1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->computing and information technology",
+        "Politics->regulation of industry",
+        "Politics->economic policy",
+        "Politics->government",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1PtqnR_0y2IwtYH00",
+        "https://img.particlenews.com/image.php?url=1PtqnR_0y2IwtYH00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=1PtqnR_0y2IwtYH00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1PtqnR_0y2IwtYH00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:38:12.528+02:00",
+    "updated": "2025-01-10T08:38:12.528+02:00"
+}

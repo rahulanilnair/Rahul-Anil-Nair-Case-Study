@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "d548954deb99abeb681eab395c06782f8818a27c",
+        "url": "https://article.wn.com/view/2025/01/10/China_sees_257_drop_in_criminal_cases_in_2024",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Asia",
+        "title": "China sees 25.7% drop in criminal cases in 2024 - Worldnews.com",
+        "title_full": "China sees 25.7% drop in criminal cases in 2024 - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d548954deb99abeb681eab395c06782f8818a27c",
+    "url": "https://article.wn.com/view/2025/01/10/China_sees_257_drop_in_criminal_cases_in_2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "China sees 25.7% drop in criminal cases in 2024 - Worldnews.com",
+    "text": "BEIJING -- China witnessed a 25.7-percent decline in criminal cases in 2024 compared to the previous year, the Ministry of Public Security said on Friday, which marks China's fifth national police day. Cases of public security remained largely unchanged, and the overall public safety situation remained stable, the",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->law enforcement",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ministry of Public Security",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:36:20.428+02:00",
+    "updated": "2025-01-10T08:36:20.428+02:00"
+}

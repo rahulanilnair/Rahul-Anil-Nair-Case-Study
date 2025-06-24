@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "020ade8bba0fd6715357cbdd7bd4611a1aefeea8",
+        "url": "https://www.onrec.com:443/news/economy/44-of-uk-smes-say-national-insurance-increase-in-budget-will-negatively-affect-them",
+        "site_full": "www.onrec.com",
+        "site": "onrec.com",
+        "site_section": "https://onrec.com/homepage",
+        "site_categories": [
+            "job_search",
+            "jobs"
+        ],
+        "section_title": "Onrec | The Online Recruitment Resource",
+        "title": "44% of UK SMEs say National Insurance increase in Budget will negatively affect them | Onrec",
+        "title_full": "44% of UK SMEs say National Insurance increase in Budget will negatively affect them | Onrec",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 57423,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "020ade8bba0fd6715357cbdd7bd4611a1aefeea8",
+    "url": "https://www.onrec.com:443/news/economy/44-of-uk-smes-say-national-insurance-increase-in-budget-will-negatively-affect-them",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stuart Gentle Publisher",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "44% of UK SMEs say National Insurance increase in Budget will negatively affect them | Onrec",
+    "text": "- 37% of UK SMEs now cite tax as one of their biggest challenges\n- However, businesses hopeful that EU trade will improve in next 12 months\n44% of UK SMEs say the increase in employer national insurance contributions (NICs) in the Autumn Budget will negatively impact them, shows the new Owner Managed Business Survey by Moore UK*, the leading accountancy network.\nThe survey also finds that over a third (37%) of businesses now cite tax as one of the biggest challenges facing them in the next three months compared to 21% 12 months ago. Tax is now the second biggest concern of OMBs – just behind costs like energy and property (38%).\nThe National Insurance increase is estimated to cost businesses an additional £25billion a year.\nMark Lance, CEO at Moore UK, says: “Tax increases in the Budget went further than many business owners expected – many now worry that their businesses will suffer as a result.”\n“Business owners will have to decide whether they pay for the National Insurance increase by reduced profits, cost cutting or by putting up their prices. None of those solutions are very palatable.”\n“Owner-managers feel the increase in employer NICs puts too much of the tax burden on their businesses. Our research shows that the perceived burden of taxes has become a much bigger worry following the Budget.”\nBudget tax increases will impact investment and recruitment for businesses\nAccording to Moore UK’s survey, 29% of owner-managers say that tax rises in the Budget will make it harder for their businesses to commit to capital expenditure. 29% also say that the Budget will make hiring new employees harder.\nSays Mark Lance: “Tax rises on businesses come with a cost. An entrepreneur who is concerned about their business’s tax bills will not be confident about investing or growing their workforce.”\n“Owner-managed businesses are major employers in the UK – a Budget that impacts their recruitment affects the whole job market.”\nEmployment Rights Bill popular among business owners\nMoore UK’s survey shows that business owners are perhaps surprisingly positive about the recent Employment Rights Bill. 49% of OMBs surveyed are positive about the Bill, compared to just 24% who view the Bill as a negative. The Bill includes measures to ban zero-hours contracts and give employees ‘day one’ rights to protection from unfair dismissal.\nSays Mark Lance: “Business owners actually welcome many of the measures in the new Employment Rights Bill. We find that business owners are keen to be good employers and treat their employees well – and that lines up with the positive views on the Employment Rights Bil.”\nMost businesses hopeful that EU trade will improve this year\nMoore UK’s survey also shows that 58% of business owners think the UK’s trade with the EU will become easier within the next 12 months.\nSays Mark Lance: “Confidence in the future of UK-EU trade is one of the most encouraging results of our survey. A lot of owner-managed businesses are big exporters and would welcome improved trade relations with the EU.”\n“Delivering those improved trade ties is a key Government objective for the coming year and beyond.”\n* Moore UK’s December 2024 Owner Managed Business Survey. 520 directors of UK businesses with an annual turnover between £1m-£30m participated in the survey.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Lance",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:04:25.187+02:00",
+    "updated": "2024-12-17T14:04:25.187+02:00"
+}

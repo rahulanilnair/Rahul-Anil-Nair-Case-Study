@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "829d0efa63d7669f81286cd1416a1579e0faa5bd",
+        "url": "https://www.bastillepost.com/global/article/4470510-china-sees-progress-in-re-lending-programs-for-tech-innovation-equipment-renewal",
+        "site_full": "www.bastillepost.com",
+        "site": "bastillepost.com",
+        "site_section": "https://www.bastillepost.com/global",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "Bastillepost",
+        "title": "China sees progress in re-lending programs for tech innovation, equipment renewal",
+        "title_full": "China sees progress in re-lending programs for tech innovation, equipment renewal",
+        "published": "2025-01-10T00:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2025/01/8411454_1736461636003_a_FB.jpg",
+        "performance_score": 0,
+        "domain_rank": 68609,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "829d0efa63d7669f81286cd1416a1579e0faa5bd",
+    "url": "https://www.bastillepost.com/global/article/4470510-china-sees-progress-in-re-lending-programs-for-tech-innovation-equipment-renewal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bastillepost",
+    "published": "2025-01-10T00:24:00.000+02:00",
+    "title": "China sees progress in re-lending programs for tech innovation, equipment renewal",
+    "text": "The People's Bank of China (PBOC) reported significant progress in its re-lending programs for technology innovation and equipment renewal on Thursday, with relevant contracts worth nearly 1 trillion yuan (about 140 billion U.S. dollars) signed.\nBy the end of 2024, China's commercial banks had signed loan contracts with a total value of 115 billion yuan (about 16 billion U.S. dollars) with over 5,000 science and technology enterprises, and disbursed loans of nearly 50 billion yuan (about 6.8 billion U.S. dollars) to enhanced the financing accessibility for medium and small-sized sci-tech companies, according to the latest data from the PBOC.\nFinancial support for large-scale equipment renewal has also made notable progress, with continuous growth in loan signings and implementations.\nBy the end of 2024, the commercial banks had engaged with 22,000 equipment renewal projects in China, basically achieving full financing coverage, and signed loan contracts with enterprises, providing 800 billion yuan (about 109 U.S. dollars) for them to draw funds at any time.\nAt the year-end, the weighted average interest rate for equipment renewal loans was 3 percent, and the actual financing cost was reduced to 1.5 percent, combined with central government subsidies. 。 The PBOC said it will further optimize the re-lending process, expand the scale of equipment renewal loans, and stimulate market entities to unleash demand for equipment renewal.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "PBOC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "People's Bank of China",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:09:01.639+02:00",
+    "updated": "2025-01-10T02:09:01.639+02:00"
+}

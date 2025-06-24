@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "158dc9b1354a93676cda690cf05cf654f62d3ddf",
+        "url": "https://www.newsbreak.com/news/3753345388994-gc-farm-bureau-recognized-statewide",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elizabeth-city-nc",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Elizabeth City, NC Local News and More | NewsBreak",
+        "title": "GC Farm Bureau recognized statewide - NewsBreak",
+        "title_full": "GC Farm Bureau recognized statewide - NewsBreak",
+        "published": "2025-01-10T04:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "158dc9b1354a93676cda690cf05cf654f62d3ddf",
+    "url": "https://www.newsbreak.com/news/3753345388994-gc-farm-bureau-recognized-statewide",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Reports",
+    "published": "2025-01-10T04:16:00.000+02:00",
+    "title": "GC Farm Bureau recognized statewide - NewsBreak",
+    "text": "By Staff Reports ,\n5 hours ago Getting your Trinity Audio player ready... Gates County Farm Bureau, managed by Bobby Jones, was recognized for qualifying as Top Agency Statewide in its category for Top Life Production Premium Credit. The recognition came at the annual meeting of the North Carolina Farm Bureau Federation, held Dec. 8-10 at the... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->agriculture",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Jones",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "GC Farm Bureau",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Trinity Audio",
+                "sentiment": "negative"
+            },
+            {
+                "name": "North Carolina Farm Bureau Federation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:24:28.317+02:00",
+    "updated": "2025-01-10T04:24:28.317+02:00"
+}

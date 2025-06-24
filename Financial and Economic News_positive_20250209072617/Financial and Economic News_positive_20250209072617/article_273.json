@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "8db8a10eca6078c8709b64d9d5e1b7717eb9e88f",
+        "url": "https://www.pymnts.com/news/ipo/2025/report-shein-could-launch-ipo-in-london-in-april",
+        "site_full": "www.pymnts.com",
+        "site": "pymnts.com",
+        "site_section": "https://www.pymnts.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "PYMNTS.com | Breaking News, Trends and Analysis",
+        "title": "Report: Shein Could Launch IPO in London in April",
+        "title_full": "Report: Shein Could Launch IPO in London in April",
+        "published": "2025-01-10T01:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2802,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8db8a10eca6078c8709b64d9d5e1b7717eb9e88f",
+    "url": "https://www.pymnts.com/news/ipo/2025/report-shein-could-launch-ipo-in-london-in-april",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PYMNTS",
+    "published": "2025-01-10T01:46:00.000+02:00",
+    "title": "Report: Shein Could Launch IPO in London in April",
+    "text": "Fast-fashion retailer Shein Group reportedly plans to launch its initial public offering (IPO) in London by the middle of the year.\nSubject to regulatory approvals, the company could do so as early as April, Reuters reported Thursday (Jan. 9).\nShein Group did not immediately reply to PYMNTS’ request for comment.\nThe company ended its attempt at a U.S. IPO after facing opposition from lawmakers concerned about its connections to China and alleged human rights violations in its supply chain , according to the report .\nA visit to China by U.K. finance minister Rachel Reeves could help Shein gain the regulatory approvals it needs in Britain , the report said .\nIt was reported in December that the U.K.’s Financial Conduct Authority (FCA) opened the door for Shein to go public there when FCA Chief Executive Nikhil Rathi , while not mentioning Shein by name, said that decisions about public listings were based on company disclosures and not “every aspect” of their corporate behavior.\nRathi added that it was “not unusual” for companies that go public in the U.K. to carry legal risks in other parts of the world and “what’s important is that they disclose it, the investors understand it and they can price that risk.”\nIn June, it was reported that Shein had shifted its IPO plans to the U.K. after facing numerous challenges in its pursuit of an IPO in the U.S. Tensions between the U.S. and China that have impacted business and trade made it increasingly difficult for Shein to go public in the U.S.\nShein was founded in China but is now headquartered in Singapore. Still, much of its supply chain remains in China and the company has faced hurdles in U.S. amid bipartisan public scrutiny due to concerns over national security, alleged links to forced labor and claims of an unfair competitive advantage.\nIn July, it was reported that Shein pledged a $271 million, five-year investment in Europe and the U.K. The company set aside about $54 million for “potential investments in R&D or pilot Shein production facilities in Europe or the U.K.,” along with initiatives to help brands and designers from the region capture a bigger market via Shein’s marketplace.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Science and Technology->economics",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://finance.yahoo.com/video/shein-aims-london-ipo-mid-115817647.html",
+        "https://www.linkedin.com/in/rt-hon-rachel-reeves-535713240/?originalSubdomain=uk",
+        "https://www.sheingroup.com/",
+        "https://www.fca.org.uk/",
+        "https://www.bankofengland.co.uk/about/people/nikhil-rathi/biography",
+        "https://www.fca.org.uk",
+        "https://fca.org.uk/",
+        "https://www.linkedin.com/in/rt-hon-rachel-reeves-535713240/",
+        "https://bankofengland.co.uk/about/people/nikhil-rathi/biography",
+        "https://linkedin.com/in/rt-hon-rachel-reeves-535713240/?originalSubdomain=uk",
+        "https://www.sheingroup.com",
+        "https://www.finance.yahoo.com/video/shein-aims-london-ipo-mid-115817647.html",
+        "https://sheingroup.com/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rachel Reeves",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nikhil Rathi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shein",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shein Group",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U.K.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:30:20.548+02:00",
+    "updated": "2025-01-10T02:30:20.548+02:00"
+}

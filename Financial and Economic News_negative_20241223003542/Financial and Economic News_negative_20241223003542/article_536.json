@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "b7e60b3ccde9833ca05c17d3a3171b2cceacd87f",
+        "url": "https://www.castanet.net/news/Kelowna/523115/Canada-Post-strike-ends-too-late-for-some-including-charities",
+        "site_full": "www.castanet.net",
+        "site": "castanet.net",
+        "site_section": "https://www.castanetkamloops.net/rss/mostrecent.xml",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Castanet.net - Most Recent Stories",
+        "title": "Canada Post strike ends too late for some, including charities (Kelowna)",
+        "title_full": "Canada Post strike ends too late for some, including charities (Kelowna)",
+        "published": "2024-12-17T13:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.castanet.net/content/2024/12/523115_0.jpg",
+        "performance_score": 0,
+        "domain_rank": 17254,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b7e60b3ccde9833ca05c17d3a3171b2cceacd87f",
+    "url": "https://www.castanet.net/news/Kelowna/523115/Canada-Post-strike-ends-too-late-for-some-including-charities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cindy White; Story",
+    "published": "2024-12-17T13:00:00.000+02:00",
+    "title": "Canada Post strike ends too late for some, including charities (Kelowna)",
+    "text": "The Canada Post strike is coming to an end, but there’s not a lot of sympathy for either side in the dispute.\nWorkers have been ordered back on the job after the Canada Industrial Relations Board ruled the two sides were at an impasse. Unfortunately, the order came just 10 days before Christmas, which many say is too little, too late.\nSue was out in downtown Kelowna on Monday hand hand-delivering Christmas cards.\n“I’m handing them out because you can’t mail them at this point. All the stuff we’ve got are being sent by courier or by hand-outs,” she said, noting it has cost her a lot more. “A lot more time, a lot more effort, a lot more money.”\nThe strike dealt a significant blow to charities at their busiest time of year for donations. Even with the restart of operations, mail-outs to donors won’t return in time to meet the donation tax deadline at the end of the year.\n“We need the funding not only for operating but also for special projects like the construction project to build four townhomes to house the people who are currently unhoused,” said Tim Smithwick, director with Freedom’s Door.\n“The only way to do that is to receive very large donations. Is that being affected by this, or at least delayed by this? Ya, it is.”\nFor small businesses, dealing with the impacts of the half in mail delivery has been a learning experience.\nAlicia Meier, who owns Olive & Elle and Textile Apparel in downtown Kelowna says it spooked a lot of people from their normal shopping patterns. She noticed a slight decline in the sales of greeting cards and other small gifts people would pop in the mail.\nWill she be coming back to Canada Post? Not for the time being.\n“We have been using shipping alternatives and we found their rates quite competitive. And so this is a decision we will use to ship with year-round, likely even after the strike is over,” she adds.\nChris Pafiolis with Kelowna-based Sweetlegs has used Fed/Ex for most orders for nearly a decade. He only turns to Canada Post for deliveries to customers in rural and remote areas but won’t be restarting that service for 2 to 3 weeks because he doesn’t want his products caught up in a huge backlog.\nMeanwhile, the Canadian Union of Postal Workers isn’t happy with the back-to-work order.\nLocal 760 president Mandi Poss in Kelowna is frustrated with the industrial relations board order, saying, “We have had our rights stolen from us.”\nWhere Canada Post goes from here is now up for debate. According to last year’s annual report, the postal service’s share of the parcel market plummeted to 29 per cent from 62 per cent before the COVID-19 pandemic.\nWhile the market for package delivery has ballooned in recent years, Canada Post’s shipments have shrunk — by nearly a quarter since 2020 to 296 million parcels in 2023.\n--with files from The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tim Smithwick",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Canada Post",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Canada Industrial Relations Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b7e60b3ccde9833ca05c17d3a3171b2cceacd87f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:07:00.787+02:00",
+    "updated": "2024-12-17T14:07:00.787+02:00"
+}

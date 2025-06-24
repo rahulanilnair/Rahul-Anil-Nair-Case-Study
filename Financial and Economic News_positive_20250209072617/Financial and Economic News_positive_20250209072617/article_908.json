@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "bba49926a4d787dc01051cada50e385ffed1327d",
+        "url": "https://www.newsbreak.com/the-spun-510012/3753724594614-notre-dame-earns-massive-payday-with-win-over-penn-state",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-spun-510012",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Spun&#x27;s Home Page | NewsBreak",
+        "title": "Notre Dame Earns Massive Payday With Win Over Penn State - NewsBreak",
+        "title_full": "Notre Dame Earns Massive Payday With Win Over Penn State - NewsBreak",
+        "published": "2025-01-10T07:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4DCPpJ_0y2Kw6pF00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bba49926a4d787dc01051cada50e385ffed1327d",
+    "url": "https://www.newsbreak.com/the-spun-510012/3753724594614-notre-dame-earns-massive-payday-with-win-over-penn-state",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T07:04:00.000+02:00",
+    "title": "Notre Dame Earns Massive Payday With Win Over Penn State - NewsBreak",
+    "text": "By Athlon College Sports Writer ,\n2 hours ago With a win in the Orange Bowl, Notre Dame secured a $20 million pay day for the university. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->american football",
+        "Sport->sport achievement",
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Notre Dame",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bowl",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:20:25.678+02:00",
+    "updated": "2025-01-10T09:20:25.678+02:00"
+}

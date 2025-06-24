@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "48691214144200d6ba55f0b09a3ccd644e7ab71f",
+        "url": "https://www.morningstar.com/news/dow-jones/202501096850/sp-merval-index-ends-170-higher-at-282973044-another-record-close-data-talk",
+        "site_full": "www.morningstar.com",
+        "site": "morningstar.com",
+        "site_section": "https://www.morningstar.com/news",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Market Headlines | Morningstar",
+        "title": "S&P MERVAL Index Ends 1.70% Higher at 2829730.44, Another Record Close - Data Talk | Morningstar",
+        "title_full": "S&P MERVAL Index Ends 1.70% Higher at 2829730.44, Another Record Close - Data Talk | Morningstar",
+        "published": "2025-01-10T00:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "performance_score": 0,
+        "domain_rank": 1863,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "48691214144200d6ba55f0b09a3ccd644e7ab71f",
+    "url": "https://www.morningstar.com/news/dow-jones/202501096850/sp-merval-index-ends-170-higher-at-282973044-another-record-close-data-talk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T00:22:00.000+02:00",
+    "title": "S&P MERVAL Index Ends 1.70% Higher at 2829730.44, Another Record Close - Data Talk | Morningstar",
+    "text": "S&P MERVAL Index Ends 1.70% Higher at 2829730.44, Another Record Close — Data Talk\nThe S&P MERVAL Index is up 47253.39 points or 1.70% today to 2829730.44\n--A new record close\n--Up five of the past six trading days\n--Up 195.45% from its 52-week low of 957777.50 hit Monday, March 11, 2024\n--Rose 171.07% from 52 weeks ago\n--Up 4.97% from its 2025 closing low of 2695646.43 hit Thursday, Jan. 2, 2025\n--Month-to-date it is up 11.69%\n--Year-to-date it is up 296095.79 points or 11.69%\nSource: Dow Jones Market Data, FactSet\n(END) Dow Jones Newswires\nJanuary 09, 2025 17:22 ET (22:22 GMT)\nCopyright (c) 2025 Dow Jones & Company, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->market and exchange",
+        "Politics->economic policy",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Dow Jones Market Data",
+                "sentiment": "none"
+            },
+            {
+                "name": "FactSet",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:53:08.706+02:00",
+    "updated": "2025-01-10T01:53:08.706+02:00"
+}

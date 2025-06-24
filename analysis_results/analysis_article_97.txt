@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 97
+============================================================
+Timestamp: 2025-06-23 06:47:34
+Headline Summary: Tata Motors Group Global Wholesales Stands At 3,41,791 Units In Q3FY25
+Key Highlights: 1% YoY rise in global wholesales, growth in passenger vehicle sales, and increase in Jaguar Land Rover sales
+Final Sentiment: Positive
+Confidence: 88%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The company reported a one per cent year-on-year rise in global wholesales and demonstrated improvement in passenger vehicle sales, but the impact is moderate due to a YoY dip in commercial vehicle sales. The positive sentiment is supported by the increase in Jaguar Land Rover sales. However, the slight dip in commercial vehicle sales temper the overall optimism. growth_analyst: The company reported a one per cent year-on-year rise in global wholesales and growth in passenger vehicle sales. This improvement in overall performance justifies a positive sentiment. However, a moderate YoY dip in commercial vehicle sales temper the impact slightly. Confidence is high due to these improvements, but not at 100%, as it only accounts for Q3FY25 data. The proposed medium impact recognizes this moderate growth. sentiment_analyst: The company reported a one per cent year-on-year (YoY) rise in global wholesales, indicating a positive trend. However, the moderate impact rating seems reasonable given the one percent YoY dip in commercial vehicle sales.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Positive sentiment.
+============================================================

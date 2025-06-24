@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "54cfe4196351bc35e8f52935774901bf12d627b7",
+        "url": "https://timesca.com/world-bank-report-highlights-poverty-and-inequality-challenges-in-kazakhstan",
+        "site_full": "timesca.com",
+        "site": "timesca.com",
+        "site_section": "https://timesca.com/feed/",
+        "site_categories": [],
+        "section_title": "The Times Of Central Asia | Eurasian Publication &amp; News Online",
+        "title": "World Bank Report Highlights Poverty and Inequality Challenges in Kazakhstan",
+        "title_full": "World Bank Report Highlights Poverty and Inequality Challenges in Kazakhstan",
+        "published": "2024-12-17T14:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://timesca.com/wp-content/uploads/2023/12/WORLD-BANK-1-1024x791.jpg",
+        "performance_score": 0,
+        "domain_rank": 177526,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54cfe4196351bc35e8f52935774901bf12d627b7",
+    "url": "https://timesca.com/world-bank-report-highlights-poverty-and-inequality-challenges-in-kazakhstan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sergey Kwan",
+    "published": "2024-12-17T14:31:00.000+02:00",
+    "title": "World Bank Report Highlights Poverty and Inequality Challenges in Kazakhstan",
+    "text": "The World Bank has\nreleased its Kazakhstan Poverty and Equity Assessment 2024, urging policymakers to adopt pro-poor fiscal policies, improve education quality, and enhance climate resilience to address poverty and inequality in the country.\nAccording to the report, Kazakhstan’s poverty reduction has slowed in recent years despite significant progress since the early 2000s.\n“Between 2006 and 2021, economic advancement significantly improved living standards and reduced poverty rates in Kazakhstan. However, economic growth has slowed since 2014, and the pace of poverty reduction has fallen. The COVID-19 pandemic exacerbated these challenges, highlighting the need for resilient and inclusive economic strategies presented in this report,”\nsaid Andrei Mikhnev, World Bank Country Manager for Kazakhstan.\nKazakhstan’s economy has grown exponentially since 2006, with an average annual growth rate of 4.7 percent. This growth helped lift 5.9 million people out of poverty, reducing the poverty rate from 49.5 percent to 8.5 percent. However, the report identifies three phases of Kazakhstan’s poverty reduction journey:\n- 2006-2013: Rapid poverty decline driven by strong economic growth.\n- 2014-2016: Reversal during the economic downturn, raising poverty rates.\n- 2016-2021: Resumed poverty reduction but at a slower pace\nThe report highlights that Kazakhstan’s middle-class households with a low probability of falling into poverty grew 2.5 times, reaching 67 percent of the population in 2021 compared to 26 percent in 2006. However, this expansion has stagnated since 2013 due to slower structural transformation and productivity growth.\nIncome inequality has also increased. The Gini index, a measure of inequality (0 = perfect equality, 100 = extreme inequality), rose from 24.3 in 2015 to 26.4 in 2021, driven by faster income growth among high-income households. Although fiscal policies, such as taxation and social spending, have mitigated some inequality, the report recommends making fiscal measures more progressive and pro-poor to maximize their redistributive impact.\nPoverty rates in rural areas (11.4 percent) remain significantly higher than in urban centers (6.6 percent). The southern Turkistan region now accounts for a disproportionate share of the poor population. Alarmingly, poverty has become more concentrated among children and large families, with children comprising 40 percent of the poor in 2021, up from 27 percent in 2006.\nThe report underscores the critical role of human capital investment in achieving long-term poverty reduction and growth. While access to education in Kazakhstan is nearly universal, significant disparities in quality and outcomes persist. The Human Capital Index indicates that children in Kazakhstan achieve only 53–64 percent of their productivity potential, with regional and socio-economic inequalities exacerbating the issue.\nClimate-related shocks present additional risks, particularly for rural and vulnerable populations. The report calls for targeted investments in infrastructure and social transfers to build resilience against these challenges.\nTo reduce poverty and inequality, the report suggests:\n- Enhancing fiscal policies through progressive taxation and better-targeted social transfers.\n- Improving education quality and outcomes, particularly for disadvantaged groups.\n- Building resilience to climate shocks by investing in infrastructure and providing targeted support to low-income households.\nThe report concludes that sustained policy reforms will be essential for Kazakhstan to maintain economic progress, reduce poverty, and address growing inequalities.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrei Mikhnev",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:18:38.729+02:00",
+    "updated": "2024-12-17T16:18:38.729+02:00"
+}

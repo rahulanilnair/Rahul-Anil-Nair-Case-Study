@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "db42e69aff61d36464c7307fbf9e1562ca1993fb",
+        "url": "https://seekingalpha.com/news/4393885-kkr-psp-investments-to-buy-stake-in-two-american-electric-power-companies-for-2_8b",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "https://seekingalpha.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "mutual_funds"
+        ],
+        "section_title": "Breaking Stock Market News | Seeking Alpha",
+        "title": "KKR, PSP Investments to buy stake in two American Electric Power companies for $2.8B",
+        "title_full": "KKR, PSP Investments to buy stake in two American Electric Power companies for $2.8B",
+        "published": "2025-01-09T23:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332858442/image_1332858442.jpg?io=getty-c-w750",
+        "performance_score": 0,
+        "domain_rank": 1110,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db42e69aff61d36464c7307fbf9e1562ca1993fb",
+    "url": "https://seekingalpha.com/news/4393885-kkr-psp-investments-to-buy-stake-in-two-american-electric-power-companies-for-2_8b",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carl Surran",
+    "published": "2025-01-09T23:06:00.000+02:00",
+    "title": "KKR, PSP Investments to buy stake in two American Electric Power companies for $2.8B",
+    "text": "KKR ([KKR](https://seekingalpha.com/symbol/KKR)) said Thursday it formed a 50/50 strategic partnership with Canada's PSP Investments to [acquire a 19.9% stake](https://seekingalpha.com/pr/19965502-kkr-and-psp-investments-acquire-minority-stake-in-two-american-electric-power-transmission) in American Electric Power's (NASDAQ:[AEP](https://seekingalpha.com/symbol/AEP)) Ohio and Indiana transmission company, as well as its Michigan transmission company, for a combined $2.82B.\nThe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->mergers and acquisitions",
+        "Politics->economic policy",
+        "Politics->international organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:21:31.593+02:00",
+    "updated": "2025-01-10T00:21:31.593+02:00"
+}

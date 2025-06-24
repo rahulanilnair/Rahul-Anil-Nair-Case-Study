@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "ff0236d0c479280142004877d33ed1f5ffd79ca7",
+        "url": "https://www.nasdaq.com/articles/hogs-rally-thursday",
+        "site_full": "www.nasdaq.com",
+        "site": "nasdaq.com",
+        "site_section": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "stocks",
+            "enterprise_news"
+        ],
+        "section_title": "Stocks Feed",
+        "title": "Hogs Rally on Thursday",
+        "title_full": "Hogs Rally on Thursday",
+        "published": "2025-01-10T08:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 764,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff0236d0c479280142004877d33ed1f5ffd79ca7",
+    "url": "https://www.nasdaq.com/articles/hogs-rally-thursday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barchart",
+    "published": "2025-01-10T08:10:00.000+02:00",
+    "title": "Hogs Rally on Thursday",
+    "text": "Lean hog futures posted $2.27 to $2.35 gains in the nearbys on Thursday. The national average base hog negotiated price was reported at $78.85 on Thursday afternoon, up 34 cents from the day prior. The CME Lean Hog Index was reported at $81.05 on January 7, down 54 cents from the previous day.\nUSDA’s FOB plant pork cutout value was down 5 cents in the Thursday PM report at $90.48 per cwt. The butt, picnic, and ham were reported lower, with the rest showing gains. Federally inspected hog slaughter on Thursday was estimated at 488,000 head, with the weekly total at 1.906 million head. That is 106,656 head above the same week last year.\nFeb 25 Hogs closed at $81.775, up $2.300,\nApr 25 Hogs closed at $87.350, up $2.275\nMay 25 Hogs closed at $92.025, up $2.325,\nAustin Schroederdid not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy\nhere. More news from Barchart\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->commodity market",
+        "Social Issue->social condition",
+        "Social Issue->communities",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "USDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:02:39.923+02:00",
+    "updated": "2025-01-10T09:02:39.923+02:00"
+}

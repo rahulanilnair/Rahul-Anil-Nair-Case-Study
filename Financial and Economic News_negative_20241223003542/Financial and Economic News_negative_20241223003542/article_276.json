@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "55c59f730092c4d03a28f72de48a773cf953e915",
+        "url": "https://www.globalsecurity.org/military/library/news/2024/12/mil-241216-unocha01.htm",
+        "site_full": "www.globalsecurity.org",
+        "site": "globalsecurity.org",
+        "site_section": "https://www.globalsecurity.org/military/library/news/daily",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Daily National Security News Briefing - GlobalSecurity.org",
+        "title": "South Sudan: humanitarians appeal for $1.7 billion to assist 5.4 million people in need",
+        "title_full": "South Sudan: humanitarians appeal for $1.7 billion to assist 5.4 million people in need",
+        "published": "2024-12-16T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3632,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55c59f730092c4d03a28f72de48a773cf953e915",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/12/mil-241216-unocha01.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Pike",
+    "published": "2024-12-16T02:00:00.000+02:00",
+    "title": "South Sudan: humanitarians appeal for $1.7 billion to assist 5.4 million people in need",
+    "text": "South Sudan: humanitarians appeal for $1.7 billion to assist 5.4 million people in need\nUNOCHA - United Nations Office for the Coordination of Humanitarian Affairs\n(Juba, 16 December 2024) The humanitarian community in South Sudan launched the 2025 Humanitarian Needs and Response Plan (HNRP), reflecting an appeal for US$1.7 billion to provide lifesaving assistance to 5.4 million people experiencing the most acute needs across the country.\nIn 2025, 9.3 million people - 69 per cent of South Sudan's total population of 13.4 million - are projected to require some form of humanitarian assistance. Of these, humanitarian partners will target 5.4 million vulnerable people facing the most acute needs with life-saving services.\n\"Collaboration will continue in 2025 - not only to bring relief to people affected by crisis but also to support durable solutions and build their resilience by investing in the provision of basic services and livelihood opportunities to enable them to graduate from humanitarian assistance,\" underscored the Minister of Humanitarian Affairs and Disaster Management, Hon. Albino Akol Atak Mayom, in launching the 2025 HNRP.\nThe protracted humanitarian crisis in South Sudan is deepened by conflict, extreme effects of climate change, disease outbreaks, economic crisis and the impact of the ongoing conflict in neighbouring Sudan. Since the outbreak of the Sudan crisis in April 2023, over 905,000 people have crossed into South Sudan, with an additional 337,000 people projected to arrive in 2025.\nSouth Sudanese people continue to be affected by high levels of food insecurity and malnutrition.\nAccording to the Integrated Food Security Phase Classification (IPC) report released in November, 6.4 million people are severely food-insecure in crisis levels or worse (IPC Phase 3+). This number is projected to increase to 7.7 million - over 57 per cent of the country's total population - during the lean season from April to July 2025. Nutrition projections estimate 2.08 million children under age 5 at risk of acute malnutrition and 650,000 children under age 5 at risk of severe acute malnutrition in 2025 - a 26 per cent and 33 per cent increase from the projections in 2024 respectively.\n\"The 2025 HNRP paints an accurate picture of the most acute needs of vulnerable people across the country, and a plan for assistance that is realistic and most importantly, life-saving,\" concluded Ms. Anita Kiki Gbeho, the Humanitarian Coordinator for South Sudan.\nFor more details, please consult the 2025 Humanitarian Needs and Response Plan for South Sudan\n16 December 2024\nNEWSLETTER\n|\nJoin the GlobalSecurity.org mailing list |\n|\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UNOCHA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Coordination of Humanitarian Affairs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:50:32.510+02:00",
+    "updated": "2024-12-17T12:50:32.510+02:00"
+}

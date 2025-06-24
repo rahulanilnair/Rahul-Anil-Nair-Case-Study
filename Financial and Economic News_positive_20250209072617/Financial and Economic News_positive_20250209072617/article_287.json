@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "1c84b576baa774cc3ee4db5d9dc86dbc84e9ac70",
+        "url": "https://cbs6albany.com/news/local/inflation-refund-checks",
+        "site_full": "cbs6albany.com",
+        "site": "cbs6albany.com",
+        "site_section": "https://cbs6albany.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Inflation Refund Checks",
+        "title_full": "Inflation Refund Checks",
+        "published": "2025-01-10T01:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cbs6albany.com/resources/media2/16x9/1280/986/center/90/86b38a79-173f-40f0-b198-4cabb977ede2-Youpaidforittn2.png",
+        "performance_score": 0,
+        "domain_rank": 13042,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c84b576baa774cc3ee4db5d9dc86dbc84e9ac70",
+    "url": "https://cbs6albany.com/news/local/inflation-refund-checks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Greg Floyd",
+    "published": "2025-01-10T01:28:00.000+02:00",
+    "title": "Inflation Refund Checks",
+    "text": "{p}By now you've probably heard about Governor Kathy Hochul's plan to send an inflation refund check to most New York taxpayers next year.{/p}{p}It's the first proposal to come from her 2025 State of the State address -- 3 billion dollars’ worth of checks will be sent out. 300 dollars to individual taxpayers making less 150-thousand dollars, 500 bucks for joint filers making less than 300-thousand.{/p}{p}Where will all that money come from? The Governor says it will come from excess sales tax revenue that has spiked because of inflation.{/p}{p}Not everyone is buying that -- there are questions from both sides of the aisle.{/p}{p}Democratic Senator Pat Fahy of Albany says “I'm not convinced just yet on the $3 billion with the rebate.{/p}{p}I'm wondering if there are other ways I've got to really wait to see the details on some of it, but I appreciate that the Governor is very focused on the issue.”{/p}{p}On the Republican side Senator Pam Helming of Canandaigua says “We have some of the highest taxes in the nation. So while there’s a one-time rebate check that may sound nice to people, it’s doing nothing long term to lower the cost of living.”{/p}{p}If the proposal goes through, about half a million people in the Capital Region would receive a check next year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:35:39.625+02:00",
+    "updated": "2025-01-10T04:31:26.581+02:00"
+}

@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "7e0553b6aff9c444c4b7a5521a94e5f4442abe50",
+        "url": "https://bmmagazine.co.uk/news/economists-warn-chancellor-may-face-emergency-spring-budget-as-recession-risks-loom",
+        "site_full": "bmmagazine.co.uk",
+        "site": "bmmagazine.co.uk",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Economists warn Chancellor may face emergency spring budget as recession risks loom",
+        "title_full": "Economists warn Chancellor may face emergency spring budget as recession risks loom",
+        "published": "2024-12-17T12:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://bmmagazine.co.uk/wp-content/uploads/2024/10/Rachel_Reeves_No11.jpg",
+        "performance_score": 0,
+        "domain_rank": 12206,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e0553b6aff9c444c4b7a5521a94e5f4442abe50",
+    "url": "https://bmmagazine.co.uk/news/economists-warn-chancellor-may-face-emergency-spring-budget-as-recession-risks-loom",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jamie Young",
+    "published": "2024-12-17T12:54:00.000+02:00",
+    "title": "Economists warn Chancellor may face emergency spring budget as recession risks loom",
+    "text": "Rachel Reeves could be forced into announcing emergency tax rises as early as this spring if the UK’s economic outlook continues to deteriorate, leading economists have warned. The Chancellor’s recently introduced tax and spending rules, known as the “stability rule,” leave her little room to manoeuvre if public finances falter, potentially compelling her to raise taxes or cut spending by March.\nUnder the stability rule, Ms Reeves can only borrow to invest, rather than fund the day-to-day running of government. Any significant decline in growth and its resulting impact on revenues would therefore demand immediate corrective action to keep the books balanced. Ben Zaranko, an economist at the Institute for Fiscal Studies, said that should current projections of a small budget surplus flip into a deficit, the Chancellor may have to tighten the fiscal screws further at the spring statement.\nThe warning comes as new data suggest the UK economy is grinding to a halt. Businesses are shedding jobs at the fastest pace since the global financial crisis —excluding the pandemic—as confidence ebbs following the Chancellor’s record £40bn tax raid. S&P Global’s latest flash composite purchasing managers’ index edged down to 50.5 in December, barely above the critical 50-point mark that separates growth from contraction.\nChris Williamson, chief business economist at S&P Global Market Intelligence, described the economy as “stagnating” amid “downbeat rhetoric and policies” from the Labour government. He noted that a sharp pullback in hiring is partly the result of rising employer National Insurance contributions, which were announced in October’s budget. While private sector activity clings to positive territory, the deterioration in sentiment and increased job cuts herald a bleaker economic horizon in 2025.\nMs Reeves, who has already committed to not holding another full Budget before the spending review, has hinted that any emergency adjustments would lean towards spending measures, rather than fresh tax hikes. Nevertheless, Treasury sources have not ruled out tax rises, insisting the Chancellor “will plan for all scenarios” and that meeting fiscal targets is “non-negotiable.”\nObservers point out that Ms Reeves’s buffer against budget fluctuations will not kick in until 2026. Until then, the stability rule requires her to ensure day-to-day expenditures are covered by current revenues, leaving her with limited flexibility if the UK’s already fragile economy worsens.\nThe Chancellor’s position is further complicated by rising inflationary pressures. Businesses surveyed by S&P Global reported passing higher costs, including those from rising National Insurance contributions, onto consumers through increased prices—a move that could curtail the Bank of England’s scope to cut interest rates and ease economic pressures. Analysts at Pantheon Macroeconomics warn that the Bank may need to maintain a tighter stance for longer, making the Chancellor’s balancing act even more challenging.\nWith economists at Capital Economics and the IFS expressing concern that the UK may already be flirting with recession—commonly defined as two consecutive quarters of negative growth—the spring statement is shaping up to be a critical juncture. Whether driven by unforeseen shocks or protracted stagnation, Ms Reeves may find herself forced to deliver another round of fiscal pain before the end of the financial year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rachel Reeves",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ben Zaranko",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Institute for Fiscal Studies",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7e0553b6aff9c444c4b7a5521a94e5f4442abe50",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:54:01.473+02:00",
+    "updated": "2024-12-17T20:27:13.695+02:00"
+}

@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "8f4a12f62cdd19934034e2ee838a16628f3281ea",
+        "url": "https://www.latestly.com/agency-news/business-news-92-pc-of-indian-executives-cite-security-vulnerabilities-as-primary-obstacle-to-responsible-ai-usage-report-6498137.html",
+        "site_full": "www.latestly.com",
+        "site": "latestly.com",
+        "site_section": "https://www.latestly.com/agency-news",
+        "site_categories": [
+            "media",
+            "cricket",
+            "sports"
+        ],
+        "section_title": "Agency News | Latest Information on Breaking News & Updates on Agency News at LatestLY",
+        "title": "Business News",
+        "title_full": "Business News",
+        "published": "2024-12-17T11:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://st1.latestly.com/wp-content/uploads/2024/12/ANI-20241217104814-588x441.jpg",
+        "performance_score": 0,
+        "domain_rank": 10589,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f4a12f62cdd19934034e2ee838a16628f3281ea",
+    "url": "https://www.latestly.com/agency-news/business-news-92-pc-of-indian-executives-cite-security-vulnerabilities-as-primary-obstacle-to-responsible-ai-usage-report-6498137.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-12-17T11:08:00.000+02:00",
+    "title": "Business News",
+    "text": "Business News | 92 Pc of Indian Executives Cite Security Vulnerabilities as Primary Obstacle to Responsible AI Usage: Report Get latest articles and stories on Business at LatestLY. Additionally, 89 per cent of executives expressed concerns about regulatory complexities, underlining the evolving nature of compliance requirements as a stumbling block for AI integration. Agency News ANI | Dec 17, 2024 05:08 PM IST A+ A- Representative Image New Delhi [India], December 17 (ANI): A significant majority of Indian executives, around 92 per cent, view security vulnerabilities such as hacking and cyber threats as the primary barrier to responsible AI adoption, as per a report by Deloitte.\nThe report highlights growing concerns over privacy risks, with 91 per cent of executives citing the protection of sensitive data as a major challenge in AI usage.\nAlso Read | Wisconsin School Shooting: 15-Year-Old Female Student Identified As Suspect in Shooting of 2 at Abundant Life Christian School in Madison in US.\nAdditionally, 89 per cent of executives expressed concerns about regulatory complexities, underlining the evolving nature of compliance requirements as a stumbling block for AI integration.\nThe report, co-prepared by Deloitte Access Economics and Deloitte's AI Institute, surveyed senior leaders across the Asia Pacific region and underscores the need for strong cybersecurity frameworks, enhanced privacy protections, and clear regulations to manage risks and build trust in AI adoption.\nAlso Read | JSSC CGL Exam 'Paper Leak': Jharkhand High Court Stays Publication of Combined Graduate Level 2023 Exam Results Until Further Notice, Orders FIR on Complaint.\nDespite the growing interest in AI, less than one in ten organisations have implemented governance structures to ensure trustworthy AI, as assessed by Deloitte's AI Governance Maturity Index.\nThe survey reveals that Indian executives face considerable challenges in both adopting and understanding AI technologies.\nNearly 50 per cent of respondents noted difficulties in integrating AI with existing systems, while 35 per cent pointed to insufficient knowledge about AI's potential.\nRegulatory, legal, and ethical risks were also a significant concern for 32 per cent of Indian executives, further emphasizing the need for clear governance and guidance.\nJayant Saran, Partner at Deloitte India, commented, \"Effective AI governance is not just about regulation or compliance. It is about fostering innovation while ensuring accountability and transparency and, therefore, demands a shift to proactive risk management.\"\nSaran added, \"Trust must be cultivated by enhancing resilience against security vulnerabilities and privacy risks while adapting to evolving regulations. For Indian organisations, the imperative must be to integrate AI seamlessly into existing systems, addressing both technical and knowledge gaps to ensure sustainable adoption.\"\nThe report also notes positive strides in workforce readiness, with 60 per cent of employees in surveyed organizations possessing the necessary skills to use AI ethically and legally.\nFurthermore, 72 per cent of companies are addressing the skills gap by actively hiring individuals with the expertise required for the ethical use of AI. These initiatives highlight the growing emphasis on workforce preparedness as a key component of AI governance.\nDr Elea Wurth, Lead Partner of Trustworthy AI Strategy, Risk & Transactions at Deloitte Asia Pacific and Australia, emphasized, \"Effective AI governance is not just a compliance issue; it is crucial for realising the full potential of AI technologies. Our findings reveal that organisations with robust governance frameworks are better equipped to manage risks and experience greater trust in their AI outputs, increased operational efficiency and greater value and scale.\"\nIndian executives are generally optimistic about the transformative impact of AI governance, with 63 per cent believing that effective governance will foster higher trust in AI outputs, 60 per cent confident it will enhance their organization's reputation among customers, and 57 per cent expecting it to drive wider AI adoption due to increased confidence in the technology. (ANI)\n(This is an unedited and auto-generated story from Syndicated News feed, LatestLY Staff may not have modified or edited the content body)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deloitte",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Abundant Life Christian School",
+                "sentiment": "none"
+            },
+            {
+                "name": "Deloitte Access Economics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:49:09.436+02:00",
+    "updated": "2024-12-17T17:15:51.975+02:00"
+}

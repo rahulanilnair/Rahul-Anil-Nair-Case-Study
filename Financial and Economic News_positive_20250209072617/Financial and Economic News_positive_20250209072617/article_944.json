@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "e69001cb6a4842ce2b8325cc7521eaf46a6b50ac",
+        "url": "https://nigeria.shafaqna.com/EN/AL/7438269",
+        "site_full": "nigeria.shafaqna.com",
+        "site": "shafaqna.com",
+        "site_section": "http://nigeria.shafaqna.com/rss.xml",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Nigeria News (News Reader) | ",
+        "title": "'Tax Reform Bill Will Transform Economy'",
+        "title_full": "'Tax Reform Bill Will Transform Economy'",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 30276,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e69001cb6a4842ce2b8325cc7521eaf46a6b50ac",
+    "url": "https://nigeria.shafaqna.com/EN/AL/7438269",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "'Tax Reform Bill Will Transform Economy'",
+    "text": "leadership - 44 minutes ago ‘Tax Reform Bill Will Transform Economy’ Minister of State for Industry, John Uwan-Enoh, has stated that the tax reform bills aimed at transforming the economy of Nigeria positively. Owan-Enoh made the remarks on Thursday during an interaction with newsmen in his country home, Etung, in Etung Local Government Area of Cross River. He commended President Bola Tinubu for the bills and [ ]\nRead on the original site",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://leadership.ng/tax-reform-bill-will-transform-economy/",
+        "https://leadership.ng/tax-reform-bill-will-transform-economy",
+        "https://www.leadership.ng/tax-reform-bill-will-transform-economy/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Uwan-Enoh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bola Tinubu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:35:46.981+02:00",
+    "updated": "2025-01-10T09:35:46.981+02:00"
+}

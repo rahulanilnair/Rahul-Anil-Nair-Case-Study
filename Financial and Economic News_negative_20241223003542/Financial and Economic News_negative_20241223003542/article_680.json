@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "cf5e0a2d24c2fdfd0806a4317b1c2de8769368d7",
+        "url": "https://www.benzinga.com/news/legal/24/12/42527087/dr-congo-fires-first-salvo-files-complaints-against-apple-over-conflict-minerals",
+        "site_full": "www.benzinga.com",
+        "site": "benzinga.com",
+        "site_section": "http://business.ridgwayrecord.com/ridgwayrecord/stocks/news",
+        "site_categories": [
+            "stocks",
+            "finance"
+        ],
+        "section_title": "Stock News | Popular Stocks, Stock News | User | ridgwayrecord.com ",
+        "title": "DR Congo Fires 'First Salvo,' Files Complaints Against Apple Over Conflict Minerals - Apple (NASDAQ:AAPL) - Benzinga",
+        "title_full": "DR Congo Fires 'First Salvo,' Files Complaints Against Apple Over Conflict Minerals - Apple (NASDAQ:AAPL) - Benzinga",
+        "published": "2024-12-17T13:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.benzinga.com/files/images/story/2024/12/17/How-To-Get-iOS-18-2.jpeg?width=1200&amp;height=800&amp;fit=crop",
+        "performance_score": 0,
+        "domain_rank": 1980,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf5e0a2d24c2fdfd0806a4317b1c2de8769368d7",
+    "url": "https://www.benzinga.com/news/legal/24/12/42527087/dr-congo-fires-first-salvo-files-complaints-against-apple-over-conflict-minerals",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stjepan Kalinic",
+    "published": "2024-12-17T13:22:00.000+02:00",
+    "title": "DR Congo Fires 'First Salvo,' Files Complaints Against Apple Over Conflict Minerals - Apple (NASDAQ:AAPL) - Benzinga",
+    "text": "The Democratic Republic of Congo has filed criminal complaints against Apple AAPL , accusing the company of using conflict minerals . The complaints are filed against Apple's subsidiaries in France and Belgium, per a Reuters report.\nWhat happened? Lawyers representing the Congolese government revealed the legal action against Apple France, Apple Retail France, and Apple Retail Belgium.\nThese complaints, prepared by the firm Amsterdam & Partners , came after months of investigation that began earlier this year . Robert Amsterdam , known for his involvement in international litigation and emerging markets, called this action the \"first salvo.\"\nThe complaints allege that Apple is complicit in laundering minerals sourced from conflict zones, covering up war crimes, handling stolen goods, and misleading consumers about its supply chain practices.\n\"It is clear that the Apple group, Apple France, and Apple Retail France know very well that their mineral supply chain relies on systemic wrongdoing,\" the French complaint states.\nAccording to the Reuters report, Christophe Marchand , a lawyer representing Congo, pointed out Belgium's moral responsibility due to its colonial past in Congo.\nThe judicial systems in both nations will decide whether to advance these complaints. Benzinga has contacted Apple for comment on this report.\nWhy it matters? Eastern Congo has long been marred by conflict fueled by competition over mineral wealth, particularly tin, tantalum, tungsten (3T minerals), and gold. Armed groups control many artisanal mines, using profits from smuggled minerals to fund violence and forced labor. As these minerals are critical components in electronics, the region's instability is a global concern.\nEarlier this year, the U.S. State Department acknowledged the issue , clarifying that the steps taken to help curb the illicit flows of these minerals include encouraging responsible investment in and sourcing from the region and identifying stronger due diligence mechanisms.\nDespite Apple's claims of strict oversight, issues in regional supply chains raise questions. Apple's 2023 conflict minerals report stated that 100% of identified smelters and refiners in its supply chain for 3T minerals and gold underwent independent third-party audits.\nHowever, U.S. data from 2021 revealed that Rwanda accounted for 15% of the global tantalum supply despite modest production capacities. This discrepancy suggests that smuggled Congolese minerals may be falsely labeled as Rwandan.\nPrice Action: AAPL stock is down by 0.33% to $250.21 premarket at the last check on Monday.\nRead Next:\nMexico And El Salvador Ponder Different Mining Stances Image via Shutterstock\nMarket News and Data brought to you by Benzinga APIs © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.\n1 Comment",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/",
+        "https://www.state.gov/statement-of-concern-related-to-certain-minerals-supply-chains-from-rwanda-and-eastern-democratic-republic-of-the-congo-contributing-to-the-ongoing-conflict/",
+        "https://www.supplychainreports.apple/files/doc_downloads/2024/04/Apple-Conflict-Minerals-Report.pdf",
+        "https://pubs.usgs.gov/periodicals/mcs2021/mcs2021-tantalum.pdf",
+        "https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17",
+        "https://state.gov/statement-of-concern-related-to-certain-minerals-supply-chains-from-rwanda-and-eastern-democratic-republic-of-the-congo-contributing-to-the-ongoing-conflict/",
+        "https://www.pubs.usgs.gov/periodicals/mcs2021/mcs2021-tantalum.pdf",
+        "https://www.state.gov/statement-of-concern-related-to-certain-minerals-supply-chains-from-rwanda-and-eastern-democratic-republic-of-the-congo-contributing-to-the-ongoing-conflict",
+        "https://reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/",
+        "https://supplychainreports.apple/files/doc_downloads/2024/04/Apple-Conflict-Minerals-Report.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christophe Marchand",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Amsterdam",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Amsterdam & Partners",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            },
+            {
+                "name": "Apple",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Republic of",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:55:16.655+02:00",
+    "updated": "2024-12-17T14:55:16.655+02:00"
+}

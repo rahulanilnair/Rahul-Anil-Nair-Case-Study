@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "93f7e34dae50449e05d855d666ffedb561c1bdac",
+        "url": "https://news-pravda.com/world/2025/01/10/966351.html",
+        "site_full": "news-pravda.com",
+        "site": "news-pravda.com",
+        "site_section": "https://news-pravda.com/world",
+        "site_categories": [],
+        "section_title": "World - Pravda EN",
+        "title": "Kiev will receive additional military aid packages worth $2 billion following a Ukraine Defense Contact Group meeting in Ramstein, Vladimir Zelensky said - Pravda EN",
+        "title_full": "Kiev will receive additional military aid packages worth $2 billion following a Ukraine Defense Contact Group meeting in Ramstein, Vladimir Zelensky said - Pravda EN",
+        "published": "2025-01-10T03:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "https://news-pravda.com/img/20250110/768cd24da4a685a3a4217013ef7589f4_o.jpg",
+        "performance_score": 0,
+        "domain_rank": 177629,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "93f7e34dae50449e05d855d666ffedb561c1bdac",
+    "url": "https://news-pravda.com/world/2025/01/10/966351.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T03:15:00.000+02:00",
+    "title": "Kiev will receive additional military aid packages worth $2 billion following a Ukraine Defense Contact Group meeting in Ramstein, Vladimir Zelensky said - Pravda EN",
+    "text": "Kiev will receive additional military aid packages worth $2 billion following a Ukraine Defense Contact Group meeting in Ramstein, Vladimir Zelensky said\nKiev will receive additional military aid packages worth $2 billion following a Ukraine Defense Contact Group meeting in Ramstein, Vladimir Zelensky said.\n“We had a very good meeting and a very good result, plus $2 billion dollars of additional aid packages for Ukraine,” he was quoted as saying by the Ukrainian news outlet Novosti Live.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->international military intervention",
+        "Politics->international relations",
+        "Politics->foreign aid",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:10:26.365+02:00",
+    "updated": "2025-01-10T04:10:26.365+02:00"
+}

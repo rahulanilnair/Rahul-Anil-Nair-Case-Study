@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "82855c90c71c880b3afb016915af204508baccfc",
+        "url": "https://www.bta.bg/en/news/economy/801695-ubb-revises-downwards-bulgaria-s-2025-economic-growth-forecast-under-pressure-of",
+        "site_full": "www.bta.bg",
+        "site": "bta.bg",
+        "site_section": "https://bta.bg/en",
+        "site_categories": [
+            "media",
+            "tennis",
+            "sports",
+            "top_news_bg",
+            "top_news"
+        ],
+        "section_title": "BTA :: Home",
+        "title": "UBB Revises Downwards Bulgaria’s 2025 Economic Growth Forecast under Pressure of Weaker External Demand and Domestic Political Challenges",
+        "title_full": "UBB Revises Downwards Bulgaria’s 2025 Economic Growth Forecast under Pressure of Weaker External Demand and Domestic Political Challenges",
+        "published": "2024-12-17T14:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "BG",
+        "main_image": "https://www.bta.bg/upload/931391/20221217_140134.jpg?l=750",
+        "performance_score": 0,
+        "domain_rank": 36339,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "82855c90c71c880b3afb016915af204508baccfc",
+    "url": "https://www.bta.bg/en/news/economy/801695-ubb-revises-downwards-bulgaria-s-2025-economic-growth-forecast-under-pressure-of",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T14:49:00.000+02:00",
+    "title": "UBB Revises Downwards Bulgaria’s 2025 Economic Growth Forecast under Pressure of Weaker External Demand and Domestic Political Challenges",
+    "text": "site.btaUBB Revises Downwards Bulgaria’s 2025 Economic Growth Forecast under Pressure of Weaker External Demand and Domestic Political Challenges\nUnited Bulgarian Bank (UBB) has lowered its forecast for Bulgaria’s GDP growth to 2.1% for 2025, down from its previous estimate of 2.6%. The revised outlook reflects expectations for slower growth among key trade partners and Bulgaria’s ongoing political instability, according to a UBB report released Tuesday.\n“We are reducing our GDP growth projection for 2025 due to weaker external demand and deepening domestic political challenges. Simultaneously, we expect inflation to rise slightly from 3% to 3.1% next year,” said UBB Chief Economist Emil Kalchev,.\nEconomic performance in 2024\nUBB analysts highlighted that Bulgaria’s economy expanded as expected in the third quarter, showing a real annual growth of 2.4% compared to the same period last year. This brings the GDP increase for the first nine months of the year to 2.2%, based on adjusted data from the National Statistical Institute (NSI).\nEconomic activity during this period was primarily driven by final consumption, which rose by 4.3% and accounted for a dominant 78.1% share of GDP. In contrast, investments grew minimally by 0.2%, contributing little to economic growth due to their lower 17% share of GDP. Meanwhile, exports declined slightly by 1.3%, while imports increased marginally by 1.4%, leaving net exports still positive overall.\n“From a production perspective, growth was led primarily by the services sector, which increased by 3% in the first nine months and played a critical role due to its significant 64.2% share in GDP. The construction sector also stood out, achieving the fastest growth rate of 3.3%, while industry registered a minimal increase of 0.7%,” Kalchev explained.\nIn contrast, agriculture contracted by 5%, reflecting its small contribution of just 2.8% to the economy. Kalchev emphasized that construction’s significance extends beyond its direct GDP share, as it stimulates parts of the industrial sector by driving demand for construction materials.\nGlobal headwinds and policy challenges\nUBB’s report also explored the global economic risks posed by geopolitical shifts, particularly the re-election of Donald Trump as U.S. President. According to the analysis, Trump’s policies, such as higher tariffs and increased NATO military spending, could trigger stagflationary pressures in both the U.S. and the EU.\n“While Bulgaria’s direct exposure to U.S. trade is limited—accounting for around 2-2.5% of total trade—indirect effects could be more pronounced. A slowdown in key economies, such as Germany, coupled with currency shifts between the dollar and the euro, could impact Bulgaria,” Kalchev noted. He added that rising defense spending—already around 2% of GDP—could further widen Bulgaria’s fiscal deficit, jeopardizing the country’s path to joining the eurozone.\nInflation trends\nInflation remained relatively subdued in November. Harmonized inflation stood at 2% on an annual basis, while consumer inflation under the national methodology ticked up slightly to 2.1% (compared to 1.8% in October). OBB expects this overall trend of slowing inflation to persist into the coming months.\nOutlook for 2025\nWhile Bulgaria’s economic outlook remains stable, risks associated with global trade, fiscal policy, and domestic political uncertainty could weigh on growth. UBB forecasts a cautious year ahead, where external and internal factors will dictate the pace of economic development.\n/NF/\nnews.modal.header\nnews.modal.text",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:09:23.412+02:00",
+    "updated": "2024-12-17T16:09:23.412+02:00"
+}

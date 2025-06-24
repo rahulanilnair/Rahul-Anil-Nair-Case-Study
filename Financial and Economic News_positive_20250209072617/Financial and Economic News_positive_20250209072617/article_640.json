@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "cc8511d8b16167eb640820757332edfcaf4ef690",
+        "url": "https://www.investing.com/news/economic-indicators/malaysias-november-industrial-production-up-36-above-forecast-3805724",
+        "site_full": "www.investing.com",
+        "site": "investing.com",
+        "site_section": "https://investing.com/news",
+        "site_categories": [
+            "investing",
+            "stamps_and_coins",
+            "hobbies_and_interests",
+            "finance",
+            "financial_news"
+        ],
+        "section_title": "Financial News | Stock Market and Forex News",
+        "title": "Malaysia's November industrial production up 3.6%, above forecast By Reuters",
+        "title_full": "Malaysia's November industrial production up 3.6%, above forecast By Reuters",
+        "published": "2025-01-09T22:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+        "performance_score": 0,
+        "domain_rank": 1167,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cc8511d8b16167eb640820757332edfcaf4ef690",
+    "url": "https://www.investing.com/news/economic-indicators/malaysias-november-industrial-production-up-36-above-forecast-3805724",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-09T22:05:00.000+02:00",
+    "title": "Malaysia's November industrial production up 3.6%, above forecast By Reuters",
+    "text": "KUALA LUMPUR (Reuters) - Malaysia's industrial production rose 3.6% from a year earlier in November, above market expectations, government data showed on Friday.\nNovember's factory output had been forecast to expand 2.6%, according to a Reuters poll.\nOctober's factory output was revised down to 2.0% from 2.1%.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->manufacturing and engineering",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reuters KUALA LUMPUR",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:07:03.330+02:00",
+    "updated": "2025-01-10T07:07:03.330+02:00"
+}

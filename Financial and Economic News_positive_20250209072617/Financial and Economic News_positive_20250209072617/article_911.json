@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "926b387845e91979d15991708930a8b9bead5b69",
+        "url": "https://report.az/en/energy/azerbaijani-oil-price-hits-near-80-in-global-market",
+        "site_full": "report.az",
+        "site": "report.az",
+        "site_section": "https://report.az/en/energy",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Energy news | Report.az",
+        "title": "Azerbaijani oil price hits near $80 in global market | Report.az",
+        "title_full": "Azerbaijani oil price hits near $80 in global market | Report.az",
+        "published": "2025-01-10T08:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://static.report.az/photo/9a188ab8-0cc5-3809-868f-c70f1d73fd8d_824.jpg",
+        "performance_score": 0,
+        "domain_rank": 36132,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "926b387845e91979d15991708930a8b9bead5b69",
+    "url": "https://report.az/en/energy/azerbaijani-oil-price-hits-near-80-in-global-market",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agshin Rafigoglu Agshin Rafigoglu Report az https; Static Report Az; Photo; Ad",
+    "published": "2025-01-10T08:13:00.000+02:00",
+    "title": "Azerbaijani oil price hits near $80 in global market | Report.az",
+    "text": "The price of Azerbaijan's Azeri LT CIF oil in the world market increased by $1.05, or 1.33%, to $79.77 per barrel,\n[Report](https://report.az/en/energy/azerbaijani-oil-price-hits-near-80-in-global-market/) informs.\nMarch futures for Brent crude were traded at $77.19 per barrel.\nThe average oil price in Azerbaijan's state budget for 2025 was set at $70 per barrel.\nThe lowest price for Azeri Light was recorded on April 21, 2020 ($15.81), and the all-time high of $149.66 was fixed in July 2008.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market",
+        "Politics->economic policy",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Social Issue->population and census"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:22:30.488+02:00",
+    "updated": "2025-01-10T09:22:30.488+02:00"
+}

@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "a5657a08ae8e31292dc546e2072c2417ad9284a8",
+        "url": "https://www.cnbc.com/2024/12/17/cocoa-prices-rally-to-record-high-prompting-fresh-volatility-warnings.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://www.biztoc.com",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "BizToc",
+        "title": "Cocoa prices rally to record high, prompting fresh volatility warnings",
+        "title_full": "Cocoa prices rally to record high, prompting fresh volatility warnings",
+        "published": "2024-12-17T14:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/108076833-1734433401543-gettyimages-1981155057-q1015064_nluf1lrf.jpeg?v=1734433510&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 137,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 3
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a5657a08ae8e31292dc546e2072c2417ad9284a8",
+    "url": "https://www.cnbc.com/2024/12/17/cocoa-prices-rally-to-record-high-prompting-fresh-volatility-warnings.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sam Meredith",
+    "published": "2024-12-17T14:38:00.000+02:00",
+    "title": "Cocoa prices rally to record high, prompting fresh volatility warnings",
+    "text": "The price of chocolate's key ingredient has skyrocketed this year, prompting analysts to issue fresh warnings about extreme price volatility.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.icco.org/november-2024-quarterly-bulletin-of-cocoa-statistics/",
+        "https://think.ing.com/articles/tightness-lingers-in-the-cocoa-and-coffee-market/",
+        "https://unctad.org/news/chocolate-price-hikes-bittersweet-reason-care-about-climate-change",
+        "https://www.think.ing.com/articles/tightness-lingers-in-the-cocoa-and-coffee-market/",
+        "https://icco.org/november-2024-quarterly-bulletin-of-cocoa-statistics/",
+        "https://www.icco.org/november-2024-quarterly-bulletin-of-cocoa-statistics",
+        "https://www.unctad.org/news/chocolate-price-hikes-bittersweet-reason-care-about-climate-change",
+        "https://think.ing.com/articles/tightness-lingers-in-the-cocoa-and-coffee-market"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a5657a08ae8e31292dc546e2072c2417ad9284a8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:50:03.688+02:00",
+    "updated": "2024-12-17T15:27:47.569+02:00"
+}

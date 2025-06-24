@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "65c14a9c006fdcbaf10a34fb99a029ddc39f4364",
+        "url": "https://article.wn.com/view/2025/01/09/HELOC_interest_rates_drop_to_18month_low_Should_you_open_one",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/rates",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Rates &amp; Bonds",
+        "title": "HELOC interest rates drop to 18-month low: Should you open one now? - Worldnews.com",
+        "title_full": "HELOC interest rates drop to 18-month low: Should you open one now? - Worldnews.com",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65c14a9c006fdcbaf10a34fb99a029ddc39f4364",
+    "url": "https://article.wn.com/view/2025/01/09/HELOC_interest_rates_drop_to_18month_low_Should_you_open_one",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "HELOC interest rates drop to 18-month low: Should you open one now? - Worldnews.com",
+    "text": "HELOC interest rates dropped again this week. Here are three reasons why you should open the line of credit now. read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->debt market",
+        "Social Issue->social condition",
+        "Social Issue->adults",
+        "Social Issue->welfare"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbsnews.com/news/heloc-interest-rates-drop-to-18-month-low-should-you-open-one-now/",
+        "https://www.cbsnews.com/news/heloc-interest-rates-drop-to-18-month-low-should-you-open-one-now",
+        "https://cbsnews.com/news/heloc-interest-rates-drop-to-18-month-low-should-you-open-one-now/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:05:48.074+02:00",
+    "updated": "2025-01-10T02:05:48.074+02:00"
+}

@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "34185276faad3a4a52570ced8ade3bb95a269f98",
+        "url": "https://www.newsbreak.com/krtv-news-563655/3753436323654-alliance-for-youth-gets-a-donation-from-the-scripps-howard-foundation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/krtv-news-563655",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "KRTV News&#x27;s Home Page | NewsBreak",
+        "title": "Alliance For Youth gets a donation from the Scripps-Howard Foundation - NewsBreak",
+        "title_full": "Alliance For Youth gets a donation from the Scripps-Howard Foundation - NewsBreak",
+        "published": "2025-01-10T07:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/48euFU_0y22dFBj00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "34185276faad3a4a52570ced8ade3bb95a269f98",
+    "url": "https://www.newsbreak.com/krtv-news-563655/3753436323654-alliance-for-youth-gets-a-donation-from-the-scripps-howard-foundation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T07:53:00.000+02:00",
+    "title": "Alliance For Youth gets a donation from the Scripps-Howard Foundation - NewsBreak",
+    "text": "By Tim McGonigal ,\n5 hours ago Alliance For Youth gets a grant from MTN News In the video above, Tim McGonigal reports on the Alliance For Youth receiving a donation from the Scripps-Howard Foundation.\nSnowed-in student rides horse to Browning school Which MT county is the 'drunkest' in America? Train collides with car in Cut Bank Investigation of Great Falls tattoo shop",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Education"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Human Interest->award and prize",
+        "Education->social learning",
+        "Education->students",
+        "Education->college and university"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://krtv.org/StudentHorse",
+        "https://krtv.org/DrunkestCountyInUSA",
+        "https://krtv.org/tattooshopmore",
+        "https://img.particlenews.com/image.php?url=48euFU_0y22dFBj00",
+        "https://krtv.org/TrainCarCB",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=48euFU_0y22dFBj00",
+        "https://www.krtv.org/StudentHorse",
+        "https://www.krtv.org/TrainCarCB",
+        "https://www.krtv.org/DrunkestCountyInUSA",
+        "https://www.img.particlenews.com/image.php?url=48euFU_0y22dFBj00",
+        "https://www.krtv.org/tattooshopmore",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=48euFU_0y22dFBj00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tim McGonigal",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Scripps-Howard Foundation",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:10:12.094+02:00",
+    "updated": "2025-01-10T08:10:12.094+02:00"
+}

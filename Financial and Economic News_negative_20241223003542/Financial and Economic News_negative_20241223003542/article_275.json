@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "8a34c66c27cb95b3d927335db8f16c5b800d1b6c",
+        "url": "https://www.newsbreak.com/the-independent-517119/3718969729664-bunzl-shares-fall-as-distribution-giant-warns-on-profit",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-independent-517119",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Independent}&#x27;s Home Page | NewsBreak",
+        "title": "Bunzl shares fall as distribution giant warns on profit",
+        "title_full": "Bunzl shares fall as distribution giant warns on profit",
+        "published": "2024-12-17T12:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0WVs5N_0xUJgn5E00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3600,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8a34c66c27cb95b3d927335db8f16c5b800d1b6c",
+    "url": "https://www.newsbreak.com/the-independent-517119/3718969729664-bunzl-shares-fall-as-distribution-giant-warns-on-profit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-17T12:21:00.000+02:00",
+    "title": "Bunzl shares fall as distribution giant warns on profit",
+    "text": "By Alex Daniel ,\n29 minutes ago A Bunzl van in the City of London (John Stillwell/PA) PA Archive Shares in distribution giant Bunzl dropped on Tuesday morning after it warned “more persistent” than expected deflation would hit its bottom line.\nThe company said its business in continental Europe would be hardest hit, though profit will still be comfortably higher than last year.\nShares fell 4.4% on Tuesday morning.\nWe continue to execute on our capital allocation commitments, and welcome C&C and Comodis to the Group, enhancing our offerings in the UK and France\nFrank van Zante, Bunzl chief executive Bunzl makes most of its money from delivering things like food packaging, labels and cleaning products to companies.\nIt is listed on the FTSE 100 and has about 24,500 employees, with more than half of its revenue coming from north America.\nBunzl makes a small margin on the products it supplies to companies.\nThat means deflation can hurt profits if it has bought stock at higher prices and has to sell them for less than previously thought.\nIn a Tuesday morning update, Bunzl said price deflation would have a “slight impact” on profit for the calendar year 2024.\nBunzl said revenue will be higher this year because of a wave of acquisitions it has made this year.\nIt has already bought 13 smaller companies in 2024, spending £850 million in the process.\nThey include C&C Group, a Dublin-based drinks distributor, and Comodis, which distributes cleaning and hygiene products in south-east France.\nChief executive Frank van Zanten said that even after spending a record amount of money on acquisitions, the pipeline remains “active” for more deals.\nAnd despite the profit warning, 2024 would be “another year of significant progress for Bunzl”, he said.\n“We continue to execute on our capital allocation commitments, and welcome C&C and Comodis to the Group, enhancing our offerings in the UK and France,” he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.independent.co.uk/topic/europe",
+        "https://img.particlenews.com/image.php?url=0WVs5N_0xUJgn5E00",
+        "https://www.independent.co.uk/topic/shares",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0WVs5N_0xUJgn5E00",
+        "https://img.particlenews.com/image.php",
+        "https://independent.co.uk/topic/shares",
+        "https://independent.co.uk/topic/europe",
+        "https://www.img.particlenews.com/image.php?url=0WVs5N_0xUJgn5E00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0WVs5N_0xUJgn5E00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Daniel",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John Stillwell",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bunzl",
+                "sentiment": "negative"
+            },
+            {
+                "name": "C&C",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:50:07.579+02:00",
+    "updated": "2024-12-17T12:50:07.579+02:00"
+}

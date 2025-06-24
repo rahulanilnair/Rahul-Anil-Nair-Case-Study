@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "437e1f6103a455a27bc7ff5f5fe64a49c165edae",
+        "url": "https://www.world-today-news.com/oil-prices-plunge-on-chinas-slowing-economy-2",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World Today News - www.world-today-news.com/",
+        "title": "Oil Prices Plunge on China’s Slowing Economy",
+        "title_full": "Oil Prices Plunge on China’s Slowing Economy",
+        "published": "2024-12-17T08:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AD",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 27996,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "437e1f6103a455a27bc7ff5f5fe64a49c165edae",
+    "url": "https://www.world-today-news.com/oil-prices-plunge-on-chinas-slowing-economy-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-12-17T08:45:00.000+02:00",
+    "title": "Oil Prices Plunge on China’s Slowing Economy",
+    "text": "Oil Prices Slip on Weak Chinese Spending and Fed Meeting Jitters oil prices ⁣took⁣ a tumble on Monday, December 16th, as markets reacted to ⁤disappointing‌ economic news from China and the looming uncertainty surrounding the Federal ⁣Reserve’s upcoming monetary policy decision. West Texas Intermediate (WTI) crude, the U.S. benchmark,closed down 0.81%, settling at $70.71 per‌ barrel. Brent crude, the international benchmark, also fell, ending the day​ at $73.91 per barrel, a decrease of 0.78%.\nThe decline was largely attributed⁢ to weaker-than-expected Chinese⁣ consumer spending⁣ figures. China’s national Bureau of Statistics reported a mere 3% increase in November retail sales, a meaningful slowdown from October’s 4.8% growth and below analyst predictions of ‍a 4.6% rise. This sluggish performance fueled concerns about reduced oil demand from China,‍ the world’s largest‌ oil importer.\nThe impact‍ of ⁤this ⁣news extended beyond the ‍immediate market reaction. “In addition⁣ to concerns about demand in China, oil‍ prices are also being pressured by investors taking profits before the outcome of Wednesday’s Fed meeting is known,” explained Tony Sycamore, an analyst at IG.This highlights the interconnectedness of global economic‌ factors and ⁤their influence on the energy market.\nAll eyes are now⁤ on the Federal ⁤Reserve’s declaration on Wednesday. Investors are ‍keenly awaiting the outcome of the meeting, Chairman Jerome Powell’s press conference, and the release⁤ of the‍ Fed’s “dot ⁣plot,” which forecasts ⁤interest ​rate projections.The direction of ⁤interest rates in ⁢2025 will significantly impact investment strategies and, consequently, oil ​prices.\nAdding to the pre-meeting tension, investors ⁢are also monitoring the American petroleum Institute’s (API) crude oil inventory report, released ⁢before the official figures from the U.S. Energy Information Administration (EIA) on ​Wednesday. This ⁤data will provide further​ insight into‍ the​ supply-demand ​dynamics of the U.S. oil market.\nThe current situation underscores the‌ volatility of ‌the oil market, influenced by‍ both global economic trends and domestic monetary policy decisions. The interplay ​between these factors will ‌continue to shape oil prices⁢ in the coming weeks and months, impacting American consumers and businesses alike.\nOil prices dipped on December​ 16th due to slow Chinese consumer spending ‍ and anticipation surrounding the Federal Reserve ‘s‌ upcoming meeting. [[1]]\nWeaker-than-expected⁤ Chinese retail sales sparked concerns about reduced⁣ oil demand from the world’s largest importer. [[1]]\nInvestors are‍ also waiting for the outcome of the Fed meeting, as interest rate decisions in 2025 will influence investment strategies and oil prices. [[1]]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://example.org",
+        "https://www.example.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:47:28.846+02:00",
+    "updated": "2024-12-17T11:47:28.846+02:00"
+}

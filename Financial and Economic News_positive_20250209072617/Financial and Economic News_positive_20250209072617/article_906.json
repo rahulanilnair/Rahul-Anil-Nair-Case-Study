@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "9e2d488c02e7004fe24e9e56e173f861f5c9e893",
+        "url": "https://www.newsbreak.com/the-spun-510012/3753724090731-notre-dame-earns-20-million-after-defeating-penn-state-in-college-football-playoff",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-spun-510012",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Spun&#x27;s Home Page | NewsBreak",
+        "title": "Notre Dame Earns $20 Million After Defeating Penn State In College Football Playoff - NewsBreak",
+        "title_full": "Notre Dame Earns $20 Million After Defeating Penn State In College Football Playoff - NewsBreak",
+        "published": "2025-01-10T07:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3k5qVS_0y2Ku5s600",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e2d488c02e7004fe24e9e56e173f861f5c9e893",
+    "url": "https://www.newsbreak.com/the-spun-510012/3753724090731-notre-dame-earns-20-million-after-defeating-penn-state-in-college-football-playoff",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T07:26:00.000+02:00",
+    "title": "Notre Dame Earns $20 Million After Defeating Penn State In College Football Playoff - NewsBreak",
+    "text": "By Jordan Sigler ,\n1 hours ago Notre Dame defeated Penn State 27-24 in the Orange Bowl. The Fighting Irish are set to make $20 million. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->american football",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Bowl",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:19:48.385+02:00",
+    "updated": "2025-01-10T09:19:48.385+02:00"
+}

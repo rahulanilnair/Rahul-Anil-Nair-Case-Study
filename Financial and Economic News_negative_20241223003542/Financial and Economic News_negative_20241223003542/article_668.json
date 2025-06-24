@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "82b70a86869020509ca52f0264049de3da2d40ac",
+        "url": "https://time.news/ine-without-money-and-with-600-trials-in-tow",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://www.time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "title": "INE, without money and with 600 trials in tow",
+        "title_full": "INE, without money and with 600 trials in tow",
+        "published": "2024-12-17T12:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 74567,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "82b70a86869020509ca52f0264049de3da2d40ac",
+    "url": "https://time.news/ine-without-money-and-with-600-trials-in-tow",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "times news cr",
+    "published": "2024-12-17T12:40:00.000+02:00",
+    "title": "INE, without money and with 600 trials in tow",
+    "text": "With at least 600 amparo lawsuits in tow and without the budget enough, the National Electoral Institute (INE) organizes the choice largest in its history.\nAlong with strategies to reduce costs, the electoral body faces a legal battle in the district courts before the hundreds of resolutions of judges .\nYou may be interested in: The Judiciary publishes a list of 1,046 candidates for election\nJosé Perdomo Galicia, expert in constitutional processes, points out that the counselors have a double game by disobeying orders of protection judges, while continuing with the complaint and defense processes before collegiate courts and district courts .\nBy agreement of the councils, the electoral body decided disregard the suspensions that ordered him to stop the organization of the election and move forward, but with the filing of complaint appeals before collegiate courts and a cascade of requests for dismissal of amparo trials.\nHe INE bases the protection of the election of judges, magistrates and ministers on a resolution of last November 18 of the Electoral Tribunal of the Judicial Branch of the Federation (TEPJF), which gave him the green light to continue with the organization and determined that the judicial election could not be stopped or suspended.\nYou may be interested: Discard INE vote from abroad for judicial election\nConsequences of the elections The contempt for the judges’ resolutions has led to the imposition of at least two fines of 54 thousand pesos on the electoral councilors, who have also received the warning that they will be criminally denounced and a process for contempt will be opened, based on article 262 of the Amparo Law, the consequence of which can be dismissal and up to nine years in prison.\nThe legal strategy of the INE, through its district boards, is to request the massive dismissal of the amparo trials, that is, their dismissal en bloc because the principle of constitutional supremacy is in force.\nRegarding using the resolution of the TEPJF as a protective mantle, in an interview with 24 HORAS, the also academic of the La Salle Law School pointed out that it is rather a shield for the ministries, because in the event that criminal proceedings for contempt are opened against them, they would have the argument that a higher and jurisdictional authority ordered them to continue with the election.\nHe pointed out that by legally fighting the suspensions, the INE He himself is accepting the legitimacy of the amparo trials and would have to suspend the judicial election process.\nYou may be interested: Sheinbaum asks Morenoist rulers to leave behind luxuries and paraphernalia\nINE at a crossroads Perdomo predicted that the contempt will continue and the election of judges, ministers and magistrates will be held on June 1, but the elected judicial authorities will arrive with that stain, not before the people or the citizens, but before the Constitution, that it was an illegal process.\nHe INE another crossroads is also faced, Well, he requested 40 thousand 476 million pesos and they only approved a little more than 27 billion pesos, of which 7 billion are from parties and 15 billion for the operation of the Institute, that is, he only has 4 billion left of the 13 thousand that he requested for the judicial organization.\nRelated",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "José Perdomo Galicia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Electoral Insti",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Electoral Tribunal of the Judicial Branch",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:50:51.401+02:00",
+    "updated": "2024-12-17T14:50:51.401+02:00"
+}

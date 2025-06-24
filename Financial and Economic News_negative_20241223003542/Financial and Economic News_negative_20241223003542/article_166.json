@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "f81b306d0cfc1d36f21b447c086c8df27b081d61",
+        "url": "https://www.business-money.com/announcements/market-report-european-markets-retreat-uk-wage-data-comes-in-hot",
+        "site_full": "www.business-money.com",
+        "site": "business-money.com",
+        "site_section": "https://www.business-money.com",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "Business Finance &amp; Banking News | Business Money Magazine",
+        "title": "Market Report: European markets retreat, UK wage data comes in hot",
+        "title_full": "Market Report: European markets retreat, UK wage data comes in hot",
+        "published": "2024-12-17T10:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 132501,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f81b306d0cfc1d36f21b447c086c8df27b081d61",
+    "url": "https://www.business-money.com/announcements/market-report-european-markets-retreat-uk-wage-data-comes-in-hot",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iris",
+    "published": "2024-12-17T10:47:00.000+02:00",
+    "title": "Market Report: European markets retreat, UK wage data comes in hot",
+    "text": "Matt Britzman, senior equity analyst, Hargreaves Lansdown: “The FTSE 100 has opened down 0.7% this morning, following a broader trend lower across European markets. Investors are digesting key UK wage data and bracing for interest rate decisions from major central banks, including the Bank of England and the US Federal Reserve. Rates are expected to hold firm in the UK later in the week, while the US looks all but certain to cut on Wednesday.\nRegular pay in the UK rose 5.2% in the three months to October, edging up from the previous period and beating expectations. The increase was driven by private sector wages, while public sector growth slowed, and manufacturing led the way. Adjusted for inflation, real wages continued to climb, but the stronger print has all but assured the Bank of England will hold rates steady on Thursday, with markets pricing in a 93% chance of no change. Investors are now in wait-and-see mode, watching whether the labour market cools in the wake of the Budget, with February’s rate cut prospects looking like a coin toss.\nBunzl delivered a mixed update ahead of its year-end, with revenue for 2024 set to rise 3% at constant exchange rates but weighed down by weaker volumes and persistent deflation, which has hurt shares in early trading. Despite this, strong cost management and higher-margin acquisitions are expected to drive solid profit growth, with margins holding above last year’s levels. Looking to 2025, Bunzl remains upbeat, pointing to steady revenue growth from acquisitions and modest underlying improvement, while confirming a further £200 million share buyback.\nBrent crude oil held its recent climb to a touch over $74 a barrel, as markets found some support despite lingering concerns over global demand. Hopes for a rebound in consumption were tempered by weak economic data from China, while forecasts of oversupply next year kept a lid on further gains. Still, ongoing geopolitical tensions and anticipation of the US Federal Reserve’s final rate decision, where a rate cut is widely expected, helped keep oil prices steady.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hargreaves Lansdown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Britzman",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bank of England",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bunzl",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:13:23.803+02:00",
+    "updated": "2024-12-17T12:13:23.803+02:00"
+}

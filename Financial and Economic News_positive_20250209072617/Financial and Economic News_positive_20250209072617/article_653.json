@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "ebe2f29f1c42937f09bd0afd26fecc6cac70f649",
+        "url": "https://www.dailymirror.lk/print/business-news/Hambantota-Port-achieves-22-growth-in-2024/273-299830",
+        "site_full": "www.dailymirror.lk",
+        "site": "dailymirror.lk",
+        "site_section": "https://www.dailymirror.lk/print",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "Daily Mirror - Sri Lanka Latest Breaking News and Headlines - Print Edition",
+        "title": "Daily Mirror - Sri Lanka Latest Breaking News and Headlines - Print Edition Hambantota Port achieves 22% growth in 2024",
+        "title_full": "Daily Mirror - Sri Lanka Latest Breaking News and Headlines - Print Edition Hambantota Port achieves 22% growth in 2024",
+        "published": "2025-01-10T06:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "LK",
+        "main_image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_69ffdcde0a.jpg",
+        "performance_score": 0,
+        "domain_rank": 23659,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ebe2f29f1c42937f09bd0afd26fecc6cac70f649",
+    "url": "https://www.dailymirror.lk/print/business-news/Hambantota-Port-achieves-22-growth-in-2024/273-299830",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:01:00.000+02:00",
+    "title": "Daily Mirror - Sri Lanka Latest Breaking News and Headlines - Print Edition Hambantota Port achieves 22% growth in 2024",
+    "text": "10 Jan 2025 - {{hitsCtrl.values.hits}}\nShip to ship, discharging and loading of liquid cargo\nHambantota International Port (HIP) recorded a growth of 22 percent in 2024, matching its performance from the previous year.\nWith its sights set on even higher numbers in 2025, the port is implementing upgrades to its infrastructure, including the introduction of gantry and yard cranes in the container yard.\n“These enhancements are part of HIP’s strategy to meet the growing demands of the shipping & logistics markets while positioning itself as a key player in the Indian Ocean region,” HIP said in a statement.\nThe port’s bulk and break-bulk cargo sectors saw progress in 2024. During the first half of the year, volumes rose by 134 percent compared to the same period in 2023, increasing from 236,012 metric tons to 552,297 metric tons.\nThis surge was largely attributed to the recovery of Sri Lanka’s construction sector, which collapsed in 2022, leading to a spike in cement imports. HIP has also cemented its reputation as a hub for bulk cargo distribution in Sri Lanka, with further growth expected by year-end.\nGas operations at the port also flourished, with LPG volumes increasing by 46 percent in the first half of 2024, climbing from 127,232 metric tons to 185,214 metric tons. The port recorded a 100 percent increase in LPG throughput during the second quarter compared to 2023.\nHIP expanded its services in the energy sector by offering LPG vessel gas-ups and direct bunker supplies, while also preparing for Liquid Bulk Ship-to-Ship operations. These developments emphasise HIP’s focus on promoting the energy sector as a key growth market.\nA key achievement for HIP in 2024 was the launch of its inaugural container transshipment service in April, operated by the Mediterranean Shipping Company (MSC). HIP transitioned into a fully-fledged container port, handling 43,777 TEUs by mid-year, a staggering increase from just 44 TEUs during the same period in 2023.\nThis milestone marked a 99,300 percent growth in the container segment and positioned HIP as a potential container transfer centre in the region. To support this new operation, the port is developing a dedicated container yard to handle transshipment services.\n10 Jan 2025 19 minute ago\n10 Jan 2025 26 minute ago\n10 Jan 2025 42 minute ago\n10 Jan 2025 57 minute ago\n10 Jan 2025 1 hours ago",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->transport",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ocean",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:12:04.363+02:00",
+    "updated": "2025-01-10T07:12:04.363+02:00"
+}

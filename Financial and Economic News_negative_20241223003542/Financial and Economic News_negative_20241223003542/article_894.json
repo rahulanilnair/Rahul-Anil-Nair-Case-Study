@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "a253a9628b2cdfdfa763ec28f56dee460a334142",
+        "url": "https://www.morningstar.com/news/dow-jones/202412173802/meta-fined-264-million-in-ireland-over-facebook-data-breach",
+        "site_full": "www.morningstar.com",
+        "site": "morningstar.com",
+        "site_section": "https://www.morningstar.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Market Headlines | Morningstar",
+        "title": "Meta Fined $264 Million in Ireland Over Facebook Data Breach | Morningstar",
+        "title_full": "Meta Fined $264 Million in Ireland Over Facebook Data Breach | Morningstar",
+        "published": "2024-12-17T15:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "performance_score": 0,
+        "domain_rank": 1858,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a253a9628b2cdfdfa763ec28f56dee460a334142",
+    "url": "https://www.morningstar.com/news/dow-jones/202412173802/meta-fined-264-million-in-ireland-over-facebook-data-breach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T15:40:00.000+02:00",
+    "title": "Meta Fined $264 Million in Ireland Over Facebook Data Breach | Morningstar",
+    "text": "Meta Fined $264 Million in Ireland Over Facebook Data Breach By Edith Hancock Ireland's Data Protection Commission fined Meta Platforms 251 million euros ($263.9 million) on the back of a 2018 data breach that affected 29 million Facebook accounts globally, the regulator said. The DPC said Tuesday that the data leak was the result of unauthorized third parties exploiting user tokens--which are used to verify identity--on the widely-used social network. Meta didn't immediately respond to a request for comment. Write to Edith Hancock at edith.hancock@wsj.com (END) Dow Jones Newswires December 17, 2024 08:40 ET (13:40 GMT) Copyright (c) 2024 Dow Jones & Company, Inc. More in Markets Despite the positive outlook for stocks, don’t count on another year of near-30% returns. Fidelity’s Jurrien Timmer on Why the Stock Market Rally Has Legs in 2025 Plus: Fed decision looms, more inflation data, and market timing. Markets Brief: Stocks Are Getting Expensive. Should You Sell? We wrap up our coverage of the markets and the week. Smart Investor: Cheap Stocks That Just Raised Dividends, Will the Fed Pause, Morningstar’s Recommended Reading More in Stocks Advanced Micro Devices and Caterpillar are among the stocks that fell into undervalued territory. 14 New 4-Star Stocks Trip.com and Rockwell Automation are among the stocks that are now expensive. 2 Newly Overvalued Stocks These companies largely earn their competitive advantage from intangible assets, and their stocks are great choices for an investor’s watchlist.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:52:18.754+02:00",
+    "updated": "2024-12-17T15:52:18.754+02:00"
+}

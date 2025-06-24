@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "24b28aa54cef04bb8d8fe720ec4cd1aa82f7f739",
+        "url": "https://article.wn.com/view/2025/01/10/Stocks_to_buy_today_Nuvama_maintained_a_buy_on_TCS_post_Q3_r",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/stocks",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Stocks",
+        "title": "Stocks to buy today: Nuvama maintained a buy on TCS post Q3 results; Macquarie initiate outperform on IRCTC - Worldnews.com",
+        "title_full": "Stocks to buy today: Nuvama maintained a buy on TCS post Q3 results; Macquarie initiate outperform on IRCTC - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "24b28aa54cef04bb8d8fe720ec4cd1aa82f7f739",
+    "url": "https://article.wn.com/view/2025/01/10/Stocks_to_buy_today_Nuvama_maintained_a_buy_on_TCS_post_Q3_r",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Stocks to buy today: Nuvama maintained a buy on TCS post Q3 results; Macquarie initiate outperform on IRCTC - Worldnews.com",
+    "text": "Brokerage firms Nuvama, CLSA, and Macquarie have highlighted strong growth prospects for TCS,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy",
+        "Politics->political development",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TCS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CLSA",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:30:16.018+02:00",
+    "updated": "2025-01-10T08:30:16.018+02:00"
+}

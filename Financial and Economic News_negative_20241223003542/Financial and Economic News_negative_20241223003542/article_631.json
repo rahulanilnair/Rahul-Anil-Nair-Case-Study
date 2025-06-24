@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "cae554509af308e1f780a9c36ccbcf7902d32fdd",
+        "url": "https://www.rttnews.com/3497789/cheetah-mobile-inc-q3-loss-rises.aspx?type=ern",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "https://www.rttnews.com",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "\r\n\tRealtime Business News, Economic News, Breaking News and Forex News – RTTNews\r\n",
+        "title": "Cheetah Mobile Inc. Q3 Loss Rises",
+        "title_full": "Cheetah Mobile Inc. Q3 Loss Rises",
+        "published": "2024-12-17T10:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cae554509af308e1f780a9c36ccbcf7902d32fdd",
+    "url": "https://www.rttnews.com/3497789/cheetah-mobile-inc-q3-loss-rises.aspx?type=ern",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T10:58:00.000+02:00",
+    "title": "Cheetah Mobile Inc. Q3 Loss Rises",
+    "text": "Cheetah Mobile Inc. (CMCM) released Loss for its third quarter that increased from last year The company's bottom line totaled -RMB46.90 million, or -RMB1.6150 per share. This compares with -RMB24.29 million, or -RMB0.7206 per share, in last year's third quarter. Excluding items, Cheetah Mobile Inc. reported adjusted earnings of -RMB35.36 million or -RMB1.2300 per share for the period. The company's revenue for the quarter rose 16.6% to RMB192.08 million from RMB164.80 million last year. Cheetah Mobile Inc. earnings at a glance (GAAP) : -Earnings (Q3): -RMB46.90 Mln. vs. -RMB24.29 Mln. last year.-EPS (Q3): -RMB1.6150 vs. -RMB0.7206 last year.-Revenue (Q3): RMB192.08 Mln vs. RMB164.80 Mln last year. For comments and feedback contact: editorial@rttnews.com Business News December 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Cheetah Mobile Inc.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "European Central Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of Canada",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:38:39.857+02:00",
+    "updated": "2024-12-17T14:38:39.857+02:00"
+}

@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "52cf2af349743d62fb97c7ac0c49fbf9c5f11567",
+        "url": "https://taiwannews.com.tw/news/6012068",
+        "site_full": "taiwannews.com.tw",
+        "site": "taiwannews.com.tw",
+        "site_section": "https://taiwannews.com.tw/en",
+        "site_categories": [
+            "top_news_tw",
+            "top_news"
+        ],
+        "section_title": "Taiwan News - Voice of the People, Bridge to the World",
+        "title": "Taiwan's Largan Precision reports four-year high earnings per share | Taiwan News | Jan. 10, 2025 12:16",
+        "title_full": "Taiwan's Largan Precision reports four-year high earnings per share | Taiwan News | Jan. 10, 2025 12:16",
+        "published": "2025-01-10T06:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TW",
+        "main_image": "https://image.taiwannews.com.tw/2023%2F08%2F12%2Fe90bbc36958c47bbb01dfc5d4a378ee0.jpg",
+        "performance_score": 0,
+        "domain_rank": 5796,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 19,
+                "comments": 0,
+                "shares": 30
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52cf2af349743d62fb97c7ac0c49fbf9c5f11567",
+    "url": "https://taiwannews.com.tw/news/6012068",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T06:16:00.000+02:00",
+    "title": "Taiwan's Largan Precision reports four-year high earnings per share | Taiwan News | Jan. 10, 2025 12:16",
+    "text": "TAIPEI (Taiwan News) — Taiwan’s Largan Precision held its investor conference Thursday, reporting a nearly four-year high full-year earnings per share and confirming involvement in humanoid robot vision projects.\nThe company's 2024 revenue was NT$59.46 billion (US$1.8 billion), a 22% year-over-year increase, with a gross profit margin of 52.4%. After-tax net profit was NT$25.915 billion, a 45% year-over-year increase, and EPS was NT$194.17 (US$5.9), per [CNA](https://www.cna.com.tw/news/afe/202501090204.aspx).\nLargan Precision discussed its entry into humanoid robots for the first time and noted its work on projects with multiple clients. The company’s lens modules, mainly 5p (five plastic lenses), are designed for features like impact resistance, night vision, and augmented reality.\nStrong momentum is anticipated early this year, supported by US investor optimism for slim and foldable phones and a recovering lens market, per [Yahoo News](https://tw.news.yahoo.com/大立光法說報喜-外資-驅動題材喊進目標價3485元-233750915.html). With a “buy” rating and a target price of NT$3,485, the stock closed at NT$2,595 on Thursday.\nForeign research reports commonly employ a rating system that categorizes stocks as “outperform,” “neutral,” or “underperform,” which translate to “buy,” “hold,” and “sell” recommendations. Target prices are often based on company earnings projections, and studies show that these target prices are met about 50% of the time, according to [CTEE](https://www.ctee.com.tw/news/20210205700517-431001).\nFollowing its investor conference, Largan Precision experienced gains exceeding 8% in early trading on the Taiwan stock market Friday, contributing to a rise in the TAIEX. This occurred as TSMC underwent a period of consolidation following prior advances.\nThe company reported a fourth-quarter after-tax net profit of NT$8.68 billion (US$263.23 million), driven by high-end lenses and customer shipment bonuses. It marked a record high for a single quarter and signifies a 74.74% year-over-year increase.\nIn the fourth quarter of last year, Largan Precision's product mix showed that 10-megapixel products accounted for 60% to 70% of total sales while products with 20 MP or more represented 20% to 30%. Eight MP products comprised less than 10% and other products made up 0% to 10%, according to CEO Lin En-ping (林恩平).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cna.com.tw/news/afe/202501090204.aspx",
+        "https://tw.news.yahoo.com/大立光法說報喜-外資-驅動題材喊進目標價3485元-233750915.html",
+        "https://www.ctee.com.tw/news/20210205700517-431001",
+        "https://ctee.com.tw/news/20210205700517-431001",
+        "https://cna.com.tw/news/afe/202501090204.aspx",
+        "https://www.tw.news.yahoo.com/大立光法說報喜-外資-驅動題材喊進目標價3485元-233750915.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Largan Precision",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:04:43.361+02:00",
+    "updated": "2025-01-10T08:04:43.361+02:00"
+}

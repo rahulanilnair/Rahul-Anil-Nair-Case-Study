@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "0d060091943de421f88d30de2b25d8672ddbcc62",
+        "url": "https://ng.investing.com/news/analyst-ratings/apellis-stock-under-pressure-as-goldman-flags-conservative-syfovre-outlook-93CH-1679357",
+        "site_full": "ng.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ng.investing.com/news/analyst-ratings",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Stock Analyst Ratings: Upgrades and Downgrades - Investing.com NG",
+        "title": "Apellis stock under pressure as Goldman flags conservative Syfovre outlook By Investing.com",
+        "title_full": "Apellis stock under pressure as Goldman flags conservative Syfovre outlook By Investing.com",
+        "published": "2024-12-17T04:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d060091943de421f88d30de2b25d8672ddbcc62",
+    "url": "https://ng.investing.com/news/analyst-ratings/apellis-stock-under-pressure-as-goldman-flags-conservative-syfovre-outlook-93CH-1679357",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-17T04:58:00.000+02:00",
+    "title": "Apellis stock under pressure as Goldman flags conservative Syfovre outlook By Investing.com",
+    "text": "On Tuesday, Goldman Sachs revised its rating for Apellis Pharmaceuticals (NASDAQ: APLS ), listed on NASDAQ: APLS stock, from Buy to Neutral and adjusted the price target to $36.00. According to InvestingPro data, this target price may be conservative, as their Fair Value analysis suggests the stock is currently undervalued. The company, with a market capitalization of $4.2 billion, maintains a strong financial position with a healthy current ratio of 4.36, indicating solid liquidity.\nThe decision follows insights from key opinion leaders (KOLs) indicating a smaller patient pool for the treatment of geographic atrophy (GA) with Apellis' Syfovre or competitor Astellas' Izervay than initially expected.\nAccording to the analysts, only about 5% to 20% of GA patients are likely to be treated with these drugs, a figure that's below the initial projections at the time of launch. Additionally, the launch is perceived to be progressing slowly due to the absence of definitive functional benefit data, which is expected to limit broader drug adoption.\nDespite these challenges, InvestingPro data shows impressive revenue growth, with analysts forecasting 91% growth for FY2024, though the company remains unprofitable with a -$221.5 million EBITDA in the last twelve months.\nThe recent Complete Response Letter (CRL) issued to Astellas, which restricts Izervay's usage to 12 months compared to Syfovre's 24-month label, could potentially benefit Syfovre's market share. However, there's uncertainty regarding the extent of this impact in the short term. Physicians are not expected to significantly alter their prescribing habits unless there is pushback from payors for Izervay, given the current medical exemption processes in place.\nGoldman Sachs anticipates a more subdued period for Apellis in terms of catalysts, outside of Syfovre. The firm notes the recent Phase 3 data for Empaveli in two rare kidney diseases, with a supplemental New Drug Application (sNDA) submission expected in early 2025, which could incrementally contribute to revenues. Looking forward, the R&D Day in Spring 2025 is set to offer more clarity on the company's pipeline and initial top-line Phase 1 data from the siRNA asset, expected in the first quarter of 2025.\nIn other recent news, Apellis Pharmaceuticals reported a 7% increase in commercial vial demand for its drug, SYFOVRE, in the third quarter of 2024, resulting in net product revenues of $152 million. Despite a slight decrease in revenue from the previous quarter, the company remains optimistic about SYFOVRE's market potential. Following the release of its third-quarter results, Baird adjusted its outlook on Apellis, reducing the price target to $55 from $92 while maintaining an Outperform rating on the stock.\nMeanwhile, Morgan Stanley (NYSE: MS ) initiated coverage on Apellis, assigning the stock an Equalweight rating with a price target of $31.00, based on insights from over two dozen experts regarding the market development and competitive landscape for Geographic Atrophy (GA) therapies. The firm expects Apellis to see a run-rate of over $600 million in revenue approximately two years post-launch of its GA treatment, Syfovre. However, the growth pace in the GA market is anticipated to decelerate.\nIn light of a setback faced by competitor Astellas Pharma, Piper Sandler maintained its Neutral rating on shares of Apellis with a steady price target of $32.00. The U.S. Food and Drug Administration (FDA) issued a Complete Response Letter (CRL) for the supplemental New Drug Application (sNDA) concerning an extended dosing schedule for Astellas' drug Izervay, potentially giving Apellis' Syfovre a competitive edge in the market. These are the recent developments for Apellis Pharmaceuticals.\nThis article was generated with the support of AI and reviewed by an editor. For more information see our T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:13:36.314+02:00",
+    "updated": "2024-12-17T13:13:36.314+02:00"
+}

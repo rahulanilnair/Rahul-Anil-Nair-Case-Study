@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "a8d154db86021b818d4c4f446c605d57cfc4e140",
+        "url": "https://www.news18.com/videos/world/assad-sent-planeloads-of-250m-in-cash-to-russia-in-putin-s-fee-for-quashing-syria-rebellion-9159386.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://news18.com/india",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "India News: Get India&#x27;s Latest News Today, Live India News News18 ",
+        "title": "Assad ‘Sent Planeloads Of $250M In Cash To Russia In…’: Putin’s Fee For Quashing Syria Rebellion?",
+        "title_full": "Assad ‘Sent Planeloads Of $250M In Cash To Russia In…’: Putin’s Fee For Quashing Syria Rebellion?",
+        "published": "2024-12-17T10:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2024/12/1734434769_f9515109-4617-45cd-a917-44f264b9996d.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a8d154db86021b818d4c4f446c605d57cfc4e140",
+    "url": "https://www.news18.com/videos/world/assad-sent-planeloads-of-250m-in-cash-to-russia-in-putin-s-fee-for-quashing-syria-rebellion-9159386.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@cnnnews18",
+    "published": "2024-12-17T10:52:00.000+02:00",
+    "title": "Assad ‘Sent Planeloads Of $250M In Cash To Russia In…’: Putin’s Fee For Quashing Syria Rebellion?",
+    "text": "Syria's fallen Bashar al-Assad regime airlifted approximately $250 million in cash to Moscow between 2018 and 2019, amid escalating Western sanctions and deepening financial dependence on Russia for military and economic support, according to records uncovered by the Financial Times.Documents obtained by the British daily reveal that Syria’s central bank flew shipments of US dollars and euros, weighing nearly two tons, to Moscow’s Vnukovo Airport. These funds were deposited into Russian banks sanctioned by the US.The transfers came during a period when Syria, struggling with depleted foreign reserves, relied heavily on Russian military backing, including support from the Wagner Group.\"The regime would have to bring their money abroad to a safe haven to be able to use it to procure the fine life… for the regime and its inner circle,\" said David Schenker, former US Assistant Secretary of State for Near Eastern Affairs.Syrian cash was used for various purposes, including payments for wheat, military expenses, and money-printing services in Russia.A source familiar with the transactions noted: \"When a country is completely surrounded and sanctioned, they have only cash.\" n18oc_world n18oc_crux\" class=\"jsx-a85f0d6dd874f7e2\"/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Putin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bashar al-Assad",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Schenker",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wagner Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:27:33.145+02:00",
+    "updated": "2024-12-17T20:35:39.021+02:00"
+}

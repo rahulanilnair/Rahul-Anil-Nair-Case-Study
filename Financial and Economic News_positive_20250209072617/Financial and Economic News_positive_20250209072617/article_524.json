@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "610b95fa1ddbf344734feedda791ee4ffe4f6623",
+        "url": "https://www.hellenicshippingnews.com/german-exports-industrial-production-rise-more-than-expected",
+        "site_full": "www.hellenicshippingnews.com",
+        "site": "hellenicshippingnews.com",
+        "site_section": "https://www.hellenicshippingnews.com",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Hellenic Shipping News Worldwide | Hellenic Shipping News Worldwide, Online Daily Newspaper on Hellenic and International Shipping",
+        "title": "German exports, industrial production rise more than expected",
+        "title_full": "German exports, industrial production rise more than expected",
+        "published": "2025-01-09T23:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GR",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 19890,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "610b95fa1ddbf344734feedda791ee4ffe4f6623",
+    "url": "https://www.hellenicshippingnews.com/german-exports-industrial-production-rise-more-than-expected",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hellenicshippingnews",
+    "published": "2025-01-09T23:00:00.000+02:00",
+    "title": "German exports, industrial production rise more than expected",
+    "text": "German exports rose thanks to strong demand from countries outside the EU and industrial production rose more than expected in November, data from the statistics office showed on Thursday.\nExports increased by 2.1% in November compared with the previous month. The result compared with a 2.0% increase forecast in a Reuters poll.\nWhile exports to EU countries dropped by 1.7% on the month, exports to countries outside of the EU increased by 6.9%.\nExports of goods to the United States were up 14.5% compared with October and exports to the U.K. rose by 8.6%, while exports to China decreased by 4.2%, data from the statistics office showed.\nThe foreign trade balance showed a surplus of 19.7 billion euros ($20.30 billion) in November, up from 13.4 billion euros in October.\nMeanwhile, German industrial production rose by 1.5% in November compared to the previous month, the federal statistics office said on Thursday. Analysts polled by Reuters had predicted a 0.5% rise.\nIndustrial orders declined 5.4% in November from the previous month, the federal statistics office said on Wednesday, showing that demand remains weak.\nSource: Reuters (Reporting by Maria Martinez and Chiara Holzhaeuser, Editing by Friederike Heine)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->economy",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "EU",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:32:01.029+02:00",
+    "updated": "2025-01-10T05:32:01.029+02:00"
+}

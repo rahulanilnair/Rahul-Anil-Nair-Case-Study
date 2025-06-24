@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "347e05820eebb5b9fd066c98d36e164eaab9ec01",
+        "url": "https://www.news18.com/business/markets/stock-market-updates-sensex-100-points-higher-nifty-at-23540-tcs-up-4-9183886.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/business",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest Business News: Live Stock Market Today, Finance, Economy News News18 ",
+        "title": "Stock Market Updates: Sensex 100 Points Higher; Nifty At 23,540; TCS Up 4%",
+        "title_full": "Stock Market Updates: Sensex 100 Points Higher; Nifty At 23,540; TCS Up 4%",
+        "published": "2025-01-10T06:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2024/10/bse-building-old-2024-10-64ec31f56f969513ede41e57605639c3-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 2020,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "347e05820eebb5b9fd066c98d36e164eaab9ec01",
+    "url": "https://www.news18.com/business/markets/stock-market-updates-sensex-100-points-higher-nifty-at-23540-tcs-up-4-9183886.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@cnnnews18",
+    "published": "2025-01-10T06:27:00.000+02:00",
+    "title": "Stock Market Updates: Sensex 100 Points Higher; Nifty At 23,540; TCS Up 4%",
+    "text": "Indian markets declined for the second consecutive session, closing the week on a negative note on Friday. The 30-share Sensex dropped 241.30 points, or 0.31%, to end at 77,378.91. The index traded within a range of 77,099.55 to 77,919.70 during the day.\\nThe NSE Nifty50 also closed in the red, falling 95 points, or 0.40%, to settle at 23,431.50. The index touched a high of 23,596.60 and a low of 23,426.55 during the session.\\nOut of the 50 stocks that make up the Nifty50, 36 ended lower, with the biggest losses seen in Shriram Finance, Adani Enterprises, IndusInd Bank, NTPC, Bharat Electronics, and Ultratech Cement. On the other hand, 14 stocks, including TCS, Tech Mahindra, HCL Tech, Wipro, and Infosys, posted gains, with some rising by as much as 6%.\\nIn the broader market, the Nifty Midcap100 index declined by 2.08% to close at 54,585.75, while the Nifty Smallcap100 index fell 2.61%, ending at 17,645.55.\\nGlobal Market Trends\\nIn Asia-Pacific markets, the sentiment was mixed as investors digested Japan’s November data on pay and household spending. Japan’s real household spending for November dropped 0.4% year-on-year, a smaller decline than the 0.6% drop anticipated by economists, and a mild improvement over the 1.3% fall seen in October. Additionally, average real income per household in Japan rose 0.7% to 514,409 yen ($3,252.98).\\nIn terms of regional performance, Japan’s Nikkei 225 fell 0.66%, and the broader Topix index declined by 0.52%. South Korea’s Kospi also dropped 0.41%, with the small-cap Kosdaq sliding 1.07%. Australia’s S&P/ASX 200 fell 0.64%.\\nMeanwhile, in China, Hong Kong’s Hang Seng index rose by 0.4%, the CSI 300 was up 0.03%, and the Shanghai Composite gained 0.07%.\\nUS and Global Bond Market Moves\\nUS Treasury yields pulled back from an eight-month high on Thursday, while the dollar strengthened against major currencies. This shift came as investors reassessed the Federal Reserve’s interest rate policy for 2025 amid signs of resilience in the US economy.\\nThe benchmark 10-year US Treasury yield decreased by 0.45 basis points to 4.689%, having reached 4.73% on Wednesday, the highest level since April 2024. The pound, meanwhile, faced its steepest three-day drop in nearly two years, amid a selloff in global bonds and concerns about the UK economy, which has pressured British gilts and pushed yields to their highest levels in over 16 years.\\nFriday’s US payrolls report is highly anticipated, as it will provide further insight into the Fed’s policy trajectory. Markets are largely pricing in just one 25-basis-point rate cut in 2025.\\nMinutes from the Fed’s December meeting, released on Wednesday, showed concerns over President-elect Donald Trump’s proposed tariffs and immigration policies, which could extend the fight against inflation.\\nIn the US, stock markets were closed on Thursday for the funeral of former president Jimmy Carter, while bond markets closed early at 1900 GMT.\\nEuropean Market Performance\\nEuropean stocks closed higher after paring early losses, driven by gains in healthcare and basic materials stocks. However, these were partially offset by declines in the retail sector. The pan-European STOXX 600 ended up 0.42%.\\nThe US dollar index remained just below 109.54, a level it reached last week for the first time since November 2022. The index, which tracks the greenback against a basket of major currencies, rose by 0.12% to 109.15. The euro weakened by 0.18%, trading at $1.0299.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Sport",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->market and exchange",
+        "Sport->sport industry",
+        "Sport->sports transaction",
+        "Sport->regular competition",
+        "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:50:16.570+02:00",
+    "updated": "2025-01-10T12:56:04.301+02:00"
+}

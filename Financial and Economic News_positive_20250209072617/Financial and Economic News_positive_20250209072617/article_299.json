@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "b8ff953260df5ea9010e19a32ed5d8a3a86f1ed5",
+        "url": "https://www.theland.com.au/story/8862880/forbes-first-cross-ewe-sale-strong-competition-boosts-value",
+        "site_full": "www.theland.com.au",
+        "site": "theland.com.au",
+        "site_section": "https://batemansbaypost.com.au",
+        "site_categories": [
+            "media",
+            "agriculture",
+            "business"
+        ],
+        "section_title": "Batemans Bay news, sport and weather | Bay Post-Moruya Examiner | Batemans Bay, NSW",
+        "title": "Forbes First-Cross Ewe Sale: Strong competition boosts value",
+        "title_full": "Forbes First-Cross Ewe Sale: Strong competition boosts value",
+        "published": "2025-01-09T15:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://www.theland.com.au/images/transform/v1/crop/frm/213265846/f3e021c5-cbdd-4322-a354-186fb0c09762.JPG/r0_659_5568_3582_w1200_h630_fmax.jpg",
+        "performance_score": 0,
+        "domain_rank": 88989,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b8ff953260df5ea9010e19a32ed5d8a3a86f1ed5",
+    "url": "https://www.theland.com.au/story/8862880/forbes-first-cross-ewe-sale-strong-competition-boosts-value",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elka Devney",
+    "published": "2025-01-09T15:00:00.000+02:00",
+    "title": "Forbes First-Cross Ewe Sale: Strong competition boosts value",
+    "text": "Optimism for the year ahead was evident at the 46th Annual Forbes First-Cross Ewe Sale on Thursday, with values up on the top prices paid 12 months ago.\nDespite a slight ease in numbers with 18,000 head yarded, strong buyer competition from as far as Cootamundra to St Geroge, Queensland, drove a competitive market.\nNot-station-mated, first-cross ewe lambs sold to a top of $318 a head ($292 in 2024), while the top of the scanned-in-lamb ewe lambs hit $355, ($316 in 2024).\nKevin Miller, Whitty, Lennon and Company director Luke Whitty, Forbes, said the market performed to expectations.\n\"It landed where we thought, particularly for anything that had the right body weight to join, so anything in excess of 50 kilograms they sold to pretty good competition,\" he said.\n\"The quality was as good as it has been in years gone by and the weight for age was pretty handy right through.\n\"Some of the repeat sellers with good names in this space captured the most competition as they had good repeat buyers.\"\nGJ and NU Sunderland, Currajong Park, Fifield, sold 80, 68kg, mulesed, June/July 2023-drop, October-shorn, SIL ewes to Ashbank Poll Dorset rams for $355 to top the sale.\nTrevor and Chris Morrison Partnership, Hillcrest, Forbes, were awarded the coveted Glamis Shield for the best pen of ewe lambs, for their top draft of 220, 64kg, March/April 2024-drop, October-shorn, first-cross ewe lambs. The pen sold for $290 and were from pure Pooginook Merinos by Glamis Border Leicester rams.\nJudge Jamie Buerckner, Bauer and Retallack Border Leicester, Ariah Park, said the Morrison's first pen of ewe lambs caught his eye as soon as he walked into the yards.\n\"It was their evenness, size and structure,\" he said.\nAll up, the Morrison's sold a total draft of 1570 NSM first-cross ewe lambs from $234 to a top of $290 to average $259.\nAJ and S Dawes, Tamona, Forbes, sold a pen of 229, 65kg, March/April 2024-drop, October-shorn, NSM first-cross ewe lambs from Western Merinos by Glamis and Dunnield Border Leicester rams, for $300.\nKM and JL Norrie, Allambie, Girral, sold 998, mulesed, April/May 2024-drop, December-shorn ewe lambs from $240 to $318 to average $298. The lambs were from Pooginook ewes and either New Armatree or Inverbrackie rams.\nThe same vendor also sold a pen of 200, 71kg, mulesed August/September 2023-drop, December-shorn, SIL ewe hoggets for $340. They were also from Pooginook ewes and either New Armatree or Inverbrackie rams.\nLongblow Pastoral, Talgoona, Tamworth, sold 410, 62kg, 18- to 20-month old, October-shorn ewes, with 430, 20kg lambs, for $310.\nEric and Andrew Dawes, Rosedale Partnership, Forbes, sold 220, 51kg, March/April 2024-drop, November-shorn, ewe lambs, by Dunnield Border Leicester rams, for $180. It marked their 46th year of selling at the Forbes First-Cross Ewe sale.\nForbes Associated Agents conducted the sale. AuctionsPlus provided the online interface.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->agriculture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Miller",
+                "sentiment": "none"
+            },
+            {
+                "name": "Luke Whitty",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lennon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Queensland",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:40:17.784+02:00",
+    "updated": "2025-01-10T02:40:17.784+02:00"
+}

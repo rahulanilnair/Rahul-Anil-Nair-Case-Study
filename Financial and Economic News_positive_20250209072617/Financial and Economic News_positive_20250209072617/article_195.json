@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "8ac164f1ff8b3ffbf4d3d52280004be67331c913",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-max-healthcare-gives-a-range-breakout-to-hit-fresh-record-high-in-january-2025-should-you-buy/articleshow/117080535.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/markets",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",
+        "title": "Stock Radar: Max Healthcare gives a range breakout to hit fresh record high in January 2025; should you bu",
+        "title_full": "Stock Radar: Max Healthcare gives a range breakout to hit fresh record high in January 2025; should you bu",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-117080836,width-1070,height-580/premium-articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ac164f1ff8b3ffbf4d3d52280004be67331c913",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-radar-max-healthcare-gives-a-range-breakout-to-hit-fresh-record-high-in-january-2025-should-you-buy/articleshow/117080535.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kshitij Anand",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Stock Radar: Max Healthcare gives a range breakout to hit fresh record high in January 2025; should you bu",
+    "text": "Max Healthcare Institute Ltd sees potential for gains after breaking out from a narrow range, hitting a record high. Experts suggest traders buy now or on dips, targeting Rs 1,250 in 2-3 weeks. Recent momentum and strategic expansions support sustained growth and upward trajectory.\nWorry not. You’re just a step away.\nExclusive Economic Times Stories, Editorials & Expert opinion across 20+ sectors\nStock analysis. Market Research. Industry Trends on 4000+ Stocks\nGet 1 Year Complimentary Subscription of TOI+ worth Rs.799/-",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Max Healthcare Institute Ltd",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Exclusive Economic Times Stories",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:43:06.135+02:00",
+    "updated": "2025-01-10T01:43:06.135+02:00"
+}

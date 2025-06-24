@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "dd5595eb597300ac0567e90d49bbfaa37a11a7f4",
+        "url": "https://www.fresnobee.com/news/business/article298265798.html",
+        "site_full": "www.fresnobee.com",
+        "site": "fresnobee.com",
+        "site_section": "https://fresnobee.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Fresno CA Breaking News, Crime &amp; Sports |  Fresno Bee",
+        "title": "JCPenney gets another shot at redemption",
+        "title_full": "JCPenney gets another shot at redemption",
+        "published": "2025-01-09T19:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mcclatchy-wires.com/incoming/7955xc/picture298265518/alternates/LANDSCAPE_1140/f6e5ee1c-5a65-45c2-ad87-a75da8cf14b5",
+        "performance_score": 0,
+        "domain_rank": 7150,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dd5595eb597300ac0567e90d49bbfaa37a11a7f4",
+    "url": "https://www.fresnobee.com/news/business/article298265798.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ross Kohan",
+    "published": "2025-01-09T19:16:00.000+02:00",
+    "title": "JCPenney gets another shot at redemption",
+    "text": "[Business](https://www.fresnobee.com/news/business)\nJCPenney gets another shot at redemption\nTranscript:\nConway Gittens: I’m Conway Gittens reporting from New York City. Here’s what we’re watching on TheStreet today.\nA group of retailers once left for dead are uniting in hopes of getting a piece of a U.S. consumer that’s showing signs of life.\nJCPenney ([JCPNQ](https://www.thestreet.com/quote/JCPNQ)) , the once venerable department store chain, is teaming up with Sparc Group, which owns Forever 21 and Brooks Brothers, two specialty retailers far faded from glory. Other shop names included are Aeropostale, Eddie Bauer, Lucky Brand, and Nautica.\n[Related: Outsmart inflation: How to shop second-hand](https://www.thestreet.com/video/outsmart-inflation-insider-tips-for-shopping-second-hand)\nThis new retail conglomerate will go by the name of Catalyst Brands. In a press release, Catalyst says it now has a broad portfolio and will use AI to help meet the apparel needs of every demographic. “Our relationships with more than 60 million customers and the deep data we have create a compelling consumer value proposition across our brands.”\nThis deal is risky to say the least. All these stores used to be mall favorites when malls were all the rage, but then online shopping took over, forcing malls to the brink of extinction.\nMall owner Simon Property Group and real estate developer Brookfield, however, are betting they can revive these once prominent brands. Both companies teamed up in 2020 to buy J.C. Penney out of bankruptcy for $1.75 billion. And Simon has been the financial muscle behind Sparc’s retail scavenger hunt. Simon and Brookfield stand to gain from even a modest mall resurrection.\nThis merger at least gives these recovering retailers a head start with $9 billion in sales, 1,800 locations, 60,000 employees, and supply chain synergies to hopefully capture more sales than they did separately.\nThat’ll do it for your Daily Briefing. From New York City, I’m Conway Gittens with TheStreet.\nWatch ICYMI This Week:\nThe Arena Media Brands, LLC THESTREET is a registered trademark of TheStreet, Inc.\nThis story was originally published January 9, 2025 at 12:16 PM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->business restructuring",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.thestreet.com/quote/JCPNQ",
+        "https://www.thestreet.com/video/outsmart-inflation-insider-tips-for-shopping-second-hand",
+        "https://thestreet.com/video/outsmart-inflation-insider-tips-for-shopping-second-hand",
+        "https://thestreet.com/quote/JCPNQ"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Conway Gittens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eddie Bauer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "JCPenney",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooks Brothers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sparc Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aeropostale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nautica",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "dd5595eb597300ac0567e90d49bbfaa37a11a7f4",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:55:49.159+02:00",
+    "updated": "2025-01-10T02:55:49.159+02:00"
+}

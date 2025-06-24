@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "9f5f345fdf7b19f34bc28762edeae9de5c554d4b",
+        "url": "https://www.newsbreak.com/dpa-2102879/3719063813775-gloomy-economic-outlook-puts-german-business-index-at-post-covid-low",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dpa-2102879",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "DPA}&#x27;s Home Page | NewsBreak",
+        "title": "Gloomy economic outlook puts German business index at post-Covid low",
+        "title_full": "Gloomy economic outlook puts German business index at post-Covid low",
+        "published": "2024-12-17T13:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3d5AZJ_0xUPf2pp00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3600,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9f5f345fdf7b19f34bc28762edeae9de5c554d4b",
+    "url": "https://www.newsbreak.com/dpa-2102879/3719063813775-gloomy-economic-outlook-puts-german-business-index-at-post-covid-low",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-17T13:57:00.000+02:00",
+    "title": "Gloomy economic outlook puts German business index at post-Covid low",
+    "text": "By DPA ,\n15 minutes ago\nGerman companies are taking an increasingly sour view of the overall economy, with a widely watched business climate index from the ifo Institute showing the lowest value since the depths of the coronavirus pandemic in May 2020.\nThe latest monthly index from the Munich-based ifo Insitute, which was released on Tuesday, is based on surveys of managers at about 9,000 companies across Germany.\n\"The weakness of the German economy has become chronic,\" said ifo President Clemens Fuest.\nCompanies actually expressed a slightly better view of the current economic situation in the survey compared to November, but turned drastically more pessimistic in their view of the future.\nThe election of Donald Trump as the next US president, and especially his threats to impose further tariffs and trade restrictions, is among the factors that may be weighing on business leaders.\n\"The geopolitical uncertainty factors in connection with the war in Ukraine and the US election are weighing on the economy,\" Michael Herzum, chief economist at Union Investment, told dpa. \"There are major concerns that Germany's export-driven growth model will be further undermined under the next US administration.\"\nIn addition, there are structural problems in important sectors such as the automotive industry.\n\"Growth in Germany will remain weak for the time being,\" Herzum said.\nThe index fell noticeably in industry, where the ifo Institute said production cuts have been announced.\n\"The sluggish global economy is causing serious problems for the export-dependent economy,\" said Thomas Gitzel, chief economist at VP Bank. \"Germany is being hit particularly hard by the slump in China.\"\nThe outlook for companies in the service sector also deteriorated. According to Gitzel, the gloomier labour market prospects are likely to have had an impact here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3d5AZJ_0xUPf2pp00",
+        "https://img.particlenews.com/image.php?url=3d5AZJ_0xUPf2pp00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=3d5AZJ_0xUPf2pp00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3d5AZJ_0xUPf2pp00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Herzum",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clemens Fuest",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Union Investment",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9f5f345fdf7b19f34bc28762edeae9de5c554d4b",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:13:26.819+02:00",
+    "updated": "2024-12-17T14:13:26.819+02:00"
+}

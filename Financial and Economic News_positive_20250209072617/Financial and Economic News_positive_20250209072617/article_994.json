@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "0036fb4a0fb5506df9f02938b848e397896715f8",
+        "url": "https://www.nbcboston.com/news/business/money-report/worlds-biggest-chipmaker-tsmc-beats-sales-estimates-as-ai-boost-continues/3597758",
+        "site_full": "www.nbcboston.com",
+        "site": "nbcboston.com",
+        "site_section": "https://www.nbcboston.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NBC10 Boston &#8211; Breaking local news, weather for Mass., N.H.",
+        "title": "World's biggest chipmaker TSMC beats sales estimates as AI boost continues",
+        "title_full": "World's biggest chipmaker TSMC beats sales estimates as AI boost continues",
+        "published": "2025-01-10T08:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6641,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0036fb4a0fb5506df9f02938b848e397896715f8",
+    "url": "https://www.nbcboston.com/news/business/money-report/worlds-biggest-chipmaker-tsmc-beats-sales-estimates-as-ai-boost-continues/3597758",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arjun Kharpal,CNBC",
+    "published": "2025-01-10T08:08:00.000+02:00",
+    "title": "World's biggest chipmaker TSMC beats sales estimates as AI boost continues",
+    "text": "Taiwan Semiconductor Manufacturing Co. posted December quarter revenue that topped analyst estimates as the company continues to get a boost from the AI boom. TSMC manufacturers semiconductors for some of the world’s biggest companies from Apple to Nvidia. For 2024, TSMC’s revenue totaled 2.9 trillion New Taiwan Dollars, its highest annual sales since going public in 1994. Taiwan Semiconductor Manufacturing Co. posted December quarter revenue that topped analyst estimates, as the company continues to get a boost from the AI boom.\nThe world’s largest chip manufacturer reported fourth-quarter revenue of 868.5 billion New Taiwan dollars ($26.3 billion), according to CNBC calculations, up 38.8% year-on-year.\nThat beat Refinitiv consensus estimates of 850.1 billion New Taiwan dollars.\nFor 2024, TSMC’s revenue totaled 2.9 trillion New Taiwan Dollars, its highest annual sales since going public in 1994.\nTSMC manufacturers semiconductors for some of the world’s biggest companies, including Apple and Nvidia .\nTSMC is seen as the most advanced chipmaker in the world, given its ability to manufacture leading-edge semiconductors. The company has been helped along by the strong demand for AI chips, particularly from Nvidia, as well as ever-improving smartphone semiconductors.\n“TSMC has benefited significantly from the strong demand for AI,” Brady Wang, associate director at Counterpoint Research told CNBC.\nWang said “capacity utilization” for TSMC’s 3 nanometer and 5 nanometer processes — the most advanced chips — “has consistently exceeded 100%.”\nAI graphics processing units (GPUs), such as those designed by Nvidia, and other artificial intelligence chips are driving this demand, Wang said.\nTaiwan-listed shares of TSMC have risen 88% over the last 12 months.\nTSMC’s latest sales figures may also give hope to investors that the the demand for artificial intelligence chips and services may continue into 2025.\nThis story is being updated. Please check back for more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnbc.com/quotes/AAPL&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597",
+        "https://www.cnbc.com/quotes/2330-TW&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597",
+        "https://www.cnbc.com/quotes/NVDA&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597",
+        "https://cnbc.com/quotes/NVDA&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597",
+        "https://cnbc.com/quotes/AAPL&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597",
+        "https://cnbc.com/quotes/2330-TW&__source=OTS%7Cfinance%7Cinline%7Cstory%7C&par=OTS&doc=108084597"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TSMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taiwan Semiconductor Manufacturing Co.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Apple",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "0036fb4a0fb5506df9f02938b848e397896715f8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:49:22.205+02:00",
+    "updated": "2025-01-10T10:13:51.762+02:00"
+}

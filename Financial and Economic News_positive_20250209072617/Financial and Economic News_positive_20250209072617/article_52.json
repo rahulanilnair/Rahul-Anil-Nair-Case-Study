@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "7edaf723f7124e71ea5fb2a67a5852c3a591f52d",
+        "url": "https://www.manilatimes.net/2025/01/10/tmt-newswire/globenewswire/gatos-silver-reports-2024-production-at-the-top-end-of-guidance/2036486",
+        "site_full": "www.manilatimes.net",
+        "site": "manilatimes.net",
+        "site_section": "https://www.manilatimes.net/podcasts",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": " Podcasts | The Manila Times ",
+        "title": "Gatos Silver Reports 2024 Production at the Top End of Guidance | The Manila Times",
+        "title_full": "Gatos Silver Reports 2024 Production at the Top End of Guidance | The Manila Times",
+        "published": "2025-01-09T23:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/01/10/511161.jpg",
+        "performance_score": 0,
+        "domain_rank": 6643,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7edaf723f7124e71ea5fb2a67a5852c3a591f52d",
+    "url": "https://www.manilatimes.net/2025/01/10/tmt-newswire/globenewswire/gatos-silver-reports-2024-production-at-the-top-end-of-guidance/2036486",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GlobeNewswire",
+    "published": "2025-01-09T23:29:00.000+02:00",
+    "title": "Gatos Silver Reports 2024 Production at the Top End of Guidance | The Manila Times",
+    "text": "VANCOUVER, British Columbia, Jan. 09, 2025 (GLOBE NEWSWIRE) -- Gatos Silver, Inc. (NYSE/TSX: GATO) (\"Gatos Silver” or the \"Company”) today announced production results for the quarter and year ended December 31, 2024 at its 70%-owned Cerro Los Gatos (\"CLG”) mine in Mexico. Silver production was at the top end of the 2024 guidance range and silver equivalent production was slightly above the top end of the 2024 guidance range. Guidance for both metrics was upwardly revised in October 2024.\nDale Andres, CEO of Gatos Silver, commented: \"The CLG mine delivered another excellent quarter of production to end another very strong year in 2024. We achieved our eighth consecutive quarterly record for mill throughput in the fourth quarter of 2024, with an average throughput rate of above 3,300 tonnes per day, which is 33% above the original design capacity. Production across all of our metals met or slightly exceeded the top end of our upwardly revised 2024 guidance ranges, which is a testament to the dedication and effort of our CLG operating team. The solid progress we made in 2024 on increasing mining and milling rates and on our near mine and greenfield exploration programs position the Company well to deliver significant value into the combination with First Majestic.”\n2024 CLG Production Results Compared with Guidance (100% basis)\nContained Metal Original 2024 Guidance Updated 2024 Guidance 2024\nActual Silver ounces (millions) 8.4 - 9.2 9.2 - 9.7 9.68 Zinc pounds - in zinc conc. (millions) 61 - 69 61 - 69 69.7 Lead pounds - in lead conc. (millions) 40 - 46 40 - 46 46.4 Gold ounces - in lead conc. (thousands) 4.5 - 5.5 4.5 - 5.5 5.53 Silver Equivalent ounces (millions) 1 13.5 - 15.0 14.7 - 15.5 15.57 1 Silver equivalent production is calculated using prices of US$23/oz silver, US$1.20/lb zinc, US$0.90/lb lead and US$1,800/oz gold to \"convert” zinc, lead and gold production contained in concentrate to \"equivalent” silver ounces (contained metal, multiplied by price, divided by silver price).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dale Andres",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Gatos Silver, Inc.",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:21:53.259+02:00",
+    "updated": "2025-01-10T00:21:53.259+02:00"
+}

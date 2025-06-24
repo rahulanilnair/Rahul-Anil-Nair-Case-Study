@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "798fcdfcee2a7c3fbffe0576891f4d6f95e3be9f",
+        "url": "https://www.irishexaminer.com/business/companies/arid-41538218.html",
+        "site_full": "www.irishexaminer.com",
+        "site": "irishexaminer.com",
+        "site_section": "https://www.irishexaminer.com:4431/feed/17-business.xml",
+        "site_categories": [
+            "tech",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "IrishExaminer.com",
+        "title": "Tiktok's Irish unit records $1bn loss after setting cash aside to deal with potential regulatory fines",
+        "title_full": "Tiktok's Irish unit records $1bn loss after setting cash aside to deal with potential regulatory fines",
+        "published": "2024-12-17T13:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://www.irishexaminer.com/cms_media/module_img/8852/4426247_1_seoimageog_a540f4e40009415f8dfbd77f19197a70.jpg.jpg",
+        "performance_score": 0,
+        "domain_rank": 3406,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "798fcdfcee2a7c3fbffe0576891f4d6f95e3be9f",
+    "url": "https://www.irishexaminer.com/business/companies/arid-41538218.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Irishexaminer.com (digitaldesk@irishexaminer.com)",
+    "published": "2024-12-17T13:05:00.000+02:00",
+    "title": "Tiktok's Irish unit records $1bn loss after setting cash aside to deal with potential regulatory fines",
+    "text": "The Irish arm of social media giant TikTok last year incurred a $1bn (€950m) pre-tax loss due to it setting aside $1bn for potential fines arising from regulatory investigations and legal proceedings.\nThat is according to new accounts for TikTok Technology Ltd which show that the company continued to ramp up its operations here last year as revenues increased by 87% from $350m to $654.7m.\nThe $1bn pre-tax loss follows TikTok Technology Ltd recording a pre-tax profit of $11.9m in 2022.\nThe Dublin-based business provides services related to content moderation, data controlling of TikTok in Europe and sales, marketing and routine support to other TikTok entities.\nIn the US currently, TikTok is making last-ditch effort to continue operating there, asking the Supreme Court to temporarily block a law intended to force ByteDance, its China-based parent company, to divest the short-video app by January 19th or face a ban.\nThe new accounts for the Irish unit show that numbers employed by the company last year increased by 289 from 2,631 to 2,920 as the company’s activities \"continued to grow throughout 2023”.\nThe company’s staff costs bill last year increased from $195.1m to $229.5m, which included $9.1m in share based payments.\nThe directors state that the company has performed in line with expectations.\nIn the year under review, the Irish Data Protection Commission (DCP) imposed a €345m fine on TikTok Technology in relation to its processing of personal data relating to child users of the platform and TikTok Technology has since appealed the fine.\nNow in a note concerning the $1bn provision for potential fines from regulatory investigations and legal proceedings, a note states that the company is involved in legal proceedings including regulatory investigations and litigation proceedings.\nThe note states that the company records a liability when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated.\nThe note states that due to the nature of these proceedings and investigations, the ultimate outcome and timing is inherently uncertain.\nIt cautions that “the amount of any final liability is uncertain and the liability could differ from the amount provided”.\nStaff numbers at the Irish unit were made up of 2,172 in operation and administration and 748 in sales and marketing. Pay to directors increased from $559,000 to $608,000.\nIn September of this year, TikTok pulled back from its plan to locate hundreds of its employees in offices at the Tropical Fruit Warehouse in Dublin’s south docklands.\nThis followed a company decision to bring all of the company’s Dublin-based staff together at its European headquarters in the Sorting Office on nearby Cardiff Lane.\nThe new accounts show that operating lease charges last year increased from $30.6m to $38.3m.\nThe $1bn loss for last year resulted in the company having accumulated losses of $982.7m at the end of 2023. The company had a shareholders’ deficit of $982.7m.\nOn the risks and uncertainties facing the company, the directors state that under the heading of compliance risk that “the group undertakings remain steadfastly committed to ensuring there are robust mechanisms in place to protect the privacy and safety of their users”.\nThe firm recorded a post tax loss of $1bn after paying corporation tax of $3.7m.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TikTok Technology Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:28:31.897+02:00",
+    "updated": "2024-12-17T13:28:31.897+02:00"
+}

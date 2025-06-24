@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "6f9d359b90b1dd4c3c72946a6e48ad93afa152e5",
+        "url": "https://www.livemint.com/market/stock-market-news/gold-price-today-rates-jump-on-positive-global-cues-us-jobs-data-in-focus-experts-strategy-for-mcx-gold-11736479935549.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://www.livemint.com/money",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Personal Finance News: Latest Financial News, Investment Tips, Personal Finance Updates",
+        "title": "Gold price today: Rates jump on positive global cues; US jobs data in focus; experts unveil strategy for MCX Gold",
+        "title_full": "Gold price today: Rates jump on positive global cues; US jobs data in focus; experts unveil strategy for MCX Gold",
+        "published": "2025-01-10T06:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.livemint.com/lm-img/img/2025/01/10/1600x900/PRECIOUS-GOLD-PRICES-0_1735617124871_1736480720086.JPG",
+        "performance_score": 0,
+        "domain_rank": 1278,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f9d359b90b1dd4c3c72946a6e48ad93afa152e5",
+    "url": "https://www.livemint.com/market/stock-market-news/gold-price-today-rates-jump-on-positive-global-cues-us-jobs-data-in-focus-experts-strategy-for-mcx-gold-11736479935549.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nishant Kumar",
+    "published": "2025-01-10T06:07:00.000+02:00",
+    "title": "Gold price today: Rates jump on positive global cues; US jobs data in focus; experts unveil strategy for MCX Gold",
+    "text": "Gold price today: Gold prices rose in the domestic futures market on January 10, influenced by positive global cues, but gains were limited by rising US bond yields and a stronger US dollar.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->financial and economic news",
+        "Lifestyle and Leisure->lifestyle",
+        "Lifestyle and Leisure->wellness",
+        "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:21:48.577+02:00",
+    "updated": "2025-01-10T12:51:21.738+02:00"
+}

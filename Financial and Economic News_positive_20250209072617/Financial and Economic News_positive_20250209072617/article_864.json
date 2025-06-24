@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "125babad3e7aa04fcc55da39a2c297dd9b550a70",
+        "url": "https://www.fijivillage.com/news/All-civil-servants-paid-following-payroll-system-upgrade---Goundar-8fr5x4",
+        "site_full": "www.fijivillage.com",
+        "site": "fijivillage.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "All civil servants paid following payroll system upgrade - Goundar",
+        "title_full": "All civil servants paid following payroll system upgrade - Goundar",
+        "published": "2025-01-10T08:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://www.fijivillage.com/news_images/12626611726780bb5ef7def80f0577.jpg",
+        "performance_score": 0,
+        "domain_rank": 78733,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "125babad3e7aa04fcc55da39a2c297dd9b550a70",
+    "url": "https://www.fijivillage.com/news/All-civil-servants-paid-following-payroll-system-upgrade---Goundar-8fr5x4",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "fijivillage",
+    "published": "2025-01-10T08:17:00.000+02:00",
+    "title": "All civil servants paid following payroll system upgrade - Goundar",
+    "text": "All civil servants have been paid, with the majority receiving their payments yesterday afternoon and the remainder today.\nThis has been confirmed by the Permanent Secretary for Finance, Shiri Goundar, who says they successfully migrated to the new payroll system yesterday, and no further issues are expected for future payments.\nConcerns had been raised by civil servants, with some suggesting that remaining government workers would receive their pay by next Tuesday.\nGoundar clarified that all processing was completed yesterday as per the pay calendar.\nStay tuned for the latest news on our radio stations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shiri Goundar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:59:39.055+02:00",
+    "updated": "2025-01-10T08:59:39.055+02:00"
+}

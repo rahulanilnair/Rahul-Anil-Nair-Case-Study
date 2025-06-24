@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "cf5a3b5eed067674391f44418eef1938e0f93fa1",
+        "url": "https://www.klkntv.com/lincoln-mayor-wants-voters-to-extend-sales-tax-for-street-improvement",
+        "site_full": "www.klkntv.com",
+        "site": "klkntv.com",
+        "site_section": "https://klkntv.com/news",
+        "site_categories": [
+            "social"
+        ],
+        "section_title": "News - KLKN-TV",
+        "title": "Lincoln mayor wants voters to extend sales tax for street improvement",
+        "title_full": "Lincoln mayor wants voters to extend sales tax for street improvement",
+        "published": "2025-01-10T02:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.klkntv.com/content/uploads/2025/01/p/b/vo00-00-01-01still001.jpg",
+        "performance_score": 0,
+        "domain_rank": 35825,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf5a3b5eed067674391f44418eef1938e0f93fa1",
+    "url": "https://www.klkntv.com/lincoln-mayor-wants-voters-to-extend-sales-tax-for-street-improvement",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aidan Andrews",
+    "published": "2025-01-10T02:41:00.000+02:00",
+    "title": "Lincoln mayor wants voters to extend sales tax for street improvement",
+    "text": "Lincoln mayor wants voters to extend sales tax for street improvement\nLINCOLN, Neb. (KLKN) – Mayor Leirion Gaylor Baird announced Thursday morning that she is working with city council members to reinstate the quarter-cent sales tax.\nThis tax initiative was first introduced and approved by voters in 2019 and has since generated $85.7 million for infrastructure improvements.\n“If the quarter-cent sales tax is allowed to expire on Sept. 30, 2025, Lincoln will lose $18 million in annual street funding, which jeopardizes our community’s growth, our quality of life, and even our public safety,” Gaylor Baird said.\nThe new proposal is to keep the tax until 2033.\nIt’s estimated to generate $144 million over the course of eight years.\nGaylor Baird has worked with the Lincoln City Council to place three items on the agenda for its Monday meeting:\n- To place a question on the April 8 primary election ballot on whether to renew the quarter-cent sales tax for streets for eight more years\n- If the sales tax is renewed, to freeze the inflationary adjustment for impact fees for eight years, similar to what occurred with the current sales tax program\n- To create a new interlocal agreement with the Railroad Transportation Safety District to help fund final engineering and construction of the 33rd Street and Cornhusker Highway Intersection Improvement Project\nA public hearing by the council for all three resolutions is scheduled for Jan. 27. The council will vote on all initiative items on Feb. 3.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->voting",
+        "Politics->local government and authority",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social problem",
+        "Social Issue->public housing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gaylor Baird",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Lincoln City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:49:17.488+02:00",
+    "updated": "2025-01-10T03:49:17.488+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "1c800419d34561a5e360e75faebeb92e125067af",
+        "url": "https://www.bnnbloomberg.ca/investing/2024/12/17/tcw-sticks-to-bond-wager-thats-lost-money-and-spooked-clients",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://www.bnnbloomberg.ca/business",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business - BNN Bloomberg",
+        "title": "TCW Sticks to Bond Wager That’s Lost Money and Spooked Clients",
+        "title_full": "TCW Sticks to Bond Wager That’s Lost Money and Spooked Clients",
+        "published": "2024-12-17T15:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/XP5IIPRMG3HPKNWCLEI3ZSEKAQ.jpg?smart=true&amp;auth=01ccbd1255ff63956cb73ceba4c9354b6953d2837bbe760e8a6924ae27307130&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2808,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c800419d34561a5e360e75faebeb92e125067af",
+    "url": "https://www.bnnbloomberg.ca/investing/2024/12/17/tcw-sticks-to-bond-wager-thats-lost-money-and-spooked-clients",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Mackenzie",
+    "published": "2024-12-17T15:00:00.000+02:00",
+    "title": "TCW Sticks to Bond Wager That’s Lost Money and Spooked Clients",
+    "text": "(Bloomberg) -- TCW Group Inc.’s Bryan Whalen is sticking to a call that most everyone else on Wall Street abandoned after piling up losses.\nThe Federal Reserve’s elevated interest rates, he insists, are bound to crack the economy. And when growth stalls, he says, the decision to pile into short-term Treasuries — and bet against corporate bonds — will finally pay off as the Fed quickens the pace of the rate cuts it began in September.\n“We’re often too early on fundamentally convicted trades,” said Whalen, who oversees about $100 billion as chief investment officer of TCW in Los Angeles. “History would suggest that over time it pays off even if it comes with the cost of a little bit of short-term underperformance.”\nThat underperformance has been deepening of late. Whalen’s flagship, the Metropolitan West Total Return Bond Fund, is trailing 87% of its rivals this year, according to data compiled by Bloomberg. And it is still nursing losses since the post-pandemic inflation surge — and subsequent Fed rate hikes — triggered a bond market rout three years ago. It’s lagged 85% of its rivals over that time, according to data compiled by Bloomberg.\nThe result has been investor exodus. Clients yanked nearly $18 billion yanked out in the past 12 months, more than any other actively and passively managed bond mutual fund, according to Morningstar Direct data. Since 2021, investors have pulled out $41 billion.\nWhalen and his team are unbowed. He says his clients see value in turning over some of their money to a “value contrarian kind of fundamentally driven manager.”\n“We’re doing our thing,” he said.\nLate last year, Whalen — and others positioned like him — seemed poised to reap big rewards for their resolve. When Treasuries rallied sharply in anticipation of the Fed’s rate cuts, it pushed his fund to a nearly 6% gain.\nBut when the rally stalled this year — as the economy kept defying doomsayers — the strategy faltered again. The result has been another run of outflows, surpassing those at rival individual funds run by Western Asset Management, Pacific Investment Management Co. and DoubleLine.\nOverall, fixed income assets under management at TCW have fallen from $189bn at the end of 2023 to $179bn as of Sept. 30, according to the company.\nThe pendulum has now swung back toward speculation that the Fed will keep interest rates elevated, with Donald Trump’s tax-cut plans expected to pour more fuel onto an already solid economy. Futures contracts are pricing in that the Fed will pause after this week’s quarter-point easing and nudge its benchmark rate down by just half a percentage point next year.\nWhalen, who joined TCW in 2009 after the purchase of rival manager MetWest, is looking past a series of strong economic readings that pushed up yields sharply between September and November.\n“The market is forecasting the Fed funds rate to basically be around or just under 4% at the end of next year,” said Whalen. “And we believe that rate is still restrictive and this doesn’t feel like an economy that can operate in restrictive monetary territory for another 12 months.”\nRight now, the market’s pricing suggests that that the central bank is instead poised to pull off what once seemed like an impossible feat: steer the US economy to a soft landing, as happened in the mid-1990s.\nBut Whalen is dubious, given the lag with which rates operate on the real economy. So he has reduced his exposure to corporate bonds — which would likely underperform during a recession — in favor of mortgage debt and shorter-dated Treasuries.\n“When you raise rates as quickly as the Fed did and other global central banks it’s not like flipping a switch,” he said.\nAt the end of the day, he said, “rates will bite” and “start to hit a larger percentage of the US economy.”\n--With assistance from Liz Capo McCormick.\n©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bryan Whalen",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TCW Group Inc.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:30:19.395+02:00",
+    "updated": "2024-12-17T15:30:19.395+02:00"
+}

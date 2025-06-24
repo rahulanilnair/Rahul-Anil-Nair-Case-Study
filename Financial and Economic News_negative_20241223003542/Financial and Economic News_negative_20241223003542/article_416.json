@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "12fce64028aa14b66c2f70a89ec10402e92115d5",
+        "url": "https://www.itv.com/news/channel/2024-12-17/guernsey-gas-prices-to-rise-by-10-in-2025",
+        "site_full": "www.itv.com",
+        "site": "itv.com",
+        "site_section": "https://www.itv.com/news/channel",
+        "site_categories": [
+            "television",
+            "entertainment"
+        ],
+        "section_title": "ITV News Channel : Latest news from the Channel Islands",
+        "title": "Guernsey gas prices to rise by 10% from 1 January 2025 | ITV News Channel",
+        "title_full": "Guernsey gas prices to rise by 10% from 1 January 2025 | ITV News Channel",
+        "published": "2024-12-17T13:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://images.ctfassets.net/pjshm78m9jt4/embedded272812422/8d26ad92a72e657050bfa0eb5b4d681b/importedImageembedded272812422?fm=jpg&amp;fit=fill&amp;w=1600&amp;h=900&amp;q=80",
+        "performance_score": 1,
+        "domain_rank": 1271,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 1241,
+                "comments": 1077,
+                "shares": 138
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12fce64028aa14b66c2f70a89ec10402e92115d5",
+    "url": "https://www.itv.com/news/channel/2024-12-17/guernsey-gas-prices-to-rise-by-10-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ITVNews",
+    "published": "2024-12-17T13:13:00.000+02:00",
+    "title": "Guernsey gas prices to rise by 10% from 1 January 2025 | ITV News Channel",
+    "text": "Guernsey households will see their gas bills rise by 10% from the start of next year.Islands Energy Group, the parent company of Guernsey Energy, announced the price hike that will come into effect from 1 January 2025.The gas company says that this will mean the average household will pay an additional £9.37 a month.The rise has been attributed to increasing global gas prices.It follows Guernsey Water also announcing water bill increases between £5 and £8 for their customers. Darryl Goddard, Managing Director of Guernsey Energy explains: \"Geopolitical events across Europe have continued to impact the price of wholesale gas over the last 12 months.\"Energy markets are subject to a variety of complex influences which impact our supply chain and keep the cost of services that are crucial to the supply of gas high.\"We understand that tariff increases can be difficult for our customers to manage, but given these circumstances, they unfortunately cannot be avoided.\"We're continuing to invest heavily across our network and drive forward a comprehensive maintenance programme.\"Mr Goddard says that vulnerable customers can find additional support and alternate payment plans through their Priority Care scheme.Want a quick and expert briefing on the biggest news stories? Listen to our latest podcasts to find out What You Need To Know...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:29:02.559+02:00",
+    "updated": "2024-12-17T13:29:02.559+02:00"
+}

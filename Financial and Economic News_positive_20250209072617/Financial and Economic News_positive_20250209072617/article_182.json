@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "ceace611b2f01b83979cf1d5c5ba2259608f4798",
+        "url": "https://www.beckershospitalreview.com/capital/cone-health-receives-record-donation-3-things-to-know.html",
+        "site_full": "www.beckershospitalreview.com",
+        "site": "beckershospitalreview.com",
+        "site_section": "https://beckershospitalreview.com",
+        "site_categories": [
+            "pets",
+            "veterinary_medicine"
+        ],
+        "section_title": "Becker's Hospital Review | Healthcare News &amp; Analysis",
+        "title": "Cone Health receives record donation: 3 things to know",
+        "title_full": "Cone Health receives record donation: 3 things to know",
+        "published": "2025-01-09T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+        "performance_score": 0,
+        "domain_rank": 3746,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ceace611b2f01b83979cf1d5c5ba2259608f4798",
+    "url": "https://www.beckershospitalreview.com/capital/cone-health-receives-record-donation-3-things-to-know.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kristin Kuchno",
+    "published": "2025-01-09T07:00:00.000+02:00",
+    "title": "Cone Health receives record donation: 3 things to know",
+    "text": "Discover the largest donation in Cone Health's history as they receive a $7.5 million gift to establish a new heart and vascular center and fund research and p",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->healthcare industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.conehealth.com/news/news-search/2025-news-releases/cone-health-receives-historic-75-million-gift/",
+        "https://conehealth.com/news/news-search/2025-news-releases/cone-health-receives-historic-75-million-gift/",
+        "https://www.conehealth.com/news/news-search/2025-news-releases/cone-health-receives-historic-75-million-gift"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thomas D. Stuckey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Cone Health Heart & Vascular Prevention Program",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Steven D. Bell Family Heart & Vascular Center",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:34:59.256+02:00",
+    "updated": "2025-01-10T02:40:36.538+02:00"
+}

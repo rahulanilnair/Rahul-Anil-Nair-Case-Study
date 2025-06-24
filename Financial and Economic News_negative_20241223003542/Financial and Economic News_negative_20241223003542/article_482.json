@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "2703aea86373bb443ffe4b86e32002e5c0363056",
+        "url": "https://tech4gamers.com/nvidia-facing-thermal-problems-with-drmos-chips",
+        "site_full": "tech4gamers.com",
+        "site": "tech4gamers.com",
+        "site_section": "https://www.tech4gamers.com",
+        "site_categories": [],
+        "section_title": "Tech4Gamers - All About Technology and Gaming News",
+        "title": "Nvidia Is Facing Thermal Problems With DrMOS Chips Amidst Declining Stock Value",
+        "title_full": "Nvidia Is Facing Thermal Problems With DrMOS Chips Amidst Declining Stock Value",
+        "published": "2024-12-17T10:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 84771,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2703aea86373bb443ffe4b86e32002e5c0363056",
+    "url": "https://tech4gamers.com/nvidia-facing-thermal-problems-with-drmos-chips",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Malik Usman",
+    "published": "2024-12-17T10:01:00.000+02:00",
+    "title": "Nvidia Is Facing Thermal Problems With DrMOS Chips Amidst Declining Stock Value",
+    "text": "See full bio Malik Usman As a News Reporter at Tech4Gamers, I bring the latest findings from the tech industry to our readers. Specializing in processors, graphics cards, and more, I strive to deliver detailed insights that keep our audience well-informed and engaged. Periodically, I also delve into the vibrant world of gaming to share captivating stories.\nSee full bio Story Highlight Nvidia is facing thermal problems with DrMOS chips from Alpha & Omega Semiconductor in its new AI server systems. Nvidia is testing chips from Monolithic Power Systems to improve thermal performance and reduce risks. Nvidia’s stock fell over 2%, while Monolithic Power Systems saw a 4% increase, reflecting market reactions to the issues. Nvidia faced a setback as experts noted serious thermal issues affecting its power chips, which are used in the newest AI server systems . As a result, the company’s shares saw a sharp drop.\nWhy it matters: Nvidia is a key player in the AI and semiconductor industries, and thermal issues with its power chips could delay critical AI server systems, affecting mass production.\nThe issue is caused by Alpha & Omega Semiconductor’s (AOSL) DrMOS chips , which are currently being tested in Nvidia’s Blackwell series GB300 and B300 systems.\nAccording to industry information from TF International Securities, Nvidia’s extensive testing of these chips has shown significant thermal performance problems . That said Nvidia has also been assessing DrMOS chips from Monolithic Power Systems (MPWR) to increase its bargaining power.\nNvidia Blackwell Vs Hopper Nvidia’s production difficulty now centers on these voltage regulators, which are essential to the functioning of motherboards and processors. Furthermore, the estimated time of mass production for the GB300 and B300 systems may be postponed due to these challenges.\nShares of Nvidia fell over 2% to 131.63 during trading, after hitting a low of 130.42 . The decline put Nvidia into the range of its recent price breakout stop-los s . The stock of Nvidia jumped to a high of 140.76 on October 17, indicating the irregularity that may affect investor mood in the future.\nOn the other hand, the sector’s performance showed inconsistency, with Monolithic Power Systems seeing a 4% increase and Alpha & Omega Semiconductor’s shares falling more than 6%.\nTo reduce risks, Nvidia is taking into account DrMOS chips from Monolithic Power Systems. This shows how important innovation is to semiconductor design, especially when dealing with extreme thermal constraints.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/malikusmanking24",
+        "https://secure.gravatar.com/avatar/?s=96&d=mm&r=g",
+        "https://secure.gravatar.com/avatar/6a59536ccc4beb04598be0b0d761d10c?s=96&d=mm&r=g",
+        "https://secure.gravatar.com/avatar/6a59536ccc4beb04598be0b0d761d10c",
+        "https://facebook.com/malikusmanking24",
+        "https://www.secure.gravatar.com/avatar/?s=96&d=mm&r=g",
+        "https://secure.gravatar.com/avatar/",
+        "https://www.secure.gravatar.com/avatar/6a59536ccc4beb04598be0b0d761d10c?s=96&d=mm&r=g"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:52:03.984+02:00",
+    "updated": "2024-12-17T13:52:03.984+02:00"
+}

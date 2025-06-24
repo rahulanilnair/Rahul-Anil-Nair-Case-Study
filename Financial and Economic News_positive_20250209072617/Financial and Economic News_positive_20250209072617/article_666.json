@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "a319347316b3afd845ca28109a3128ade1395af2",
+        "url": "https://www.tribuneindia.com/news/india/indian-economy-to-grow-at-6-6-report",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/india",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Latest India News, Breaking News Headlines & Live Updates | Tribune India",
+        "title": "Indian economy to grow at 6.6%: Report - The Tribune",
+        "title_full": "Indian economy to grow at 6.6%: Report - The Tribune",
+        "published": "2025-01-10T04:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU4Y2FiNDkwLWNlZjYtMTFlZi1hZjY1LTgxNTQ1YzNlMTFiMS5qcGc=",
+        "performance_score": 0,
+        "domain_rank": 4367,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a319347316b3afd845ca28109a3128ade1395af2",
+    "url": "https://www.tribuneindia.com/news/india/indian-economy-to-grow-at-6-6-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2025-01-10T04:32:00.000+02:00",
+    "title": "Indian economy to grow at 6.6%: Report - The Tribune",
+    "text": "South Asia’s economic outlook remains robust, with regional gross domestic product (GDP) anticipated to grow at 5.7 per cent in 2025, compared to 5.9 per cent in 2024, supported by strong performance in India and recovery in Bhutan, Nepal, Pakistan and Sri Lanka, according to the UN World Economic Situation and Prospects (WESP) 2025.\nThe report further states that India’s economy is projected to grow at 6.6 per cent in 2025, following an estimated expansion of 6.9 per cent in 2024, largely driven by private consumption and investment. Additionally, strong export growth in services and certain manufactured goods will bolster economic activity.\nAccording to the report, economic prospects in East Asia will remain stable, with an average growth projected at 4.7 per cent in 2025 and 4.5 per cent in 2026, compared to 4.8 per cent in 2024. The Chinese economy is projected to be at 4.8 per cent in 2025, compared to an estimated 4.9 per cent in 2024. The UN flagship economic report projects that global growth will remain at 2.8 per cent in 2025, unchanged from 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Social Issue->demographics",
+        "Social Issue->population and census",
+        "Politics->government policy",
+        "Politics->regional government and authority",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN World Economic Situation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "East",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:17:29.698+02:00",
+    "updated": "2025-01-10T07:17:29.698+02:00"
+}

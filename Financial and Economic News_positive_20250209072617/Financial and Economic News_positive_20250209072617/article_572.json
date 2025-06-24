@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "d6d7b039e7092bbe1e5bfa49fdace44aa8aec38f",
+        "url": "https://english.news.cn/20250110/3392bf0203d844aca3081bd75882c984/c.html",
+        "site_full": "english.news.cn",
+        "site": "news.cn",
+        "site_section": "https://english.news.cn/list/latestnews.htm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news | English.news.cn",
+        "title": "Indonesia's consumer confidence picks up in December 2024-Xinhua",
+        "title_full": "Indonesia's consumer confidence picks up in December 2024-Xinhua",
+        "published": "2025-01-10T04:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1043,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6d7b039e7092bbe1e5bfa49fdace44aa8aec38f",
+    "url": "https://english.news.cn/20250110/3392bf0203d844aca3081bd75882c984/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinhua",
+    "published": "2025-01-10T04:57:00.000+02:00",
+    "title": "Indonesia's consumer confidence picks up in December 2024-Xinhua",
+    "text": "JAKARTA, Jan. 10 (Xinhua) -- Indonesia's consumer confidence in the country's economy strengthened in December 2024 due to the current economic condition and expectation of economic progress in the future, according to a survey released by Bank Indonesia.\nThe consumer confidence index increased to 127.7 in December compared to 125.9 in November, the survey said.\nThe increase was driven by the higher reading of the index of current economic condition and the consumer expectation index, which rose to 116.0 and 139.5, respectively, compared to 113.5 and 138.3 in November, Ramdan Denny Prakoso, head of the communication department at Bank Indonesia said in a press release introducing the survey results on Thursday night.\nThe survey showed that consumer expectations for the economic condition over the next six months are forecast to improve. This was indicated by the stronger expectations in all components, including income, job availability, and business activities. ■",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/user/ChinaViewTV",
+        "https://www.facebook.com/XinhuaNewsAgency/",
+        "https://twitter.com/XHNews",
+        "https://youtube.com/user/ChinaViewTV",
+        "https://www.twitter.com/XHNews",
+        "https://facebook.com/XinhuaNewsAgency/",
+        "https://www.facebook.com/XinhuaNewsAgency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ramdan Denny Prakoso",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "d6d7b039e7092bbe1e5bfa49fdace44aa8aec38f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:11:16.613+02:00",
+    "updated": "2025-01-10T06:11:16.613+02:00"
+}

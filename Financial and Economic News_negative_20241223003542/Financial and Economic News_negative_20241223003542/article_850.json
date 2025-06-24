@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "c5d80bc5f28502fab58fa44eddb6c47fa5cf8af8",
+        "url": "https://techstory.in/sensex-plummets-over-800-points-nifty-falls-below-24450-ahead-of-federal-reserve-meeting",
+        "site_full": "techstory.in",
+        "site": "techstory.in",
+        "site_section": "https://www.techstory.in",
+        "site_categories": [
+            "media",
+            "tech"
+        ],
+        "section_title": "Techstory Home - TechStory Tech and Business News",
+        "title": "Sensex Plummets Over 800 Points, Nifty Falls Below 24,450 Ahead of Federal Reserve Meeting",
+        "title_full": "Sensex Plummets Over 800 Points, Nifty Falls Below 24,450 Ahead of Federal Reserve Meeting",
+        "published": "2024-12-17T14:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 20196,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c5d80bc5f28502fab58fa44eddb6c47fa5cf8af8",
+    "url": "https://techstory.in/sensex-plummets-over-800-points-nifty-falls-below-24450-ahead-of-federal-reserve-meeting",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rounak Majumdar",
+    "published": "2024-12-17T14:20:00.000+02:00",
+    "title": "Sensex Plummets Over 800 Points, Nifty Falls Below 24,450 Ahead of Federal Reserve Meeting",
+    "text": "On December 17, 2024, the Indian stock market saw a sharp decline as the Nifty index dropped below the critical 24,450 level and the BSE Sensex lost more than 800 points. This drop is a result of investors becoming more cautious in the lead-up to the Federal Reserve meeting, which has increased market turbulence globally. Along with a general sense of caution, the sell-off was mainly triggered by significant losses in the banking and oil and gas industries.\nMarket Overview: Sensex and Nifty Decline The BSE Sensex closed at 80,684.45, down 1,064 points, or around 1.30%, at the end of trading. In line with this, the Nifty50 index ended the day at 24,336.00, down 332.25 points, or 1.35%. As investors responded to both domestic and foreign economic signals, this was a continuation of the downward trends seen in earlier sessions.\nNumerous industries were impacted by the broad sell-off. Notably, major players like Infosys, HDFC Bank, and Reliance Industries were among the top laggards on the Sensex, which greatly aided in the market’s slide. Rising interest rates and their possible effects on loan growth put additional strain on the banking industry.\nKey Factors Behind the Market Crash: Several factors contributed to the sharp decline in Indian equities:\n1. Anticipation of US Federal Reserve Decisions\nInvestors are closely monitoring the upcoming Federal Reserve meeting scheduled for December 18-19. With expectations of a potential rate cut of 25 basis points already priced into the market, investors are particularly focused on comments from Fed Chair Jerome Powell regarding future monetary policy direction. Any indication of a more hawkish stance could negatively impact market sentiment globally.\n2. Weakening Indian Rupee\nThe Indian rupee hit an all-time low against the US dollar on December 17, trading at approximately 84.92. This depreciation is attributed to foreign fund outflows and a widening trade deficit exacerbated by increased gold imports. A weaker rupee typically raises concerns about inflation and impacts companies reliant on imports for raw materials.\n3. Foreign Institutional Investor (FII) Outflows\nThe absence of fresh buying from Foreign Institutional Investors has added to market woes. On Monday alone, FIIs offloaded equities worth Rs 279 crore, reflecting a cautious approach amidst global uncertainties and domestic challenges. Analysts suggest that continued selling by FIIs could further dampen investor sentiment in the near term.\n4. Broader Economic Concerns\nGlobal economic uncertainties have also played a role in shaping investor behavior. Concerns over fluctuating commodity prices and geopolitical tensions have led to increased volatility in markets worldwide. As investors reassess their positions in light of these factors, many have chosen to adopt a defensive stance.\nConclusion: The recent collapse of the Sensex and Nifty highlights how brittle market mood is in the face of impending international unpredictability and home economic difficulties. Short-term volatility is likely to continue as investors watch currency changes and await clarification from the Federal Reserve’s meeting.\nTo reduce the dangers connected with future downturns, market professionals advise investors to exercise caution and think about diversifying their holdings. As markets react to fresh information, opportunities can present themselves, but managing this volatile environment will require careful investment methods.\nStakeholders will be closely monitoring how these factors impact market dynamics in the upcoming weeks as developments take place in both domestic and international venues. Both internal economic resilience and external inputs will be crucial in determining how well Indian markets bounce back from this setback.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reliance Industries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "HDFC Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:38:13.698+02:00",
+    "updated": "2024-12-17T15:38:13.698+02:00"
+}

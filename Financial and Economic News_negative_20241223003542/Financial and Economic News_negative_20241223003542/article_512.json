@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "f0ba05c4725f10bb3aa8c8f0c492594fb5c6e372",
+        "url": "https://icoholder.com/nl/news/bitcoins-rally-faces-opposition-as-mining-regulations-tighten-across-borders",
+        "site_full": "icoholder.com",
+        "site": "icoholder.com",
+        "site_section": "https://icoholder.com/nl",
+        "site_categories": [
+            "real_estate",
+            "buying_selling_homes"
+        ],
+        "section_title": "IcoHolder: Your Key to Mastering the Crypto Investment Space",
+        "title": "Bitcoin’s Rally Faces Opposition as Mining Regulations Tighten Across Borders",
+        "title_full": "Bitcoin’s Rally Faces Opposition as Mining Regulations Tighten Across Borders",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32697,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f0ba05c4725f10bb3aa8c8f0c492594fb5c6e372",
+    "url": "https://icoholder.com/nl/news/bitcoins-rally-faces-opposition-as-mining-regulations-tighten-across-borders",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Bitcoin’s Rally Faces Opposition as Mining Regulations Tighten Across Borders",
+    "text": "Bitcoin’s Rally Faces Opposition as Mining Regulations Tighten Across Borders\n17 december 2024\n[ BACK TO NEWS](https://icoholder.com/nl/news)\nBitcoin has reached a significant milestone, with its price hitting a new all-time high of $107K today. The surge in Bitcoin’s value has led to increased demand for the cryptocurrency, but it has also brought renewed scrutiny to one of Bitcoin’s most essential processes: mining. While many countries embrace the progress of Bitcoin, others are raising concerns about the environmental and energy costs associated with mining. As the cryptocurrency’s price continues to climb, these concerns are becoming more pressing, making the future of Bitcoin mining a contentious issue in various regions.\nThe Bitcoin Mining Ban in British Columbia\nOne of the most prominent battlegrounds for Bitcoin mining regulations is British Columbia (B.C.), where the provincial government is maintaining a ban on new Bitcoin mining operations until December 2025. The ban, which was put in place in December 2022, aims to conserve energy for more environmentally sustainable projects. This move has sparked controversy, particularly after Vancouver’s City Council passed a motion to make the city \"Bitcoin-friendly,\" recognizing the financial benefits Bitcoin could bring. However, mining regulations remain under provincial control, and Vancouver’s efforts have not been enough to alter the ban.\nConifex Timber, a company that had planned to enter the Bitcoin mining space, challenged the ban in court. But in early 2024, the B.C. Supreme Court upheld the decision, reinforcing the province’s stance on limiting high-energy industries. B.C., which relies on hydroelectric power for over 90% of its electricity, is currently drafting a permanent policy to address cryptocurrency mining in the region.\nEnergy Concerns and Policy Changes\nThis situation highlights an ongoing tension between energy use and economic growth. In an effort to control energy consumption more directly, B.C. updated the Energy Statutes Amendment Act earlier this year, allowing the provincial government to bypass the BC Utilities Commission and regulate electricity use for crypto mining. This change came after BC Hydro suspended new Bitcoin mining connections to the provincial grid, signaling a growing concern about the environmental and economic impact of such energy-intensive operations.\nThe debate in B.C. extends beyond just Bitcoin. The Green Party has raised concerns that if high-energy industries like Bitcoin mining are subject to such regulations, other sectors like artificial intelligence (AI) or liquefied natural gas (LNG) could face similar scrutiny due to their heavy energy demands and relatively limited economic benefits.\nMining Regulations in the U.S. and Canada\nB.C.’s approach mirrors trends seen across North America. In the U.S., New York State has imposed a mining moratorium, although exceptions are made for projects powered by renewable energy. Conversely, states like Arkansas and Montana have passed laws aimed at protecting Bitcoin miners from discrimination, recognizing the economic potential of the industry. Pennsylvania recently lifted its mining ban, shifting its focus to energy conservation efforts rather than outright prohibition.\nThis patchwork of regulations highlights the ongoing struggle to balance energy consumption, economic development, and environmental impact, making the future of Bitcoin mining uncertain in various jurisdictions.\nBitcoin Mining’s Profitability Amidst Challenges\nDespite the regulatory hurdles, Bitcoin mining remains a profitable endeavor. According to a recent report by JPMorgan, Bitcoin’s hashprice — a measure of daily mining earnings — increased by 5% in December compared to November. The network’s hashrate, which reflects the computing power used to secure the network, also rose by 6%, reaching an average of 773 exahashes per second (EH/s) in December.\nIn the first two weeks of December alone, miners earned approximately $57,300 in daily block reward revenue per EH/s, marking the highest level in seven months, though still 40% below levels seen before Bitcoin’s most recent halving event.\nU.S. Miners Show Strong Growth Despite Market Volatility\nThe mining industry in the U.S. is showing impressive growth, with the combined hashrate of 14 U.S.-listed miners tracked by JPMorgan surging 94% year-to-date, reaching 222 EH/s. This growth represents 29% of the global Bitcoin network’s total hashrate. However, despite this surge in mining activity, these miners saw a 4% decline in market capitalization, losing $1.5 billion, even after a 50% increase following the U.S. election.\nThis contrast between mining growth and market cap decline reflects the complex dynamics between profitability, regulatory pressures, and broader market conditions. As Bitcoin’s price continues to rise, the demand for mining is expected to increase, but so too will the regulatory scrutiny surrounding it.\nThe Future of Bitcoin Mining\nAs Bitcoin’s price climbs to new heights, the tension between the cryptocurrency’s potential for economic growth and the environmental costs of mining will remain a significant issue. With regions like British Columbia enforcing strict mining bans and others like New York considering moratoriums, the future of Bitcoin mining depends on how countries balance energy use with economic growth. In the U.S., despite increased mining activity, regulatory hurdles and market conditions continue to complicate the profitability of mining ventures.\nAs the demand for Bitcoin and its mining operations grows, so too will the scrutiny and debate surrounding its environmental impact. The outcome of this struggle will likely shape the future of both Bitcoin and the broader cryptocurrency market.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Bitcoin",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:00:08.943+02:00",
+    "updated": "2024-12-17T14:00:08.943+02:00"
+}

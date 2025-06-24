@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 4
+============================================================
+Timestamp: 2025-06-23 19:02:25
+Headline Summary: Regional bank FirstState posts record earnings amid industry turmoil
+Key Highlights: Record Q2 earnings of $3.20 per share, up 45%
+Final Sentiment: Neutral
+Confidence: 63%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 3
+
+Rationale: risk_analyst: While FirstState's record earnings are a positive development, I believe the industry turmoil and macroeconomic factors still pose significant risks to regional banks. The resilience demonstrated by FirstState warrants continued investor attention, but the high impact rating may be premature. A more nuanced approach is necessary to balance the short-term positivity with long-term market implications. growth_analyst: While FirstState's record earnings are a significant positive development, I believe the industry turmoil and macroeconomic factors still pose substantial risks to regional banks. A nuanced approach is necessary to balance short-term positivity with long-term market implications. The industry challenges should not be overlooked despite the bank's resilience. sentiment_analyst: While FirstState's record earnings are a positive development, I believe the industry turmoil and macroeconomic factors still pose significant risks to regional banks. The resilience demonstrated by FirstState warrants continued investor attention, but the high impact rating may be premature. A more nuanced approach is necessary to balance the short-term positivity with long-term market implications.
+
+Discussion Summary: Discussion involved 3 rounds. Consensus reached with 3/3 agents agreeing on Neutral sentiment.
+============================================================

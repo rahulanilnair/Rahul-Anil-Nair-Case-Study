@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "a0b090fe08440708f7220855f2b6a7ee9b056084",
+        "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2024/12/17/oil-futures-fell-ahead-federal",
+        "site_full": "www.dtnpf.com",
+        "site": "dtnpf.com",
+        "site_section": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Farm Business, Inputs | Agriculture News",
+        "title": "Oil Futures Fell Ahead of Federal Reserve Meeting",
+        "title_full": "Oil Futures Fell Ahead of Federal Reserve Meeting",
+        "published": "2024-12-17T15:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.dtnpf.com/mydtn-public-core-portlet/assets/images/logo-large.jpg",
+        "performance_score": 0,
+        "domain_rank": 16150,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0b090fe08440708f7220855f2b6a7ee9b056084",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2024/12/17/oil-futures-fell-ahead-federal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T15:31:00.000+02:00",
+    "title": "Oil Futures Fell Ahead of Federal Reserve Meeting",
+    "text": "HOUSTON (DTN) -- Oil futures fell Tuesday for the second consecutive trading session as market participants expect the Federal Reserve's decision to cut interest rates Wednesday in an effort to mitigate inflationary pressures on the U.S. economy.â?¯The front-month WTI futures contract on the New York Mercantile Exchange and Brent crude on the Intercontinental Exchange dropped Tuesday morning also due to concerns about weaker demand in China, after retail sales data for November came in below the levels reported in the previous month.Muted activity prevails ahead of the Federal Open Market Committee meeting scheduled for Wednesday, where the Federal Reserve is expected to cut interest rates by 25 basis points (bp), one week after November's inflation showed an increase of 0.7% year-over-year, above 0.6% seen in October.\"We expect three more 25-bp cuts in 2025, so the federal funds rate (FFR) target range reaches 3.5% to 3.75%,\" ANZ research said in a recent report.At 8:00 a.m. EST, the January WTI futures contract price dropped $0.84 barrel (bbl) to $69.87, while February Brent was at $73.16, down $0.75. Meanwhile, the U.S. Dollar Index reached 106.45, down 0.074 against the basket of foreign currencies.Downstream, fuel prices were also under downward pressure Tuesday morning as NYMEX ULSD January futures dropped by $0.0350 to $2.2290 gallon and front-month RBOB futures fell $0.0205 to $1.9552 gallon.Data released by the Energy Information Administration (EIA) on Tuesday showed the U.S. average on-highway diesel fuel price moved up from more than a three-year low, rising by 3.6 cents to $3.494 gallon as of Monday. The data also revealed the price is 40 cents below the same week in 2023.Additionally, the EIA reported price gains across the major PADDs, ranging from increases of 1.1 cents to 6.0 cents on the week.Last week, the EIA reported a gasoline demand hike of 218 million bbl to about 5.1 million bbl, for the week ended Dec. 6, while distillate fuel oil demand climbed 3.2 million bbl to 121.3 million bbl in the same week of reference.Maria Eugenia Garcia can be reached at Maria.Garcia@dtn.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:47:14.322+02:00",
+    "updated": "2024-12-19T00:08:28.240+02:00"
+}

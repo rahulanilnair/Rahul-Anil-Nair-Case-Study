@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "dd8bb5c3627421b5eb8a5caf7cf7ddeabcbb84fa",
+        "url": "https://businessday.ng/news/article/nigerians-pay-n2-3trn-as-ransom-in-12-months-nbs-survey",
+        "site_full": "businessday.ng",
+        "site": "businessday.ng",
+        "site_section": "https://www.businessday.ng",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Business News Nigeria | Daily Updates | Nigerian News",
+        "title": "Nigerians pay N2.3trn as ransom in 12 months- NBS survey",
+        "title_full": "Nigerians pay N2.3trn as ransom in 12 months- NBS survey",
+        "published": "2024-12-17T13:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18319,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dd8bb5c3627421b5eb8a5caf7cf7ddeabcbb84fa",
+    "url": "https://businessday.ng/news/article/nigerians-pay-n2-3trn-as-ransom-in-12-months-nbs-survey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BusinessDay",
+    "published": "2024-12-17T13:55:00.000+02:00",
+    "title": "Nigerians pay N2.3trn as ransom in 12 months- NBS survey",
+    "text": "A report released by the NBS on Tuesday revealed that Nigerians paid an estimated N2.3 trillion as ransom in the 12 months.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Bureau of Statistics",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NBS",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "dd8bb5c3627421b5eb8a5caf7cf7ddeabcbb84fa",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:25:58.299+02:00",
+    "updated": "2024-12-17T17:33:05.214+02:00"
+}

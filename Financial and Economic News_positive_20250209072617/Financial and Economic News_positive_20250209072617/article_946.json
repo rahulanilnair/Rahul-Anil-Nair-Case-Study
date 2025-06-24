@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "dfb7653e02d124dfb324d4712a92050a881fe1f7",
+        "url": "https://www.devdiscourse.com/article/business/3221175-dollar-soars-amidst-rising-bond-yields-and-strong-job-numbers",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Dollar Soars Amidst Rising Bond Yields and Strong Job Numbers | Business",
+        "title_full": "Dollar Soars Amidst Rising Bond Yields and Strong Job Numbers | Business",
+        "published": "2025-01-10T06:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_05_10_59_8463587.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 8711,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dfb7653e02d124dfb324d4712a92050a881fe1f7",
+    "url": "https://www.devdiscourse.com/article/business/3221175-dollar-soars-amidst-rising-bond-yields-and-strong-job-numbers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-10T06:28:00.000+02:00",
+    "title": "Dollar Soars Amidst Rising Bond Yields and Strong Job Numbers | Business",
+    "text": "Dollar Soars Amidst Rising Bond Yields and Strong Job Numbers\nThe dollar held steady in Asia, poised to extend its longest weekly winning streak in over a year, fueled by rising bond yields and anticipated strong U.S. jobs numbers. The dollar saw considerable gains against the yen, British pound, euro, and other currencies, affecting various markets including cryptocurrencies.\nThe dollar maintained its strength in Asian markets on Friday, paving the way for an unprecedented weekly winning streak, driven by heightened bond yields and optimistic projections for U.S. job figures. Against the yen, the dollar rose by 0.5% and nearly 1% on the British pound, which hit a 14-month low due to concerns over UK finances.\nSimilarly, the dollar displayed a stable performance against the euro, with a value of $1.0289, and saw minor upticks against the Australian and New Zealand dollars. The dollar index is expected to increase for the sixth consecutive week, a feat unmatched since a streak ending in early 2023 as the U.S. economy overshadows other regions.\nDespite potential profit-taking risks, industry experts like Chris Turner from ING believe the dollar's recent gains are well-supported. The movement in bond markets has also impacted cryptocurrencies, with bitcoin dropping by 6%. Analysts continue to evaluate the influence of U.S. market dynamics on the broader financial landscape, including speculative digital assets.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy",
+        "Politics->government",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:36:17.465+02:00",
+    "updated": "2025-01-10T09:36:17.465+02:00"
+}

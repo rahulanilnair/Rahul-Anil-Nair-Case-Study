@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "7df9f5a5941b03fac66d0aa20fec1f51262b95ca",
+        "url": "https://www.brecorder.com/news/40341985/european-markets-rise-as-mining-healthcare-surge-amid-bond-market-jitters",
+        "site_full": "www.brecorder.com",
+        "site": "brecorder.com",
+        "site_section": "https://brecorder.com/markets",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_pk",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Markets - Business Recorder",
+        "title": "European markets rise as mining, healthcare surge amid bond market jitters",
+        "title_full": "European markets rise as mining, healthcare surge amid bond market jitters",
+        "published": "2025-01-10T00:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.brecorder.com/large/2025/01/6780295a0022a.jpg",
+        "performance_score": 0,
+        "domain_rank": 12794,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7df9f5a5941b03fac66d0aa20fec1f51262b95ca",
+    "url": "https://www.brecorder.com/news/40341985/european-markets-rise-as-mining-healthcare-surge-amid-bond-market-jitters",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-01-10T00:51:00.000+02:00",
+    "title": "European markets rise as mining, healthcare surge amid bond market jitters",
+    "text": "Markets Print 2025-01-10 European markets rise as mining, healthcare surge amid bond market jitters Reuters Published 10 Jan, 2025 03:51am Facebook Twitter Whatsapp Comments\nFollow us\nFRANKFURT: European markets ended Thursday on a high note, driven by a rally in healthcare and mining sectors, despite uncertainties over monetary policy and US tariff plans, which kept bond markets on edge.\nThe pan-European STOXX 600 index nudged up by 0.4%, closing at 515.84 points, buoyed by a rally in the basic resources sector.\nThe sector jumped 1.5%, and hit a three-week peak earlier in the session. It also logged its best day in a month. London-listed mining companies such as Antofagasta, Anglo American, and Rio Tinto fuelled this surge, with their shares climbing between 1.5% and 3.3%.\nAdding to the sector’s momentum, copper prices edged up by 0.5%, further sweetening the gains.\nHealthcare stocks were the biggest boost to the benchmark index, rising 1%.\nConcerns over rising inflation and slim chances of more interest rate cuts loomed large over the market. Investors were also on edge about how US President-elect Donald Trump might steer foreign and economic policy, especially with talks of a potential national economic emergency to justify universal tariffs. Such prospects have driven bond yields sky-high globally.\nWith Trump’s January 20 inauguration on the horizon, investors are awaiting clarity on his protectionist rhetoric and its potential impact on Europe.\nEuro zone retail sales grew less-than-expected in November, confirming that consumption remains in the doldrums and adding to a string of gloomy data.\n“Hopes for a strong recovery look misplaced,” analysts at Capital Economics said in a note.\nHelping the mood somewhat on Thursday, the German 10-year yield retreated from its session high to trade at 2.528% but still held near its multi-month peak.\n“Bonds have sold off across the developed world... This seems to have partly reflected growing concerns about Trump’s policies, and in particular his willingness to deliver more tax cuts despite the already-poor prospects for US public finances,” Hubert de Barochez, senior economist at Capital Economics.\n“Bonds will recover before long... One reason is that we expect Trump to fail to cut taxes as much as planned,” he said.\nBritain remained at the epicentre of bond market tensions. The benchmark 10-year yield touched a new high not seen since 2008.\nMeanwhile, UK retail stocks took a hit, with B&M suffering an 8.5% drop after cutting the upper end of its annual profit forecast.\nMarks & Spencer and Greggs also faced declines of 8.4% and 15.8% respectively, following lacklustre Christmas trading updates.\nAmbu rose 5.6% after Carnegie upgraded its rating to “buy” from “hold”.\nTrading in Europe was subdued as US markets were closed in observance of a national day of mourning for former President Jimmy Carter.\nEuropean STOXX 600 index European markets Comments 200 characters Pakistan\nPakistan’s remittance inflow at $3.1bn in December 2024, up 6% month-on-month",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7df9f5a5941b03fac66d0aa20fec1f51262b95ca",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:30:23.485+02:00",
+    "updated": "2025-01-10T09:57:09.681+02:00"
+}

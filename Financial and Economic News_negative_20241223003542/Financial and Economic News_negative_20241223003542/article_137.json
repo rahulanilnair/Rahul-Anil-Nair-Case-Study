@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "40f09d1295b9d64f578cf3e56aeaaf883151f457",
+        "url": "https://www.theadvocate.com/baton_rouge/news/courts/judge-rules-against-brec-in-fight-over-tax-dollars/article_15a65472-bbe4-11ef-8960-2fbfc3c24b58.html",
+        "site_full": "www.theadvocate.com",
+        "site": "theadvocate.com",
+        "site_section": "http://www.theadvocate.com/search/?f=rss&amp;t=article&amp;c=&amp;l=50&amp;s=start_time&amp;sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.theadvocate.com - RSS Results",
+        "title": "In fight over millions in Baton Rouge taxes, judge sides against BREC, with retirement systems",
+        "title_full": "In fight over millions in Baton Rouge taxes, judge sides against BREC, with retirement systems",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/f/96/f96695d3-df13-5069-81a9-a88201583c75/58d94948df2b4.image.jpg?crop=1656%2C869%2C0%2C190&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 5042,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40f09d1295b9d64f578cf3e56aeaaf883151f457",
+    "url": "https://www.theadvocate.com/baton_rouge/news/courts/judge-rules-against-brec-in-fight-over-tax-dollars/article_15a65472-bbe4-11ef-8960-2fbfc3c24b58.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MATT BRUCE | Staff writer",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "In fight over millions in Baton Rouge taxes, judge sides against BREC, with retirement systems",
+    "text": "Baton Rouge",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:08:13.122+02:00",
+    "updated": "2024-12-17T12:54:01.420+02:00"
+}

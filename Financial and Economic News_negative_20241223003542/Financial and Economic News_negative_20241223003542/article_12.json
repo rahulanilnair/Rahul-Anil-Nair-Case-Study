@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "06f9db913fdd889c27d107121f0cc6ce8293521e",
+        "url": "https://www.foxbangor.com/news/national/markets-mostly-down-as-fed-gears-up-for-interest-rate-decision/article_c45a741e-4dfc-5ac7-b9e5-6a9902b10436.html",
+        "site_full": "www.foxbangor.com",
+        "site": "foxbangor.com",
+        "site_section": "https://www.foxbangor.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "foxbangor.com",
+        "title": "Markets mostly down as Fed gears up for interest rate decision | National | foxbangor.com",
+        "title_full": "Markets mostly down as Fed gears up for interest rate decision | National | foxbangor.com",
+        "published": "2024-12-17T10:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/foxbangor.com/content/tncms/assets/v3/editorial/2/3c/23c27174-d57c-5193-a7a5-1edd65034daf/6760ed0512c71.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 68997,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "06f9db913fdd889c27d107121f0cc6ce8293521e",
+    "url": "https://www.foxbangor.com/news/national/markets-mostly-down-as-fed-gears-up-for-interest-rate-decision/article_c45a741e-4dfc-5ac7-b9e5-6a9902b10436.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-12-17T10:18:00.000+02:00",
+    "title": "Markets mostly down as Fed gears up for interest rate decision | National | foxbangor.com",
+    "text": "Most markets fell Tuesday as attention turned to the Federal Reserve's upcoming policy decision, with traders hoping for guidance on its interest rate plans as president-elect Donald Trump prepares to take office.\nThe decision, which is expected to see officials lower borrowing costs again, comes in a busy week for central banks, with announcements in Japan and Britain also due.\nInvestors are keeping tabs on Beijing after Chinese leaders' latest measures to kickstart the economy fell short of expectations, with weak retail sales data Monday reinforcing the need for more support.\nThe Fed is widely expected to lower rates for the third meeting in a row Wednesday as it looks to guide the world's top economy to a soft landing, though its statement will be pored over for clues about next year's outlook.\nInvestors have started paring their bets on how many times it will cut over the next 12 months owing to still-sticky inflation, a strong labour market and uncertainty about Trump, who has pledged to slash taxes and impose tariffs on imports.\nStefan Hofrichter, head of global economics and strategy at Allianz GI, said the US economy had defied warnings of a recession and growth was expected to power ahead, adding the firm's \"base case scenario remains a 'soft landing' for the US and world economies\".\nHowever, he added: \"The wild card is what happens after Donald Trump takes office as US president. The lavish spending he's proposed could boost US growth in the short term.\n\"But the impact of the higher tariffs he's mooted for US trading partners may also dampen the outlook for Europe. We need to wait to see the extent to which his election campaign promises become policy.\"\nWall Street ended mostly on the front foot, with a surge in tech giants helping the Nasdaq to a record high, but Asia was unable to pick up the baton.\nTokyo, Hong Kong, Shanghai, Singapore, Seoul, Taipei, Manila, Mumbai, Bangkok and Jakarta all fell, though Sydney and Wellington rose.\nLondon, Paris and Frankfurt dropped at the open.\nBitcoin hit another record high of $107,791 on continued optimism that Trump will introduce measures to deregulate the cryptocurrency market.\nThe Fed rate decision will be followed Thursday by announcements in Japan and Britain.\nOpinion is split on whether the Bank of Japan will unveil a third hike of the year -- having lifted in March for the first time in 17 years -- as officials in Tokyo look to shift the country away from years of ultra-loose policies.\nMore from this section Founder of Spain's Mango clothing chain dies in accident",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stefan Hofrichter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "06f9db913fdd889c27d107121f0cc6ce8293521e",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:22:38.003+02:00",
+    "updated": "2024-12-17T11:22:38.003+02:00"
+}

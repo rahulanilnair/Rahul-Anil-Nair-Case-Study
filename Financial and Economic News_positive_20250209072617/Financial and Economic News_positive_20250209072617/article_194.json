@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "2dfeba1525c549c5917db2e93746a8edafdeecf9",
+        "url": "https://www.advfn.com/stock-market/COIN/ETHUSD/crypto-news/95224927/ethereum-gets-massive-12-000-price-tag-from-resea",
+        "site_full": "www.advfn.com",
+        "site": "advfn.com",
+        "site_section": "https://www.advfn.com/crypto/ethereum-eth",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "stocks"
+        ],
+        "section_title": "Ethereum (ETH) Overview - Charts, Markets, News, Discussion and Converter | ADVFN",
+        "title": "Ethereum Gets Massive $12,000 Price Tag From Research Lead Ahead Of Major Upgrade",
+        "title_full": "Ethereum Gets Massive $12,000 Price Tag From Research Lead Ahead Of Major Upgrade",
+        "published": "2025-01-09T18:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.advfn.com/p.php?pid=staticchart&amp;s=COIN:ETHUSD&amp;p=5&amp;t=52",
+        "performance_score": 0,
+        "domain_rank": 9076,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2dfeba1525c549c5917db2e93746a8edafdeecf9",
+    "url": "https://www.advfn.com/stock-market/COIN/ETHUSD/crypto-news/95224927/ethereum-gets-massive-12-000-price-tag-from-resea",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "advfn.com",
+    "published": "2025-01-09T18:00:00.000+02:00",
+    "title": "Ethereum Gets Massive $12,000 Price Tag From Research Lead Ahead Of Major Upgrade",
+    "text": "DeFi protocol Derive’s Head of Research, Dr. Sean Dawson, has provided a bullish prediction for the Ethereum price. He predicted that the second-largest crypto could rally to as high as $12,000 and explained how the Pectra upgrade could contribute to the parabolic rally. Ethereum To Reach $12,000 Thanks To Pectra Upgrade And Other Factors Dawson predicted that Ethereum could reach $12,000 by the end of the year thanks to the Pectra upgrade, Donald Trump’s presidency, increased adoption, and a surge in ETF inflows. According to the research analyst, this bullish case is possible if the Pectra upgrade is successful. The upgrade is meant to help scale the network and boost user experience. Related Reading: 70 Million DOGE Make Their Way To Binance Amid 10% Dogecoin Price Crash Given Donald Trump’s pro-crypto stance, Dawson is also confident that the US president-elect would create a regulatory-friendly environment, which would support further growth for Ethereum. For ETH to reach this $12,000 target, Dawson also said that Ethereum must witness broader adoption within the real-world assets (RWAs) industry. The network must also become a top player in emerging sectors such as DePIN and AI agents. The Ethereum exchange-traded funds (ETFs) also have a role to play in ETH reaching this target. Dawson mentioned that there must be more significant inflows into these funds. He warned that the failure of these funds to attract institutional interest could lead to a bearish case for Ethereum. For the bearish case, the research analyst predicted that Ethereum could drop to as low as $2,000 due to a lack of inflows into the Spot ETH ETFs. He noted that this could happen if these funds lose ground to a successful Solana ETF launch. This undoubtedly remains a possibility, considering how Solana dominated last year in terms of network activity. Dawson warned that other layer-1 networks are challenging Ethereum’s market share, although he added that this may offer higher risk and reward opportunities. ETH Still Bullish Despite Recent Market Downtrend Crypto analysts have suggested that Ethereum still has a bullish outlook despite the recent market downtrend. In an X post, crypto analyst Moon Carl stated that despite the recent dump, ETH is still trading within a symmetrical triangle on the Daily timeframe. The analyst added that if the support holds, a breakout with a bullish target of $4,100 could be expected. Related Reading: XRP Price Eyes Bullish Flag Breakout That Could Put 50% Gains On The Board Crypto analyst The Cryptomist also charted a path for Ethereum to reach a new all-time high (ATH). She highlighted a large falling wedge, which was in play with symmetrical deviations. She added that ETH could retest the broken level, then reject to support and insert a 4-hour oversold bullish divergence and then bounce to a new ATH. At the time of writing, the Ethereum price is trading at around $3,300, up in the last 24 hours, according to data from CoinMarketCap. Featured image created with Dall.E, chart from Tradingview.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->products and services",
+        "Science and Technology->economics",
+        "Science and Technology->technology and engineering",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+        "https://www.static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sean Dawson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2dfeba1525c549c5917db2e93746a8edafdeecf9",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:41:59.926+02:00",
+    "updated": "2025-01-10T01:41:59.926+02:00"
+}

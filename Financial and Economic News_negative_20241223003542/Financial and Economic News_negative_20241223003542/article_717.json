@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "83cd043542cd04a8e85a7b66512f9f138e373804",
+        "url": "https://grabien.com/story?id=505556",
+        "site_full": "grabien.com",
+        "site": "grabien.com",
+        "site_section": "https://www.grabien.com/rss.php?type=stories",
+        "site_categories": [
+            "television",
+            "health",
+            "",
+            "exercise",
+            "entertainment"
+        ],
+        "section_title": "Grabien RSS",
+        "title": "Ron Brownstein: There‘s a Lot of Things on Trump’s To Do List That Will Face Pushback from the Electorate If He Fails To Deliver",
+        "title_full": "Ron Brownstein: There‘s a Lot of Things on Trump’s To Do List That Will Face Pushback from the Electorate If He Fails To Deliver",
+        "published": "2024-12-17T14:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.grabien.com/clipsbank/2729/framelarge/2729344.jpg",
+        "performance_score": 0,
+        "domain_rank": 37686,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "83cd043542cd04a8e85a7b66512f9f138e373804",
+    "url": "https://grabien.com/story?id=505556",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T14:35:00.000+02:00",
+    "title": "Ron Brownstein: There‘s a Lot of Things on Trump’s To Do List That Will Face Pushback from the Electorate If He Fails To Deliver",
+    "text": "Ron Brownstein: There‘s a Lot of Things on Trump’s To Do List That Will Face Pushback from the Electorate If He Fails To Deliver\nEXCERPT:\nBROWNSTEIN: “It‘s not like, you know, all of the accusations that the Harris campaign leveled against him failed to land. It‘s that for voters at this moment, the economy, you know, overshadowed all of that. Trump viewing his position, his win as a clear mandate, you know, an historic mandate, the fact that he has less guardrails, that may not be an unmitigated blessing for him because he it will allow him to move, in all likelihood, more aggressively in directions that are still very fraught for him: the January 6th pardons, questioning childhood vaccines, rolling back access to the ACA block, granting Medicaid. I mean, there‘s a lot of things on his to-do list that will face pushback from the electorate as they go forward, particularly, as I said, if he cannot make progress on the biggest issue he was hired to deal with, which is getting people‘s cost of living more under control. Tariffs, mass deportations, big tax cuts -- most economists think that‘s the recipe for fueling, not stifling inflation.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:06:37.967+02:00",
+    "updated": "2024-12-17T15:06:37.967+02:00"
+}

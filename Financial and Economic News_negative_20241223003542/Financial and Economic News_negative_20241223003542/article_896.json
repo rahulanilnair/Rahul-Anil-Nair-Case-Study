@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "246072db0a1c411fb1aa5d721adb1492fc3b167b",
+        "url": "https://www.breakingnews.ie/world/facebook-owner-meta-hit-with-207m-in-eu-fines-for-2018-data-breach-1708764.html",
+        "site_full": "www.breakingnews.ie",
+        "site": "breakingnews.ie",
+        "site_section": "https://www.breakingnews.ie/latest",
+        "site_categories": [
+            "media",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Latest News | BreakingNews.ie",
+        "title": "Facebook owner Meta hit with €251m in EU fines for 2018 data breach",
+        "title_full": "Facebook owner Meta hit with €251m in EU fines for 2018 data breach",
+        "published": "2024-12-17T14:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTJcXFwvMTcxMzAwMzRcXFwvMi4zNTcwODY1Ni1lMTczNDQ0MDg1MDk1NS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjgyM2UxOWU1MTg2YTI0NWJjNmI3Yjg4ODI1ZmQzOWUwZTM2Mjk4ZTQifQ==/facebook-owner-meta-hit-with-251m-in-eu-fines-for-2018-data-breach.jpg",
+        "performance_score": 0,
+        "domain_rank": 15234,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "246072db0a1c411fb1aa5d721adb1492fc3b167b",
+    "url": "https://www.breakingnews.ie/world/facebook-owner-meta-hit-with-207m-in-eu-fines-for-2018-data-breach-1708764.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ireland's premier breaking news app",
+    "published": "2024-12-17T14:59:00.000+02:00",
+    "title": "Facebook owner Meta hit with €251m in EU fines for 2018 data breach",
+    "text": "European Union privacy watchdogs have hit Facebook owner Meta with fines totalling €251 million after an investigation into a 2018 data breach on the social media platform that exposed millions of accounts.\nIreland’s Data Protection Commission issued the penalties after wrapping up its inquiry into the breach, which happened when hackers gained access to user accounts by exploiting bugs in the platform’s code that allowed them to steal digital keys, known as access tokens.\nUnder the 27-nation EU’s strict privacy regime, the Irish watchdog is Meta’s lead privacy regulator because the company’s regional headquarters is in Dublin.\nThe watchdog issued reprimands and “administrative penalties” worth 251 million euros after it found multiple infringements of the rules, known as the General Data Protection Regulation.\nThe company said it would appeal against the decision.\n“This decision relates to an incident from 2018. We took immediate action to fix the problem as soon as it was identified,” Meta said in a statement.\nThe company said it “proactively informed people impacted” as well as the Irish watchdog.\nWhen it first disclosed the problem, Facebook said 50 million user accounts were affected, but the actual number was around 29 million, including three million in Europe, the watchdog said on.\n[\n](https://www.breakingnews.ie/business/facebook-parents-irish-arm-had-average-weekly-revenues-of-e1-34bn-in-2023-1700435.html)\nBusiness\nFacebook parent's Irish arm had average weekly rev...\nRead More\nThe company has said that after discovering the bug, it alerted the FBI and regulators in the US and Europe.\nThe hack involved three distinct bugs in Facebook’s View As feature, which let people see how their profiles appear to others. The attackers used the vulnerability to steal access tokens from the accounts of people whose profiles came up in searches using the feature.\nThe attack then moved from one user’s Facebook friend to another. Possession of the tokens would allow attackers to control those accounts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Meta",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Facebook",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "246072db0a1c411fb1aa5d721adb1492fc3b167b",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:53:50.902+02:00",
+    "updated": "2024-12-17T15:53:50.902+02:00"
+}

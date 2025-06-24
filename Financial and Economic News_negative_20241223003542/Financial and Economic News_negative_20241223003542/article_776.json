@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "4a09ad2a22e3f995808eb3f29f072af4cea02586",
+        "url": "https://www.mactrast.com/2024/12/congo-hits-apple-with-criminal-complaints-over-mineral-trade",
+        "site_full": "www.mactrast.com",
+        "site": "mactrast.com",
+        "site_section": "https://www.mactrast.com",
+        "site_categories": [
+            "mac_support",
+            "tech"
+        ],
+        "section_title": "Mactrast | Apple News and Giveaways - iPhone, iPad, Mac, Watch, TV, and more",
+        "title": "Congo Hits Apple With Criminal Complaints Over Mineral Trade",
+        "title_full": "Congo Hits Apple With Criminal Complaints Over Mineral Trade",
+        "published": "2024-12-17T12:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 93892,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4a09ad2a22e3f995808eb3f29f072af4cea02586",
+    "url": "https://www.mactrast.com/2024/12/congo-hits-apple-with-criminal-complaints-over-mineral-trade",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Hauk",
+    "published": "2024-12-17T12:02:00.000+02:00",
+    "title": "Congo Hits Apple With Criminal Complaints Over Mineral Trade",
+    "text": "The Democratic Republic of Congo has filed criminal complaints against Apple’s subsidiaries in France and Belgium, accusing the iPhone maker of using conflict minerals in its product supply chain (via Reuters ).\nThe complaints allege that Apple is complicit in handling stolen goods and laundering minerals obtained through armed conflicts in the region.\nCongo is a major source of tin, tantalum and tungsten, so-called 3T minerals used in computers and mobile phones. But some artisanal mines are run by armed groups involved in massacres of civilians, mass rapes, looting and other crimes, according to U.N. experts and human rights groups.\nApple does not directly source primary minerals and says it audits suppliers, publishes findings and funds bodies that seek to improve mineral traceability.\nThe complaints specifically target Apple France, Apple Retail France, and Apple Retail Belgium, accusing them of covering up war crimes and engaging in deceptive commercial practices. The countries of France and Belgium were said to have been chosen because of their perceived strong emphasis on corporate accountability.\n“It is clear that the Apple group, Apple France and Apple Retail France know very well that their minerals supply chain relies on systemic wrongdoing,” says the French complaint, after citing U.N. and rights reports on conflict in east Congo.\nIn its 2023 SEC filing , Apple stated that none of its 3T mineral or gold suppliers had financed or benefited armed groups in Congo or neighboring countries.\nThere has been significant conflict in the Congo’s eastern mining regions since the 1990s, driven by competition for materials. Armed groups often finance their operations through mineral exports that are frequently smuggled through neighboring countries.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/",
+        "https://s203.q4cdn.com/367071867/files/doc_downloads/2024/04/Apple-Conflict-Minerals-Report.pdf",
+        "https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17",
+        "https://www.s203.q4cdn.com/367071867/files/doc_downloads/2024/04/Apple-Conflict-Minerals-Report.pdf",
+        "https://reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:22:26.501+02:00",
+    "updated": "2024-12-17T15:22:26.501+02:00"
+}

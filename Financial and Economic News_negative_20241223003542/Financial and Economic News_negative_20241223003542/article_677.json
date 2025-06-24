@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "7e0ad8335994f0e12c760bb84c03ca9fdb3c29f7",
+        "url": "https://www.dlnews.com:443/articles/defi/quantum-computers-5-years-from-breaking-bitcoin",
+        "site_full": "www.dlnews.com",
+        "site": "dlnews.com",
+        "site_section": "https://dlnews.com/articles",
+        "site_categories": [],
+        "section_title": "News - DL News",
+        "title": "Quantum computers seen five years away from breaking Bitcoin: ‘The threat is real’",
+        "title_full": "Quantum computers seen five years away from breaking Bitcoin: ‘The threat is real’",
+        "published": "2024-12-17T14:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.dlnews.com/resizer/v2/D5PEULYFKRH7VC2C6BS6JV2LEM.jpg?smart=true&amp;auth=349689e4539721268258f96f7d1c4be546bc9178ac16f8f2466cbde6d03d16d2&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 50756,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e0ad8335994f0e12c760bb84c03ca9fdb3c29f7",
+    "url": "https://www.dlnews.com:443/articles/defi/quantum-computers-5-years-from-breaking-bitcoin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tim Craig",
+    "published": "2024-12-17T14:08:00.000+02:00",
+    "title": "Quantum computers seen five years away from breaking Bitcoin: ‘The threat is real’",
+    "text": "- A physicist predicts Bitcoin will be threatened by quantum computers in about five years.\n- It comes after Google made strides in quantum computing last week.\nSuperfast computers that exploit quantum mechanical phenomena have long posed a theoretical threat to the encryption that underpins much of the $3.8 trillion crypto industry.\nThat threat edged closer last week when Google unveiled its new quantum computing chip Willow, which boasts a 56% improvement over the tech giant’s previous chip.\nScientists predict that if the rate of progress continues, quantum computers could soon allow hackers to swipe Bitcoin straight from holders’ wallets.\n“We are about five years away from commercial quantum computers being able to break the elliptic curve keys that secure Bitcoin wallets,” said Pierre-Luc Dallaire-Demers, a scientist-in-residence at the University of Calgary.\nThe quantum physicist isn’t alone in his prediction. Several other researchers also [previously estimated](https://x.com/JSmith_Crypto/status/1156539778667601921) quantum computers will threaten Bitcoin within five to 10 years.\nDallaire-Demers, who founded a company that provides quantum-resistant crypto infrastructure, is referring to Bitcoin’s ECDSA 256 encryption, which secures addresses and signs transactions through public-private key pairs.\n“Breaking those keys is by far one of the easiest applications for large quantum computers,” he told DL News.\nECDSA 256 is vulnerable to Shor’s algorithm, which rapidly turns large numbers into prime factors and can crack the private keys behind crypto wallets.\nSHA-256, Bitcoin’s other form of encryption which enables miners to hash and add blocks to the network through the proof-of-work consensus process, could be easily fixed by doubling the hash length, according to digital asset firm Galaxy.\nDefending against Shor’s algorithm, however, requires fundamental changes to Bitcoin’s cryptography.\nBillions at risk\nThe first part of the Bitcoin network to fall to quantum computers will be older Pay-To-Public-Key wallets created before 2012.\nFor most users, avoiding this risk is as easy as transferring funds to a modern wallet, which hides the user’s public key behind a hash which quantum computers cannot break until they make a transaction.\n“If people still have coins in P2PK addresses they should immediately move their assets,” Dallaire-Demers warned.\nBut wallets belonging to Bitcoin creator Satoshi Nakamoto — containing some 1.1 million Bitcoin worth $113 billion — are of the older, more vulnerable type.\nNakamoto hasn’t been heard from for 14 years, making it [appear unlikely](https://www.dlnews.com/articles/defi/how-googles-quantum-computing-leap-puts-satoshis-107bn-bitcoin-stash-at-risk/) that the pseudonymous developer will return to safeguard his stash any time soon.\n‘Threat is real’\nMany in the industry are already looking further into the future. Even Bitcoin wallets that hide the user’s public key will eventually be at risk as quantum computers become more powerful.\n“QC will break Bitcoin if we do not upgrade it. The threat is real,” Charles Edwards, the founder of Bitcoin and digital asset hedge fund Capriole Investments [said](https://x.com/caprioleio/status/1866355221670302170) on X.\nProjects like the Quantum Resistant Ledger [estimate](https://www.theqrl.org/blog/preparing-bitcoin-for-the-postquantum-era-insights-from-quantum-computing-experts/) that upgrading Bitcoin to make it quantum resistant requires at least 76 days of continuous processing time on the network.\nAccording to Dallaire-Demers, Bitcoin won’t need such a quantum-resistance upgrade for some time.\n“Quantum computers will not be good at recovering the input of a hash for the foreseeable decades,” he said.\nEdwards, on the other hand, said that based on the “massive leaps in quantum computing in 2024 alone,” the need to make Bitcoin quantum resistant might come sooner than anticipated.\nTim Craig is DL News’ Edinburgh-based DeFi Correspondent. Reach out with tips at [tim@dlnews.com](mailto:tim@dlnews.com).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/caprioleio/status/1866355221670302170",
+        "https://x.com/JSmith_Crypto/status/1156539778667601921",
+        "https://www.theqrl.org/blog/preparing-bitcoin-for-the-postquantum-era-insights-from-quantum-computing-experts/",
+        "https://www.x.com/caprioleio/status/1866355221670302170",
+        "https://theqrl.org/blog/preparing-bitcoin-for-the-postquantum-era-insights-from-quantum-computing-experts/",
+        "https://www.theqrl.org/blog/preparing-bitcoin-for-the-postquantum-era-insights-from-quantum-computing-experts",
+        "https://www.x.com/JSmith_Crypto/status/1156539778667601921"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:53:04.733+02:00",
+    "updated": "2024-12-17T14:53:04.733+02:00"
+}

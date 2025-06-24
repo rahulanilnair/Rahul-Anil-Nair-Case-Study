@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "5e7e197c39b2874189b6bbf9eb9d8c970414f808",
+        "url": "https://www.reporter.net/indiana/news/indiana-re-implements-waitlist-for-new-child-care-voucher-applicants/article_bc9e5164-b809-11ef-99db-cf9409c9ebee.html",
+        "site_full": "www.reporter.net",
+        "site": "reporter.net",
+        "site_section": "https://www.reporter.net/",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "reporter.net",
+        "title": "Indiana re-implements waitlist for new child care voucher applicants | News | reporter.net",
+        "title_full": "Indiana re-implements waitlist for new child care voucher applicants | News | reporter.net",
+        "published": "2024-12-17T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/reporter.net/content/tncms/custom/image/61ad29ca-c69f-11e5-852e-b720fc2f89f8.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 174816,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e7e197c39b2874189b6bbf9eb9d8c970414f808",
+    "url": "https://www.reporter.net/indiana/news/indiana-re-implements-waitlist-for-new-child-care-voucher-applicants/article_bc9e5164-b809-11ef-99db-cf9409c9ebee.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T07:00:00.000+02:00",
+    "title": "Indiana re-implements waitlist for new child care voucher applicants | News | reporter.net",
+    "text": "The Indiana Family and Social Services Administration’s Office of Early Childhood and Out-of-School Learning (OECOSL) is re-implementing a waitlist for new Child Care Development Fund (CCDF) and On My Way Pre-K (OMWPK) voucher applicants due to significant growth in both programs.\nAt this time, the waitlist will impact new child care voucher applicants. Vouchers support low-income families who make less than 150% of the federal poverty level (FPL), which is about $45,000 for a family of four, and have a service need including employment, seeking employment or enrollment in an education or training program.\nOECOSL will continue to re-enroll children already receiving vouchers as long as funding permits. The office will reassess the waitlist at the start of the next federal fiscal year in October.\nThe re-implementation of a waitlist for the first time since 2018 is due, in part, to efforts to improve access, affordability and quality of child care programs. Those efforts have included:\n- The Indiana General Assembly increased CCDF and OMWPK eligibility to 150% of the FPL, up from 127%, which made more families eligible to participate in a voucher program.\n- The state provided $35 million in Child Care Expansion and Employer-Sponsored Fund grants, both of which added new programs and grew existing programs, increasing access to child care programs.\n- The state maximized an infusion of federal funds that started in 2018 and continued through the pandemic to invest in a high-quality child care system.\nAs a result, more than 30,000 additional children have participated in the voucher program in the last two years.\n“The state’s continued efforts to improve access, affordability and quality of child care programs led us to supporting over 70,000 children with vouchers, allowing more families to work or go to school, and improving the state’s economy,” said Courtney Penn, Director of the Office of Early Childhood and Out-of-School Learning. “We will continue the important work of ensuring families have access to affordable, high-quality programs near their homes and workplaces.”\nGov. Eric J. Holcomb and the Indiana General Assembly have prioritized early child care and education by creating a more sustainable early childhood workforce and supporting more Hoosier families with vouchers. Both CCDF and OMWPK programs have grown substantially. OMWPK peaked last year, enrolling nearly 8,000 children, up 167% from just 3,000 children in 2019, the first year for the statewide program. CCDF has grown to more than 70,000 children this year, up 43% since 2019.\nOnce a new CCDF application is submitted, a child is placed on the waitlist. Priority is given to On My Way Pre-K applicants, families who earn below 100% FPL, and children of child care workers.\nAll other applicants will receive vouchers on a first-come, first-served basis, as available.\nFamilies can call 211 for their local eligibility offices and Child Care Resource and Referral (CCR&R) specialist’s contact information, and for help identifying child care options.\nProviders can call the SPARK Help Desk at 800-299-1627 for their local eligibility office’s contact information, and to ask general programming questions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Indiana General Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "FPL",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:33:15.817+02:00",
+    "updated": "2024-12-17T15:33:15.817+02:00"
+}

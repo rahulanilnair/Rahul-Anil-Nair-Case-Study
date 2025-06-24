@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "7917143cb81f5a7731c96295a07c638b736f8bce",
+        "url": "https://relevantmagazine.com/culture/college-tuition-is-getting-cheaper",
+        "site_full": "relevantmagazine.com",
+        "site": "relevantmagazine.com",
+        "site_section": "https://www.relevantmagazine.com",
+        "site_categories": [],
+        "section_title": "Home - RELEVANT",
+        "title": "College Tuition Is Getting… Cheaper?",
+        "title_full": "College Tuition Is Getting… Cheaper?",
+        "published": "2025-01-10T01:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15566,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7917143cb81f5a7731c96295a07c638b736f8bce",
+    "url": "https://relevantmagazine.com/culture/college-tuition-is-getting-cheaper",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emily Brown",
+    "published": "2025-01-10T01:32:00.000+02:00",
+    "title": "College Tuition Is Getting… Cheaper?",
+    "text": "For years, it felt like the cost of college was on a never-ending rise, but a new report shows that’s not entirely true anymore.\nResearch from the College Board reveals that students today are paying less — sometimes significantly so — compared to a decade ago, especially at public universities.\nThe average tuition at in-state public universities is $11,610, which is down 4% over the past decade when adjusted for inflation. And, after factoring in financial aid and grants, students are paying just $2,480 annually — a 40% drop from ten years ago. That’s real money saved, and it’s cutting down on debt. Less than half of in-state public university students now graduate with loans, compared to 59% a decade ago, and the average loan balance has dropped 17%, to $27,100.\nPrivate colleges are seeing smaller gains in affordability. Tuition has risen just 4% over the past decade — a big difference from the 68% spike in the 20 years prior. Schools like MIT are even stepping up financial aid, offering free tuition for families earning under $200,000 .\nExperts point to pandemic-related tuition freezes and increased federal and state funding as key reasons for these shifts. However, as those temporary measures fade, many institutions are finding other ways to make college more affordable, like tuition discounts or expanded scholarships .\nOf course, even with a slight decline, college still isn’t cheap. But the landscape is changing, leaving many with the hope that they might be able to reach their academic goals without sacrificing their financials ones.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Education",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Education->college and university",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://apnews.com/article/college-tuition-cost-5e69acffa7ae11300123df028eac5321",
+        "https://www.apnews.com/article/college-tuition-cost-5e69acffa7ae11300123df028eac5321"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:52:34.033+02:00",
+    "updated": "2025-01-10T01:52:34.033+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "39a557cec3965be8466e7206b3ed93fcc37d1350",
+        "url": "https://www.inquirer.com:443/business/endo-settlement-opioids-justice-department-20241217.html",
+        "site_full": "www.inquirer.com",
+        "site": "inquirer.com",
+        "site_section": "https://inquirer.com/health",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "Health",
+        "title": "How Opioid Giant Endo Escaped a $7 Billion Federal Penalty",
+        "title_full": "How Opioid Giant Endo Escaped a $7 Billion Federal Penalty",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.inquirer.com/resizer/v2/CMVTOUQ2X5GGROWXL4ZJ6TGKHY.jpg?auth=a565ff1284fe03f7faa16d6f34abdbf34f04ec9838116b3844c35cbed044e65b&amp;width=760&amp;height=507&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 1444,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39a557cec3965be8466e7206b3ed93fcc37d1350",
+    "url": "https://www.inquirer.com:443/business/endo-settlement-opioids-justice-department-20241217.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bob Fernandez",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "How Opioid Giant Endo Escaped a $7 Billion Federal Penalty",
+    "text": "This article was produced in partnership with ProPublica . Sign up for Dispatches to get ProPublica stories like this one as soon as they are published.\nAdvertisement This spring, the Justice Department announced a major victory against a drug firm that manufactured billions of opioid painkillers. Endo Health Solutions, the agency said, would face $1.5 billion in fines and forfeitures and plead guilty to a corporate criminal charge.\nProsecutors said the massive fine would hold accountable a suburban Philadelphia company that profited by “misrepresenting the safety of their opioid products and using reckless marketing tactics to increase sales.”\nBut in the end, federal prosecutors offered far friendlier terms than those trumpeted by the agency .\nEndo would not have to pay the $1.5 billion in criminal penalties, which was already a deep discount from the billions federal officials said Endo owed for dodging taxes and driving up Medicare costs.\nIn what amounted to a liability fire sale by the Justice Department, the company’s woes with the federal government would all be resolved by a $200 million payment.\nIn sentencing Endo in federal court in May, Judge Linda Parker wondered how the amount paid to the U.S. could be so low.\n“I don’t understand. I really don’t understand,” Parker said. “I just don’t understand how it went from $1 billion to $200 million.”\nFederal prosecutor Benjamin Cornfeld explained: Endo was broke.\n“The reality is that there are limited funds available because the debtors were in bankruptcy,” Cornfeld said.\nBut a fuller explanation, drawn from corporate filings, interviews, and criminal court and bankruptcy records, shows how the DOJ, after years of aggressively prosecuting opioid companies, delayed for a decade a winning criminal case against Endo. In the intervening years, Endo vastly expanded its narcotic-pill empire before executing a corporate escape plan.\nCode-named Project Zed, the plan allowed Endo to restructure its debt to retain control of the company and hand out $95 million in executive bonuses before seeking protection in bankruptcy. The result for U.S. taxpayers: Endo paid a tiny fraction — three pennies on the dollar — of the $7 billion that officials said it owed the U.S. government, including $4 billion in taxes.\nI just don’t understand how it went from $1 billion to $200 million.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.propublica.org/",
+        "https://www.documentcloud.org/documents/25453827-us-press-release-endo-sentencing-5-3-24/",
+        "https://www.propublica.org/newsletters/dispatches",
+        "https://documentcloud.org/documents/25453827-us-press-release-endo-sentencing-5-3-24/",
+        "https://propublica.org/",
+        "https://www.documentcloud.org/documents/25453827-us-press-release-endo-sentencing-5-3-24",
+        "https://www.propublica.org",
+        "https://propublica.org/newsletters/dispatches"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Endo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Endo Health Solutions",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justice Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:49:08.607+02:00",
+    "updated": "2024-12-17T12:49:08.607+02:00"
+}

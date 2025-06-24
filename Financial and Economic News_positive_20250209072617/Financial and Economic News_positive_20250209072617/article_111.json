@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "8b75e31f6c65b04d6787ad2ef1fc5ceb6f457d60",
+        "url": "https://www.hawaiipublicradio.org/local-news/2025-01-09/hawaii-council-on-revenues-increases-general-fund-growth-rate",
+        "site_full": "www.hawaiipublicradio.org",
+        "site": "hawaiipublicradio.org",
+        "site_section": "https://www.hawaiipublicradio.org/local-news",
+        "site_categories": [
+            "media",
+            "music",
+            "entertainment"
+        ],
+        "section_title": "Local News | Hawai&#x27;i Public Radio",
+        "title": "Council on Revenues increases general fund growth rate",
+        "title_full": "Council on Revenues increases general fund growth rate",
+        "published": "2025-01-09T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/b2a8c4a/2147483647/strip/true/crop/3648x1915+0+517/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F17%2Fa46ceffb422f85385bb0a7d3fc41%2Fimg-6472.JPG",
+        "performance_score": 0,
+        "domain_rank": 28642,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b75e31f6c65b04d6787ad2ef1fc5ceb6f457d60",
+    "url": "https://www.hawaiipublicradio.org/local-news/2025-01-09/hawaii-council-on-revenues-increases-general-fund-growth-rate",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashley Mizuo",
+    "published": "2025-01-09T23:49:00.000+02:00",
+    "title": "Council on Revenues increases general fund growth rate",
+    "text": "Council on Revenues increases general fund growth rate\nThe Council on Revenues has increased the general fund growth rate for this year from 3.5% to 6.4% — but not because of any economic strength.\nThe increase is largely due to a significant increase in estate tax collections likely due to the death of one significantly wealthy person.\n\"I encourage you to think of it as an anomaly, which it'll require you guys to be a little bit more, dynamic and flexible in your thinking. So on one hand it's real money — so it really affects this year. On the other hand, like in terms of your broader macroeconomic outlook, things like that, it probably shouldn't be included,\" said Tax Research and Planning Officer Seth Colby.\nUniversity of Hawaiʻi Economic Research Organization Executive Director Carl Bonham pointed out that overall Hawaiʻi's economy did not grow much and that there are many uncertainties regarding the next presidential administration.\nDue to that and the historic income tax cut that went into effect this year, the forecast for the next several years resulted in significant decreases.\nThe state Legislature is required to base its budget on projections from the Council on Revenues. The 2025 legislative session starts next week.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->government budget",
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:50:50.096+02:00",
+    "updated": "2025-01-10T00:50:50.096+02:00"
+}

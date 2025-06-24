@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "afb40fa0c1cb27aa1a265289862aa6c92f28c6b3",
+        "url": "https://news.nestia.com/detail/Singapore-passport-is-still-world's-most-powerful/13188748",
+        "site_full": "news.nestia.com",
+        "site": "nestia.com",
+        "site_section": "https://news.nestia.com/en/list?offset=0&limit=100&featured_tag_filter=true",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+        "title": "Singapore passport is still world's most powerful | Nestia",
+        "title_full": "Singapore passport is still world's most powerful | Nestia",
+        "published": "2025-01-10T03:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/202501/10/1b75bed68bf95eda95c7eeefeae61804_750x750.jpg",
+        "performance_score": 0,
+        "domain_rank": 108524,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "afb40fa0c1cb27aa1a265289862aa6c92f28c6b3",
+    "url": "https://news.nestia.com/detail/Singapore-passport-is-still-world's-most-powerful/13188748",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The New Paper - Singapore",
+    "published": "2025-01-10T03:02:00.000+02:00",
+    "title": "Singapore passport is still world's most powerful | Nestia",
+    "text": "The Republic has clinched the top spot in a world ranking of passports again, with Singaporeans enjoying visa-free entry to 195 out of 227 travel destinations, according to the 2025 Henley Passport Index.The index released two sets of ranking in 2024. In January, Singapore shared the top spot with five other countries, but in July, it reclaimed the sole position as the world’s most powerful passport.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Nestia The Republic",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:12:25.195+02:00",
+    "updated": "2025-01-10T03:12:25.195+02:00"
+}

@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "3fcb27b25c2a086757a1599c7f42c0c776a643bb",
+        "url": "https://energy.economictimes.indiatimes.com/news/power/bangladeshs-electricity-imports-from-adani-plant-slide-by-a-third-in-november/116399311",
+        "site_full": "energy.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://b2b.economictimes.indiatimes.com",
+        "site_categories": [
+            "media",
+            "business",
+            "green_solutions",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "\n    Latest Business News | The Economic Times B2B",
+        "title": "Bangladesh Electricity Imports: Bangladesh's electricity imports from Adani plant slide by a third in November, ET EnergyWorld",
+        "title_full": "Bangladesh Electricity Imports: Bangladesh's electricity imports from Adani plant slide by a third in November, ET EnergyWorld",
+        "published": "2024-12-17T10:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-116399311,imgsize-1882794,width-1200,height=765,overlay-etenergy/power/bangladeshs-electricity-imports-from-adani-plant-slide-by-a-third-in-november.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3fcb27b25c2a086757a1599c7f42c0c776a643bb",
+    "url": "https://energy.economictimes.indiatimes.com/news/power/bangladeshs-electricity-imports-from-adani-plant-slide-by-a-third-in-november/116399311",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-12-17T10:17:00.000+02:00",
+    "title": "Bangladesh Electricity Imports: Bangladesh's electricity imports from Adani plant slide by a third in November, ET EnergyWorld",
+    "text": "SINGAPORE: Bangladesh's electricity imports from an Adani Power plant in India fell by nearly a third in November, Indian government data showed, pushing the south Asian nation to boost fuel oil use for power generation. Adani abruptly slashed supply to Bangladesh from its 1,600 megawatt power plant in Jharkhand state last month following a dispute over dues. It had signed a 25-year deal to supply power to Bangladesh in 2017 under ousted Prime Minister Sheikh Hasina. Bangladesh, which is battling a foreign exchange shortage, has been asking Adani to renegotiate its power supply price, the highest among all sources in the country. Adani Power's Godda plant, which is under contract to send all its output to Bangladesh, had accounted for about 9% of the country's power supply in the twelve months preceding Hasina's ouster in August. Data from a regional power committee constituted by the federal power ministry showed the Godda plant exported 450 million kilowatt hours of electricity to Bangladesh in November, 32.8% lower on an annual basis. That was the steepest monthly decline in Bangladesh's imports from the Adani plant. Volumes were at their lowest monthly levels since December 2023, data from India's Eastern Regional Power Committee showed. While overall consumption is tapering heading into winter, a period of seasonally low demand, Bangladesh has turned to fuel oil-fired power plants to address a 5.6% annual uptick in demand and to fill a void created by lower imports from Adani. Fuel oil use for power generation in Bangladesh surged 47.8% in November, up for the third straight month after declining for 21 consecutive months, a Reuters review of data from Bangladesh's power grid operator showed. Natural gas-fired power generation rose more than 10% in November after falling for five consecutive months, while coal-fired power fell for the third straight month, the data showed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hasina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3fcb27b25c2a086757a1599c7f42c0c776a643bb",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:52:24.319+02:00",
+    "updated": "2024-12-17T12:52:24.319+02:00"
+}

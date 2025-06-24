@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "f78d01aa5ecbd9f105a7dcfdbe72224689025035",
+        "url": "https://united24media.com/latest-news/norway-confirms-eur60-million-for-drones-to-aid-ukraines-defense-4988",
+        "site_full": "united24media.com",
+        "site": "united24media.com",
+        "site_section": "https://united24media.com",
+        "site_categories": [],
+        "section_title": "UNITED24 Media",
+        "title": "Norway Confirms €60 Million for Drones to Aid Ukraine's Defense",
+        "title_full": "Norway Confirms €60 Million for Drones to Aid Ukraine's Defense",
+        "published": "2025-01-09T23:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://storage.united24media.com/og/6/79/5c9ed4335f42033deca4175c6bfc8796.jpg",
+        "performance_score": 0,
+        "domain_rank": 114134,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f78d01aa5ecbd9f105a7dcfdbe72224689025035",
+    "url": "https://united24media.com/latest-news/norway-confirms-eur60-million-for-drones-to-aid-ukraines-defense-4988",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Liubava Petriv",
+    "published": "2025-01-09T23:47:00.000+02:00",
+    "title": "Norway Confirms €60 Million for Drones to Aid Ukraine's Defense",
+    "text": "The Norwegian government has allocated 700 million Norwegian kroner (around €60 million) for procuring drones to bolster Ukraine’s defense capabilities. Defense Minister Bjørn Arild Gram announced the decision during the Ukraine Defense Contact Group meeting at Ramstein Air Base on January 9.\n\"Ukraine continues to face critical challenges and requires additional military support to defend itself against Russian aggression. Drones are a vital component of these efforts, providing capabilities for protecting critical infrastructure and supporting operations on the front lines,\" Gram stated.\nThe minister further emphasized the importance of coalition efforts in delivering both immediate and long-term assistance to Ukraine.\n\"Together with our allies, we will sustain our political, military, and economic support for Ukraine's defense,\" Gram added.\nEarlier, UK Defence Secretary John Healey [announced ](https://united24media.com/latest-news/uk-and-allies-announce-massive-drone-delivery-for-ukraine-4984)that the international Drone Capability Coalition, co-led by the UK and Latvia, had secured $55 million (£45 million) in contracts to supply 30,000 drones to Ukraine.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->international military intervention",
+        "Politics->defence",
+        "Politics->foreign aid",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bjørn Arild Gram",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Healey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ramstein Air Base",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:43:50.710+02:00",
+    "updated": "2025-01-10T01:43:50.710+02:00"
+}

@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "c43b1718ba84d0685922e536b61a67b93690c4af",
+        "url": "https://leadership.ng/edo-internal-revenue-service-targets-over-n10bn-monthly-revenue",
+        "site_full": "leadership.ng",
+        "site": "leadership.ng",
+        "site_section": "https://nigeria.shafaqna.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "\r\n\t\tNigeria News (News Reader)\t",
+        "title": "",
+        "title_full": "",
+        "published": "2025-01-10T08:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://leadership.ng/wp-content/uploads/2025/01/Bankole-Balogun-e1733600114790.webp",
+        "performance_score": 0,
+        "domain_rank": 19069,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c43b1718ba84d0685922e536b61a67b93690c4af",
+    "url": "https://leadership.ng/edo-internal-revenue-service-targets-over-n10bn-monthly-revenue",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Patrick Ochoga",
+    "published": "2025-01-10T08:41:00.000+02:00",
+    "title": "",
+    "text": "The Chairman of the Edo State Internal Revenue Service (EIRS), Hon. (Barr.) Oladele Bankole-Balogun, has expressed his determination to revolutionize revenue\"/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Oladele Bankole-Balogun",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Edo State Internal Revenue Service",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:53:31.873+02:00",
+    "updated": "2025-01-10T08:53:31.873+02:00"
+}

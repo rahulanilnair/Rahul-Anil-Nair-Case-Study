@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "0401b95d5d7445dc833b2c61593c73a49ee22d40",
+        "url": "https://www.moneymanagement.com.au/news/funds-management/platinum-outflows-improve-65",
+        "site_full": "www.moneymanagement.com.au",
+        "site": "moneymanagement.com.au",
+        "site_section": "https://www.moneymanagement.com.au/",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "mutual_funds"
+        ],
+        "section_title": "Latest News | Money Management",
+        "title": "Platinum Outflows Improve By 65%",
+        "title_full": "Platinum Outflows Improve By 65%",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1732858202/Money%20Management/global-increase-mm_mag3pn.jpg",
+        "performance_score": 0,
+        "domain_rank": 138199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0401b95d5d7445dc833b2c61593c73a49ee22d40",
+    "url": "https://www.moneymanagement.com.au/news/funds-management/platinum-outflows-improve-65",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Laura Dew",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Platinum Outflows Improve By 65%",
+    "text": "Platinum outflows improve by 65%\nPlatinum Asset Management has released its funds under management for December, following a potential deal with Regal Partners.\nIn an ASX update, the firm said its FUM was $11 billion, up slightly from $10.9 billion in November.\nDuring the month, it experienced net outflows of $289 million which included outflows from the Platinum Trust funds of $247 million.\nHowever, this was smaller than outflows experienced in the previous month when it lost $841 million in November, thanks to the loss of an institutional mandate of $537 million and net outflows from the Platinum Trust of $239 million during the month.\nPerformance fees for the second half of 2024 were “insignificant”, it said.\nOver the 12-month period, FUM fell 27 per cent from $15.1 billion in January 2024 to $11 billion in December.\nAt the end of the year, the firm entered a period of due diligence with Regal Partners regarding a possible acquisition.\n[An initial bid](https://www.moneymanagement.com.au/news/funds-management/regal-takes-aim-platinum-new-takeover-bid) was made in September but this [was rejected by the Platinum board](https://www.moneymanagement.com.au/news/funds-management/platinum-board-reaches-unanimous-verdict-regal-bid) as it felt the bid undervalued Platinum and felt it was not in the best interest of Platinum shareholders.\nThe following month, the firm announced it had reopened the door for Regal to enact a period of due diligence in the hope of Regal submitting a revised bid.\nIn December, both parties stated they [had reached an agreement ](https://www.moneymanagement.com.au/news/funds-management/verdict-reached-platinumregal-acquisition)to cease discussions and that Regal would not be making another bid.\n“The respective parties have conducted an initial period of mutual due diligence which has now concluded. Platinum advises that discussions with Regal have ceased, removing the uncertainty that has persisted since Platinum rejected Regal’s initial proposal,” Platinum told the ASX.\n“Platinum remains fully focused on executing its restructure and turnaround strategy and has so far illustrated momentum in the areas of cost control, remuneration redesign, product rationalisation and a review of the investment process, all initiatives designed to stabilise and reset the business in order to return to a growth footing.”\nIt is understood Platinum has also received interest from Challenger, Wilson Asset Management and Paradice Investment Management, but Regal is the only one as yet to be granted this period of due diligence.\nRecommended for you\nMoody’s has painted an optimistic picture for alternative asset managers in the year ahead, with lower interest rates and deregulation likely to prove supportive for their growth.\nWith numerous private equity firms taking an interest in Australia, Money Management explores their backgrounds and the leading players who could take a stake.\nCenturia Bass Credit has appointed a former Wallabies vice-captain and Rugby World Cup-winning player as deputy CEO.\nGQG Partners has announced a decline in funds under management in December, fuelled by redemptions from its institutional channel, but annual net flows doubled to US$20.3 billion.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Regal Partners",
+                "sentiment": "none"
+            },
+            {
+                "name": "ASX",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:08:23.852+02:00",
+    "updated": "2025-01-10T00:08:23.852+02:00"
+}

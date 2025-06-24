@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "4f588b1e512682b1364be786c8f209ecbbc74632",
+        "url": "https://blockchain.news/news/suis-defi-ecosystem-thrives-q4-2024",
+        "site_full": "blockchain.news",
+        "site": "blockchain.news",
+        "site_section": "https://finex.cz",
+        "site_categories": [
+            "media",
+            "finance"
+        ],
+        "section_title": "Finex.cz &#187; Pomáháme dělat chytrá finanční rozhodnutí",
+        "title": "Sui's DeFi Ecosystem Thrives in Q4 2024 with Record Growth - Blockchain.News",
+        "title_full": "Sui's DeFi Ecosystem Thrives in Q4 2024 with Record Growth - Blockchain.News",
+        "published": "2025-01-10T06:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 56096,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f588b1e512682b1364be786c8f209ecbbc74632",
+    "url": "https://blockchain.news/news/suis-defi-ecosystem-thrives-q4-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "blockchain.news",
+    "published": "2025-01-10T06:25:00.000+02:00",
+    "title": "Sui's DeFi Ecosystem Thrives in Q4 2024 with Record Growth - Blockchain.News",
+    "text": "Sui's decentralized finance (DeFi) landscape witnessed remarkable growth in the final quarter of 2024, showcasing impressive metrics and strategic developments, according to the Sui Foundation. The ecosystem's performance was driven by new stablecoin deployments, increased institutional interest, and enhancements to infrastructure like Sui Bridge and DeepBook.\nKey Metrics and Performance\nThroughout the quarter, Sui's Total Value Locked (TVL) reached a peak of $1.8 billion, with an average TVL of $1.4 billion, more than doubling from the previous quarter. The cumulative trading volume hit $44.3 billion, a staggering increase from $4.5 billion at the end of Q3, marking a 444.79% growth in total volume.\nThe top-performing protocols, such as Cetus and Aftermath, contributed significantly to this growth. Cetus ended the quarter with a TVL of $213 million and a volume growth of 522.34%, while Aftermath saw a TVL of $114 million and a 552.71% increase in trading volume.\nStrategic Developments\nOne of the most significant announcements was the collaboration between SatLayer and Babylon Labs, enabling Bitcoin (BTC) restaking through Lombard's LBTC, the largest liquid staking provider on Babylon's platform. This development allowed Bitcoin holders to stake their BTC for LBTC, integrating Bitcoin liquidity into Sui's DeFi ecosystem.\nAdditionally, DeepBook, Sui's native liquidity layer, launched its DEEP token to promote liquidity through mechanisms such as volume-based fees and maker incentives. This initiative aims to maintain consistent liquidity depth, even during periods of low market activity.\nStablecoin and Protocol Advancements\nThe deployment of stablecoins like USDC and FDUSD marked a significant milestone for Sui, facilitating easier onramping and offramping between digital assets and fiat currencies. Suilend's introduction of the SpringSui liquid staking standard and its associated liquid staking token (LST), sSUI, improved liquidity with features like instant unstaking.\nMoreover, Bluefin launched its Spot Concentrated Liquidity Market Maker (CLMM), providing users with diverse DeFi options, including spot trading for instant settlements. Shio, a newcomer to the Sui ecosystem, introduced its Maximum Extractable Value (MEV) protocol, broadening user access to strategies like arbitrage and liquidation.\nNAVI, a longstanding Sui lending protocol, expanded its offerings by developing an aggregator to aid users in finding efficient swaps for digital assets, enhancing the trading experience with gamification elements.\nAs Sui's DeFi ecosystem continues to evolve, the developments in Q4 2024 set a strong foundation for future growth and innovation, positioning Sui as a notable player in the DeFi landscape.\nFor more detailed insights, visit the [Sui Foundation](https://blog.sui.io/q4-2024-defi-roundup/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->biomedical science",
+        "Science and Technology->scientific research",
+        "Social Issue->social condition",
+        "Social Issue->social services",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://blog.sui.io/q4-2024-defi-roundup/",
+        "https://blog.sui.io/q4-2024-defi-roundup",
+        "https://www.blog.sui.io/q4-2024-defi-roundup/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Sui Foundation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:03:25.948+02:00",
+    "updated": "2025-01-10T07:03:25.948+02:00"
+}

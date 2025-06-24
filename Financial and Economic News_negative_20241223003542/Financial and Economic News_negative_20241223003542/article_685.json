@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "3c19c79102041a7b915427449c9ee50d15613aea",
+        "url": "https://cryptonews.net/news/legal/30240006",
+        "site_full": "cryptonews.net",
+        "site": "cryptonews.net",
+        "site_section": "https://cryptonews.net/rss.xml",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+        "title": "India Tax Regulator: Pre-2022 Crypto Gains Are Subject to Capital Gains Tax",
+        "title_full": "India Tax Regulator: Pre-2022 Crypto Gains Are Subject to Capital Gains Tax",
+        "published": "2024-12-17T12:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://cnews24.ru/uploads/557/5573ea312edb4b726508a548f2974eb235c3a66c.jpg",
+        "performance_score": 0,
+        "domain_rank": 53184,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3c19c79102041a7b915427449c9ee50d15613aea",
+    "url": "https://cryptonews.net/news/legal/30240006",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T12:23:00.000+02:00",
+    "title": "India Tax Regulator: Pre-2022 Crypto Gains Are Subject to Capital Gains Tax",
+    "text": "The Income Tax Appellate Tribunal, or ITAT, in Jodhpur, India, has ruled that profits from crypto sales prior to the introduction of the Virtual Digital Asset, or VDA, regime in 2022 are to be treated as capital gains.\nThe decision classifies crypto, including Bitcoin, as capital assets, resolving ambiguity that previously surrounded crypto taxation.\nThe ITAT’s decision ensures fair treatment under long-term capital gains laws, reducing the tax burden for early adopters.\nThe ruling derived from a case where an individual purchased Bitcoin worth $6,478 (₹5.05 lakh) in 2015-16 and sold it for $78,8063.84 (₹6.69 crore) in 2020-21.\nThe individual argued that the gains from the sale should be treated as long-term capital gains since the holding period exceeded three years. The assessing tax officer initially disagreed, contending that cryptos lacked inherent value and could not be classified as property.\nSince the holding period exceeded three years, the tribunal ruled the profits qualified as long-term capital gains, allowing the taxpayer to claim deductions under existing law.\nThe ITAT dismissed the tax officer’s argument, holding that under Section 2(14) of the Income Tax Act, crypto constitutes property rights.\nThe tribunal stated “property of any kind held by an assessee,” including a right or claim on an asset, falls under the definition of a capital asset.\n“The present ruling provides long-term crypto holders with a well-reasoned precedent to challenge and oust unjustified tax demands or scrutiny for the period up to FY 2021,” Hargun Singh, Web3 lawyer and associate at Luthra and Luthra Law Offices India, told Decrypt.\nThe tribunal reiterated that taxation ambiguities should favor taxpayers, citing the Supreme Court of India’s principle: “Where two reasonable constructions of a taxing provision are possible, then the construction which favours the assessee must be adopted.”\nIn its ruling, the ITAT highlighted that crypto, even before the Finance Act of 2022, represented a clear right attached to an investment.\n“The ITAT Jodhpur’s decision holding Bitcoin as 'property' under the Income Tax Act is significant for all hodlers, especially if they have booked profits prior to the insertion of the term 'VDA' into the IT Act,” crypto lawyer Dhrupad Das, founding partner at Panda Law, told Decrypt. “This judgment bridges the pre- and post-amendment regimes for digital assets and aligns Indian tax jurisprudence with international standards.”\nThis ruling is particularly relevant for transactions conducted before April 1, 2022, when the government introduced the VDA-specific tax regime.\nUnder the post-2022 framework, all crypto gains are taxed at a flat 30% rate, with no distinction between long- and short-term holdings and no scope for deductions.\nFor pre-2022 transactions, however, gains are taxed as capital gains, with long-term holdings benefiting from lower tax rates and available deductions.\n“Some classified their profits under capital gains to avail lower tax rates, while others conservatively reported them under income from other sources, incurring higher taxes,” Singh added. “This ruling ensures consistency, decisively classifying pre-2022 crypto gains as capital gains.”\nIn February 2022, Indian Finance Minister Nirmala Sitharaman announced plans to introduce a 30% tax on any income made on cryptos, with no deductions or exemptions.\nThe announcement received a huge backlash from the Indian crypto community, with many expressing concerns over the steep tax rates coupled with a lack of regulatory clarity.\nEdited by Stacy Elliott.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "VDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3c19c79102041a7b915427449c9ee50d15613aea",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:56:16.970+02:00",
+    "updated": "2024-12-17T14:56:16.970+02:00"
+}

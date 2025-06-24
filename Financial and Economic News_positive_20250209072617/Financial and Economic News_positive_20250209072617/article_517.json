@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "16ef895e5e8b551adb593688c69bc1d174c95ed7",
+        "url": "https://malaysia.shafaqna.com/EN/AL/3862151",
+        "site_full": "malaysia.shafaqna.com",
+        "site": "shafaqna.com",
+        "site_section": "http://malaysia.shafaqna.com/rss.xml",
+        "site_categories": [
+            "tech",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Malaysia News (News reader) | ",
+        "title": "US dollar strength supports ringgit's gains despite hawkish Fed stance",
+        "title_full": "US dollar strength supports ringgit's gains despite hawkish Fed stance",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 30276,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "16ef895e5e8b551adb593688c69bc1d174c95ed7",
+    "url": "https://malaysia.shafaqna.com/EN/AL/3862151",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "US dollar strength supports ringgit's gains despite hawkish Fed stance",
+    "text": "malaymailonline - 2 hours ago US dollar strength supports ringgit’s gains despite hawkish Fed stance KUALA LUMPUR, Jan 10 — The ringgit was slightly up against the US dollar in early trade in the scenario of a hawkish US...\nRead on the original site",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->economic policy",
+        "Social Issue->social problem",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://malaymail.com/news/money/2025/01/10/us-dollar-strength-supports-ringgits-gains-despite-hawkish-fed-stance/162651",
+        "https://www.malaymail.com/news/money/2025/01/10/us-dollar-strength-supports-ringgits-gains-despite-hawkish-fed-stance/162651"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Fed",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:26:57.372+02:00",
+    "updated": "2025-01-10T05:26:57.372+02:00"
+}

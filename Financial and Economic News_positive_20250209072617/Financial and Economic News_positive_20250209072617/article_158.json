@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "ddc6fac06800e84e3423da3f06aaffad162eb692",
+        "url": "https://www.nasdaq.com/articles/corn-bulls-pushing-higher-midday",
+        "site_full": "www.nasdaq.com",
+        "site": "nasdaq.com",
+        "site_section": "https://www.nasdaq.com/feed/rssoutbound?category=Stocks",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "stocks",
+            "enterprise_news"
+        ],
+        "section_title": "Stocks Feed",
+        "title": "Corn Bulls Pushing Higher at Midday",
+        "title_full": "Corn Bulls Pushing Higher at Midday",
+        "published": "2025-01-10T00:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 764,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ddc6fac06800e84e3423da3f06aaffad162eb692",
+    "url": "https://www.nasdaq.com/articles/corn-bulls-pushing-higher-midday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barchart",
+    "published": "2025-01-10T00:24:00.000+02:00",
+    "title": "Corn Bulls Pushing Higher at Midday",
+    "text": "Corn futures are positioning higher on Thursday with contracts 1 to 2 cents in the green. The national average Cash Corn price from cmdtyView is up 1 1/2 cents at $4.26 3/4. The markets will be closing at 12:15 pm CST.\nThe weekly Export Sales report is delayed until Friday as the government offices are closed today for a National Day of Mourning for President Carter’s funeral. It is expected to show 0.7 to 1.4 MMT of 2024/25 corn bookings in the week ending on January 2. Sales for 2025/26 are estimated at 0 to 100,000 MT.\nUSDA will release their annual Crop Production report on Friday morning, with analysts surveyed by Reuters looking for a 0.4 bpa cut to yield at 182.7 bpa. Production is seen down 48 mbu to 15.095 bbu, as harvested acres are expected to see a slight reduction. Grain Stocks data will also be released with traders looking for December 1 corn stocks at 12.147 billion bushels, down 24 mbu from last year if realized. The WASDE report is expected to peg the US ending stocks total at 1.675 bbu.\nSouth Korean importers purchased a total of 65,000 MT of corn overnight, with US or South American origin.\nMar 25 Corn is at $4.55 3/4, up 1 3/4 cents,\nNearby Cash is at $4.26 3/4, up 1 1/2 cents,\nMay 25 Corn is at $4.64, up 1 1/2 cents,\nJul 25 Corn is at $4.67, up 1 1/4 cents,\nAustin Schroederdid not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy\nhere. More news from Barchart\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Environment"
+    ],
+    "topics": [
+        "Economy, Business and Finance->agriculture",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->commodity market",
+        "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:22:34.170+02:00",
+    "updated": "2025-01-10T01:22:34.170+02:00"
+}

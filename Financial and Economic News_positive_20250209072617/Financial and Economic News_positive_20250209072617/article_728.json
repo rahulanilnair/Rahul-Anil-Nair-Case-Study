@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "bbfb053e01b37b1880618b470be6a2dc081831a0",
+        "url": "https://www.livemint.com/market/stock-market-news/tcs-shares-jump-nearly-5-pc-post-december-quarter-earnings-11736485744766.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://livemint.com/notifications",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Notifications - mint",
+        "title": "TCS shares jump nearly 5 pc post-December quarter earnings",
+        "title_full": "TCS shares jump nearly 5 pc post-December quarter earnings",
+        "published": "2025-01-10T07:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/market_2_1733466021722_1733466033367.jpg",
+        "performance_score": 0,
+        "domain_rank": 1278,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bbfb053e01b37b1880618b470be6a2dc081831a0",
+    "url": "https://www.livemint.com/market/stock-market-news/tcs-shares-jump-nearly-5-pc-post-december-quarter-earnings-11736485744766.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@mint",
+    "published": "2025-01-10T07:39:00.000+02:00",
+    "title": "TCS shares jump nearly 5 pc post-December quarter earnings",
+    "text": "New Delhi, Jan 10 (PTI) Shares of Tata Consultancy Services (TCS) jumped nearly 5 per cent on Friday morning after the IT services company reported an 11.95 per cent jump in December quarter net profit to ₹12,380 crore.\nThe bellwether stock surged 4.73 per cent to ₹4,227.70 on the BSE.\nAt the NSE, it climbed 4.60 per cent to ₹4,225.\nThe company's market valuation soared ₹69,829.1 crore to ₹15,30,324.39 crore during the morning trade.\nTCS emerged as the biggest gainer among the Sensex and Nifty stocks in an otherwise weak equity market trend.\nOther IT stocks were also in demand, with Tech Mahindra, Infosys, HCL Tech and Wipro quoting in the positive territory.\n\"Results of TCS indicate that the IT sector will continue to remain resilient,\" V K Vijayakumar, Chief Investment Strategist, Geojit Financial Services, said.\nThe Tata Group company had reported a net profit of ₹11,058 crore in the year-ago period and ₹11,909 crore in the preceding September quarter.\nThe company's revenue grew 5.6 per cent to ₹63,973 crore against ₹60,583 crore in the year-ago period. However, it was down from ₹64,259 crore in the September quarter.\nNew order bookings stood at USD 10.2 billion against USD 7.9 billion in the year-ago, in what is generally called a seasonally challenging quarter due to the holiday season.\nIts Chief Executive K Krithivasan said the macro factors afflicting the IT sector continued even in the reporting quarter but added that the new orders were across industries, geographies and service lines, which lends a \"good visibility to long-term growth\".\nThere are also early signs of a revival in discretionary spending, which have been elusive for a better part of the fiscal and are among the factors leading to the softer revenue growth of 4.6 per cent in the first nine months.\nKrithivasan said discretionary spending is likely to increase from now and added that the calendar year 2025 will be better than 2024.\nCatch all the [Business News ](https://www.livemint.com/), [ Market News ](https://www.livemint.com/market), [Breaking News ](https://www.livemint.com/news)Events and [Latest News ](https://www.livemint.com/latest-news) Updates on Live Mint. Download The [Mint News App ](https://www.livemint.com/apps) to get Daily Market Updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Politics->economic policy",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Tata Consultancy Services",
+                "sentiment": "negative"
+            },
+            {
+                "name": "TCS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Geojit Financial Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tata Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "none"
+            },
+            {
+                "name": "NSE",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:56:09.316+02:00",
+    "updated": "2025-01-10T07:56:09.316+02:00"
+}

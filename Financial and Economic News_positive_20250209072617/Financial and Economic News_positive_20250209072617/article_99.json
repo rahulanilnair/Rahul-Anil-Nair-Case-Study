@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "885f667b70456b82ace422be8ae203c80fcd0fa0",
+        "url": "https://www.archyworldys.com/us-announces-new-2-5-billion-support-to-ukraine",
+        "site_full": "www.archyworldys.com",
+        "site": "archyworldys.com",
+        "site_section": "https://www.archyworldys.com",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Home - Archyworldys",
+        "title": "US Announces New $2.5 Billion Support to Ukraine -",
+        "title_full": "US Announces New $2.5 Billion Support to Ukraine -",
+        "published": "2025-01-09T21:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 93272,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "885f667b70456b82ace422be8ae203c80fcd0fa0",
+    "url": "https://www.archyworldys.com/us-announces-new-2-5-billion-support-to-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyworldyscom",
+    "published": "2025-01-09T21:08:00.000+02:00",
+    "title": "US Announces New $2.5 Billion Support to Ukraine -",
+    "text": "The United States announced a new $2.5 billion aid package for Ukraine today, before President-elect Donald Trump takes office. Trump’s victory casts doubt on the future of American aid to Ukraine, which is losing ground to Russian troops, after the future president promised to end the war “in 24 hours”, without explaining how.\n“I am proud to announce today nearly $2.5 billion in security assistance to Ukraine as the Ukrainian people continue to defend their independence and freedom in the face of Russian aggression,” said outgoing President Joe Biden .\nThe aid announced today includes a $1.25 billion military aid package, which will allow the Pentagon to remove weapons from US arsenals and quickly send them to the battlefield.\nAnother $1.22 billion will be financed by Ukraine’s Security Assistance Initiative, under which military equipment is purchased from the defense industry or partners.\nAccording to another statement from the US State Department, among the weapons included in the aid package will be “drones”, ammunition for HIMARS-type rocket launchers, optically guided missiles, anti-tank weapon systems, air-to-ground ammunition and parts spare parts.\n“The United States and more than 50 nations will continue to work together to ensure that Ukraine has the capabilities needed to defend itself from Russian aggression,” assured Secretary of State Antony Blinken, quoted in the statement.\nUkrainian Defense Minister Rustem Umerov has already reacted to this announcement, saying that “the United States is a key ally of Ukraine, providing invaluable help.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US State Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:45:07.729+02:00",
+    "updated": "2025-01-10T00:45:07.729+02:00"
+}

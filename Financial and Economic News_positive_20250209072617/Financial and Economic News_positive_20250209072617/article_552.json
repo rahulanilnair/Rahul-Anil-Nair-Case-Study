@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "c1a7f4367c229d7a5ab160b638cff1f692f9d47a",
+        "url": "https://article.wn.com/view/2025/01/10/Tigers_avoid_arbitration_lock_in_Cy_Young_winner_for_10_mill",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/sport",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Sport",
+        "title": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - Worldnews.com",
+        "title_full": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1a7f4367c229d7a5ab160b638cff1f692f9d47a",
+    "url": "https://article.wn.com/view/2025/01/10/Tigers_avoid_arbitration_lock_in_Cy_Young_winner_for_10_mill",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Tigers avoid arbitration, lock in Cy Young winner for $10 million in 2025 - Worldnews.com",
+    "text": "DETROIT -- The Detroit Tigers reached agreements with all of their arbitration-eligible players on Thursday, including a $10.15 million deal for American League Cy Young winner Tarik Skubal. The commitments to nine players total $26.755 million and ensure that the Tigers will not have to go to arbitration hearings",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->mergers and acquisitions"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tarik Skubal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Detroit Tigers",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:58:11.059+02:00",
+    "updated": "2025-01-10T05:58:11.059+02:00"
+}

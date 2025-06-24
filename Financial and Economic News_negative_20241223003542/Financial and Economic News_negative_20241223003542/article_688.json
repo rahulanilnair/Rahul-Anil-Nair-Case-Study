@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "b68cae7fd7fe7bc5fc17abac8b605b402f574d46",
+        "url": "https://www.bastillepost.com/global/article/4414856-china-urges-eu-to-stop-undermining-legitimate-interests-of-chinese-firms-spokesman",
+        "site_full": "www.bastillepost.com",
+        "site": "bastillepost.com",
+        "site_section": "https://www.bastillepost.com/global",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "Bastillepost",
+        "title": "China urges EU to stop undermining legitimate interests of Chinese firms: spokesman",
+        "title_full": "China urges EU to stop undermining legitimate interests of Chinese firms: spokesman",
+        "published": "2024-12-17T12:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2024/12/8408324_1734437514407_a_FB.jpg",
+        "performance_score": 0,
+        "domain_rank": 68606,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b68cae7fd7fe7bc5fc17abac8b605b402f574d46",
+    "url": "https://www.bastillepost.com/global/article/4414856-china-urges-eu-to-stop-undermining-legitimate-interests-of-chinese-firms-spokesman",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bastillepost",
+    "published": "2024-12-17T12:37:00.000+02:00",
+    "title": "China urges EU to stop undermining legitimate interests of Chinese firms: spokesman",
+    "text": "China urges the European Union (EU) to stop imposing unilateral sanctions on Chinese firms that can find no basis from international law and that are not authorized by the UN Security Council, a Chinese Foreign Ministry spokesman said on Tuesday, in response to the EU's latest move to impose a new package of sanctions including travel ban and asset freeze against Chinese companies.\nOn Monday, the EU adopted a 15th package of sanctions against Russia over its conflict with Ukraine, which also included tougher measures against Chinese entities and individuals.\nSpeaking at a press conference in Beijing in response, Lin Jian, the spokesman, lashed out at the EU's imposition of sanctions.\n\"China always opposes unilateral sanctions that have no basis in international law or mandate from the UN Security Council. We express strong dissatisfaction about and firm opposition to the European Union's unreasonable sanctions against Chinese enterprises. On the Ukraine issue, China has always been committed to promoting dialogue and negotiations, and has never provided weapons to any party in the conflict. China exercises strict export control over dual-use articles, with the most stringent regulations on the export of drones globally,\" Li said.\n\"Normal exchanges and cooperation between Chinese and Russian enterprises should not be disrupted or affected. Currently, most countries, including those in Europe and America, are engaged in trade with Russia. We urge the EU side to avoid double standards regarding economic and trade cooperation with Russia, to stop smearing China without any factual basis to shift blames, and to cease harming the legitimate interests of Chinese enterprises. China will take necessary measures to firmly safeguard the legitimate rights and interests of its enterprises,\" the spokesman continued.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN Security Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:56:46.768+02:00",
+    "updated": "2024-12-17T14:56:46.768+02:00"
+}

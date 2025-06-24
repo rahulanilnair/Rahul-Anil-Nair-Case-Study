@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "dce4a04a99b93f2491348a0b1f23aeb7507f3efc",
+        "url": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com/sport/motsepe-explains-why-prize-money-was-increased",
+        "site_full": "newsafrica-lb-43427308.us-west-2.elb.amazonaws.com",
+        "site": "newsafrica-lb-43427308.us-west-2.elb.amazonaws.com",
+        "site_section": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com",
+        "site_categories": [],
+        "section_title": "Home - News Africa Now",
+        "title": "Motsepe Explains Why Prize Money Was Increased",
+        "title_full": "Motsepe Explains Why Prize Money Was Increased",
+        "published": "2025-01-10T01:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "https://cdn4.newsafricanow.com/wp-content/uploads/2025/01/IMG-20250109-WA0003.jpg",
+        "performance_score": 0,
+        "domain_rank": 55,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dce4a04a99b93f2491348a0b1f23aeb7507f3efc",
+    "url": "https://newsafrica-lb-43427308.us-west-2.elb.amazonaws.com/sport/motsepe-explains-why-prize-money-was-increased",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsafrica",
+    "published": "2025-01-10T01:13:00.000+02:00",
+    "title": "Motsepe Explains Why Prize Money Was Increased",
+    "text": "Patrice Motsepe, President of the Confederation of African Football (CAF), has explained the reasoning behind the increase in prize money for the 2024 Championship of African Nations (CHAN).\nOn Tuesday, Motsepe announced a $3.5 million reward for the winner of the upcoming tournament.\nHe emphasized the significance of the competition for the continent’s football development.\n“The CHAN is crucial for the growth and advancement of Africa-based footballers and young talent, and it will play a key role in enhancing the global competitiveness of African football and CAF competitions,” Motsepe stated.\n“This tournament is part of our strategy to invest in African football, making it more appealing to fans, TV viewers, sponsors, partners, and stakeholders both in Africa and around the world,” he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Patrice Motsepe",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "dce4a04a99b93f2491348a0b1f23aeb7507f3efc",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:18:17.622+02:00",
+    "updated": "2025-01-10T01:18:17.622+02:00"
+}

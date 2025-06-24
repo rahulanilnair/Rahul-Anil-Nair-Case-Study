@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 29
+============================================================
+Timestamp: 2025-06-23 08:12:18
+Headline Summary: Sensex tumbles 1,038 pts, Nifty slips below 24,300; PSU banks drag
+Key Highlights: Heavy selling pressure, broader markets outperform, PSU bank shares leading the decline
+Final Sentiment: Negative
+Confidence: 70%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: growth_analyst: Although heavy selling pressure is evident in PSU banks and the broader market shows resilience, the extent of losses (Sensex tumbled by 1,038 points) suggests a more negative sentiment than implied by the current assessment. The weakening market breadth also indicates potential long-term implications that may have been overlooked. sentiment_analyst: While the current analysis is negative due to heavy selling pressure and PSU bank drag, I believe that the broader markets showing resilience suggests a potential support level. Additionally, investors are cautious but not panicking, which could imply a short-term correction rather than a market crash. Further, PSUs have been struggling for some time now, so this decline might not be as concerning as first thought. Therefore, a slightly more optimistic view seems warranted.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Negative sentiment.
+============================================================

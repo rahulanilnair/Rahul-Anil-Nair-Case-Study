@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "937dc50cd9559920934c3fa636a84c2f001b7a88",
+        "url": "https://www.theregister.com/2025/01/10/ai_jobs_wef",
+        "site_full": "www.theregister.com",
+        "site": "theregister.com",
+        "site_section": "https://www.biztoc.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "BizToc",
+        "title": "Hands-on jobs to grow fastest, because AI can't touch them",
+        "title_full": "Hands-on jobs to grow fastest, because AI can't touch them",
+        "published": "2025-01-10T09:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://regmedia.co.uk/2025/01/09/shutterstock_construction_work.jpg",
+        "performance_score": 0,
+        "domain_rank": 693,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "937dc50cd9559920934c3fa636a84c2f001b7a88",
+    "url": "https://www.theregister.com/2025/01/10/ai_jobs_wef",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iain Thomson",
+    "published": "2025-01-10T09:26:00.000+02:00",
+    "title": "Hands-on jobs to grow fastest, because AI can't touch them",
+    "text": "Think tank and advocacy org the World Economic Forum has predicted strong growth in jobs that AI can’t replace, plus big demand for skills to automate those that can.\nThe org (WEF) this week dropped its annual Future of Jobs report [PDF], which is based on a survey of over 1,000 employers who collectively represent 14 million-plus workers across 22 industry clusters and 55 economies.\nRespondents told the WEF that the three skills most in demand when they hire are AI and big data, networks and cybersecurity, and overall technological literacy.\n\"Half of employers plan to reorient their business in response to AI, two-thirds plan to hire talent with specific AI skills, while 40 percent anticipate reducing their workforce where AI can automate tasks,\" the report found.\nIncreasing use of AI is bad news for clerical and secretarial workers, and those other administrative roles that automation can easily replace, as the report found such roles are expected to see the steepest decline in job numbers over the next five years.\nThat’s scary, but could be worse. \"On average, workers can expect that two-fifths (39 percent) of their existing skill sets will be transformed or become outdated over the 2025-2030 period,” the report found. “However, this measure of 'skill instability' has slowed compared to previous editions of the report, from 44 percent in 2023 and a high point of 57 percent in 2020 in the wake of the pandemic.\"\nThe report also has good news for those in roles that are hard for computers to replace, in the form of a prediction that fastest growth in job volumes will come to frontline roles such as farmworkers, delivery drivers, construction workers, sales people, and food processing workers. Care economy jobs, including nursing professionals, social workers, and personal care aides, are also expected to grow significantly. So will roles in the education industry.\nBut for IT workers, if you're not picking up skills in AI, big data, or software development, you could be left behind. The WEF also forecasts strong job growth for roles in robotics, autonomous systems, and energy generation, with specialists in areas like renewable energy engineering and electric vehicle technologies expected to enjoy greater job security.\nThe report rates the rising cost of living as the second-most transformative trend, suggesting it will cost 1.6 million jobs.\nBut respondents’ opinions suggest those jobs will be replaced.\n\"On current trends over the 2025 to 2030 period job creation and destruction due to structural labor-market transformation will amount to 22 percent of today’s total jobs. This is expected to entail the creation of new jobs equivalent to 14 percent of today’s total employment, amounting to 170 million jobs,\" the report found. \"However, this growth is expected to be offset by the displacement of the equivalent of eight percent (or 92 million) of current jobs, resulting in net growth of seven percent of total employment, or 78 million jobs.\"\nTrade issues are also on employers’ minds, with over a fifth of those surveyed saying increased restrictions on trade and investment will also shape their operations.\nThe report also references the WEF’s September 2024 Chief Economists Outlook, in which practitioners of the dismal science predicted short-term stability for the world economy, but a worsening trend in the longer term - particularly for developing economies. ®\nGet our Tech Resources",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Science and Technology->scientific research",
+        "Science and Technology->social sciences",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf",
+        "https://www.reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "937dc50cd9559920934c3fa636a84c2f001b7a88",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:37:04.313+02:00",
+    "updated": "2025-02-07T23:41:08.325+02:00"
+}

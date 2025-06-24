@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "5a1ef5d8ef062d92ebc2d2aaed1b695c6f28abe0",
+        "url": "https://www.thenews.com.pk/print/1270530-crackdown-on-wage-law-violators-pledged",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk/print",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Today's Newspaper - Latest News, Top Headlines, Breaking News - thenews.com.pk",
+        "title": "Crackdown on wage law violators pledged",
+        "title_full": "Crackdown on wage law violators pledged",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2025-01-10/l_1270530_044304_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 4782,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a1ef5d8ef062d92ebc2d2aaed1b695c6f28abe0",
+    "url": "https://www.thenews.com.pk/print/1270530-crackdown-on-wage-law-violators-pledged",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bureau report",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Crackdown on wage law violators pledged",
+    "text": "Crackdown on wage law violators pledged By Bureau report January 10, 2025 Commissioner, Peshawar Division, Riaz Khan Mahsud chairs a meeting on August 6, 2024. — Facebook/Commissioner Peshawar Division, Peshawar PESHAWAR: Commissioner, Peshawar Division, Riaz Khan Mahsud has announced a decisive crackdown on private institutions violating labour laws by failing to pay workers the government-mandated minimum wage of Rs36,000.\nChairing a meeting with deputy commissioners from all the five districts of Peshawar Division, labour department officials, and representatives of the Employees Social Security Institute, Riaz Khan Mahsud directed the formation of special teams to ensure the registration of employees in private industries and institutions. “The rights of labourers are non-negotiable, and we will spare no effort in enforcing labor laws across the board,” he said.To further strengthen oversight, DC have been tasked with appointing assistant commissioners to recover outstanding dues from industries and private institutions.\n‘Koto power project in final stage’ Koto hydropower project in Lower Dir district of Khyber Pakhtunkhwa. — APP/FilePESHAWAR: Special Assistant to Chief...\nMinority team meets Saif KP Chief Minister’s Adviser on Information Barrister Saif gestures in this image. — Facebook/Barrister Dr Muhammad...\nLG reps seek release of funds A representational image showing local government workers seen busy in cleaning drive. — Facebook/Directorate...\nProtest sit-in in Mandori: Trucks waiting for entry to Kurram The representational image shows a convoy of trucks loaded with essential goods. — Screengrab Via YouTube/Geo...\nAnti-Islam elements afraid of growing influence of seminaries, says Siraj Jamaat-e-Islami former chief Sirajul Haq addresses a ceremony of Dars Bukhari Sharif and Dastar Fazeelat at Jamia...\nTax ombudsman resolves 500 out of 583 complaints Adviser Sardar Ali Khawaja addresses a press conference on January 8,2025. — Facebook@ftopakistanPESHAWAR: The...\nCash Warren's Revealing Interview About Marriage To Jessica Alba Resurfaces Alec Baldwin Files Malicious Prosecution Lawsuit Over 'Rust' Shooting Case Lenny Kravitz Calls Himself ‘embarrassment’ For Daughter Zoë Kravitz Hoda Kotb Signs New ‘Snoop-ish Role’ With Network Before ‘Today’ Exit Pamela Anderson Regrets Not Having ‘better Rapport’ With Ex-husband Tommy Lee Cillian Murphy Won’t Return To ‘28 Years Later’ Franchise On-screen Chris Stapleton Announces Dates For All-American Road Show’s Summer Return Hollywood Stars Step Up With $1M Donation To LA Wildfire Victims",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->civil rights",
+        "Politics->regulation of industry",
+        "Social Issue->discrimination",
+        "Social Issue->social services",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Riaz Khan Mahsud",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Employees Social Security Institute",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:49:51.583+02:00",
+    "updated": "2025-01-10T07:23:18.730+02:00"
+}

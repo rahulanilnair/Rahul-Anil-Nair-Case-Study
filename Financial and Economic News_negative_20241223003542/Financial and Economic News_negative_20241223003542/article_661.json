@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "2f64bc4484fab402f8431700cffbaab0be454880",
+        "url": "https://time.news/reports-warn-of-possible-financial-slippages",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://www.time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "title": "reports warn of possible financial slippages",
+        "title_full": "reports warn of possible financial slippages",
+        "published": "2024-12-17T14:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 74567,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2f64bc4484fab402f8431700cffbaab0be454880",
+    "url": "https://time.news/reports-warn-of-possible-financial-slippages",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "time news",
+    "published": "2024-12-17T14:35:00.000+02:00",
+    "title": "reports warn of possible financial slippages",
+    "text": "2024-12-17 12:17:00\nTwo confidential reports from the General Inspectorate of Finance, revealed by France Info, highlight a “heavily deficit” budget.\nJuly 24th. The first events of the Olympic Games launch Paris 2024. Less than 48 hours before the opening ceremony, the 142nd session of the IOC elects the French Alps 2030 as the host region of the XXVI Olympic Winter Games. For the fourth time, the first in 38 years since Albertville 1992.\nA sesame after an express application (the application dossier was officially submitted on 7 November 2023). A “conditional” allocation, suspended from the financial guarantee of the State. With deadline set for November 1st. Gabriel Attal hesitates, takes his time. In the end it will be Michel Barnier who signs. One day after the deadline expired…\nThat’s all for the frame. The expected budget is, according to L’Équipe, around 2.3 billion euros for the organizing committee, to which is added almost 1 billion euros for Solideo (the company that delivers the Olympic works). But according to France Info, two reports from the IGF (General Inspectorate of Finance) cast a shadow over the whole matter, revealing: “ A Cojop Alpes 2030 budget that promises to be heavily in deficit (…) The deficit forecast turns out to be optimistic and must be reevaluated. » Then : ” The result predicted by Cojop immediately presents an imbalance, which the mission estimates between 850 and 900 million euros (M€), which will have to be covered by the public authorities. »\nFurthermore, the CIO is getting impatient. The project, still led by Renaud Muselier (president of the Provence Alpes Côte d’Azur region) and Laurent Wauquiez (special advisor of the Auvergne-Rhône-Alpes region) does not yet have a president at the head of the Organizing Committee of the Olympic and Paralympic Games. To carry out the project, according to Le Parisien, a Michel Barnier-Martin Fourcade ticket for the first months of Cojop would have been mentioned. It would be reminiscent of a prestigious tandem, the one made up of the former Prime Minister and Jean-Claude Killy at the helm during the Albertville Olympic Games in 1992 (and the one made up of Tony Estanguet with Bernard Lapasset at the start of the Paris 2024 adventure).\nFive months after the smiles and hugs on the day of the awards ceremony, the clouds obscure the first steps of the 2030 Winter Games.\n#reports #warn #financial #slippages",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://connect.lefigaro.fr",
+        "https://www.connect.lefigaro.fr"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michel Barnier",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gabriel Attal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "General Inspectorate of Finance",
+                "sentiment": "negative"
+            },
+            {
+                "name": "IOC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:49:59.051+02:00",
+    "updated": "2024-12-17T14:49:59.051+02:00"
+}

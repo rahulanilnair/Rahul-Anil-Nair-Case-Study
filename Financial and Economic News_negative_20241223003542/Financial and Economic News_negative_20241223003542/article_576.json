@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "e811d5653bbaace447418980b5e86d016e16cd18",
+        "url": "https://ruralradio.com/kneb-am/news/economic-aid-for-farmers-in-jeopardy",
+        "site_full": "ruralradio.com",
+        "site": "ruralradio.com",
+        "site_section": "https://ruralradio.com/kneb-am/news",
+        "site_categories": [
+            "agriculture",
+            "business"
+        ],
+        "section_title": "KNEB&#x2d;AM 960 AM &#8211; 100.3 FM &#x2d; Archives: News",
+        "title": "KNEB-AM 960 AM – 100.3 FM - Economic Aid for Farmers in Jeopardy",
+        "title_full": "KNEB-AM 960 AM – 100.3 FM - Economic Aid for Farmers in Jeopardy",
+        "published": "2024-12-17T14:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.ruralradio.co/nrr/uploads/sites/2/2024/06/MGN_1280x960_21019B00-JHTKH.jpg",
+        "performance_score": 0,
+        "domain_rank": 50467,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e811d5653bbaace447418980b5e86d016e16cd18",
+    "url": "https://ruralradio.com/kneb-am/news/economic-aid-for-farmers-in-jeopardy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T14:00:00.000+02:00",
+    "title": "KNEB-AM 960 AM – 100.3 FM - Economic Aid for Farmers in Jeopardy",
+    "text": "Legislators are working to try and pass a continuing resolution to keep the government funded, but there were rumblings over the weekend that essential aid for the nation’s farmers wouldn’t be included. Farm Policy News says Senate Ag Chair Debbie Stabenow moved conservation dollars from the Inflation Reduction Act into the baseline for the farm bill. She’d like to take the majority of those funds and put them into a package for farmers immediately.\nHowever, Speaker Mike Johnson says the majority of the GOP conference wouldn’t support a proposed agreement that adds Inflation Reduction Act funding into the legislation’s baseline. House GOP leadership says this is a Democratic priority, even though many lawmakers on both sides of the aisle support the move. Ultra-conservative GOP members want to outright cut those IRA dollars and block any additional federal spending. Additionally, some key Republican leaders want more money included for direct farmer aid.\nThe American Farm Bureau learned recently that a continuing resolution before Congress didn’t contain any financial aid for struggling U.S. farmers and called for a ‘no’ vote. AFBF President Zippy Duvall says his organization is tired of waiting for needed help…\nDuvall says the situation on Capitol Hill is tricky, with more than one barrier in the way…\nU.S. Senator Jerry Moran (R-Kan.) released the following statement regarding the current debate over agriculture assistance in the Continuing Resolution:\n“Through no fault of their own, Kansas farm families are struggling to keep their heads above water, and it is critical they receive assistance as soon as possible to continue their operations. I will continue working with my colleagues on the Senate Appropriations Committee and Ag Committee to provide certainty for our producers. If there is no assistance for our farmers and ranchers in the Continuing Resolution, I will not support the bill.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "American Farm Bureau",
+                "sentiment": "none"
+            },
+            {
+                "name": "House GOP",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:18:06.709+02:00",
+    "updated": "2024-12-17T14:18:06.709+02:00"
+}

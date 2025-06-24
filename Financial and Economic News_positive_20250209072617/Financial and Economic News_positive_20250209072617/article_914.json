@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "45303953b0bbe9c4d787aae26efb217f1699138d",
+        "url": "https://mod.gov.ua/en/news/norway-s-assistance-totaling-eur-2-billion-was-agreed-upon-during-the-ramstein-meeting",
+        "site_full": "mod.gov.ua",
+        "site": "mod.gov.ua",
+        "site_section": "https://mod.gov.ua/en",
+        "site_categories": [],
+        "section_title": "Ministry of Defence of Ukraine",
+        "title": "Norway's assistance, totaling EUR 2 billion, was agreed upon during the Ramstein meeting | MoD News",
+        "title_full": "Norway's assistance, totaling EUR 2 billion, was agreed upon during the Ramstein meeting | MoD News",
+        "published": "2025-01-09T22:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://s3.eu-west-1.amazonaws.com/mod.gov.ua-statics-bucket/1-472745245-7afb00524d.webp",
+        "performance_score": 0,
+        "domain_rank": 101869,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "45303953b0bbe9c4d787aae26efb217f1699138d",
+    "url": "https://mod.gov.ua/en/news/norway-s-assistance-totaling-eur-2-billion-was-agreed-upon-during-the-ramstein-meeting",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T22:03:00.000+02:00",
+    "title": "Norway's assistance, totaling EUR 2 billion, was agreed upon during the Ramstein meeting | MoD News",
+    "text": "Norway's assistance, totaling EUR 2 billion, was agreed upon during the Ramstein meeting\nOn the sidelines of a Ramstein meeting, Ukraine’s Defence Minister, Rustem Umerov, met with Norway’s Defence Minister, Bjørn Arild Gram.\nRepresentatives from both nations discussed the priority sectors for allocating the pledged EUR 2 billion in aid. This is the most extensive military aid package in Norway's history.\nConsiderable emphasis was placed on strengthening air defense systems, a critical area where Norway’s assistance is expected to play a significant role.\nFurthermore, the Norwegian side will continue to invest in Ukraine's defense industry and joint projects, including ammunition production.\nThe parties discussed a new cooperation mechanism—the ‘Norwegian Model’—that will complement the already successful ‘Danish Model’ and further enhance Ukraine's defense capabilities.\n“Our agreements with Norway will elevate our cooperation to a new level. Norway is one of the countries that supports us not only on the battlefield but also works to unite European nations to support our country,” said Ukraine's Defence Minister Rustem Umerov.\nThe Minister also expressed gratitude to Norway for its leadership in the Maritime Capability Coalition and its substantial contribution to supporting Ukraine.\nTags\n- International cooperation",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bjørn Arild Gram",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rustem Umerov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ramstein",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:24:43.529+02:00",
+    "updated": "2025-01-10T09:24:43.529+02:00"
+}

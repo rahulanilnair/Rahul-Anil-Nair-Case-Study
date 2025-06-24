@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "235bfad5744c5bcbe62af56f5009c1dfc72034c8",
+        "url": "https://vietnamnet.vn/en/promoting-resolution-57-a-roadmap-for-vn-innovation-and-digital-transformation-2361949.html",
+        "site_full": "vietnamnet.vn",
+        "site": "vietnamnet.vn",
+        "site_section": "https://vietnamnet.vn/en",
+        "site_categories": [
+            "media",
+            "top_news_vn",
+            "top_news"
+        ],
+        "section_title": "VietNamNet News - Latest Vietnam news, business, sports, entertaiment, politics",
+        "title": "Promoting Resolution 57: A roadmap for VN innovation and digital transformation",
+        "title_full": "Promoting Resolution 57: A roadmap for VN innovation and digital transformation",
+        "published": "2025-01-10T05:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2025/1/10/promoting-resolution-57-a-roadmap-for-vn-innovation-and-digital-transformation-0867c52b95f246a58b7d83fea44b1450-56496.jpg?width=0&s=hve3M9DqPOqIlq7KvXH6TA",
+        "performance_score": 0,
+        "domain_rank": 6503,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "235bfad5744c5bcbe62af56f5009c1dfc72034c8",
+    "url": "https://vietnamnet.vn/en/promoting-resolution-57-a-roadmap-for-vn-innovation-and-digital-transformation-2361949.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VietNamNet News",
+    "published": "2025-01-10T05:09:00.000+02:00",
+    "title": "Promoting Resolution 57: A roadmap for VN innovation and digital transformation",
+    "text": "Minister Huynh Thanh Dat stresses the importance of Resolution 57. Photo: Trong Dat.\nResolution 57, a breakthrough policy for advancing science, technology, innovation, and national digital transformation, was highlighted by Minister of Science and Technology, Huynh Thanh Dat, as a critical agenda for implementation and communication.\nAt the quarterly press conference, the Ministry of Science and Technology (MoST) shared its progress in formulating and improving policies and legislation in science, technology, and innovation throughout Q4 of 2024.\nBuilding a roadmap for Resolution 57\nThe resolution, officially titled Resolution 57-NQ/TW, was jointly developed by MoST, the Ministry of Information and Communications (MIC), the Central Economic Commission, and the Central Office of the Communist Party of Vietnam. It was recently submitted to the Politburo as a national strategy for advancing innovation and digital transformation.\nAccording to Nguyen Hoang Giang, Deputy Chief of Staff and MoST spokesperson, the ministries have already drafted a joint proposal for the Prime Minister’s approval to implement Resolution 57. This proposal will guide the government’s action program and is expected to be finalized early this year.\nUpon government approval, MoST will coordinate with other ministries to draft specific action plans and begin implementation within the first quarter of 2025.\nLegislative reforms and strategic initiatives\nIn 2025, MoST will focus on revising critical legislation, including the Law on Science, Technology, and Innovation, the Law on Standards and Technical Regulations, and the Law on Product and Goods Quality.\nThe ministry also plans to roll out a range of initiatives, including national medium- and long-term science and technology programs. These will prioritize strategic and core technologies, such as large-scale data centers and open scientific communities in Vietnam.\nHigh-quality human resource development will be targeted at advanced fields like semiconductors, artificial intelligence (AI), and cloud computing. MoST aims to attract strong research groups and overseas Vietnamese scientists to contribute to the country’s technological advancements.\nMinister Dat underscored the importance of strengthening partnerships with developed countries to advance Vietnam’s science and technology sectors. In 2025, MoST will focus on collaboration in fields such as AI, semiconductors, biotechnology, and quantum technology.\nPromoting international agreements and economic diplomacy will be crucial for enhancing capacity and technology transfer.\nMinister Dat emphasized that effective communication is essential for the success of Resolution 57. Disseminating its breakthrough policies and key tasks will inspire the public and drive the integration of science, technology, innovation, and digital transformation into everyday life.\n\"Spreading the spirit of Resolution 57 will create new motivations and bring science, technology, and digital transformation closer to society,\" the minister stated.\nTrong Dat",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+        "https://vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0",
+        "https://www.vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+        "https://vads.net.vn/Ad",
+        "https://www.vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Huynh Thanh Dat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Trong Dat",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Nguyen Hoang Giang",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ministry of Information and Communications",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Science and Technology",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central Economic Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:03:51.867+02:00",
+    "updated": "2025-01-10T07:03:51.867+02:00"
+}

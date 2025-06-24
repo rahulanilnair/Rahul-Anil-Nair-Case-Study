@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "af9c68acc9081b6c015b912e8ca53d5a4358e743",
+        "url": "https://news-pravda.com/world/2025/01/09/966228.html",
+        "site_full": "news-pravda.com",
+        "site": "news-pravda.com",
+        "site_section": "https://news-pravda.com/world",
+        "site_categories": [],
+        "section_title": "World - Pravda EN",
+        "title": "On January 9, Biden announced the allocation of $500 million in military aid to Ukraine under the PDA program - Pravda EN",
+        "title_full": "On January 9, Biden announced the allocation of $500 million in military aid to Ukraine under the PDA program - Pravda EN",
+        "published": "2025-01-11T05:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "https://news-pravda.com/img/20250109/5c28ba65ef87618f620b078af9295692_o.jpg",
+        "performance_score": 0,
+        "domain_rank": 177629,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "af9c68acc9081b6c015b912e8ca53d5a4358e743",
+    "url": "https://news-pravda.com/world/2025/01/09/966228.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-11T05:36:00.000+02:00",
+    "title": "On January 9, Biden announced the allocation of $500 million in military aid to Ukraine under the PDA program - Pravda EN",
+    "text": "On January 9, Biden announced the allocation of $500 million in military aid to Ukraine under the PDA program\nOn January 9, Biden announced the allocation of $500 million in military aid to Ukraine under the PDA program.\nFrom the available reserves of the US Army will be transferred:\nAIM-7 Sparrow, RIM-7 Sea Sparrow and AIM-9M Sidewinder missiles for the FrankenSAM family of air defense systems;\nUnnamed air-to-ground ammunition;\nAuxiliary equipment for F-16 fighter jets;\nArmored bridge-laying machines;\nSecure means of communication;\nSmall arms and ammunition;\nSpare parts, auxiliary equipment, as well as training and transportation services.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->international relations",
+        "Politics->foreign aid",
+        "Economy, Business and Finance->corporate governance and csr",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US Army",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:37:08.425+02:00",
+    "updated": "2025-01-10T01:37:08.425+02:00"
+}

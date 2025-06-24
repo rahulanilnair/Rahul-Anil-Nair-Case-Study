@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "6a4c268ac4466319db2413da33a4b5f4f2ae2670",
+        "url": "https://www.rte.ie/news/business/2024/1217/1486943-tiktoks-irish-arm-results",
+        "site_full": "www.rte.ie",
+        "site": "rte.ie",
+        "site_section": "https://www.rte.ie/news/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business News | Latest Breaking Stories &amp; Headlines | RTÉ",
+        "title": "TikTok's Irish unit records $1 billion loss",
+        "title_full": "TikTok's Irish unit records $1 billion loss",
+        "published": "2024-12-17T12:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://img.rasset.ie/00205401-1600.jpg",
+        "performance_score": 0,
+        "domain_rank": 1946,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a4c268ac4466319db2413da33a4b5f4f2ae2670",
+    "url": "https://www.rte.ie/news/business/2024/1217/1486943-tiktoks-irish-arm-results",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@rtenews",
+    "published": "2024-12-17T12:24:00.000+02:00",
+    "title": "TikTok's Irish unit records $1 billion loss",
+    "text": "The Irish arm of social media giant TikTok last year incurred a $1 billion (€950m) pre-tax loss due to setting aside $1 billion for potential fines arising from regulatory investigations and legal proceedings.\nThat is according to new accounts for TikTok Technology Ltd which show that the company continued to ramp up its operations here last year as revenues increased by 87% from $349.96m to $654.67m.\nThe $1 billion pre-tax loss follows TikTok Technology Ltd recording a pre-tax profit of $11.87m in 2022.\nThe Dublin-based business provides services related to content moderation, data controlling of TikTok in Europe and sales, marketing and routine support to other TikTok entities.\nIn the US currently, TikTok is making last-ditch effort to continue operating there, asking the Supreme Court to temporarily block a law intended to force ByteDance, its China-based parent company, to divest the short-video app by January 19 or face a ban.\nThe new accounts for the Irish unit show that numbers employed by the company last year increased by 289 from 2,631 to 2,920 as the company's activities \"continued to grow throughout 2023\".\nThe company’s staff costs bill last year increased from $195.09m to $229.47m that included $9.1m in share based payments.\nThe directors state that the company has performed in line with expectations.\nIn the year under review, the Irish Data Protection Commission (DCP) imposed a €345m fine on TikTok Technology in relation to its processing of personal data relating to child users of the platform and TikTok Technology has since appealed the fine.\nA note concerning the $1 billion provision for potential fines from regulatory investigations and legal proceedings states that the company is involved in legal proceedings including regulatory investigations and litigation proceedings.\nThe note states that the company records a liability when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated.\nIt states that due to the nature of these proceedings and investigations, the ultimate outcome and timing is inherently uncertain and cautions that \"the amount of any final liability is uncertain and the liability could differ from the amount provided\".\nStaff numbers at the Irish unit were made up of 2,172 in operation and administration and 748 in sales and marketing. Pay to directors increased from $559,000 to $608,000.\nIn September of this year, TikTok pulled back from its plan to locate hundreds of its employees in offices at the Tropical Fruit Warehouse in Dublin's South Docklands.\nThis followed a company decision to bring all of the company’s Dublin-based staff together at its European headquarters in the Sorting Office on nearby Cardiff Lane.\nThe new accounts show that operating lease charges last year increased from $30.56m to $38.22m.\nThe $1 billion loss for last year resulted in the company having accumulated losses of $982.73m at the end of 2023. The company had a shareholders’ deficit of $982.73m.\nOn the risks and uncertainties facing the company, the directors state that under the heading of compliance risk that \"the group undertakings remain steadfastly committed to ensuring there are robust mechanisms in place to protect the privacy and safety of their users\".\nThe firm recorded a post tax loss of $1.006 billion after paying corporation tax of $3.7m.\nReporting by Gordon Deegan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TikTok Technology Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:50:03.845+02:00",
+    "updated": "2024-12-17T12:50:03.845+02:00"
+}

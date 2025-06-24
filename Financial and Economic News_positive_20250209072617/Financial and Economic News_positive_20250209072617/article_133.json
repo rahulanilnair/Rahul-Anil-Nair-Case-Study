@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "b4b44a8edfcb2de2a0d138408c2e90c4acd7974e",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/europe-markets-rise-mining-healthcare-surge-amid-bond-market-jitters",
+        "site_full": "www.businesstimes.com.sg",
+        "site": "businesstimes.com.sg",
+        "site_section": "https://www.businesstimes.com.sg/",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "The Business Times - Get the Latest Business &amp; Financial News",
+        "title": "Europe: Markets rise as mining, healthcare surge amid bond market jitters",
+        "title_full": "Europe: Markets rise as mining, healthcare surge amid bond market jitters",
+        "published": "2025-01-09T17:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/30eb87ba852e0e70a3aa6d7efb102eac6de7f9c1dde60f4e6cecabd20bb43064",
+        "performance_score": 0,
+        "domain_rank": 4987,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b4b44a8edfcb2de2a0d138408c2e90c4acd7974e",
+    "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/europe-markets-rise-mining-healthcare-surge-amid-bond-market-jitters",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T17:08:00.000+02:00",
+    "title": "Europe: Markets rise as mining, healthcare surge amid bond market jitters",
+    "text": "Europe: Markets rise as mining, healthcare surge amid bond market jitters\nEUROPEAN markets ended on Thursday (Jan 9) on a high note, driven by a rally in healthcare and mining sectors, despite uncertainties over monetary policy and US tariff plans, which kept bond markets on edge.\nThe pan-European Stoxx 600 index nudged up by 0.4 per cent, closing at 515.84 points, buoyed by a rally in the basic resources sector.\nThe sector jumped 1.5 per cent, and hit a three-week peak earlier in the session. It also logged its best day in a month. London-listed mining companies such as Antofagasta, Anglo American, and Rio Tinto fuelled this surge, with their shares climbing between 1.5 per cent and 3.3 per cent.\nAdding to the sector’s momentum, copper prices edged up by 0.5 per cent, further sweetening the gains.\nHealthcare stocks were the biggest boost to the benchmark index, rising 1 per cent.\nConcerns over rising inflation and slim chances of more interest rate cuts loomed large over the market. Investors were also on edge about how US president-elect Donald Trump might steer foreign and economic policy, especially with talks of a potential national economic emergency to justify universal tariffs. Such prospects have driven bond yields sky-high globally.\nBT in your inbox\nStart and end each day with the latest news stories and analyses delivered straight to your inbox.\nWith Trump’s Jan 20 inauguration on the horizon, investors are awaiting clarity on his protectionist rhetoric and its potential impact on Europe.\nEurozone retail sales grew less-than-expected in November, confirming that consumption remains in the doldrums and adding to a string of gloomy data.\n“Hopes for a strong recovery look misplaced,” analysts at Capital Economics said in a note.\nHelping the mood somewhat on Thursday, the German 10-year yield retreated from its session high to trade at 2.528 per cent but still held near its multi-month peak.\n“Bonds have sold off across the developed world... This seems to have partly reflected growing concerns about Trump’s policies, and in particular his willingness to deliver more tax cuts despite the already-poor prospects for US public finances,” Hubert de Barochez, senior economist at Capital Economics.\n“Bonds will recover before long... One reason is that we expect Trump to fail to cut taxes as much as planned,” he said.\nBritain remained at the epicentre of bond market tensions. The benchmark 10-year yield touched a new high not seen since 2008.\nMeanwhile, UK retail stocks took a hit, with B&M suffering an 8.5 per cent drop after cutting the upper end of its annual profit forecast.\nMarks & Spencer and Greggs also faced declines of 8.4 per cent and 15.8 per cent respectively, following lacklustre Christmas trading updates.\nAmbu rose 5.6 per cent after Carnegie upgraded its rating to “buy” from “hold”.\nTrading in Europe was subdued as US markets were closed in observance of a national day of mourning for former president Jimmy Carter. REUTERS\nShare with us your feedback on BT's products and services",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:08:04.619+02:00",
+    "updated": "2025-01-10T01:08:04.619+02:00"
+}

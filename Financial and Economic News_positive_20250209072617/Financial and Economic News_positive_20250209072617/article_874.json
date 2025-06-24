@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "8915ab033b772bb55ff7fbe7269cfb4888a6f010",
+        "url": "https://thepeninsulaqatar.com/article/10/01/2025/qatar-moves-up-six-places-in-global-ranking-of-passports",
+        "site_full": "thepeninsulaqatar.com",
+        "site": "thepeninsulaqatar.com",
+        "site_section": "https://thepeninsulaqatar.com/category/sports",
+        "site_categories": [
+            "media",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Sports | The Peninsula Qatar",
+        "title": "Qatar moves up six places in global ranking of passports | The Peninsula Qatar",
+        "title_full": "Qatar moves up six places in global ranking of passports | The Peninsula Qatar",
+        "published": "2025-01-10T08:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "QA",
+        "main_image": "https://thepeninsulaqatar.com/get/maximage/20230718_1689682007-274.jpg?1689682007",
+        "performance_score": 0,
+        "domain_rank": 13586,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8915ab033b772bb55ff7fbe7269cfb4888a6f010",
+    "url": "https://thepeninsulaqatar.com/article/10/01/2025/qatar-moves-up-six-places-in-global-ranking-of-passports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Peninsula Newspaper",
+    "published": "2025-01-10T08:21:00.000+02:00",
+    "title": "Qatar moves up six places in global ranking of passports | The Peninsula Qatar",
+    "text": "Doha: The Henley Passport Index has released its latest rankings for 2025, evaluating the strength of world’s 199 passports according to the number of destinations they can access visa-free, using data from the International Air Transport Association (IATA).\nIn this first edition of the new year, Qatar has seen a significant improvement, climbing six spots to 47th place globally. Qatari passport holders now enjoy visa-free access to 112 out of 227 destinations, up from 108 in January 2024, when the country ranked 53rd. In 2020, 2021, 2022, and 2023, the country ranked 54th, 60th, 53rd, and 55th respectively.\nAmong GCC countries, Qatar ranks second after the UAE, which holds 10th place with visa-free access to 185 destinations. Other Gulf nations rank as follows: Kuwait (50th, 99 destinations), Bahrain (58th, 87 destinations), Saudi Arabia (58th, 87 destinations), and Oman (59th, 86 destinations).\nSingapore retains its position as the world’s most powerful passport with visa-free access to 195 countries. Japan follows closely in second place with access to 193 destinations.\nFinland, France, Germany, Italy, South Korea, and Spain shared the third spot with visa-free access to 192 destinations. Austria, Denmark, Ireland, Luxembourg, the Netherlands, Norway, and Sweden rank fourth, with access to 191 countries while Belgium, New Zealand, Portugal, Switzerland, and the United Kingdom are in fifth with access to 190 destinations.\nOne of the biggest surprises in this year’s rankings is the United States, which has fallen to 9th place. “Surprisingly, the US is the second-biggest faller between 2015 and 2025 after Venezuela, plummeting seven places from 2nd to its current 9th position,” the report said.\nThe Top 10 list of the world’s most powerful passports is largely dominated by European countries:\n1. Singapore (195 destinations)\n2. Japan (193)\n3. Finland, France, Germany, Italy, South Korea, Spain (192)\n4. Austria, Denmark, Ireland, Luxembourg, Netherlands, Norway, Sweden (191)\n5. Belgium, New Zealand, Portugal, Switzerland, United Kingdom (190)\n6. Australia, Greece (189)\n7. Canada, Malta, Poland (188)\n8. Czechia, Hungary (187)\n9. Estonia, United States (186)\n10. Latvia, Lithuania, Slovenia, United Arab Emirates (185)\nAt the bottom of the ranking, Afghanistan holds the 106th spot, with visa-free access to 26 destinations—two fewer than last year. Syria is in 105th place with 27 destinations, and Iraq is 104th with 31 destinations.\nNow in its 20th year, the Henley Passport Index is originally created by Dr. Christian H Kaelin, with ranking based on exclusive and official data from IATA, which maintains the world’s largest and most accurate database of travel information.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->international organisation",
+        "Politics->government",
+        "Politics->citizens' initiative and recall",
+        "Social Issue->immigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "International Air Transport Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "IATA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Peninsula",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8915ab033b772bb55ff7fbe7269cfb4888a6f010",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:05:00.684+02:00",
+    "updated": "2025-01-18T20:26:21.485+02:00"
+}

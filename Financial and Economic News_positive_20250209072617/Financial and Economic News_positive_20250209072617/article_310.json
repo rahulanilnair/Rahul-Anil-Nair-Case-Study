@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "f2bfd66447a23816fcc1e5e0c05dfe806a921c86",
+        "url": "https://www.norwichbulletin.com/story/news/2025/01/09/unemployment-numbers/77581609007",
+        "site_full": "www.norwichbulletin.com",
+        "site": "norwichbulletin.com",
+        "site_section": "http://cm.norwichbulletin.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Norwich Bulletin: Local News, Politics & Sports in Norwich, CT",
+        "title": "Unemployment claims in Connecticut declined last week",
+        "title_full": "Unemployment claims in Connecticut declined last week",
+        "published": "2025-01-10T01:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/-mm-/84782def0a8168006e51cc1bbaed01bd1f204c58/c=0-38-724-445/local/-/media/2021/06/29/Newport/gda-unemployment-2021-06-24-img.jpg?auto=webp&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 26732,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2bfd66447a23816fcc1e5e0c05dfe806a921c86",
+    "url": "https://www.norwichbulletin.com/story/news/2025/01/09/unemployment-numbers/77581609007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff reports, Norwich Bulletin",
+    "published": "2025-01-10T01:36:00.000+02:00",
+    "title": "Unemployment claims in Connecticut declined last week",
+    "text": "Unemployment claims in Connecticut declined last week\nInitial filings for unemployment benefits in Connecticut dropped last week compared with the week prior, the U.S. Department of Labor said Thursday.\nNew jobless claims, a proxy for layoffs, fell to 5,478 in the week ending January 3, down from 9,135 the week before, the Labor Department said.\nU.S. unemployment claims dropped to 201,000 last week, down 10,000 claims from 211,000 the week prior on a seasonally adjusted basis.\nGeorgia saw the largest percentage increase in weekly claims, with claims jumping by 170.2%. New Hampshire, meanwhile, saw the largest percentage drop in new claims, with claims dropping by 57.3%.\nThe USA TODAY Network is publishing localized versions of this story on its news sites across the country, generated with data from the [U.S. Department of Labor's weekly unemployment insurance claims report](https://www.dol.gov/ui/data.pdf).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://dol.gov/ui/data.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:45:56.685+02:00",
+    "updated": "2025-01-10T02:45:56.685+02:00"
+}

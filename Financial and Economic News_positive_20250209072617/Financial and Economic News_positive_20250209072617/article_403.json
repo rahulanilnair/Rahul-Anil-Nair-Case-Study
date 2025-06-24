@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "18d3290a3be9165a62b1ef12bce980514cffb022",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/range-breakout-could-take-max-healthcare-stock-to-fresh-highs-time-to-buy/videoshow/117101487.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/markets",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",
+        "title": "Range breakout could take Max Healthcare stock to fresh highs; time to buy? - The Economic Times Video | ET Now",
+        "title_full": "Range breakout could take Max Healthcare stock to fresh highs; time to buy? - The Economic Times Video | ET Now",
+        "published": "2025-01-10T01:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-117101487,width-1070,height-580,overlay-etmarkets/videoshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "18d3290a3be9165a62b1ef12bce980514cffb022",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/range-breakout-could-take-max-healthcare-stock-to-fresh-highs-time-to-buy/videoshow/117101487.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T01:16:00.000+02:00",
+    "title": "Range breakout could take Max Healthcare stock to fresh highs; time to buy? - The Economic Times Video | ET Now",
+    "text": "“Max Healthcare stock is in an overall uptrend and has given a range breakout at its all-time high zones. Traders can buy for a target of Rs 1250 in the next 2-3 weeks,” Shivangi Sarda, Analyst, Derivatives and Technical Research, Motilal Oswal Financial Services Ltd, said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Health",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Health->health organisation",
+        "Health->health care approach",
+        "Health->medical profession",
+        "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Max Healthcare",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Motilal Oswal Financial Services Ltd",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:01:08.306+02:00",
+    "updated": "2025-01-17T20:25:25.653+02:00"
+}

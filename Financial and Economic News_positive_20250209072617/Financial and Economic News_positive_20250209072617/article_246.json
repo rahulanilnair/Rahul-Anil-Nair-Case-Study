@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "5c4d37ff4ac4ed59182e69d7b383fa2a0e4d60f3",
+        "url": "https://news.illinois.edu/view/6367/892780296",
+        "site_full": "news.illinois.edu",
+        "site": "illinois.edu",
+        "site_section": "https://news.illinois.edu/xml/6367/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News Bureau - Research",
+        "title": "New law could mean bump in Social Security benefits for some public pensioners, expert says",
+        "title_full": "New law could mean bump in Social Security benefits for some public pensioners, expert says",
+        "published": "2025-01-09T21:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 608,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c4d37ff4ac4ed59182e69d7b383fa2a0e4d60f3",
+    "url": "https://news.illinois.edu/view/6367/892780296",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "pciciora@illinois.edu (Phil Ciciora)",
+    "published": "2025-01-09T21:00:00.000+02:00",
+    "title": "New law could mean bump in Social Security benefits for some public pensioners, expert says",
+    "text": "blog posts New law could mean bump in Social Security benefits for some public pensioners, expert says Jan 9, 2025 8:00 am by Phil Ciciora | Business and law editor | 217-333-2177Law The bipartisan Social Security Fairness Act means some retirees will receive a modest increase in their monthly checks, says Richard L. Kaplan, an internationally recognized expert on U.S. tax policy, elder law and retirement issues and the Guy Raymond Jones Chair in Law at the University of Illinois Urbana-Champaign. Photo by L. Brian Stauffer Images",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "L. Brian Stauffer Images",
+                "sentiment": "none"
+            },
+            {
+                "name": "Richard L. Kaplan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raymond Jones",
+                "sentiment": "none"
+            },
+            {
+                "name": "Phil Ciciora",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Illinois Urbana-Champaign",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:08:11.955+02:00",
+    "updated": "2025-01-10T02:08:11.955+02:00"
+}

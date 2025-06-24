@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "32b2a11def30c66418ad73212a86178a8e4a3e7b",
+        "url": "https://article.wn.com/view/2025/01/10/Stocks_to_buy_Raja_Venkatraman_recommends_three_stocks_for_t",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/stocks",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Stocks",
+        "title": "Stocks to buy: Raja Venkatraman recommends three stocks for today-10 January - Worldnews.com",
+        "title_full": "Stocks to buy: Raja Venkatraman recommends three stocks for today-10 January - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32b2a11def30c66418ad73212a86178a8e4a3e7b",
+    "url": "https://article.wn.com/view/2025/01/10/Stocks_to_buy_Raja_Venkatraman_recommends_three_stocks_for_t",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Stocks to buy: Raja Venkatraman recommends three stocks for today-10 January - Worldnews.com",
+    "text": "Here are three stocks to buy as recommended by Raja Venkatraman of NeoTrader for Friday, 10 January. read full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-three-stocks-for-10-january-nifty-50-nifty-bank-11736430844259.html",
+        "https://livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-three-stocks-for-10-january-nifty-50-nifty-bank-11736430844259.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Raja Venkatraman",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:00:01.673+02:00",
+    "updated": "2025-01-10T04:00:01.673+02:00"
+}

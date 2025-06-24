@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "17ac705ff0cb134f38bdf6276bbad83848382828",
+        "url": "https://www.zawya.com/en/capital-markets/bonds/asian-bond-market-sails-into-2025-ifr-mhg9h8cg",
+        "site_full": "www.zawya.com",
+        "site": "zawya.com",
+        "site_section": "https://www.zawya.com/en/wealth",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Wealth &amp; Investment News - ZAWYA",
+        "title": "Asian bond market sails into 2025: IFR",
+        "title_full": "Asian bond market sails into 2025: IFR",
+        "published": "2025-01-10T02:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://static.zawya.com/view/acePublic/alias/contentid/fa3eb432-0c7f-4cbd-9323-1f88e38b0e5d/0/new-year-japan-market-open.jpeg?f=3%3A2",
+        "performance_score": 0,
+        "domain_rank": 5161,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "17ac705ff0cb134f38bdf6276bbad83848382828",
+    "url": "https://www.zawya.com/en/capital-markets/bonds/asian-bond-market-sails-into-2025-ifr-mhg9h8cg",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Morgan Davis",
+    "published": "2025-01-10T02:07:00.000+02:00",
+    "title": "Asian bond market sails into 2025: IFR",
+    "text": "GO Advanced search CAPITAL MARKETS Equities Bonds Loans ECONOMY Global GCC Africa Levant North Africa Policy Islamic Economy Islamic Finance Glossary Islamic Reports BUSINESS Aviation Banking & Insurance Commodities Currencies Digital Assets Energy Fintech Healthcare Investment M&A Real Estate Retail & Consumer SWF Technology and Telecom Transport and Logistics Travel and Tourism PROJECTS BRI Construction Industry Mining Oil & Gas Utilities SPECIAL COVERAGE Ramadan and Eid 2024 COP28: Talking Climate in UAE UAE Realty Market The Future of Cryptos Focus: Global Wealth Funds Russia-Ukraine Crisis MULTIMEDIA Videos Podcasts PRESS RELEASE Green Press Releases Companies News Government News People in the News Research & Studies Events and Conferences Africa Press Releases FIND COMPANIES FIND PROJECTS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->debt market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ifre.com/story/5041770/asian-bond-market-sails-into-2025-j1hflqj0mp",
+        "https://ifre.com/story/5041770/asian-bond-market-sails-into-2025-j1hflqj0mp"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rishi Jalan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IFR",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Citigroup",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alibaba",
+                "sentiment": "none"
+            },
+            {
+                "name": "HSBC",
+                "sentiment": "none"
+            },
+            {
+                "name": "APAC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:02:24.554+02:00",
+    "updated": "2025-01-10T11:06:17.389+02:00"
+}

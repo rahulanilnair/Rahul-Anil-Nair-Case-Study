@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 85
+============================================================
+Timestamp: 2025-06-23 08:58:06
+Headline Summary: Stock Market Crash: शेअर बाजार पुन्हा कोसळला; सेन्सेक्स 1000 अंकांनी घसरला, निफ्टी 24,400च्या खाली, घसरण का झाली?
+Key Highlights: बाजारातील घसरणीने निफ्टी 332 अंकांनी आणि सेन्सेक्स 1064 अंकांनी घसरले, निफ्टी बँक 746 अंकांनी घसरून बंद होय
+Final Sentiment: Negative
+Confidence: 70%
+Impact Magnitude: Medium
+Agreement Level: Strong
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: The current analysis highlights a significant market crash, with the nifty 24,400 falling below its previous level and sectoral indices such as finance and real estate experiencing steep declines. However, my view is that this reaction might be more extreme than necessary given the historical context of the Indian stock market. Moreover, the recent data suggests a cyclical downtrend but it could also indicate some positive long-term changes in the industry. Thus I do not fully agree with the negative sentiment and medium impact ratings. growth_analyst: The given analysis is that the stock market has crashed due to various reasons including ghatastani in nifty and sencex. I partially agree with this as it seems a severe crash. However, considering the context of economic factors like seasonal fluctuations and general trends, my proposed confidence level is 90. sentiment_analyst: Although the current analysis indicates a negative sentiment, I disagree as the market trends do not explicitly indicate any structural issues. The emphasis on domestic average volatility and increasing data seems to suggest that the market is simply reacting to general market conditions, rather than a specific underlying cause for such a drastic fall in stocks. Furthermore, it would be premature to label this event as a crash without more conclusive evidence of a systemic issue.
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 3/3 agents agreeing on Negative sentiment.
+============================================================

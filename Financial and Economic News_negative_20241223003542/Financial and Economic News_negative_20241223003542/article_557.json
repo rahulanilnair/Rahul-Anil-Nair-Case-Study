@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "3a77db453dae3ed65027b6979905cc0cf53ae7bd",
+        "url": "https://www.egypttoday.com/Article/3/137087/Egypt%E2%80%99s-total-exports-decline-by-2-2-to-record-42",
+        "site_full": "www.egypttoday.com",
+        "site": "egypttoday.com",
+        "site_section": "https://www.egypttoday.com/",
+        "site_categories": [
+            "media",
+            "travel",
+            "air_travel"
+        ],
+        "section_title": "Home - Egypt Today",
+        "title": "Egypt’s total exports decline by 2.2% to record $42.5B in 2023 - EgyptToday",
+        "title_full": "Egypt’s total exports decline by 2.2% to record $42.5B in 2023 - EgyptToday",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://www.egypttoday.com/siteimages/larg/17014.jpg",
+        "performance_score": 0,
+        "domain_rank": 15305,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3a77db453dae3ed65027b6979905cc0cf53ae7bd",
+    "url": "https://www.egypttoday.com/Article/3/137087/Egypt%E2%80%99s-total-exports-decline-by-2-2-to-record-42",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "Egypt’s total exports decline by 2.2% to record $42.5B in 2023 - EgyptToday",
+    "text": "News\nBusiness\nArts & Culture\nOur Magazine\nSports\nET Scenes\nHaya Karima\nNews\nBusiness\nArts & Culture\nET Scenes\nOur magazine\nSports\nEgypt’s total exports decline by 2.2% to record $42.5B in 2023\nBY\nEgypt Today staff\n-\nTue, 17 Dec 2024 - 09:52 GMT\nBY\nEgypt Today staff\nTue, 17 Dec 2024 - 09:52 GMT\nCAIRO - 17 December 2024: The Central Agency for Public Mobilization and Statistics (CAPMAS) has released its annual report on Egypt’s foreign trade for the year 2023, showing a drop in both exports and imports compared to the previous year. Egypt’s total exports amounted to $42.5 billion, reflecting a 2.2% decline from $43.5 billion in 2022. Non-oil exports showed a slight improvement, increasing to $28.5 billion, up by 1.2% compared to $28.1 billion in 2022. Petroleum and electricity exports, however, dropped by 5.2%, totaling $14 billion compared to $14.8 billion the previous year.\nKey products saw notable declines in their export values. Crude oil exports reached $2.1 billion, marking a 10.2% decrease from $2.4 billion in 2022. Natural gas exports dropped by 11.4%, falling from $2.2 billion to $1.95 billion. Ready-made garments saw a decline of 12.5%, reaching $2.3 billion compared to $2.6 billion. Plastics and articles thereof fell by 10.5% to $2 billion, while urea fertilizers dropped by 9.8% to $2.1 billion from $2.3 billion.\nTurkey retained its position as Egypt’s top export destination, despite a 7.5% decline in exports to the country, totaling $4.5 billion. Italy ranked second, recording a 6.2% drop, while exports to Saudi Arabia grew by 11.5%.\nEgypt’s total imports declined significantly by 5.2% in 2023, reaching $72.4 billion compared to $76.4 billion in 2022. Non-oil imports fell by 4.8%, totaling $55.1 billion, while petroleum and electricity imports saw a sharper decline of 8.5%, dropping to $17.3 billion. Intermediate goods dominated imports, comprising 36.3% of total imports. Fuel imports made up 14.6%, investment goods accounted for 17.9%, and consumer goods represented 12.5% of the total. The most significant declines were seen in iron and steel products, which fell by 6.1% to $5.1 billion. Plastics imports decreased by 5.5% to $4.8 billion, wheat imports dropped to $3.5 billion, showing a 4.3% decline, and pharmaceuticals decreased slightly to $2.8 billion, down by 1.2%.\nChina remained Egypt’s largest import source despite a 7.5% decline, accounting for 15.7% of total imports in 2023. Saudi Arabia followed with a 5.1% decrease, while the United States and Russia ranked third and fourth, respectively, with slight declines in import values.\nPort activity was led by the Alexandria Port, which handled 32% of total exports, followed by Cairo International Airport at 14.8% and the Suez Port at 14.4%. On the import side, Cairo International Airport accounted for 30.4% of total imports, followed by Dekheila Port at 13.9% and Ain Sokhna at 13.5%.\nCAPMAS\nCentral Agency for Public Mobilization and Statistics\nEgyptian Exports\nEgyptian Imports\nComments\n0\nLeave a Comment\nAdd Comment\nBe Social",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Central Agency for Public Mobilization and Statistics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:12:06.675+02:00",
+    "updated": "2024-12-17T14:12:06.675+02:00"
+}

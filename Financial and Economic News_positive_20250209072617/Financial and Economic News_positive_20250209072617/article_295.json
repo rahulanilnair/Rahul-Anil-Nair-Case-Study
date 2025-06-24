@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "f3931909a4c569c9aca3db89d2c9b395c4a3cd75",
+        "url": "https://beamstart.com/news/bitcoin-heads-to-90k-as-17364560566103",
+        "site_full": "beamstart.com",
+        "site": "beamstart.com",
+        "site_section": "https://beamstart.com/news",
+        "site_categories": [
+            "hobbies_and_interests",
+            "investors_and_patents"
+        ],
+        "section_title": "BEAMSTART - Global Entrepreneurship Community",
+        "title": "Bitcoin Heads to $90K as Crypto Selloff Gathers Steam - 'CoinDesk' News Summary (United States) | BEAMSTART",
+        "title_full": "Bitcoin Heads to $90K as Crypto Selloff Gathers Steam - 'CoinDesk' News Summary (United States) | BEAMSTART",
+        "published": "2025-01-09T14:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://beamstart.com/image/aHR0cHM6Ly9jZG4uc2FuaXR5LmlvL2ltYWdlcy9zM3kzdmNuby9wcm9kdWN0aW9uLzgwZjJmODMzYmEwZjJjMzY5ZWRmYjg4NzVjNGI4Y2JkNjM2ZTdlNmUtMTQ0MHgxMDgwLmpwZz9hdXRvPWZvcm1hdA==",
+        "performance_score": 0,
+        "domain_rank": 124654,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f3931909a4c569c9aca3db89d2c9b395c4a3cd75",
+    "url": "https://beamstart.com/news/bitcoin-heads-to-90k-as-17364560566103",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephen Alpher",
+    "published": "2025-01-09T14:51:00.000+02:00",
+    "title": "Bitcoin Heads to $90K as Crypto Selloff Gathers Steam - 'CoinDesk' News Summary (United States) | BEAMSTART",
+    "text": "Quick Summary: Strong economic data and a slumping bond market have called into question the idea of any rate cuts this year.\nAnother leg on the stool propping crypto was easier monetary policy, the U.S.\nToday's selling is coming ahead of Friday morning's December jobs report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->market and exchange",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->economics",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->social condition",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:39:24.695+02:00",
+    "updated": "2025-01-10T02:39:24.695+02:00"
+}

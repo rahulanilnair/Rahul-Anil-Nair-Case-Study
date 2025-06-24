@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "34a7eb9c6c654733a21b8e951a778e8d4dc53911",
+        "url": "https://www.bnnbloomberg.ca/business/2024/12/17/lion-electric-expects-bankruptcy-filing-amid-ev-pushback",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://www.bnnbloomberg.ca/business",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business - BNN Bloomberg",
+        "title": "Lion Electric Expects Bankruptcy Filing Amid EV Pushback",
+        "title_full": "Lion Electric Expects Bankruptcy Filing Amid EV Pushback",
+        "published": "2024-12-17T15:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/SYKLXFJEHAQMAD2IMA4DYY3I5M.jpg?smart=true&amp;auth=1071176aac81752cc5d8b8c5e36af01e9da11be14c5addcb1788cd509f6bde73&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2808,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "34a7eb9c6c654733a21b8e951a778e8d4dc53911",
+    "url": "https://www.bnnbloomberg.ca/business/2024/12/17/lion-electric-expects-bankruptcy-filing-amid-ev-pushback",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mathieu Dion",
+    "published": "2024-12-17T15:08:00.000+02:00",
+    "title": "Lion Electric Expects Bankruptcy Filing Amid EV Pushback",
+    "text": "Quebec committed billions of dollars to carve out its place in North America’s electric vehicle supply chain, but those efforts have been thwarted by a string of bad news. The latest: electric bus and truck maker Lion Electric Co. expects to seek creditor protection. The Saint-Jerome, Que.-based company announced in a news release the expiry of covenants on a credit line and the maturity on a separate loan as no “alternatives have materialized and no further amendments, concessions or waivers have been obtained.” As a result, Lion expects to initiate a restructuring process under Canada’s Companies Creditors Arrangement Act, and “pursue a formal sales and investment solicitation process in respect of the company’s business or assets.” Lion’s problems stem from delays in subsidy and incentive programs in Canada and the US, as well as supply chain disruptions, scaling issues, too many vehicle models being developed at the same time and slower EV adoption. The manufacturer, which went public by merging with a special purpose acquisition company in 2021, had $392 million in debt during the quarter ended Sept. 30 — incurred primarily from expansion projects such as an electric bus manufacturing plant in Joliet, Illinois, and a battery pack assembly plant in Mirabel, Quebec. During the same period, the company reported sales of $31 million, down from $80 million the year prior, as deliveries dropped by 64%. After reaching a peak of approximately 1,400 employees in 2022, Lion announced earlier this month that it would retain about 300 staff. The firm also suspended work at the Joliet plant and president Nicolas Brunet resigned. And the company sold its innovation center in Mirabel for C$50 million ($35.1 million) to Aeroports de Montreal to raise cash. Lion’s lenders, which include National Bank of Canada, gave the company temporary help to get through Dec. 16, suspending for a second time the covenants on a credit line. The maturity on a separate loan backed by Caisse de Depot et Placement du Quebec and Finalta Capital Inc. was pushed back to the same date. The extensions were granted to buy time for Lion Electric to find new investors or a buyer, but it failed to do so. The firm’s statement said it is “currently in discussions with its senior lenders to obtain additional funds pursuant to a new debtor-in-possession credit facility.” The Quebec government has invested C$177 million in Lion so far, and the Canadian government, C$30 million. The largest shareholder in Lion is Power Corp. of Canada, the holding company controlled by the billionaire Desmarais family, with a 34% stake, according to data compiled by Bloomberg. Lion’s market capitalization, which was as high as $4.2 billion in 2021, has dropped by 86% this year to $57 million as of Monday. Trading of its shares were halted in Toronto and New York. Quebec has had success with its EV efforts, with cathode material production projects led by General Motors Co. and Korean battery firms well underway in the province. However, Lion’s announcements come as Montreal-based electric watercraft and snowmobile maker Taiga Motors Corp. continues a restructuring process. Uncertainty also surrounds a C$7 billion EV battery factory near Montreal built by Swedish manufacturer Northvolt AB, which filed for bankruptcy protection on Nov. 21. ©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Lion Electric Co.",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            },
+            {
+                "name": "Que.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "34a7eb9c6c654733a21b8e951a778e8d4dc53911",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:01:22.662+02:00",
+    "updated": "2024-12-17T16:01:22.662+02:00"
+}

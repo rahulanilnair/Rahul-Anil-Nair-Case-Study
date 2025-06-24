@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ba5acce77853353841c543066d79a1617af133a3",
+        "url": "https://pakistan.shafaqna.com/EN/281136",
+        "site_full": "pakistan.shafaqna.com",
+        "site": "shafaqna.com",
+        "site_section": "https://www.pakistan.shafaqna.com",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Pakistan Shia News Agency &#8211; Shafaqna Pakistan | Latest news  on Shia Islam in Pakistan",
+        "title": "Development Expenditure Falls to Rs115 Billion",
+        "title_full": "Development Expenditure Falls to Rs115 Billion",
+        "published": "2024-12-17T13:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 29790,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ba5acce77853353841c543066d79a1617af133a3",
+    "url": "https://pakistan.shafaqna.com/EN/281136",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tauqeer Abbas",
+    "published": "2024-12-17T13:08:00.000+02:00",
+    "title": "Development Expenditure Falls to Rs115 Billion",
+    "text": "The federal development spending has slowed to Rs115 billion in the first five months of the current fiscal year, primarily due to fiscal constraints. Despite this, the government continues to fund provincial schemes, further straining limited resources.\nDuring the July-November period, development expenditures remained at Rs115 billion, significantly lower than the Rs376 billion authorised by the Ministry of Planning under the Public Sector Development Programme (PSDP) 2024-25.\nThe notable gap between authorised and actual spending highlights challenges such as delays in fund releases, resource scarcity, slow project progress, and limited capacity to utilise allocated funds. This 10% spending of the downward-revised annual development budget is causing delays in critical projects while offsetting fiscal slippages in other areas. Compounding these issues, the Federal Board of Revenue (FBR) missed its tax target for the first five months by Rs341 billion, exacerbating fiscal pressures.\nTo achieve the primary budget surplus target agreed with the International Monetary Fund (IMF), the federal government often compromises development spending. Despite its inability to fully fund the ongoing schemes, the federal government last week approved 15 development projects worth Rs422.7 billion. Some of these projects will be funded by the cash-rich provinces but many more have also been added to the cash-starved federal development portfolio.\nIn breach of its commitment under the IMF-guided National Fiscal Pact, the federal government also approved projects, which are provincial in nature.\nIt approved the revision of the cost of the project -the extension of the KLM Start point to Saggian road and main Ravi Bridge worth Rs12.1 billion. The project will serve the population of Punjab and does not have national importance.\nUnder the $7 billion bailout package, the federal and provincial governments have signed the National Fiscal Pact. A major condition states that the federal government will reduce its footprint as per the 18th Amendment. The provincial governments are contractually bound to take responsibility for projects within their geographical domain. The Ravi Bridge project falls in the provincial domain.\nThe planning ministry’s response was awaited till the filing of the story. It had been requested to comment about the reasons for adding provincial nature projects in breach of the fiscal pact.\nThe government last week had also approved the construction of the Mangi Dam and water conveyance system at an upward-revised cost of Rs19 billion. This project will be equally funded by the federal and provincial governments.\nThe IMF had last year deemed Pakistan’s PSDP “unaffordable” due to limited fiscal space, noting a total cost of Rs12 trillion to complete approved projects, requiring over 14 years.\nThere was no major improvement in the development spending trend during the middle of this month. The total spending increased to Rs130 billion as of December 10, 2024. But this was down by Rs20 billion or over 13% compared to the last fiscal year.\nFor this year, the government had proposed a Rs1.4 trillion development budget in the National Assembly, which was subsequently slashed to Rs1.1 trillion due to limited fiscal space. There is another proposal to further reduce the PSDP to fund the electricity price reduction by waiving the applicable taxes.\nLow releases have adversely impacted the country’s foreign exchange reserves due to less-than-anticipated foreign lending for development schemes. For the current fiscal year, the government has estimated receiving Rs220 billion in foreign loans, but foreign funding utilisation was only Rs5.2 billion in almost five and half months. Development budget allocations for provinces, special areas, Azad Jammu & Kashmir, and Gilgit-Baltistan were also affected. Against the annual allocation of Rs223 billion, only Rs42 billion was spent against these heads, the highest development spending head so far.\nThe Rs17.7 billion were spent on Azad Kashmir and Gilgit Baltistan projects, Rs15.8 billion on the merged districts of Khyber-Pakhtunkhwa and Rs8.7 billion on projects located in other provinces. Spending on Pakistan Atomic Energy Commission projects amounted to Rs6.7 billion against the annual allocation of Rs25 billion. The National Transmission and Dispatch Company and PEPCO spent Rs3.8 billion on their projects against the annual allocation of Rs33 billion.\nSource: Express Tribune",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Public Sector Development Programme",
+                "sentiment": "none"
+            },
+            {
+                "name": "International Monetary Fund",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Board of Revenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Planning",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T14:55:27.278+02:00",
+    "updated": "2024-12-17T14:55:27.278+02:00"
+}

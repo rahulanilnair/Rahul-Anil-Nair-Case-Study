@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "d70e2e0ec6a7a45792952f2f99c2b2d26a153b7e",
+        "url": "https://www.nst.com.my/business/corporate/2025/01/1158899/bursa-malaysia-stages-rebound-bargain-hunters-flock-market",
+        "site_full": "www.nst.com.my",
+        "site": "nst.com.my",
+        "site_section": "https://www.nst.com.my/feed",
+        "site_categories": [
+            "media",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "New Straits Times",
+        "title": "",
+        "title_full": "",
+        "published": "2025-01-10T04:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "https://assets.nst.com.my/images/articles/op10_NSTfield_image_socialmedia.var_1736474957.jpg",
+        "performance_score": 0,
+        "domain_rank": 4964,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 5
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d70e2e0ec6a7a45792952f2f99c2b2d26a153b7e",
+    "url": "https://www.nst.com.my/business/corporate/2025/01/1158899/bursa-malaysia-stages-rebound-bargain-hunters-flock-market",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Faiqah Kamaruddin",
+    "published": "2025-01-10T04:09:00.000+02:00",
+    "title": "",
+    "text": "KUALA LUMPUR: Bursa Malaysia staged a rebound as bargain hunters flooded the market after two days consecutive days of selling.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:38:22.358+02:00",
+    "updated": "2025-01-10T04:38:22.358+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "92c0cf031a3d5ef95370605bf64e89f11d7f32c8",
+        "url": "https://www.cbsnews.com/detroit/news/powerball-westland-michigan-1-million-winner",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com#site-header:66",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "Michigan woman wins $1 million Powerball prize, keeps secret from family for weeks - CBS Detroit",
+        "title_full": "Michigan woman wins $1 million Powerball prize, keeps secret from family for weeks - CBS Detroit",
+        "published": "2025-01-09T23:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/01/81cf0bd0-67aa-40fa-9f87-9fba933cac42/thumbnail/1200x630/2f6d1eaebf7444da8ea667374f01dfc2/powerball-lottery.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "92c0cf031a3d5ef95370605bf64e89f11d7f32c8",
+    "url": "https://www.cbsnews.com/detroit/news/powerball-westland-michigan-1-million-winner",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T23:21:00.000+02:00",
+    "title": "Michigan woman wins $1 million Powerball prize, keeps secret from family for weeks - CBS Detroit",
+    "text": "(CBS DETROIT) — A Westland woman surprised her family at Christmas with news that she won a $1 million Powerball prize, the Michigan Lottery reports.\nCatherine Martin, 63, had played the multi-state lottery game on Sept. 4, purchasing her ticket at MD Westland LLC, 32919 Cherry Hill Road in Westland. The numbers drawn for the five white balls were 07-10-21-33-59.\n\"I play Powerball every week and use a special set of numbers,\" Martin told the lottery officials. \"The day after the drawing, I got a call from my husband while I was at work telling me that he checked my Powerball ticket, and I'd won $1 million! I was stunned and had a hard time believing him. Honestly, I still don't believe it!\n\"We have kept our win a secret until we finally surprised our family on Christmas with the big news!\"\nMartin visited Michigan Lottery headquarters recently to claim her prize. She plans to invest, save for retirement and set aside money for her grandchildrens' college funds.\n\"Lottery games, like Powerball, give players a chance to win prizes that will have a profound impact on their lives,\" said Michigan Lottery Commissioner Suzanna Shkreli. \"It is incredibly rewarding to hear how this prize will not only have a positive impact on the winner, but on her grandchildren as well, as she plans to put a portion of her winnings towards their college educations. Congratulations Catherine!\"\nPowerball is one of two multi-state lotteries that are available in Michigan. The next drawing is Saturday, with an estimated jackpot of $263 million for those who match the numbers on five white balls and the Powerball. Those who match only the five white balls win $1 million.\nMartin was the top Powerball winner on Sept. 4 , being the only person to win $1 million from that drawing. There was no jackpot winner on that date.\nPowerball tickets can be purchased for $2 at Lottery retailers across Michigan and MichiganLottery.com . A \"Power Play\" that adds to some prizes can be added for $1.\nMore from CBS News Mega Millions lottery player wins $1 million in Michigan Wayne County man wins $100,000 playing online instant game Michigan gas prices jump 11 cents to start the new year Search intensifies for missing Warren woman after police recover her car Federal education department fines Baker College over salary claims In: Westland Powerball Michigan Lottery Michigan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->media and entertainment industry",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->financial and economic news",
+        "Human Interest->award and prize",
+        "Social Issue->family",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.michiganlottery.com/games/powerball?drawDate=2024-09-04",
+        "https://www.michiganlottery.com/",
+        "https://www.michiganlottery.com/games/powerball",
+        "https://www.michiganlottery.com",
+        "https://michiganlottery.com/",
+        "https://michiganlottery.com/games/powerball?drawDate=2024-09-04"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Catherine Martin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Road",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:21:01.349+02:00",
+    "updated": "2025-01-10T00:21:01.349+02:00"
+}

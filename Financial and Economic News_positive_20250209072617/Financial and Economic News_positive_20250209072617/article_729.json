@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "06433ad207a29076614d1ac20082fde3f30c3e19",
+        "url": "https://asia.nikkei.com/Business/Technology/TSMC-revenue-surges-34-to-record-in-2024-amid-AI-chip-boom",
+        "site_full": "asia.nikkei.com",
+        "site": "nikkei.com",
+        "site_section": "https://www.biztoc.com",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_ph",
+            "top_news_th",
+            "top_news_jp",
+            "top_news_sg",
+            "top_news_tw",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "BizToc",
+        "title": "TSMC revenue surges 34% to record in 2024 amid AI chip boom",
+        "title_full": "TSMC revenue surges 34% to record in 2024 amid AI chip boom",
+        "published": "2025-01-09T22:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JP",
+        "main_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F4%2F7%2F9%2F48839742-2-eng-GB%2F2017-10-06T000000Z_424029998_RC1168401E50_RTRMADP_3_TSMC-CHANG.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 592,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "06433ad207a29076614d1ac20082fde3f30c3e19",
+    "url": "https://asia.nikkei.com/Business/Technology/TSMC-revenue-surges-34-to-record-in-2024-amid-AI-chip-boom",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Writer",
+    "published": "2025-01-09T22:36:00.000+02:00",
+    "title": "TSMC revenue surges 34% to record in 2024 amid AI chip boom",
+    "text": "TAIPEI -- Taiwan Semiconductor Manufacturing Co.'s revenue surged 33.9% in 2024 from the previous year, driven by the boom in demand for AI chips from Nvidia and Broadcom along with massive investments by Microsoft, Amazon and Google.\nThe world's top chip manufacturer on Friday said its December revenue reached 278.16 billion New Taiwan dollars ($8.4 billion), a 57.8% increase on the year. This brought the full-year figure to NT$2.894 trillion, a sharp rise from 2023, when the company logged its first annual decline since 2009 due to a global economic slowdown.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->scientific research",
+        "Social Issue->social condition",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TSMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taiwan Semiconductor Manufacturing Co.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            },
+            {
+                "name": "Broadcom",
+                "sentiment": "none"
+            },
+            {
+                "name": "Google",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:56:12.107+02:00",
+    "updated": "2025-01-10T07:56:12.107+02:00"
+}

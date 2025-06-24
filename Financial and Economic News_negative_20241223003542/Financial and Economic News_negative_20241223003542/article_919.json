@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "fe051af699adcd253b9bdb3c96836f5495447fc6",
+        "url": "https://www.abs-cbn.com/news/business/2024/12/17/ex-finance-calls-spending-plan-for-2025-most-corrupt-in-ph-history-2151",
+        "site_full": "www.abs-cbn.com",
+        "site": "abs-cbn.com",
+        "site_section": "https://news.abs-cbn.com/feed",
+        "site_categories": [
+            "baseball",
+            "sports"
+        ],
+        "section_title": "Push.com.ph",
+        "title": "Ex-finance calls spending plan for 2025 'most corrupt' in PH history",
+        "title_full": "Ex-finance calls spending plan for 2025 'most corrupt' in PH history",
+        "published": "2024-12-17T07:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://od2-image-api.abs-cbn.com/prod/20241217131248/08aa7697dd08034345777a46a711f30b6bb9c2f605e092c39f8d833dec4d6464.jpg?w=1200&amp;h=800",
+        "performance_score": 0,
+        "domain_rank": 4856,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 3
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fe051af699adcd253b9bdb3c96836f5495447fc6",
+    "url": "https://www.abs-cbn.com/news/business/2024/12/17/ex-finance-calls-spending-plan-for-2025-most-corrupt-in-ph-history-2151",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABS-CBN News",
+    "published": "2024-12-17T07:59:00.000+02:00",
+    "title": "Ex-finance calls spending plan for 2025 'most corrupt' in PH history",
+    "text": "Ex-finance calls spending plan for 2025 'most corrupt' in PH history | ABS-CBN\nEntertainment\nNews\nMetro.Style\nSports\nMore\nADVERTISEMENT\nBusiness\nEx-finance calls spending plan for 2025 'most corrupt' in PH history\nEx-finance calls spending plan for 2025 'most corrupt' in PH history\nABS-CBN News\nPublished Dec 17, 2024 09:51 PM PHT\n|\nUpdated Dec 17, 2024 09:59 PM PHT\nRead More:\nANC\n|\nThe World Tonight\n|\nBudget\n|\nCorruption\nABS-CBN is the leading media and entertainment company in the Philippines, offering quality content across TV, radio, digital, and film. Committed to public service and promoting Filipino values, ABS-CBN continues to inspire and connect audiences worldwide.\nCorporate\nInvestors\nGovernance\nInternational Distribution\nCorporate\nGovernance\nInvestors\nInternational Distribution\nNPC Seal of Registration\nPrivacy Policy\nTerms of Service\nAdvertise with Us\n© 2024 ABS-CBN Corporation. All Rights Reserved.\nNPC Seal of Registration\nAdvertise with Us\nPrivacy Policy\nTerms of Service\n© 2024 ABS-CBN Corporation. All Rights Reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ABS-CBN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T16:05:55.415+02:00",
+    "updated": "2024-12-17T16:05:55.415+02:00"
+}

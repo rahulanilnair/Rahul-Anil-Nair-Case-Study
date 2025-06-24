@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "0557868ed576db3d3e0b1f412ab2ca3d9e1922c8",
+        "url": "https://retail.economictimes.indiatimes.com/news/industry/how-budget-2025-can-propel-indias-economic-growth-to-7/117107114",
+        "site_full": "retail.economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://retail.economictimes.indiatimes.com/news/industry",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Retail News | Latest Retailing & Retail Industry Information and Updates: ET Retail",
+        "title": "How Budget 2025 can propel India's economic growth to 7%",
+        "title_full": "How Budget 2025 can propel India's economic growth to 7%",
+        "published": "2025-01-10T08:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etimg.etb2bimg.com/thumb/msid-117107114,imgsize-48962,width-1200,height=765,overlay-etretail/industry/how-budget-2025-can-propel-indias-economic-growth-to-7.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0557868ed576db3d3e0b1f412ab2ca3d9e1922c8",
+    "url": "https://retail.economictimes.indiatimes.com/news/industry/how-budget-2025-can-propel-indias-economic-growth-to-7/117107114",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETRetail.com",
+    "published": "2025-01-10T08:04:00.000+02:00",
+    "title": "How Budget 2025 can propel India's economic growth to 7%",
+    "text": "Representative imageUnion Budget: Prime Minister Narendra Modi-led government, who will present their first full fledged Budget of third term, will require a big booster for its economic growth to touch 7 per cent in FY26, from an expected 6.3 per cent in FY25, according a report by SBI Mutual Fund. As per the report, the need for measures to enhance revenue expenditure and bring positive changes to income tax policies are needed. According to the analysis, India currently faces a demand-side challenge, even though the supply side is robust. Banks are prepared to extend credit, and corporations are ready to leverage opportunities, but an adequate push to demand remains missing.It said \\\"the challenge is that India is supply side ready where banks can extend credit and corporate can leverage but an adequate demand thrust is missing. Policy support could help India's growth to recover to ~7 per cent in FY26 from an expected 6.3 per cent in FY25\\\".\\\"Policy support\\\" in a budget refers to allocating funds specifically designed to facilitate the implementation of new or existing government policies, often involving financial assistance or incentives to encourage desired outcomes within a particular sector or area of focus.The report highlighted the need for policy interventions in the upcoming budget to address these challenges and steer India's economy towards sustained growth. India's growth worries:India’s Q2 GDP growth, which slowed more than anticipated to 5.4 per cent, raised alarms among economists, confirming fears that the country’s once-booming economy is losing momentum. The slowdown, a seven-quarter low, marked a significant decline from 8.1 per cent in the same period last year and from 6.7 per cent in the previous quarter.The National Statistics Office (NSO) earlier this week in the first advance estimate (FAE) projected the country’s GDP growth at 6.4 per cent in 2024-25, marking a four-year low and a sharp decline from the 8.2 per cent growth recorded in FY24. The projection is lower than the recent Reserve Bank estimate of 6.6 per cent for the current fiscal year ending March 2025.The figures point to a challenging economic landscape as the government prepares its fiscal roadmap for FY25. With slowing GDP growth, maintaining fiscal stability while supporting economic recovery will be a delicate balancing act for policymakers.The 2025-26 Budget will mark Finance Minister Nirmala Sitharaman's eighth. All eyes will be on the key announcements and the government's forward-looking economic guidance for the remainder of the Modi 3.0 tenure.The Finance Ministry has conducted several pre-budget consultation meetings by far with experts, industry leaders, economists, and state officials. The formal exercise to prepare the annual Budget for the next financial year has begun weeks ago.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SBI Mutual Fund",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:32:13.367+02:00",
+    "updated": "2025-01-10T08:52:31.559+02:00"
+}

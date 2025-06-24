@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "f28f107a7f895b8f5f54c42ffb5ac90d90b38c11",
+        "url": "https://businessmirror.com.ph/2025/01/10/senators-estrada-villanueva-say-latest-jobs-data-good-but-challenges-abound",
+        "site_full": "businessmirror.com.ph",
+        "site": "businessmirror.com.ph",
+        "site_section": "https://businessmirror.com.ph/feed/",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "BusinessMirror",
+        "title": "Senators Estrada, Villanueva say latest jobs data good, but challenges abound | Butch Fernandez",
+        "title_full": "Senators Estrada, Villanueva say latest jobs data good, but challenges abound | Butch Fernandez",
+        "published": "2025-01-09T18:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://businessmirror.com.ph/wp-content/uploads/2024/07/BusinessMirror-KnowMore-2.jpg",
+        "performance_score": 0,
+        "domain_rank": 13253,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f28f107a7f895b8f5f54c42ffb5ac90d90b38c11",
+    "url": "https://businessmirror.com.ph/2025/01/10/senators-estrada-villanueva-say-latest-jobs-data-good-but-challenges-abound",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Butch Fernandez",
+    "published": "2025-01-09T18:12:00.000+02:00",
+    "title": "Senators Estrada, Villanueva say latest jobs data good, but challenges abound | Butch Fernandez",
+    "text": "The current and past chairmen of the Senate Labor Committee cited the decline in both joblessness and underemployment as an indication that collective efforts to create more quality jobs for Filipinos, but flagged the risks that policymakers must continue to reckon with. “The decrease in the number of jobless Filipinos to 1.66 million, along with a reduction in underemployment to 10.8 percent, highlights our collective efforts to create more job opportunities for our growing workforce,” said Senate President Pro Tempore Jinggoy Estrada in a statement after the Philippine Statistics Authority (PSA) revealed the latest job numbers. “While this is a positive development,” Estrada reminds “our efforts must continue,” stressing that “it is as essential to address the remaining challenges to ensure that a greater number of Filipino workers are afforded secure and dignified employment opportunities.” Speaking in Filipino, he expressed hope that more Filipinos can be given job opportunities in 2025, especially since over P1 trillion in funds are lodged with the Department of Public Works and Highways for government projects under this year’s national budget. He foresees in Filipino that “Patuloy tayong magtulungan para mapanatili at mapalawak pa natin ang mga oportunidad para sa ating mga kababayan.” In his separate statement, the past labor chief, now-Senator Joel Villanueva, meanwhile, also weighed in on the PSA report. The senator observed the data started the year on a positive note: “We laud the decrease of the unemployment rate to 3.2 percent in November 2024 from 3.9 percent in October 2024, and underemployment rate to 10.8 percent for the same period, from 12.6 percent in October 2024.” “We are expecting for a more improved jobs data with the full implementation of the Trabaho Para Sa Bayan Act and the Enterprise-Based Education and Training (EBET) Program Act, which, we principally authored and sponsored in the Senate, as well as the enactment of the Expanded Tertiary Education Equivalency and Accreditation Program (ETEEAP) bill. These are pivotal drivers in fostering both economic growth and labor policies. These measures, which are priorities of the Marcos administration, are essential in equipping our workforce with the skills needed to thrive in today’s economy,” Villanueva “As we look ahead, we are committed to ensuring the full implementation of these laws, knowing they will play a vital role in further reducing unemployment, creating more opportunities and better quality jobs, and ultimately ensuring sustainable growth for our nation,” he said. Butch Fernandez is BusinessMirror’s senior political reporter based at the Senate. He has covered Malacañang (3 presidencies), the Office of the Vice President, the Senate, local governments and defense since 1984.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->economy",
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Politics->civil and public service",
+        "Social Issue->social problem",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Butch Fernandez",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Estrada",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Villanueva",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate Labor Committee",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Philippine Statistics Authority",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Public Works",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:37:11.707+02:00",
+    "updated": "2025-01-10T05:37:11.707+02:00"
+}

@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "4c426fdb30b00dee6835949b0b168dc2b76ba3b2",
+        "url": "https://www.ukrinform.net/rubric-defense/3946929-zelensky-additional-support-packages-worth-2b-agreed-at-ramstein.html",
+        "site_full": "www.ukrinform.net",
+        "site": "ukrinform.net",
+        "site_section": "https://www.ukrinform.net/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news",
+        "title": "Zelensky: Additional support packages worth $2B agreed at Ramstein",
+        "title_full": "Zelensky: Additional support packages worth $2B agreed at Ramstein",
+        "published": "2025-01-09T20:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "LV",
+        "main_image": "https://static.ukrinform.com/photos/2025_01/thumb_files/630_360_1736350481-745.jpg",
+        "performance_score": 0,
+        "domain_rank": 14496,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c426fdb30b00dee6835949b0b168dc2b76ba3b2",
+    "url": "https://www.ukrinform.net/rubric-defense/3946929-zelensky-additional-support-packages-worth-2b-agreed-at-ramstein.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrinform",
+    "published": "2025-01-09T20:36:00.000+02:00",
+    "title": "Zelensky: Additional support packages worth $2B agreed at Ramstein",
+    "text": "The head of state spoke with journalists in Italy, commenting on the results of the meeting, Ukrinform reports. \"I’d like to thank all partners, all defense chiefs, that's 50 countries plus. We had a very good meeting today and a very good result. Additional packages worth $2 billion to support Ukraine, plus, which is very important, eight capability coalitions. This is already on paper. Thirty-four countries already support these strategic coalitions,\" Zelensky said.\nRead also: Zelensky, Rutte discuss strengthening Ukraine's air defense, purchasing weapons based on Danish model According to the president, all this certainly strengthens Ukraine.\n\"I am very glad that so many countries joined immediately. They will stand with us. Today, the strategy for 2025+ was approved. We understand that our Army will be strengthened with all these weapons, all these packages,” the president said.\nHe also reported that during the meeting, the question of whether the Ramstein format will be extended was not raised. “Because everyone understands that the next meeting is in February, everyone has already agreed on this. This platform, where such a large number of countries meet, is important for us. It is important that it continues its work,” the head of state emphasized.\nHe added that the question is not in the title – the main thing is that important decisions are made there regarding support for Ukraine.\nAmong the important results of the Ramstein meeting, Volodymyr Zelensky named the guaranteed supplies of additional air defense systems.\nRead also: Ramstein : Canada lays down over $300M in security aid to Ukraine “We have confirmation, we have support. Not all 19 systems (previously the President stated that this many Patriot systems were lacking to completely close the sky from Russian missiles - ed.), I will say it frankly, but there is a fairly serious number of systems that partners have guaranteed. We will work to ensure that the systems arrive faster,\" he said.\nAs Ukrinform reported, today the 25th meeting of the Ukraine Defense Contact Group was held at the American military base Ramstein in Germany, chaired by the United States, with the participation of the military leadership from 50 countries, the President of Ukraine, the NATO Secretary General, and other leaders.\nTop news Norway to provide over EUR 2B in military aid to Ukraine in 2025 - Umerov Ramstein: Canada lays down over $300M in security aid to Ukraine Warsaw preparing another package of security aid for Kyiv Norway slates over $60M to buy drones for Ukraine More news Top news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->political development",
+        "Politics->international relations",
+        "Politics->government",
+        "War, Conflict and Unrest->international military intervention",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zelensky",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Rutte",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ramstein",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:30:43.421+02:00",
+    "updated": "2025-01-10T03:26:28.737+02:00"
+}

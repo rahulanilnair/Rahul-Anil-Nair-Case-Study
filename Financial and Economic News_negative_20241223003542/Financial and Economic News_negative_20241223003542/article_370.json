@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "9180e984bec6946205794e67bc4cb811a343d509",
+        "url": "https://tribune.com.pk/story/2516596/psx-turns-bearish-after-index-briefly-crosses-117k-mark",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "International News, Latest News, Breaking News  | The Express Tribune",
+        "title": "PSX turns bearish after Index briefly crosses 117k mark",
+        "title_full": "PSX turns bearish after Index briefly crosses 117k mark",
+        "published": "2024-12-17T10:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/PSX1734388779-0/PSX1734388779-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 4030,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9180e984bec6946205794e67bc4cb811a343d509",
+    "url": "https://tribune.com.pk/story/2516596/psx-turns-bearish-after-index-briefly-crosses-117k-mark",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Desk",
+    "published": "2024-12-17T10:12:00.000+02:00",
+    "title": "PSX turns bearish after Index briefly crosses 117k mark",
+    "text": "The Pakistan stock exchange witnessed a downturn today, the benchmark KSE-100 Index concluded Tuesday's trading session at 114.860.68, marking a decline of 1.13%.\nThe index fluctuated throughout the day showing an intraday high of 117,039.17 and a low of 113,688.54 points.\nThe market closed with a significant drop of 1,308.73 points, ending at 114,860.68, compared to the previous close of 116,169.41.\nThe total volume of shares traded stood at 547,160,464, reflecting a value of Rs46.51 billion.\nYesterday, the [Pakistan Stock Exchange ](https://tribune.com.pk/story/2516466/psx-soars-on-rate-cut-optimism)(PSX) experienced a significant surge on Monday, driven by strong investor optimism and expectations of a major rate cut by the State Bank of Pakistan (SBP).\nThis rally was fueled by low inflation, decreasing short-term government bond yields, and easing political tensions. Key sectors such as autos, energy, and refineries saw strong buying activity, contributing to the positive market sentiment.\nAt the close of trading, the benchmark KSE-100 index gained 1,867.61 points (1.63%), reaching 116,169.41.\nThe surge was led by top-performing stocks like Mari Petroleum, Fauji Fertiliser, and Oil and Gas Development Company, which collectively added 1,749 points to the index. The market saw robust trading volume with over 1.4 billion shares exchanged.\nInvestor confidence is high ahead of the SBP's monetary policy review, with expectations of rate cuts boosting the market’s momentum.\nWhile 246 stocks rose, 194 declined, and 37 remained unchanged. WorldCall Telecom led the volume charts, with 403 million shares traded.\nHowever, foreign investors sold shares worth Rs473.2 million during the session. Overall, the market is expected to maintain its positive trajectory, fueled by anticipated rate cuts and growing investor confidence.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our [Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "State Bank",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T13:16:40.482+02:00",
+    "updated": "2024-12-17T13:16:40.482+02:00"
+}

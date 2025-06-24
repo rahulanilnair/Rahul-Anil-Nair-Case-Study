@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "666ee85f6460352367c865881461dd4cff5099c1",
+        "url": "https://english.nv.ua/business/cheers-at-a-cost-alcohol-prices-in-russia-set-for-steep-new-year-hike-50474840.html",
+        "site_full": "english.nv.ua",
+        "site": "nv.ua",
+        "site_section": "https://english.nv.ua",
+        "site_categories": [
+            "top_news_cz",
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "Ukraine News Premier Independent English-language Source — The New Voice of Ukraine",
+        "title": "Cheers at a cost: Alcohol prices in Russia set for steep New Year hike / The New Voice of Ukraine",
+        "title_full": "Cheers at a cost: Alcohol prices in Russia set for steep New Year hike / The New Voice of Ukraine",
+        "published": "2024-12-17T11:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://static.nv.ua/shared/system/Article/posters/003/005/063/original/5fdd78514dd34375fd68f858446831f1.jpg?q=85&amp;stamp=20241217120525",
+        "performance_score": 0,
+        "domain_rank": 8137,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "666ee85f6460352367c865881461dd4cff5099c1",
+    "url": "https://english.nv.ua/business/cheers-at-a-cost-alcohol-prices-in-russia-set-for-steep-new-year-hike-50474840.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@tweetsNV",
+    "published": "2024-12-17T11:04:00.000+02:00",
+    "title": "Cheers at a cost: Alcohol prices in Russia set for steep New Year hike / The New Voice of Ukraine",
+    "text": "The price of vodka will rise by 50 rubles (50 cents), or 17%, to 349 rubles ($3.38) per 0.5 liter, while the minimum price for cognac will increase by 95 rubles (93 cents) to 651 rubles ($6.31) per half liter.Brandy and similar drinks based on distillates (wine, fruit, rum and others) will also see an increase, costing at least 472 rubles ($4.6) per 0.5 liters, compared to the current 403 rubles ($3.92). The initial cost of other alcoholic beverages with an alcohol content of more than 28%, excluding vodka, will range from 277 ($2.7) to 504 ($4.9) rubles at retail, depending on the strength.The Finance Ministry's decision, which will be valid until Dec. 31, 2030, comes after the previous increase in minimum alcohol prices in June 2024. Since the beginning of 2024, the prices of vodka, cognac and brandy have already increased by 6.4%, 7.5% and 7.46% respectively. These price adjustments come alongside sharp increases in gas tariffs to compensate for Gazprom's 629 billion ruble ($6.1 billion) loss last year.On June 13. the independent Russian publication Verstka reported that since the start of Russia’s extensive invasion of Ukraine, top Russian officials, politicians, and influential government-aligned businesspeople had noticeably increased their alcohol consumption.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Finance Ministry",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gazprom",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:38:00.149+02:00",
+    "updated": "2024-12-17T12:38:00.149+02:00"
+}

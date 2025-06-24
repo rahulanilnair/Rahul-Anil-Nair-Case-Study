@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "c03396ecd2ac2b64119e5eeb1c53939f642e707f",
+        "url": "https://www.devdiscourse.com/article/law-order/3220944-ukraine-secures-2-billion-boost-in-military-aid-against-russia",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Ukraine Secures $2 Billion Boost in Military Aid Against Russia | Law-Order",
+        "title_full": "Ukraine Secures $2 Billion Boost in Military Aid Against Russia | Law-Order",
+        "published": "2025-01-10T00:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_19_50_21_1887537.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 8711,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c03396ecd2ac2b64119e5eeb1c53939f642e707f",
+    "url": "https://www.devdiscourse.com/article/law-order/3220944-ukraine-secures-2-billion-boost-in-military-aid-against-russia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-10T00:38:00.000+02:00",
+    "title": "Ukraine Secures $2 Billion Boost in Military Aid Against Russia | Law-Order",
+    "text": "Ukraine Secures $2 Billion Boost in Military Aid Against Russia\nUkrainian President Volodymyr Zelenskiy announced new military aid worth $2 billion from his Western allies after a meeting in Germany. The support, pledged by 34 countries, includes crucial defense systems and aims to strengthen Ukraine's ongoing fight against Russia.\nUkrainian President Volodymyr Zelenskiy revealed that his latest meeting with Western allies, held in Germany, concluded with a commitment of $2 billion in military aid to support the war against Russia. Speaking after the meeting, Zelenskiy noted that 34 countries have pledged various forms of assistance to reinforce Ukraine's defense capabilities over the course of the ongoing 34-month conflict.\nDuring a broadcast on My-Ukraina television, Zelenskiy confirmed that the aid includes enhancements for air defense, naval forces, and artillery, among other sectors, all of which are critical for Ukraine's continued resistance. The Ukrainian leader refrained from naming specifics on the countries involved in these pledges.\nAdditionally, U.S. Secretary of State Antony Blinken announced that the United States will contribute an additional $500 million, focusing on air defense missiles and support equipment for F-16 jets. Zelenskiy also held discussions with Italian Prime Minister Giorgia Meloni in Rome, aiming to solidify air defense strategies and unify efforts towards a peaceful resolution to the ongoing conflict.\n(With inputs from agencies.)\nALSO READ\n[Azerbaijan Airlines Tragedy: Russian Air Defense Implicated](/article/business/3207298-azerbaijan-airlines-tragedy-russian-air-defense-implicated)[Azerbaijan in Mourning: Aviation Tragedy Sparks Air Defense Concerns](/article/business/3207598-azerbaijan-in-mourning-aviation-tragedy-sparks-air-defense-concerns)[Russian Air Defense Systems Implicated in Azerbaijani Airliner Crash](/article/business/3208675-russian-air-defense-systems-implicated-in-azerbaijani-airliner-crash)[Ukrainian Air Defense Triumphs Over Russian Drone Assault](/article/law-order/3212018-ukrainian-air-defense-triumphs-over-russian-drone-assault)[Kyiv's Air Defenses Thwart Early Morning Russian Attack](/article/law-order/3211156-kyivs-air-defenses-thwart-early-morning-russian-attack)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->defence",
+        "War, Conflict and Unrest->war",
+        "War, Conflict and Unrest->military occupation",
+        "War, Conflict and Unrest->international military intervention",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelenskiy",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:43:47.995+02:00",
+    "updated": "2025-01-10T03:43:47.995+02:00"
+}

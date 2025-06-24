@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "1b95b2d037afa749a49bcecb00bba5a40a7289a5",
+        "url": "https://www.thejakartapost.com/business/2024/12/17/idx-composite-drops-for-fourth-consecutive-day.html",
+        "site_full": "www.thejakartapost.com",
+        "site": "thejakartapost.com",
+        "site_section": "https://www.thejakartapost.com/business",
+        "site_categories": [
+            "media",
+            "top_news_id",
+            "top_news"
+        ],
+        "section_title": "Business - The Jakarta Post",
+        "title": "IDX Composite drops for fourth consecutive day",
+        "title_full": "IDX Composite drops for fourth consecutive day",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ID",
+        "main_image": "https://img.jakpost.net/c/2024/10/18/2024_10_18_156255_1729248253._large.jpg",
+        "performance_score": 0,
+        "domain_rank": 3514,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b95b2d037afa749a49bcecb00bba5a40a7289a5",
+    "url": "https://www.thejakartapost.com/business/2024/12/17/idx-composite-drops-for-fourth-consecutive-day.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Jakarta Post",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "IDX Composite drops for fourth consecutive day",
+    "text": "The IDX Composite index slid 1.39 percent to close at 7,157.73 on Tuesday, with broad declines across all sectors as investor sentiment toward the planned VAT increase weighed heavily on the market.\nhe Indonesia Stock Exchange (IDX) Composite index ended in the red on Tuesday, falling by 1.39 percent to close at 7,157.73. This marked the index's fourth consecutive day of losses.\nTotal trading volume for the day reached 18.19 billion shares, with a transaction value of Rp 11.4 trillion (US$740 million). Of the 786 stocks traded, 441 declined, 157 increased and 188 remained unchanged.\nThe market saw significant weakness across the board, with the industrial sector leading the losses, dropping by 2.32 percent.\nThe raw materials sector followed closely, falling by 1.87 percent, while the financial sector also took a hit, losing 1.56 percent. The primary consumer goods sector declined by 1.51 percent, and the energy sector fell 1.49 percent.\nOther notable losses included the transportation and logistics sector, which lost by 1.41 percent, the technology sector by 1.39 percent and the property and real estate sector by 1.10 percent.\nThe top gainers in the LQ45 index were PT Bukalapak.com (BUKA), which rose by 0.57 percent, PT Barito Pacific (BRPT), up 0.57 percent and PT XL Axiata (EXCL), which gained 0.44 percent.\nOn the downside, PT United Tractors (UNTR) led the losses, plunging by 6.33 percent. It was followed by PT AKR Corporindo (AKRA), which fell by 4.30 percent and PT Sumber Alfaria Trijaya (AMRT), which dropped 4.04 percent.\nInvestor sentiment was weighed down by ongoing concerns surrounding the government's planned value added tax (VAT) increase to 12 percent, which will take effect in 2025, and potential economic slowdowns.\nThe government has announced several measures to ease the impact, including tax incentives for lower-income workers in certain sectors. However, investors remain cautious about the potential burden on purchasing power.\nThe broader market also faces external headwinds, with a potential rate cut by the United States Federal Reserve fueling mixed market expectations.\n\"The Asian regional stock exchange moved lower ahead of the Fed's monetary policy decision at the meeting on Dec. 18 local time,\" read Pilarmas Investindo Sekuritas’s research note on Tuesday, as quoted by the Antara news agency.\nAlthough there is speculation about the Fed cutting interest rates by 25 basis points at its upcoming meeting, concerns about inflation and trade tensions, particularly related to Donald Trump's election in the United States, continue to cloud market sentiment.\nAs the year-end approaches, the market is closely watching both domestic policy developments and global economic indicators to gauge the outlook for 2025.\nShare your experiences, suggestions, and any issues you've encountered on The Jakarta Post. We're here to listen.\nThank you for sharing your thoughts. We appreciate your feedback.\nQuickly share this news with your network—keep everyone informed with just a single click!\nShare the best of The Jakarta Post with friends, family, or colleagues. As a subscriber, you can gift 3 to 5 articles each month that anyone can read—no subscription needed!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Indonesia Stock Exchange",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:43:00.235+02:00",
+    "updated": "2024-12-17T15:43:00.235+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "44568d99631cb9546422532f2ea1052719809dfb",
+        "url": "https://www.newsbreak.com/news/3753498011964-ohio-lottery-player-in-cincinnati-celebrates-214k-win",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/florence-ky",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Florence, KY Local News and More | NewsBreak",
+        "title": "Ohio Lottery player in Cincinnati celebrates $214K win - NewsBreak",
+        "title_full": "Ohio Lottery player in Cincinnati celebrates $214K win - NewsBreak",
+        "published": "2025-01-10T04:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2HYm3t_0y26XxjF00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "44568d99631cb9546422532f2ea1052719809dfb",
+    "url": "https://www.newsbreak.com/news/3753498011964-ohio-lottery-player-in-cincinnati-celebrates-214k-win",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Weather Authority App",
+    "published": "2025-01-10T04:13:00.000+02:00",
+    "title": "Ohio Lottery player in Cincinnati celebrates $214K win - NewsBreak",
+    "text": "By The Weather Authority App ,\n2 hours ago CINCINNATI (WKRC) – An Ohio Lottery player in Cincinnati won $214,000 inthe January 8 Rolling Cash 5drawing. The winner will take home approximately $154,080 after mandatory state and federal taxes totaling 28 percent. The winning ticket was sold at Murray Bros Old Time Str #2, located at 4444 Montgomery... Read full article\nRead in NewsBreak 5",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->media and entertainment industry",
+        "Economy, Business and Finance->consumer goods",
+        "Human Interest->record and achievement",
+        "Social Issue->adults",
+        "Social Issue->poverty",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:18:00.512+02:00",
+    "updated": "2025-01-10T06:40:36.138+02:00"
+}

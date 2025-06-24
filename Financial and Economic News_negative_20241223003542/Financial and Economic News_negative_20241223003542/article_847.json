@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "b6e3d584c8490f5cbc4c6f3d634be06b1c8d0abc",
+        "url": "https://www.mpamag.com/ca/news/general/bank-of-canada-the-future-is-more-prone-to-shocks-than-wed-like/518417",
+        "site_full": "www.mpamag.com",
+        "site": "mpamag.com",
+        "site_section": "https://www.mpamag.com/ca/rss",
+        "site_categories": [
+            "real_estate",
+            "home_and_garden",
+            "buying_selling_homes",
+            "remodeling_and_construction"
+        ],
+        "section_title": "Canadian Mortgage Professional",
+        "title": "Bank of Canada: 'The future is more prone to shocks than we'd like'",
+        "title_full": "Bank of Canada: 'The future is more prone to shocks than we'd like'",
+        "published": "2024-12-17T14:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://cdn-res.keymedia.com/cms/images/us/074/0321_638700371775098335.jpg",
+        "performance_score": 0,
+        "domain_rank": 24581,
+        "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b6e3d584c8490f5cbc4c6f3d634be06b1c8d0abc",
+    "url": "https://www.mpamag.com/ca/news/general/bank-of-canada-the-future-is-more-prone-to-shocks-than-wed-like/518417",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Candyd Mendoza",
+    "published": "2024-12-17T14:59:00.000+02:00",
+    "title": "Bank of Canada: 'The future is more prone to shocks than we'd like'",
+    "text": "BoC outlines key steps to strengthen economic defences amid rising risks\nThe global economy is becoming increasingly vulnerable to shocks, and the Bank of Canada is taking steps to prepare for the uncertainty ahead, Governor Tiff Macklem said in his final speech of the year on Monday.\n“The future looks more uncertain, and more prone to shocks than we would all like. We need to be prepared. And that work is underway,” Macklem told the Greater Vancouver Board of Trade.\nMacklem said that deglobalization, demographic shifts, digitalization, and decarbonization are creating significant changes for jobs, economic growth, and inflation. At the same time, rising trade protectionism and economic fragmentation are adding to the challenges.\nThe central bank’s priorities for 2025 include strengthening partnerships with international counterparts, improving its economic analysis tools to better respond to inevitable economic shocks, and ensuring its monetary policy framework remains effective.\nMacklem stressed that the combination of higher sovereign debt, elevated long-term interest rates, and slower economic growth is leaving the global economy increasingly vulnerable. He also pointed to war, geopolitical tensions, and the rising threat of protectionism as compounding these risks.\n“The democracies of the G7 will be stronger if we confront our shared economic security issues together,” Macklem said.\nMacklem also addressed the bank’s decision last week to cut its key policy rate by 50 basis points to 3.25% in an effort to slow down economic growth. While rates have come down, Macklem cautioned that further cuts would come at a slower, more measured pace.\nRead next:\nCanada's new mortgage rules are here: Insights from brokers\nHe noted that inflation has reached the Bank of Canada’s target of 2%, and household spending has started to recover. However, Macklem maintained a cautious tone.\n“Monetary policy has worked to restore low inflation. Interest rates have come down substantially, and household spending has begun to pick up. But I am not here to give a victory speech,” he said.\nMake sure to get all the latest news to your inbox on Canada’s mortgage and housing markets by signing up for our free daily newsletter\nhere.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tiff Macklem",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greater Vancouver Board of Trade",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bank of Canada",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T15:36:41.344+02:00",
+    "updated": "2024-12-17T15:36:41.344+02:00"
+}

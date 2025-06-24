@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "a8681813afbbfb675bab4a510464cec958df713b",
+        "url": "https://www.businesstoday.com.my/2025/01/10/og-resilience-to-continue-into-2025-analysts-say",
+        "site_full": "www.businesstoday.com.my",
+        "site": "businesstoday.com.my",
+        "site_section": "https://www.businesstoday.com.my",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "BusinessToday | Malaysia&#039;s Premier Business News Portal",
+        "title": "O&G Resilience To Continue Into 2025, Analysts Say",
+        "title_full": "O&G Resilience To Continue Into 2025, Analysts Say",
+        "published": "2025-01-10T04:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 65704,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a8681813afbbfb675bab4a510464cec958df713b",
+    "url": "https://www.businesstoday.com.my/2025/01/10/og-resilience-to-continue-into-2025-analysts-say",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Business Today Editorial",
+    "published": "2025-01-10T04:10:00.000+02:00",
+    "title": "O&G Resilience To Continue Into 2025, Analysts Say",
+    "text": "MIDF Amanah Investment Bank Bhd (MIDF Research) has maintained a POSITIVE call on the oil and gas (O&G) sector, citing strong resilience in the upstream and midstream segments despite a volatile market environment in 2024. The research house highlighted a challenging year for crude oil prices, with Brent crude averaging US$79.89 per barrel, down 2.7% from 2023.\nHowever, natural gas showed a positive trajectory, with Henry Hub prices rising 34% year-on-year in the fourth quarter due to a colder winter and tighter supply conditions.\nIn the upstream segment, global production surged, bolstered by advancements in US shale production and increased capital expenditure investment. Total global upstream spending exceeded US$600 billion in 2024, with significant contributions from Latin America, North America, and the Middle East.\nMalaysia’s upstream activities also gained momentum, which was supported by new discoveries in the Malay Basin and Sarawak. Four Production Sharing Contracts were awarded by Petronas Carigali in the fourth quarter, underscoring the country’s efforts to enhance energy security and sustainability.\nThe midstream segment demonstrated stability, benefiting from robust liquefied natural gas (LNG) demand and significant mergers and acquisitions. MIDF Research noted that midstream players achieved an average total return of 21% in 2024, driven by stable charter rates and increased investments in newbuilds. QatarEnergy’s commitment to constructing 128 LNG carriers further emphasised the long-term optimism in the LNG market. In Malaysia, the Rosmari-Marjoram gas project and Sabah’s near-shore floating LNG facility have positioned the country as a key regional player in LNG exports.\nDownstream activities faced mixed results, with the petrochemicals subsector continuing to grapple with delayed recovery due to feedstock price volatility and supply-demand imbalances. However, decarbonisation initiatives, such as green fuel projects and specialty chemical production, provided some resilience. Demand for jet fuel, Mogas, and Diesel was buoyed by increased travel activity, although uncertainties surrounding subsidies and market competition remain.\nFor stock picks, MIDF Research maintained a BUY rating on MISC Bhd with a target price of RM8.95, citing resilient earnings and long-term contractual stability. Bumi Armada Bhd was also reiterated as a BUY with a target price of 88 sen, backed by its global presence in the FPSO market and growth potential from new projects and mergers.\nMIDF Research expects the O&G sector to remain resilient in 2025, albeit with lower Brent crude price forecasts ranging between US$76 and US$80 per barrel. The midstream segment is poised for growth, supported by sustained LNG demand and emerging opportunities in carbon capture and hydrogen projects. While downstream challenges persist, the sector’s focus on energy transition and decarbonisation initiatives is expected to provide long-term benefits.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->energy and resource",
+        "Science and Technology->scientific research",
+        "Science and Technology->technology and engineering",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "MIDF Amanah Investment Bank Bhd",
+                "sentiment": "negative"
+            },
+            {
+                "name": "MIDF Research",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Petronas Carigali",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Malay Basin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sarawak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Latin",
+                "sentiment": "none"
+            },
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:44:05.887+02:00",
+    "updated": "2025-01-10T04:44:05.887+02:00"
+}

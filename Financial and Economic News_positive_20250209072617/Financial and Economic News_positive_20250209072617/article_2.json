@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "a018842d68fc20254bc185a6e60730ec07d6e0b5",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1522",
+        "site_full": "mikejohnson.house.gov",
+        "site": "house.gov",
+        "site_section": "https://mikejohnson.house.gov",
+        "site_categories": [],
+        "section_title": "\r\n\tU.S. Congressman Mike Johnson\r\n",
+        "title": "Speaker Johnson Commends House Passage of Sanctions on International Criminal Court | U.S. Congressman Mike Johnson",
+        "title_full": "Speaker Johnson Commends House Passage of Sanctions on International Criminal Court | U.S. Congressman Mike Johnson",
+        "published": "2025-01-09T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://mikejohnson.house.gov/images/facebook-meta.jpg",
+        "performance_score": 0,
+        "domain_rank": 448,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a018842d68fc20254bc185a6e60730ec07d6e0b5",
+    "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1522",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "title": "Speaker Johnson Commends House Passage of Sanctions on International Criminal Court | U.S. Congressman Mike Johnson",
+    "text": "Speaker Johnson Commends House Passage of Sanctions on International Criminal Court\nWashington,\nJanuary 9, 2025\nWASHINGTON — Today, Speaker Johnson released the following statement after the House passed The Illegitimate Court Counteraction Act will impose sanctions on the International Criminal Court (ICC) or any foreign actor who supports the ICC’s effort to investigate, arrest, detain, or prosecute protected persons of the United States and its allies, including Prime Minister Netanyahu and Defense Minister Gallant. “Today, on a bipartisan basis, the House voted to impose sanctions on ICC officials and put the ICC prosecutor, Karim Khan, back in his place. The ICC has zero jurisdiction over Israel, yet they continue to pursue arrest warrants for Israeli Prime Minister Netanyahu and Defense Minister Gallant. What’s worse, they continue to falsely equate the democratic government of Israel with the terrorist regime of Hamas, even as Hamas still holds Israelis and Americans hostage in underground tunnels. “The House of Representatives will not tolerate rogue actors who circumvent international law in an effort to attack Israel and threaten America. We look forward to this bipartisan bill making its way through the Senate and to President Trump’s desk. America has returned to a position of strength and once again supports Israel without equivocation.” ### |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->political process",
+        "Politics->international relations",
+        "Politics->government",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Johnson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Janu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Karim Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Netanyahu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House Passage of Sanctions on International Criminal Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            },
+            {
+                "name": "House",
+                "sentiment": "none"
+            },
+            {
+                "name": "ICC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:01:13.907+02:00",
+    "updated": "2025-01-10T00:01:13.907+02:00"
+}

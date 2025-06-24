@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "acb81b79f98ea58df8013a50ee89fce57c8cda15",
+        "url": "https://www.gurufocus.com/news/2651672/amazons-new-ventures-and-investments-highlight-strategic-growth",
+        "site_full": "www.gurufocus.com",
+        "site": "gurufocus.com",
+        "site_section": "http://feeds.feedburner.com/gurufocusarticles",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "GuruFocus New Articles",
+        "title": "Amazon's New Ventures and Investments Highlight Strategic Growth",
+        "title_full": "Amazon's New Ventures and Investments Highlight Strategic Growth",
+        "published": "2025-01-09T21:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.gurufocus.com/1400543269988880384.jpeg",
+        "performance_score": 0,
+        "domain_rank": 9732,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "acb81b79f98ea58df8013a50ee89fce57c8cda15",
+    "url": "https://www.gurufocus.com/news/2651672/amazons-new-ventures-and-investments-highlight-strategic-growth",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@gurufocus",
+    "published": "2025-01-09T21:30:00.000+02:00",
+    "title": "Amazon's New Ventures and Investments Highlight Strategic Growth",
+    "text": "With big expenditures and projects meant to increase its profitability and competitive advantage, Amazon (AMZN, Financials) is expanding its portfolio. Over the previous 24 hours, the business has made many announcements on infrastructure development, product introductions, and advertising.\nAmazon is launching the Retail Ad Service beta, a tool letting other stores use its advertising software. Using machine learning models educated on vast buying data, the service helps companies to put advertising on outside websites. By use of retail media advertising, this growth helps Amazon to make money and get useful data from outside merchants.\nA division of Amazon, Amazon Web Services revealed intentions to commit at least $11 billion in cloud and artificial intelligence infrastructure in Georgia. The investment will increase technical and support jobs in supply chain management and construction as well as boost generative artificial intelligence capabilities. With $18.5 billion invested in the state since 2010, this project marks Amazon's continuation of its pattern of significant state expenditure.\nUnder direction by Brett Ratner, the business is also getting ready to license a $40 million documentary on Melania Trump. Following a limited theatrical release, the project—which will broadcast on Amazon Prime Video—offers a behind-the-scenes view of her life and First Lady responsibilities.\nWith the publication of more than 6,000 new winter fashion goods and its 2025 top 100 products list, Amazon's retail division stays fresh. Highlights include creative kitchen basics and practical winter clothing, therefore meeting a broad spectrum of customer demands.\nEmphasizing better cooperation and connection under CEO Andy Jassy, Amazon has also implemented a five-day return-to-office policy for staff.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->economics",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:55:14.510+02:00",
+    "updated": "2025-01-10T00:55:14.510+02:00"
+}

@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "9a4dbf2063002ed7764b0b5c965d2b43da577fc3",
+        "url": "https://en.tempo.co/read/1962312/gradual-retirement-age-increase-indonesian-workers-now-retire-at-59",
+        "site_full": "en.tempo.co",
+        "site": "tempo.co",
+        "site_section": "https://rss.tempo.co/",
+        "site_categories": [
+            "media",
+            "top_news_id",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Tempo.co RSS",
+        "title": "Gradual Retirement Age Increase: Indonesian Workers Now Retire at 59",
+        "title_full": "Gradual Retirement Age Increase: Indonesian Workers Now Retire at 59",
+        "published": "2025-01-10T00:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ID",
+        "main_image": "https://statik.tempo.co/data/2023/10/11/id_1244370/1244370_720.jpg?rand=5",
+        "performance_score": 0,
+        "domain_rank": 6105,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 5
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a4dbf2063002ed7764b0b5c965d2b43da577fc3",
+    "url": "https://en.tempo.co/read/1962312/gradual-retirement-age-increase-indonesian-workers-now-retire-at-59",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dewi Elvia Muthiariny",
+    "published": "2025-01-10T00:16:00.000+02:00",
+    "title": "Gradual Retirement Age Increase: Indonesian Workers Now Retire at 59",
+    "text": "Gradual Retirement Age Increase: Indonesian Workers Now Retire at 59\nReporter\nJanuary 10, 2025 | 12:16 pm\nTEMPO.CO, Jakarta - As of January 1, 2025, the retirement age for workers in Indonesia has officially increased to 59 years. This adjustment is part of the implementation of Government Regulation (PP) Number 45 of 2015 concerning the Implementation of the Pension Guarantee Program.\nThis regulation serves as the legal framework for the Pension Guarantee program, which is managed by the Employment Social Security Administering Agency (BPJS TK).\nArticle 15, paragraph (3) of PP Number 45 of 2015 states: “The retirement age as referred to in paragraph (2) shall then increase by 1 (one) year for every subsequent 3 (three) years until reaching a retirement age of 65 (sixty-five) years.”\nThe initial implementation of this PP, issued by President Joko \"Jokowi\" Widodo on June 30, 2015, established a retirement age of 56 years. Subsequently, the retirement age was gradually increased: to 57 years on January 1, 2019, and to 58 years on January 1, 2022. This phased approach ensures a smooth transition for both workers and employers as the retirement age gradually approaches the target of 65 years.\nThe Pension Guarantee Program administered by BPJS TK is designed to provide social protection to workers and their beneficiaries. This program aims to guarantee a decent income for workers upon reaching retirement age, experiencing permanent total disability, or in the event of their demise.\nFurthermore, this program offers flexibility by allowing workers who have attained the retirement age to continue their employment for a maximum of three years beyond the official retirement age. This flexibility not only empowers capable and willing workers to continue contributing to the workforce but also provides companies with the opportunity to retain experienced and skilled personnel.\nIn 2025, workers who have reached the age of 59 will officially retire and become eligible to receive Pension Insurance benefits from BPJS TK. Conversely, workers currently aged 58 will not retire until 2026 when they reach the newly established retirement age of 59.\nThis gradual increase in the retirement age provides workers with valuable additional time to diligently prepare their pension funds, thereby ensuring a more comfortable and secure retirement. Moreover, this policy supports the long-term sustainability of the pension fund itself, which is one of the government's main focuses.\nThe extension of the retirement age limit is part of the government’s long-term initiative to ensure the continued sustainability and relevance of the Indonesian social security system in the face of evolving economic and social landscapes.\nThis policy is also expected to enhance social protection for retired workers while supporting national economic stability. By gradually increasing the retirement age to 59 years in 2025, the government aims to maximize the benefits of the Pension Insurance program for workers while encouraging the contributions of experienced workers within the workforce.\nEditor’s Choice: How to Plan for Retirement: The Steps and Retirement Checklist\nClick here to get the latest news updates from Tempo on Google News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Widodo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Employment Social Security Administering Agency",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:31:29.258+02:00",
+    "updated": "2025-01-10T08:31:29.258+02:00"
+}

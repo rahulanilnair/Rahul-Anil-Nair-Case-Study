@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "77b232b39bad5f4caecd655a64695b860c311576",
+        "url": "https://www.achrnews.com/articles/163963-illinois-lobbies-to-protect-federal-loans-for-ev-manufacturing",
+        "site_full": "www.achrnews.com",
+        "site": "achrnews.com",
+        "site_section": "http://www.achrnews.com/rss/articles",
+        "site_categories": [
+            "home_and_garden",
+            "appliances"
+        ],
+        "section_title": "ACHR News",
+        "title": "Illinois Lobbies to Protect Federal Loans for EV Manufacturing",
+        "title_full": "Illinois Lobbies to Protect Federal Loans for EV Manufacturing",
+        "published": "2025-01-10T00:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.achrnews.com/ext/resources/2025/01-January/JB-Pritzker-1-9-25.jpg?height=635&amp;t=1736464450&amp;width=1200",
+        "performance_score": 0,
+        "domain_rank": 26447,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "77b232b39bad5f4caecd655a64695b860c311576",
+    "url": "https://www.achrnews.com/articles/163963-illinois-lobbies-to-protect-federal-loans-for-ev-manufacturing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Austin Keating",
+    "published": "2025-01-10T00:14:00.000+02:00",
+    "title": "Illinois Lobbies to Protect Federal Loans for EV Manufacturing",
+    "text": "Policies meant to transition automakers into the electric vehicle sector are beginning to bear fruit, as manufacturers like Rivian and Stellantis beat sales estimates in the fourth quarter of 2024. But the political winds are turning.\nAfter automaker Rivian paused construction of a new factory in Georgia, the Biden Administration stepped in to offer a $6.6 billion federal loan. This contingent commitment from the federal government, along with others hurriedly pushed out the door in the waning months of the Biden administration, are now a target for elimination by the incoming Trump administration.\nAt a recent press conference, Illinois Governor JB Pritzker addressed the challenges facing American manufacturers, pledging to protect the funding secured by EV and battery manufacturers under programs funded through the President Biden’s signature Inflation Reduction Act and Bipartisan Infrastructure Law.\n\"We're fighting like heck to make sure [the loan] is secured for the future,\" Pritzker said, raising concerns about potential political interference and suggesting there might be self-dealing at play. While he says Stellantis is likewise receiving $7.54 billion to build 2 electric vehicle battery plants over the border in Indiana, he said it is more solidified.The Department of Government Efficiency under Elon Musk and Vivek Ramaswamy are scrutinizing subsidies in the EV sector.\nAnd Ramaswamy called out Rivian in particular late last year as the Biden administration began announcing more clean energy and EV loans through the Department of Energy. Ramaswamy noted Rivian is “high on the list of items” that he will look to claw back once DOGE begins operations.\n“Last-minute actions that are taking place in the lame duck merit particularly special scrutiny,” Ramaswamy told CNN in December.\nBut Gov. Pritzker called the loans essential for building the infrastructure of the future. The state of Illinois has strongly backed Rivian and Stellantis, offering an $827 million incentive package to expand the former's Normal, Illinois, plant.\n\"For the last four years, we have been trying to figure out how to be better partners to people who are doing big things again in the United States,\" Pritzker said. \"You're seeing a tripling of new manufacturing facilities getting built in this country ... we're at $340 billion of investment this year for clean energy technology deployment.\"\nThe governor challenged the traditional narrative of government non-intervention in private industry.\n\"For a long time, there is this heroic thing in the US, which is like, 'I never had to use the government, I never work with the government, look how cool I am,'\" Pritzker said. \"Never mind that 99.9% of the other folks failed and moved overseas with our tech.\"\nRivian CEO RJ Scaringe defended the public-private partnership at DOE's Industrial Heat Shot Summit in Oct. 2023., noting it helps American EV manufacturers compete globally.\n\"Building a car company ... these are businesses that take a tremendous amount of capital,\" Scaringe explained. \"If you want to start a car company and you're being intellectually honest, you need many, many billions of dollars.\"\nThe company has proven its market appeal, with Scaringe noting the R1S is \"the most popular SUV, electric or non-electric\" in California. With over 100,000 vehicles now on American roads across their several product lines, Rivian is planning even more models.\nThe Department of Energy loan package will help fund increased production capacity at their Georgia facility.\n“There's this feeling that it's always better to innovate here and scale up in China ... But both of you have decided that you're going to do it here,” Pritzker said in reference to Rivian and Stellantis.\nAddressing supply chain concerns, Scaringe detailed the complexity of automotive manufacturing, noting their R1S SUV contains \"about 3,000 purchased items\" and \"well over 30,000 individual parts.\" This highlights the strategic importance of developing domestic manufacturing capability as the U.S. works to reduce dependence on foreign suppliers, particularly for critical minerals and batteries from China.\nIn 2023, Rivian secured a $5.8 billion software licensing deal with Volkswagen Group, which Scaringe cited as validation of American technological leadership.\n\"To see a very long standing, very large, giant automotive group decide to move their software architecture, their technology stack, to something that we developed here, of course, in the U.S., it was really exciting,\" he said.\nRob Hanson, CEO of Monolith Materials, joined Scaringe at the press conference to advocate for continued government support of clean energy innovation.\n\"I think harnessing the American innovation and entrepreneurship to really push forward, but having the right government, state, local, federal, that's accelerating and supporting those companies technologies are ultimately in the national interest,\" Hanson concluded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business financing",
+        "Politics->government policy",
+        "Politics->economic policy",
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "JB Pritzker",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Biden Administration",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:20:12.039+02:00",
+    "updated": "2025-01-10T02:20:12.039+02:00"
+}

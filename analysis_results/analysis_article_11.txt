@@ -1,0 +1,17 @@
+
+============================================================
+📊 FINAL CONSENSUS ANALYSIS - Article 11
+============================================================
+Timestamp: 2025-06-23 05:37:16
+Headline Summary: Gold futures settle higher for 3rd straight day amid concerns about potential tariff hikes and geopolitical worries
+Key Highlights: Investors buy safe-haven asset, dollar gains marginally
+Final Sentiment: Neutral
+Confidence: 78%
+Impact Magnitude: Medium
+Agreement Level: Majority
+Rounds to Consensus: 1
+
+Rationale: risk_analyst: While gold futures are indeed settling higher for a third straight day due to concerns about potential tariff hikes and geopolitical worries, the underlying analysis highlights the dollar also gained marginally. This mixed nature of responses warrants a neutral stance as it suggests both positive and uncertain markets. The confidence level is set to 80 as it reflects cautiousness in the face of contradictory market signals. growth_analyst: 
+
+Discussion Summary: Discussion involved 1 rounds. Consensus reached with 2/3 agents agreeing on Neutral sentiment.
+============================================================

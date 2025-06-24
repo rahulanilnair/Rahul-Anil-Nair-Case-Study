@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "7ec2cc3ba0989665c77e4e28ef58f51d77bd5c31",
+        "url": "https://www.newsbreak.com/cbs-news-510078/3753399400260-pennsylvania-water-authority-removes-lien-wipes-away-8-000-in-back-bills-after-kdka-investigation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bentleyville-pa",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Bentleyville, PA Local News and More | NewsBreak",
+        "title": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - NewsBreak",
+        "title_full": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - NewsBreak",
+        "published": "2025-01-10T02:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4dVbGS_0y20HaF600",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7ec2cc3ba0989665c77e4e28ef58f51d77bd5c31",
+    "url": "https://www.newsbreak.com/cbs-news-510078/3753399400260-pennsylvania-water-authority-removes-lien-wipes-away-8-000-in-back-bills-after-kdka-investigation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:09:00.000+02:00",
+    "title": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - NewsBreak",
+    "text": "Pennsylvania water authority removes lien, wipes away $8,000 in back bills after KDKA investigation - NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->corporate governance and csr",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "KDKA",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:33:34.704+02:00",
+    "updated": "2025-01-10T04:33:34.704+02:00"
+}

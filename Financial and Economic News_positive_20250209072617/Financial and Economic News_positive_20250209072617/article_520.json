@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "d86865289b55729f8f9039f81a36e98c82a501b6",
+        "url": "https://article.wn.com/view/2025/01/10/Tesco_Ireland_sales_hit_13bn_over_busiest_Christmas_season",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://wn.com/europe",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World News - Europe",
+        "title": "Tesco Ireland sales hit €1.3bn over busiest Christmas season - Worldnews.com",
+        "title_full": "Tesco Ireland sales hit €1.3bn over busiest Christmas season - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d86865289b55729f8f9039f81a36e98c82a501b6",
+    "url": "https://article.wn.com/view/2025/01/10/Tesco_Ireland_sales_hit_13bn_over_busiest_Christmas_season",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Tesco Ireland sales hit €1.3bn over busiest Christmas season - Worldnews.com",
+    "text": "Tesco Ireland sales were €1.3bn in the 19 weeks to",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:31:00.313+02:00",
+    "updated": "2025-01-10T05:31:00.313+02:00"
+}

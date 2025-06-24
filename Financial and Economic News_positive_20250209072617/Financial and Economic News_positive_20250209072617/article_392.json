@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "9715f1fc0cbc1582d46707c68d0ff463a5f41673",
+        "url": "https://en.vneconomy.vn/vietnams-2024-unemployment-rate-drops-to-2-24.htm",
+        "site_full": "en.vneconomy.vn",
+        "site": "vneconomy.vn",
+        "site_section": "https://en.vneconomy.vn/society.rss",
+        "site_categories": [
+            "top_news_vn",
+            "top_news"
+        ],
+        "section_title": "VnEconomy - Vietnam Economic Times | VnEconomy",
+        "title": "Vietnam's 2024 unemployment rate drops to 2.24%",
+        "title_full": "Vietnam's 2024 unemployment rate drops to 2.24%",
+        "published": "2025-01-09T19:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "https://media.vneconomy.vn/640x360/images/upload/2025/01/09/lao-dong.jpg",
+        "performance_score": 0,
+        "domain_rank": 30034,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9715f1fc0cbc1582d46707c68d0ff463a5f41673",
+    "url": "https://en.vneconomy.vn/vietnams-2024-unemployment-rate-drops-to-2-24.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nhật Dương -",
+    "published": "2025-01-09T19:30:00.000+02:00",
+    "title": "Vietnam's 2024 unemployment rate drops to 2.24%",
+    "text": "The unemployment rate among working-age population in Vietnam dropped to 2.24% in 2024, equal to some 1.06 million individuals, figures from the General Statistics Office (GSO) show.\nThe figure represents a decrease of 9,000 unemployed people compared to 2023.\nThe unemployment rate in urban area was kept under 3%.\nAs of the end of 2024, the country’s workforce aged 15 and above was 53 million people, up 575,400 year-on-year. This includes 28.25 million males and 24.69 million females, up 383,500 and 191,900 year-on-year, respectively.\nThe GSO also reported that the 2024 average monthly income of contracted workers was VND7.7 million ($304), a year-on-year increase of VND610,000 ($24).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "General Statistics Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "GSO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:54:07.603+02:00",
+    "updated": "2025-01-10T03:54:07.603+02:00"
+}

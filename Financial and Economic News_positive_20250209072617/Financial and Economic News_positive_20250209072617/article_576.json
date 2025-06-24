@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "1ec58fdd66ee52ea9dfafd47325563fa1120baa1",
+        "url": "https://www.wowt.com:443/2025/01/10/nebraska-lawmakers-say-new-bill-would-give-tax-relief-owed-property-owners",
+        "site_full": "www.wowt.com",
+        "site": "wowt.com",
+        "site_section": "https://wowt.com/powernation",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "POWERNATION",
+        "title": "Nebraska lawmakers say new bill would give tax relief owed to property owners",
+        "title_full": "Nebraska lawmakers say new bill would give tax relief owed to property owners",
+        "published": "2025-01-10T05:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/MGBHXJ5ILZFN3FG4ZXQOM6KKUM.jpg?auth=851dec5910a82b225dd2ad80956661bf3f96f00d3c217e83f3ba5862533673e4&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 15899,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1ec58fdd66ee52ea9dfafd47325563fa1120baa1",
+    "url": "https://www.wowt.com:443/2025/01/10/nebraska-lawmakers-say-new-bill-would-give-tax-relief-owed-property-owners",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WOWT6News",
+    "published": "2025-01-10T05:23:00.000+02:00",
+    "title": "Nebraska lawmakers say new bill would give tax relief owed to property owners",
+    "text": "Nebraska lawmakers say new bill would give tax relief owed to property owners\n‘We caused a problem as we set about the solution’\nLINCOLN, Neb. (WOWT) - On Thursday, state Sen. Brian Hardin of Gering and several other lawmakers at the capitol said property owners are owed a good chunk of money.\n“We did not realize that, inadvertently, we caused a problem as we set about the solution,” Hardin said.\nHardin was referring to a bill senators passed during the special session last year,\n[LB34](https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58075), changing the law so property owners would automatically get a tax credit instead of applying for a deduction after the fact.\nHowever, the bill inadvertently made it so when most Nebraskans file their taxes this year, they wouldn’t be able to get a refundable credit offsetting property taxes.\n“What ended up effectively happening was we ended up making life more miserable for the 85 percent of people who did not pay their property taxes in 2023 for 2023,” Hardin said.\n“Knowing every single stakeholder was working in good faith, we now know that Nebraskans are stepping forward to share their stories about how they were negatively impacted by that change in program design,” said Sen. Danielle Conrad of Lincoln.\nAnd they said they’re trying to make it right.\nHardin introduced a new measure,\n[LB81](https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58807), which he said will give taxpayers the credit they should have received.\nPapillion homeowner Nate Haugen said having that tax relief for the missed year would be appreciated.\n“Somebody’s going to spend that money,” Haugen said. “If it’s in the government’s hands, they’re going to spend it guaranteed. If it’s in the homeowner’s hands, I think that they can either save that money or use it to offset the high inflation that we’re seeing at the grocery store or anything that you buy nowadays.”\nIf passed, Hardin said LB81 would cost the state more than $500 million.\nHardin added they will take another look at the bill to make sure those who already did get the tax credit for 2023 don’t get to “double dip”.\nCopyright 2025 WOWT. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58807",
+        "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58075",
+        "https://www.nebraskalegislature.gov/bills/view_bill.php?DocumentID=58807",
+        "https://www.nebraskalegislature.gov/bills/view_bill.php?DocumentID=58075",
+        "https://nebraskalegislature.gov/bills/view_bill.php"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:21:27.635+02:00",
+    "updated": "2025-01-10T06:21:27.635+02:00"
+}

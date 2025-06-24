@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "f8388dd74f653dcf0879a820274f3af0bdb616dd",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ltim-infosys-lead-it-rally-as-stocks-rise-nearly-5-after-tcs-q3-beat/articleshow/117106757.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Markets-Economic Times",
+        "title": "LTIM, Infosys lead IT rally as stocks rise nearly 5% after TCS Q3 beat - The Economic Times",
+        "title_full": "LTIM, Infosys lead IT rally as stocks rise nearly 5% after TCS Q3 beat - The Economic Times",
+        "published": "2025-01-10T04:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-117106728,width-1200,height-630,imgsize-57988,overlay-etmarkets/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 273,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f8388dd74f653dcf0879a820274f3af0bdb616dd",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ltim-infosys-lead-it-rally-as-stocks-rise-nearly-5-after-tcs-q3-beat/articleshow/117106757.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T04:51:00.000+02:00",
+    "title": "LTIM, Infosys lead IT rally as stocks rise nearly 5% after TCS Q3 beat - The Economic Times",
+    "text": "Shares of IT stocks, including Tata Consultancy Services (TCS), LTIMindtree, and Infosys, rallied up to 4.6% on the NSE in intraday trade, buoyed by positive sentiment following TCS's report of a 12% YoY jump in its PAT for the quarter ended December 31, 2024.TCS shares surged the most, rising 4.61% to an intraday high of Rs 4,225, followed by LTIMindtree, which gained 3.72% to reach Rs 6,058, and Tech Mahindra, which rose 3.47% in intraday trade.Persistent Systems shares witnessed intraday gains of 3.05%, rising to a high of Rs 6,367.65.Meanwhile, shares of Mphasis, Infosys, Wipro, and Coforge rallied between 2.4% and 3%.Additionally, HCL Tech shares surged 1.77% to their day's high of Rs 1,968.95, while L&T Technology Services (LTTS) shares jumped 1.64% to Rs 4,959.55.Around 10:10 am, the IT index was trading with a gain of 1.7%, while the broader Nifty 50 index was down by 0.54%, at 23,400.50.Also read: TCS shares rally 5% after Q3 profit rises 12% YoY. Should you buy, sell, or hold?For the third quarter, TCS reported a consolidated net profit of Rs 12,380 crore, compared to Rs 11,058 crore reported in the year-ago period, which was nearly in line with Street estimates of Rs 12,490 crore.Revenue for Q3FY25 increased by 5.6% YoY, driven by robust TCV performance, strong execution, and effective cost management undertaken by the company during the quarter. The topline stood at Rs 63,973 crore, compared to Rs 60,583 crore reported by the IT major in the same quarter of the previous financial year.(Disclaimer: Recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Tata Consultancy Services",
+                "sentiment": "negative"
+            },
+            {
+                "name": "TCS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "negative"
+            },
+            {
+                "name": "L&T Technology Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "HCL Tech",
+                "sentiment": "none"
+            },
+            {
+                "name": "NSE",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:42:16.783+02:00",
+    "updated": "2025-01-10T07:42:16.783+02:00"
+}

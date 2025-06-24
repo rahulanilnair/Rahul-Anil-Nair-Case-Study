@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "1cc51d750f14b79bf63faf93601be61c4b2e96b2",
+        "url": "https://www.wvnews.com/news/wvnews/west-virginia-treasurer-s-office-returns-over-1-6-million-in-unclaimed-property-for-december/article_4953df92-ced6-11ef-8c6f-531ddaa32764.html",
+        "site_full": "www.wvnews.com",
+        "site": "wvnews.com",
+        "site_section": "https://www.wvnews.com/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.wvnews.com - RSS Results",
+        "title": "West Virginia Treasurer's Office Returns Over $1.6 Million in Unclaimed Property for December",
+        "title_full": "West Virginia Treasurer's Office Returns Over $1.6 Million in Unclaimed Property for December",
+        "published": "2025-01-10T00:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/8b/d8bd4556-ced6-11ef-8761-5f917bf707b9/678049ec97ad9.image.jpg?crop=952%2C499%2C136%2C0&amp;resize=952%2C499&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 22485,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1cc51d750f14b79bf63faf93601be61c4b2e96b2",
+    "url": "https://www.wvnews.com/news/wvnews/west-virginia-treasurer-s-office-returns-over-1-6-million-in-unclaimed-property-for-december/article_4953df92-ced6-11ef-8c6f-531ddaa32764.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WV News Report",
+    "published": "2025-01-10T00:08:00.000+02:00",
+    "title": "West Virginia Treasurer's Office Returns Over $1.6 Million in Unclaimed Property for December",
+    "text": "The West Virginia State Treasurer’s Office achieved a significant milestone in December 2024, returning over $1.6 million in unclaimed funds to individuals, businesses, and organizations across the state. This accomplishment reflects ongoing efforts to reconnect West Virginians with money that is rightfully theirs.\nIn December alone, the Unclaimed Property Division returned $1,652,465, distributed across 1,202 claims. These claims encompassed 3,715 individual properties, representing a substantial recovery for the people of West Virginia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:15:05.662+02:00",
+    "updated": "2025-01-10T01:15:05.662+02:00"
+}

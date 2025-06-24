@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "c984140923d31563d15b61a781a8c925474b4560",
+        "url": "https://www.newsbreak.com/fansided-510057/3753225108505-panthers-must-capitalize-on-49ers-cap-crisis-with-perfect-defensive-line-addition",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fansided-510057",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "FanSided&#x27;s Home Page | NewsBreak",
+        "title": "Panthers must capitalize on 49ers' cap crisis with perfect defensive line addition - NewsBreak",
+        "title_full": "Panthers must capitalize on 49ers' cap crisis with perfect defensive line addition - NewsBreak",
+        "published": "2025-01-10T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4IcmoH_0y1qDXzJ00",
+        "performance_score": 0,
+        "domain_rank": 3611,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c984140923d31563d15b61a781a8c925474b4560",
+    "url": "https://www.newsbreak.com/fansided-510057/3753225108505-panthers-must-capitalize-on-49ers-cap-crisis-with-perfect-defensive-line-addition",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dean Jones",
+    "published": "2025-01-10T00:00:00.000+02:00",
+    "title": "Panthers must capitalize on 49ers' cap crisis with perfect defensive line addition - NewsBreak",
+    "text": "By Dean Jones ,\n1 hours ago This is no secret to anyone who followed the Carolina Panthers closely throughout the campaign. Their defense desperately needs a significant makeover when the 2025 recruitment period commences. Ejiro Evero's unit endured a year that will go down in the record books — for all the wrong reasons. The Panthers... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Sport->american football",
+        "Economy, Business and Finance->tourism and leisure industry",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social condition",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dean Jones",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Carolina Panthers",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:23:36.857+02:00",
+    "updated": "2025-01-10T01:23:36.857+02:00"
+}

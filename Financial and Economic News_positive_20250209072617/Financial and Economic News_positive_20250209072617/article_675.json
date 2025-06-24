@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "129755898fc68a4cfb40ab4698f48f7df80900a7",
+        "url": "https://article.wn.com/view/2025/01/10/Remittances_exports_will_stabilise_economy_SBP_chief",
+        "site_full": "article.wn.com",
+        "site": "wn.com",
+        "site_section": "https://www.karachi.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Karachi latest news, current events, headlines",
+        "title": "Remittances, exports will stabilise economy: SBP chief - Worldnews.com",
+        "title_full": "Remittances, exports will stabilise economy: SBP chief - Worldnews.com",
+        "published": "2025-01-10T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3494,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "129755898fc68a4cfb40ab4698f48f7df80900a7",
+    "url": "https://article.wn.com/view/2025/01/10/Remittances_exports_will_stabilise_economy_SBP_chief",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "title": "Remittances, exports will stabilise economy: SBP chief - Worldnews.com",
+    "text": "KARACHI: State Bank Governor Jameel Ahmed expressed hopes on Thursday that an uptick in remittances and dip in inflation would lend stability to the economy this year. The governor was addressing the representatives of trade and industry at the FPCCI building. He said inflation would further decline this month,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->economy",
+        "Politics->economic policy",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jameel Ahmed",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "State Bank",
+                "sentiment": "negative"
+            },
+            {
+                "name": "FPCCI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T07:19:34.037+02:00",
+    "updated": "2025-01-10T07:19:34.037+02:00"
+}

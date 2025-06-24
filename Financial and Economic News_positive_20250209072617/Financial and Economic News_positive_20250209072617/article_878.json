@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "0dc9cda81ad4fa0e28384f85c6a47b7eed2a0c05",
+        "url": "https://www.hurriyetdailynews.com/ai-comes-down-from-the-cloud-as-chips-get-smarter-204542",
+        "site_full": "www.hurriyetdailynews.com",
+        "site": "hurriyetdailynews.com",
+        "site_section": "https://newstral.com/en/article",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Ticker - Newstral.com",
+        "title": "AI comes down from the cloud as chips get smarter - World News",
+        "title_full": "AI comes down from the cloud as chips get smarter - World News",
+        "published": "2025-01-10T08:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://image.hurimg.com/i/hurriyet/75/200x200/6780ba5d80444b7847444e7d.jpg",
+        "performance_score": 0,
+        "domain_rank": 4516,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0dc9cda81ad4fa0e28384f85c6a47b7eed2a0c05",
+    "url": "https://www.hurriyetdailynews.com/ai-comes-down-from-the-cloud-as-chips-get-smarter-204542",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LAS VEGAS",
+    "published": "2025-01-10T08:13:00.000+02:00",
+    "title": "AI comes down from the cloud as chips get smarter - World News",
+    "text": "AI comes down from the cloud as chips get smarter LAS VEGAS An attendee checks their phone while walking past a screen with examples of AI image detection at the DEEPX booth during the Consumer Electronics Show (CES) in Las Vegas, Nevada, on Jan. 9, 2025\nArtificial intelligence is moving from data centers to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home.\nThe Consumer Electronics Show ( CES ) gadget extravaganza closing Friday was rife with PCs and other devices touting AI chips, making them more capable than ever and untethering them from the cloud.\nAttention-grabbing stars included \"AI PCs,\" personal computers boasting chips that promised a level of performance once limited to muscular data centers.\n\"Whatever was running in the cloud last year is running on the edge this year,\" Kamesh Medapalli, senior vice president of innovation and technology at Infineon Technologies, told AFP.\n\"The pattern is already there and will only accelerate; the opportunity is huge on the edge.\"\nNvidia chief executive Jensen Huang got a celebrity reception at CES, where he announced a ramped-up line of graphics processing units (GPUs) that imbue PCs with AI capabilities.\nHuang told a packed arena that nearly all computer makers are working with Nvidia to get ready \"so AI PCs are coming to a home near you.\"\n Home supercomputer\nHuang unveiled \"Project DIGITS,\" described as a personal AI supercomputer.\nIt features a new Nvidia \"superchip\" for prototyping, fine-tuning and running large AI models on desktop computing systems, according to the chip maker.\n\"AI will be mainstream in every application for every industry,\" Huang said.\n\"Placing an AI supercomputer on the desks of every data scientist, AI researcher and student empowers them to engage and shape the age of AI.\"\nProject DIGITS signals that Nvidia's strategy for AI data centers is extending to consumers who want the technology on their own machines, according to University of Pennsylvania computer science professor Benjamin Lee.\n Offline smarts\nInfineon's Medapalli said a shift to the edge means that functions like engaging with generative AI chatbots that once involved sending requests to be processed in data centers could be handled on a PC or smartphone.\n\"You don't have to have any internet connection; you don't have to talk to anybody in the cloud,\" Medapalli said.\n\"All your data is private and local — that is what I mean by edge AI, and that is rapidly coming.\"\nThe AI edge could be anywhere processors can be embedded, including robots, cameras and cars.\n\"That's why the opportunity is huge in edge AI,\" Medapalli said.\nMarket tracker Canalys has projected that AI-capable PCs will account for some 40 percent of overall PC shipments this year, with that number more than doubling by 2028.\n\"The wider availability of AI-accelerating silicon in personal computing will be transformative,\" Canalys principal analyst Ishan Dutt said in a post.\n\"PCs with dedicated on-device AI capabilities will enable new and improved user experiences, driving productivity gains and personalizing devices at scale while offering better power efficiency, stronger security and reduced costs associated with running AI workloads.\"\nCES goers flocked to a Gigabyte Technology booth at CES to check out PCs enhanced with Nvidia high-performance processors.\n\"We've had a lot of interest in the graphics card as well as the gaming laptop, because they are the top from Nvidia right now,\" Mia Qu of Gigabyte told AFP.\n\"Especially for gamers or people who plan to us it for large storage or high performance on a daily basis, they're eyeing these specific products.\"\nTechsponential analyst Avi Greengart said chip and laptop vendors at CES are seeing AI capabilities resonate with people who want to speed up workflow, extend battery life and enhance video calls.\n\"We are actually seeing AI making a difference in real things people actually do,\" Greengart said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:07:29.581+02:00",
+    "updated": "2025-01-10T09:07:29.581+02:00"
+}

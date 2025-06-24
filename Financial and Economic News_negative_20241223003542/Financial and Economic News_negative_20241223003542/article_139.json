@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "13862953547d7ee2fbc93d929c242a86a0d567d9",
+        "url": "https://ph.investing.com/news/stock-market-news/bunzl-issues-profit-warning-for-2024-shares-slide-1582905",
+        "site_full": "ph.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ph.investing.com/news/",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Financial News - Investing.com PH",
+        "title": "Bunzl issues profit warning for 2024, shares slide By Investing.com",
+        "title_full": "Bunzl issues profit warning for 2024, shares slide By Investing.com",
+        "published": "2024-12-17T04:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://i-invdn-com.investing.com/news/LYNXNPED7U0N6_L.jpg",
+        "performance_score": 0,
+        "domain_rank": 1194,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "13862953547d7ee2fbc93d929c242a86a0d567d9",
+    "url": "https://ph.investing.com/news/stock-market-news/bunzl-issues-profit-warning-for-2024-shares-slide-1582905",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-12-17T04:04:00.000+02:00",
+    "title": "Bunzl issues profit warning for 2024, shares slide By Investing.com",
+    "text": "Investing.com -- Bunzl PLC (LON: BNZL ) said on Tuesday that more persistent deflation than expected will slightly weigh on its annual profit, particularly in its Continental Europe segment.\nThe company’s shares fell more than 4% in London trading.\nOn the other hand, the business supplies distributor anticipates group adjusted operating profit for 2024 to surpass last year's level at constant exchange rates.\nFor the current year, Bunzl forecasts group revenue to be about 3% higher than in 2023.\nRBC analysts said that Bunzl’s fiscal 2024 (FY24) update was broadly in line with expectations, although deflationary pressures have lasted longer than anticipated into Q4, impacting EBIT in the Continental Europe division.\n“No specific quantification in the statement, but we think this may pose a low-single-digit (LSD) headwind to consensus FY24 EBIT, given that C.Europe represents ~20% of group revenues,” RBC analysts said.\nFor FY25, the company provided its initial outlook, projecting “slight” underlying revenue growth and stable year-over-year margins.\nHowever, analysts highlighted that Bunzl tends to guide conservatively on margins, suggesting this could present upside potential as the year progresses, driven by the company’s M&A activity and organic margin strategy.\n“The stock has been subdued in relative terms since the H1s and whilst this FY update marks a slight disappointment vs. expectations, we would not anticipate an outsized negative reaction,” analysts continued.\n“We still see BNZL as a good defensive growth story on a 12-month view.”\nBunzl has acquired 13 companies over the course of a year, with total committed spending reaching a record £850 million.\nIn October, it completed the purchase of Dublin-based food service company C&C Group, followed by the acquisition of Comodis, a distributor of cleaning and hygiene products in France’s Rhône-Alpes region, in December.\nIn August, Bunzl committed to allocating approximately £700 million annually, primarily for “value-accretive acquisitions,” as it aims to return to its target leverage range by the end of 2027.\n“2024 will be another year of significant progress for Bunzl, demonstrating the continued growth and resilience of the business model,” CEO Frank van Zanten stated.\n“We continue to execute on our capital allocation commitments, and welcome C&C and Comodis to the Group, enhancing our offerings in the UK and France, whilst also confirming a further £200m share buyback over 2025.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bunzl PLC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:08:37.106+02:00",
+    "updated": "2024-12-17T12:08:37.106+02:00"
+}

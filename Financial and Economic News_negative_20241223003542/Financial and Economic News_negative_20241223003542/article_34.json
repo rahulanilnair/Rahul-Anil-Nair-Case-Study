@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "fe9998afa29f9954ffbb4c2c730809be7bc9df8b",
+        "url": "https://theedgemalaysia.com/node/738027",
+        "site_full": "theedgemalaysia.com",
+        "site": "theedgemalaysia.com",
+        "site_section": "https://theedgemalaysia.com/",
+        "site_categories": [],
+        "section_title": "The Edge Malaysia - Make Better Decisions",
+        "title": "UK pay growth speeds up, adding to worries for Bank of England",
+        "title_full": "UK pay growth speeds up, adding to worries for Bank of England",
+        "published": "2024-12-17T10:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 43648,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fe9998afa29f9954ffbb4c2c730809be7bc9df8b",
+    "url": "https://theedgemalaysia.com/node/738027",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "William Schomberg & Suban Abdulla",
+    "published": "2024-12-17T10:54:00.000+02:00",
+    "title": "UK pay growth speeds up, adding to worries for Bank of England",
+    "text": "LONDON (Dec 17): British pay rose by more than expected in the three months to October, official data showed on Tuesday, prompting investors to further rein in bets on Bank of England interest rate cuts next year, despite warning signs of a slowdown in the economy.\nAverage weekly earnings, excluding bonuses, were 5.2% higher in the three months to the end of October than a year earlier, the Office for National Statistics said.\nA Reuters poll of economists had mostly forecast a rise of 5.0%.\n\"Today’s data release will do little to shift the Bank’s focus away from worrying about high inflation to more towards worrying about weak activity,\" Ashley Webb, UK economist at Capital Economics, said.\nSterling jumped by more than a third of a cent against the US dollar after the figures were published.\nInvestors pared back BOE rate cut bets to fully price in just two quarter-point cuts in borrowing costs between now and the end of 2025.\nThe central bank is widely expected to keep interest rates on hold on Thursday after its December meeting as it waits to see the impact of finance minister Rachel Reeves' Oct 30 budget — and its higher costs for employers — on the jobs market.\nLast week, official data showed Britain's economy shrank in September and October in the run-up to the budget — the first back-to-back declines in output since 2020.\nA survey of businesses published on Monday showed businesses cut staffing in November by the most since the Covid pandemic.\nThe increase in the pace of regular wage growth — which sped up from 4.9% in the three months to September — ended a steady deceleration that began in mid-2023.\nChallenges remain In the private sector alone — watched closely by the BOE — earnings excluding bonuses rose by 5.4% in the August-to-October period, the fastest growth since the three months to May this year, the ONS figures showed.\nRob Wood, chief UK economist with Pantheon Macroeconomics, questioned whether pay growth really was as strong as it appeared, saying it might prove to be a correction for oddly weak readings in recent months.\nRecent business surveys have suggested a fall in demand for staff after Reeves included a £25 billion (US$31.8 billion or RM141.7 billion) increase in social security contributions paid by employers in her budget.\nThe ONS said on Tuesday that provisional data from Britain's tax office showed employers cut 35,000 staff from their payrolls in November.\nIt also said job vacancies decreased by 31,000 in the three months to November to 818,000 compared to the previous quarter, but remained 22,000 above their pre-pandemic level in January-March 2020.\nSeparate data showed the jobless rate held at 4.3% in the three months to October.\nBut the survey used for calculating the unemployment rate is in the process of being overhauled after response rates fell too low to be a reliable gauge of the jobs market.\n\"An ongoing challenge for the Bank of England is that it cannot be completely sure about the state of the labour market until the ONS resolves the data issues affecting the Labour Force Survey,\" Gora Suri, an economist at PwC UK, said.\n\"Until then, to some extent, it will have to continue flying blind, and rely upon a broad suite of indicators to evaluate the state of the labour market.\"\nUploaded by Magessan Varatharaja",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashley Webb",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Office for National Statistics",
+                "sentiment": "none"
+            },
+            {
+                "name": "Capital Economics",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:32:09.755+02:00",
+    "updated": "2024-12-17T11:32:09.755+02:00"
+}

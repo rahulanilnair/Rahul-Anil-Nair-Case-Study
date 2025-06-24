@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "8a486fc5981ae185dff23ad4a3b4813f80c5f145",
+        "url": "https://www.athensmessenger.com/news/city-of-athens-scammed-out-of-more-than-700k/article_5d9bbb02-919f-534b-88db-8f1d22694967.html",
+        "site_full": "www.athensmessenger.com",
+        "site": "athensmessenger.com",
+        "site_section": "http://www.athensohiotoday.com//search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&c[]=news,news/*&f=rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.athensmessenger.com - RSS Results in news,news/* of type article",
+        "title": "City of Athens scammed out of more than $700K",
+        "title_full": "City of Athens scammed out of more than $700K",
+        "published": "2024-12-17T12:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/athensmessenger.com/content/tncms/custom/image/cc5d1ca6-5e14-11e5-bd95-578c4e3a4c4c.jpg?resize=200%2C200",
+        "performance_score": 0,
+        "domain_rank": 131593,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8a486fc5981ae185dff23ad4a3b4813f80c5f145",
+    "url": "https://www.athensmessenger.com/news/city-of-athens-scammed-out-of-more-than-700k/article_5d9bbb02-919f-534b-88db-8f1d22694967.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JIM PHILLIPS APG Media",
+    "published": "2024-12-17T12:00:00.000+02:00",
+    "title": "City of Athens scammed out of more than $700K",
+    "text": "The city of Athens has lost over $700,000 to a scam in which the anonymous alleged perpetrators got electronic access to funds in a city bank account by impersonating a construction firm that contracts with the city.\nTrending Now\n-\n[Athens Hot Glass gets residents fired up about glassblowing](/news/athens-hot-glass-gets-residents-fired-up-about-glassblowing/article_6d3b07c8-b7de-11ef-bec3-73fbdd03ab1e.html) -\n[COLUMN: There was a right way to do it](/sports/ohiouniversity/column-there-was-a-right-way-to-do-it/article_08089510-b666-11ef-a197-c3de449abb2d.html) -\n[Tim Albin officially announced at Charlotte hours after winning Ohio's first MAC title in 56 years](/sports/ohiouniversity/tim-albin-officially-announced-at-charlotte-hours-after-winning-ohios-first-mac-title-in-56/article_8fd2c924-b63a-11ef-84bb-67246ae7bc0f.html) -\n[Local organization seeks to combat housing insecurity by building micro shelters](/news/local-organization-seeks-to-combat-housing-insecurity-by-building-micro-shelters/article_6261fc38-b984-11ef-84e9-2b1b413d192a.html) -\n[Brian Smith discuses MAC Championship win; Navarro's progression after historic feat](/sports/ohiouniversity/brian-smith-discuses-mac-championship-win-navarros-progression-after-historic-feat/article_0b5a1ea8-b8b6-11ef-b82e-8b7420632f3f.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tim Albin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:09:31.792+02:00",
+    "updated": "2024-12-17T12:09:31.792+02:00"
+}

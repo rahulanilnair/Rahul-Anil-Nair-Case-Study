@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "f95bca57fe3fc6767ea1d559a701568ab11a5490",
+        "url": "https://www.farminguk.com/News/uk-harvest-hits-near-record-lows-amid-food-security-warnings_65821.html",
+        "site_full": "www.farminguk.com",
+        "site": "farminguk.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "UK harvest hits near record lows amid food security warnings - FarmingUK News",
+        "title_full": "UK harvest hits near record lows amid food security warnings - FarmingUK News",
+        "published": "2024-12-17T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.farminguk.com/images/News/65821_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 48141,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f95bca57fe3fc6767ea1d559a701568ab11a5490",
+    "url": "https://www.farminguk.com/News/uk-harvest-hits-near-record-lows-amid-food-security-warnings_65821.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Wild",
+    "published": "2024-12-17T02:00:00.000+02:00",
+    "title": "UK harvest hits near record lows amid food security warnings - FarmingUK News",
+    "text": "New data confirms that the UK is set for its third worst arable harvest since 1984, following government warnings about falling levels of food security.The government has confirmed the UK's third lowest total production for wheat, barley, oats and oilseed rape since modern records began in 1984.It followed record breaking rain last winter that disrupted farmers' cropping plans, preventing them from establishing and managing winter crops such as wheat and winter barley. Defra's data shows that all the main cereal crops and oilseed rape saw falls in yields in 2024 compared to 2023, except for oats which saw a 8.6% rise. Overall yields were down on the five year average.The final estimate for this year's UK wheat harvest is 11.1 million tonnes, a decrease of 20% on 2023, driven by an 11% fall in area and 10% decline in yield.For barley, the harvest is 7.1 million tonnes, a rise of 1.8% on 2023. This comprises a 24% decrease in winter barley production offset by a 24% increase in spring barley.UK oilseed rape production decreased by 32% to 824,000 tonnes in 2024, driven by declines in both area and yield.The data comes a few days after Defra published the 2024 UK Food Security Report, which warned that there was a ‘pressing risk’ to UK food security.One factor for worsening food security was climate change, the report said, which risked the 'resilience of food production' over the longer term.Tom Lancaster, farming analyst at the Energy and Climate Intelligence Unit (ECIU), said the new figures confirmed the government’s warnings about food security. \\\"The record breaking rainfall and storms that we saw last winter had a devastating impact on farming across the whole of the UK.“To avoid the sort of impacts that we have seen on this year’s harvest, we will need to ensure farmers are better supported to adapt and build resilience.\\\" The data for the UK follows similar data released for England in October, which confirmed 2024 as England’s second worst harvest on record after 2020. The UK as a whole has experienced its third worst harvest after farmers in Scotland were able to produce more spring barley to offset the loss of winter crops there. Although 2024 was the third worst harvest overall for these five crops in the UK, it was the second worst for wheat and the worst for oilseed rape.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T11:40:28.078+02:00",
+    "updated": "2024-12-17T11:40:28.078+02:00"
+}

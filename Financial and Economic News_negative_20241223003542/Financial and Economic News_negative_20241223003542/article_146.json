@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "752676ec9685a1ae54e88b680fe67d1086578edc",
+        "url": "https://www.economywatch.com/news/nigerias-efcc-arrests-800-in-massive-crypto-scam-raid",
+        "site_full": "www.economywatch.com",
+        "site": "economywatch.com",
+        "site_section": "https://www.economywatch.com/news",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "News Archive - Economy Watch",
+        "title": "Nigeria’s EFCC Arrests 800 in Massive Crypto Scam Raid",
+        "title_full": "Nigeria’s EFCC Arrests 800 in Massive Crypto Scam Raid",
+        "published": "2024-12-17T07:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.economywatch.com/wp-content/uploads/2024/12/IMG_6753.png",
+        "performance_score": 0,
+        "domain_rank": 34687,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "752676ec9685a1ae54e88b680fe67d1086578edc",
+    "url": "https://www.economywatch.com/news/nigerias-efcc-arrests-800-in-massive-crypto-scam-raid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jimmy Aki",
+    "published": "2024-12-17T07:03:00.000+02:00",
+    "title": "Nigeria’s EFCC Arrests 800 in Massive Crypto Scam Raid",
+    "text": "Please note that we are not authorised to provide any investment advice. The content on this page is for information purposes only.\nOn December 10, Nigeria’s anti-corruption agency, the Economic and Financial Crimes Commission (EFCC), carried out a major operation that led to the arrest of 792 individuals involved in an organized crypto scam in Lagos.\nSophisticated Romance Fraud Targeting Global Victims According to Reuters , the raid exposed a sophisticated fraud hub operated with the help of Chinese and Filipino nationals alongside Nigerian accomplices.\nThe EFCC revealed that 148 Chinese and 40 Filipinos were among those arrested. A spokesperson for the anti-graft agency explained that the scheme primarily targeted victims from North America, Europe, and Mexico.\nhttps://twitter.com/abdul_a_bello/status/1868703613952139533?s=46\nThe spokesperson said, “Nigerian accomplices were recruited by the foreign kingpins to prospect for victims online through phishing, targeting mostly Americans, Canadians, Mexicans, and several others from European countries. Once the Nigerians are able to win the confidence of would-be victims, the foreigners would take over the actual task of defrauding the victims.”\nKen Gamble, co-founder of IFW Global, a cybercrime investigative firm that collaborates with the EFCC, highlighted the growing presence of Chinese crime syndicates in Africa. According to Gamble, Chinese criminal groups bring advanced technology and infrastructure, enabling local scammers to scale up their operations.\nGamble noted, “Chinese organized crime groups are expanding their operations into countries with weaker cybersecurity enforcement frameworks. The Chinese bring the technology, infrastructure, and financing, which allows the local Nigerian scam syndicates to enhance their operations.”\nThe crypto scam operation in Lagos was reportedly smaller in scale compared to similar schemes in Southeast Asia. Gamble explained that some operations in Myanmar have employed over 5,000 individuals, whereas the Lagos-based hub employed fewer workers.\nSimilarly, in the United States, the Commodity Futures Trading Commission (CFTC) recently filed a complaint against Washington-based pastor Francier Obando Pinillo . Pinillo allegedly ran a $6 million crypto fraud scheme, targeting over 1,500 congregants by promising fake high returns through a “Solano ecosystem.”\nFinancial Incentives Driving Scammers in EFCC Raid Despite being illegal, the financial incentives offered by these schemes are significant. According to Gamble, Nigerians recruited into such operations could earn up to $500 per month – a figure 10 times higher than Nigeria’s minimum wage.\nBonuses were often included for scammers who successfully duped victims, making the work appealing despite its risks.\nThe EFCC has confirmed ongoing collaboration with international partners to further investigate the crypto scam network.\nAuthorities are now exploring potential links between the Lagos operation and other organized crime syndicates across Africa and beyond.\nThe rise of crypto-related scams has pushed Nigeria to take stronger action against fraudsters. Nigeria’s Securities and Exchange Commission (SEC) recently proposed amendments to the Investment and Securities Act, introducing stricter penalties for cryptocurrency fraud.\nhttps://twitter.com/dolusegun16/status/1865312514935849371?s=46\nUnder the draft law, offenders could face a fine of up to $12,000 (20 million Naira) or a 10-year prison sentence.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/world/africa/almost-800-arrested-over-nigerian-crypto-romance-scam-2024-12-16/",
+        "https://twitter.com/dolusegun16/status/1865312514935849371?s=46",
+        "https://twitter.com/abdul_a_bello/status/1868703613952139533?s=46",
+        "https://twitter.com/abdul_a_bello/status/1868703613952139533",
+        "https://www.twitter.com/dolusegun16/status/1865312514935849371?s=46",
+        "https://twitter.com/dolusegun16/status/1865312514935849371",
+        "https://www.reuters.com/world/africa/almost-800-arrested-over-nigerian-crypto-romance-scam-2024-12-16",
+        "https://www.twitter.com/abdul_a_bello/status/1868703613952139533?s=46",
+        "https://reuters.com/world/africa/almost-800-arrested-over-nigerian-crypto-romance-scam-2024-12-16/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            },
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:09:55.834+02:00",
+    "updated": "2024-12-17T12:09:55.834+02:00"
+}

@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "9f8753802b4640db94ae9786f0f83e7287d9a533",
+        "url": "https://mysinchew.sinchew.com.my/news/20241217/mysinchew/6155823",
+        "site_full": "mysinchew.sinchew.com.my",
+        "site": "sinchew.com.my",
+        "site_section": "https://sinchew.com.my",
+        "site_categories": [
+            "media",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "星洲网 Sin Chew Daily Malaysia Latest News and Headlines",
+        "title": "Job offer to transport fake liquor from Thailand to Malaysia may be a trap by scammers in Myanmar, says MHO - News",
+        "title_full": "Job offer to transport fake liquor from Thailand to Malaysia may be a trap by scammers in Myanmar, says MHO - News",
+        "published": "2024-12-17T11:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.sinchew.com.my/wp-content/uploads/2024/12/liq.png",
+        "performance_score": 0,
+        "domain_rank": 45198,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9f8753802b4640db94ae9786f0f83e7287d9a533",
+    "url": "https://mysinchew.sinchew.com.my/news/20241217/mysinchew/6155823",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "星洲网",
+    "published": "2024-12-17T11:55:00.000+02:00",
+    "title": "Job offer to transport fake liquor from Thailand to Malaysia may be a trap by scammers in Myanmar, says MHO - News",
+    "text": "PETALING JAYA: Beware of cash offer of RM4,500 per trip to transport fake liquors from Thailand.\nDaniel Khoo, chief public relations officer of Malaysia International Humanitarian Organisation, said the offer could be a trap sending one to work for scam syndicate in Myanmar.\nKhoo received a WhatsApp message offering him a job of smuggling fake liquors from Thailand.\nThrough the conversation, he suspected the offer was a trap set up by scammers.\nA man from Penang sent him a text message with a phone number from Thailand, offering him the job of transporting fake liquors from Thailand to Malaysia.\nThe reward for each trip is RM4,500.”\n“The caller is willing to pay for my flight ticket to Thailand, and invite me to meet him either in Penang or Kedah,” said Khoo.\nThe conversation centred on whether Khoo had a driving licence, his willingness to smuggle fake liquors and whether he could fly abroad on a regular basis.\nKhoo said the offer involved an illegal job and the request to fly into Thailand could be a trap by scam syndicates.\nOnce one flies to Thailand, he risks being sent to Myanmar, Khoo said.\nFor such job offers, Khoo could be reached at 014-994 6697 for advice.\nADVERTISEMENT\nADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dan",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Khoo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Malaysia International Humanitarian Organisation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Penang",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kedah",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:02:40.723+02:00",
+    "updated": "2024-12-17T12:02:40.723+02:00"
+}

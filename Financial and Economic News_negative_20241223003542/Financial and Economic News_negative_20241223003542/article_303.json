@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "4caed1a7ed51b5788d3142fbe77b7bff1e47cf16",
+        "url": "https://www.rttnews.com/story.aspx?Id=3497820",
+        "site_full": "www.rttnews.com",
+        "site": "rttnews.com",
+        "site_section": "http://www.rttnews.com/RSS/AsiaMarketUpdate.xml",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "RTT - AsiaCommentary",
+        "title": "Sensex Plunges Over 1,000 Points; Nifty Ends Below 24,350",
+        "title_full": "Sensex Plunges Over 1,000 Points; Nifty Ends Below 24,350",
+        "published": "2024-12-17T12:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "performance_score": 0,
+        "domain_rank": 20136,
+        "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4caed1a7ed51b5788d3142fbe77b7bff1e47cf16",
+    "url": "https://www.rttnews.com/story.aspx?Id=3497820",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTTNews Staff Writer",
+    "published": "2024-12-17T12:36:00.000+02:00",
+    "title": "Sensex Plunges Over 1,000 Points; Nifty Ends Below 24,350",
+    "text": "Indian shares tumbled on Tuesday as caution gripped markets ahead of the Federal Reserve's interest-rate decision.\nThe Fed will announce its last move on interest rates for the year on Wednesday and it is likely that the main rate will be cut for a third straight time.\nA 25-bps rate cut is already priced in by markets, with investors now waiting to assess the dot chart, Chair Powell's statements and the Fed's broader outlook, particularly for 2025 under the Trump administration.\nErratic FII flows, a strengthening dollar and rising U.S. bond yields also weighed on markets, triggering selling across the board.\nThe benchmark S&P/BE Sensex slumped 1,064.12 points, or 1.30 percent, to 80,684.45 while the broader NSE Nifty index closed at 24,336, down 332.25 points, or 1.35 percent, from its previous close.\nAmong the prominent decliners, JSW Steel, Bharti Airtel, Hero MotoCorp, Grasim and Shriram Finance plunged 3-5 percent.\nFor comments and feedback contact: editorial@rttnews.com\nMarket Analysis\nDecember 13, 2024 10:01 ET This week several major central banks announced their final interest rate decisions for this year. The main central banks included the European Central Bank, the Swiss National Bank and the Bank of Canada. Find out what they decided and the forward guidance they gave. Data headlines were dominated by the inflation figures out of the U.S. and the foreign trade data from China. Read RTT News stories to learn more about these events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-17T12:57:04.980+02:00",
+    "updated": "2024-12-17T12:57:04.980+02:00"
+}

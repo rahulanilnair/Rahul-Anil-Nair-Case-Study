@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "197314edfdb2e1b30bde72e0e443c1e00895594b",
+        "url": "https://businessnewsthisweek.com/business/gold-may-extend-gains-despite-higher-interest-rates-amid-high-uncertainty",
+        "site_full": "businessnewsthisweek.com",
+        "site": "businessnewsthisweek.com",
+        "site_section": "https://www.businessnewsthisweek.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business News This Week - Business News Weekly",
+        "title": "Gold may extend gains despite higher interest rates amid high uncertainty",
+        "title_full": "Gold may extend gains despite higher interest rates amid high uncertainty",
+        "published": "2025-01-10T07:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 57802,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "197314edfdb2e1b30bde72e0e443c1e00895594b",
+    "url": "https://businessnewsthisweek.com/business/gold-may-extend-gains-despite-higher-interest-rates-amid-high-uncertainty",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bhumika Lenka",
+    "published": "2025-01-10T07:43:00.000+02:00",
+    "title": "Gold may extend gains despite higher interest rates amid high uncertainty",
+    "text": "Written by Samer Hasn, Senior Market Analyst at XS.com Gold extended its gains for the third day in a row, reclaiming the $2,660 per ounce level in spot transactions.\nGold’s gains come despite growing concerns about the slow pace of interest rate cuts in the United States and the subsequent continued rise in Treasury yields. This comes with generally better-than-expected US economic figures and accelerating inflation readings, which keeps the Federal Reserve extremely cautious about cutting rates this year.\nThese factors would have created further pressure for gold to retreat and give up its gains. However, the World Gold Council highlighted in a report issued yesterday more complex dynamics. Rising Treasury yields are often interpreted as a negative factor for gold, but it has been able to resist this obstacle repeatedly and regain.\nThe report shows that gold benefited from the record of net positive inflows from Asian and European exchange-traded funds of $778 million in December, which significantly offsets the outflows from ETFs in North America. I believe that the attraction of investors in Asia to gold may be due to uncertainty about the future of the Chinese economy, which is waiting for the effects of government support measures to crystallize on the one hand, and the effects of the re-ignition of trade wars with the United States on the other hand. The same is true for the European continent, which is witnessing a deteriorating economic performance and does not show signs of the possibility of restoring growth soon, according to surveys during the past months, which may also justify the rush to gold.\nGeopolitical factors in Europe, the Middle East and Southeast Asia may also contribute to fuelling uncertainty, which gives more luster to the yellow metal.\nIn addition, gold was able to resist the continued rise in Treasury yields thanks to the prevailing uncertainty in the safest market of fixed income. Based on econometric models, the Council stated in the report that when the ICE BofAML U.S. The Bond Market Option Volatility Estimate (MOVE), which measures uncertainty in the Treasury market, crosses a threshold of 100 points makes higher yields less of a threat to gold.\nThe chart below helps illustrate these dynamics:\nWhile the renewed focus on the deficit issue that could worsen under the new administration led by Donald Trump is fuelling uncertainty in the US bond market.\nNow, the focus is on the labor market data due out tomorrow. Even if those numbers come out better than expected, the high uncertainty in the bond market could make gold more resistant to continued higher yields and make the potential downward pressure temporary.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->commodity market",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Samer Hasn",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World Gold Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:26:30.274+02:00",
+    "updated": "2025-01-10T09:26:30.274+02:00"
+}

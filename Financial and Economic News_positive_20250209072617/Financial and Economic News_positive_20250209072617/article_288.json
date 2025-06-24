@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "32b95428b993f6627c4e92c13b40c0fb8ce6ea62",
+        "url": "https://news.bloomberglaw.com/capital-markets/ultraman-toymaker-bloks-to-debut-in-hk-after-frenzy-over-ipo",
+        "site_full": "news.bloomberglaw.com",
+        "site": "bloomberglaw.com",
+        "site_section": "https://news.bloomberglaw.com/capital-markets",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Capital Markets",
+        "title": "Ultraman Toymaker Bloks to Debut in HK After Frenzy Over IPO",
+        "title_full": "Ultraman Toymaker Bloks to Debut in HK After Frenzy Over IPO",
+        "published": "2025-01-10T00:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "performance_score": 0,
+        "domain_rank": 2174,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32b95428b993f6627c4e92c13b40c0fb8ce6ea62",
+    "url": "https://news.bloomberglaw.com/capital-markets/ultraman-toymaker-bloks-to-debut-in-hk-after-frenzy-over-ipo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bloomberg News",
+    "published": "2025-01-10T00:30:00.000+02:00",
+    "title": "Ultraman Toymaker Bloks to Debut in HK After Frenzy Over IPO",
+    "text": "Shares of\nThe stock is poised to rise, if over-the-counter activity is of any indication. Shanghai-based Bloks surged more than 70% late Thursday from its IPO price of HK$60.35 a share, according to a KGI Securities gray-market platform.\nThe frenzy over Bloks — demand from mom-and-pop investors was thousands of times higher than the number of shares reserved for them — builds on the popularity of ...\nLearn more about Bloomberg Law or Log In to keep reading:\nLearn About Bloomberg Law\nAI-powered legal analytics, workflow tools and premium legal & business news.\nAlready a subscriber?\nLog in to keep reading or access research tools.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->market and exchange",
+        "Social Issue->social condition",
+        "Social Issue->social networking",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:36:39.722+02:00",
+    "updated": "2025-01-10T02:36:39.722+02:00"
+}

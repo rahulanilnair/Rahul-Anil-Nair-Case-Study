@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "5c620e54f4b960e344b117233966143d0d3ef238",
+        "url": "https://www.thewesterlysun.com/news/westerly/westerly-gets-300k-for-pump-station-work/article_71c34152-cecc-11ef-afc9-539c1cd228d2.html",
+        "site_full": "www.thewesterlysun.com",
+        "site": "thewesterlysun.com",
+        "site_section": "https://www.thewesterlysun.com/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.thewesterlysun.com - RSS Results",
+        "title": "Westerly gets $300K for pump station work",
+        "title_full": "Westerly gets $300K for pump station work",
+        "published": "2025-01-10T03:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/2/4c/24c53ef1-2814-5deb-bd55-fd744f8b5837/5cb74b241091a.image.jpg?crop=240%2C240%2C40%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 60937,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c620e54f4b960e344b117233966143d0d3ef238",
+    "url": "https://www.thewesterlysun.com/news/westerly/westerly-gets-300k-for-pump-station-work/article_71c34152-cecc-11ef-afc9-539c1cd228d2.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Blessing Sun staff writer",
+    "published": "2025-01-10T03:55:00.000+02:00",
+    "title": "Westerly gets $300K for pump station work",
+    "text": "WESTERLY — Work to build a protective wall around the Margin Street pump station in Westerly, along the Pawcatuck River, has received a boost from the state’s Infrastructure Bank.\nThe Margin Street project got a $300,000 grant Thursday as part of the Rhode Island Infrastructure Bank Board’s vote to award a total of $3.3 million from the Municipal Infrastructure Grant Program to 11 communities, including Westerly.\nThe others — Bristol, Burrillville, Coventry, Cumberland, East Providence, Jamestown, Portsmouth, Providence, Warwick and West Warwick — have completed actionable projects identified through a request for proposals process.\nProjects receiving grant awards include public park upgrades, stormwater and sewer improvements, feasibility studies for drinking water infrastructure, and infrastructure upgrades to support housing development.\n“We’re pleased to award $3.3 million in Municipal Infrastructure Grant Program awards to 12 projects in 11 cities and towns across Rhode Island,” Rhode Island Infrastructure Bank Executive Director William Fazioli said. “From public park upgrades in Warwick and Providence, to stormwater improvements in East Providence, to sewer infrastructure to support housing in Cumberland, to studying drinking water needs in Jamestown, these grants will support the infrastructure needs our communities have identified as priorities.”\nFazioli said the bank provided an additional $341,000 of its own revenues to support projects “that will pay dividends for decades to come. Our assets are meant to be put to work to meet the infrastructure needs of our cities and towns, not accumulated. And that is exactly what we've done with this round of Municipal Infrastructure Grant Program awards.”\nThe Westerly project award total is $301,723 toward construction of a protective wall to flood-proof a pump station that services thousands of residences and businesses, including those in the town's downtown.\n“Westerly has been experiencing increased flooding from severe storms and that is why we have been working to upgrade our stormwater infrastructure,” Westerly Town Manager Shawn Lacey said. “We want to thank the Infrastructure Bank for providing Westerly with $300,000 in Municipal Infrastructure Grant Program funding to continue this work by building a protective wall around our Margin Street pump station, a critical piece of stormwater infrastructure for our community.”\nThe largest awards were for $500,000, to East Providence and Warwick. For the former, funds will help pay for stormwater and drainage improvements along Greenwood Avenue. In Warwick, the money will be used for improvements to Rocky Point Park, including vehicle egress and circulation, parking lots, new sidewalks, and stormwater management.\nA review committee consisting of representatives from the Infrastructure Bank, Rhode Island Commerce and the Division of Statewide Planning was convened to review municipal grant applications and make project award recommendations.\nThe Municipal Infrastructure Grant Program was established to give competitive grants to municipalities statewide to complete key infrastructure projects. Grant recipients are required to provide a local match of at least 25%.\nThe town’s wastewater plant currently handles an average flow of 2 million gallons of wastewater daily and serves about 16,000 customers. According to a 2017 report, some of Westerly’s pump stations are subject to inundation from both coastal and inland flooding.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Environment->environmental clean-up",
+        "Environment->natural resources",
+        "Environment->water",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:27:23.157+02:00",
+    "updated": "2025-01-10T04:27:23.157+02:00"
+}

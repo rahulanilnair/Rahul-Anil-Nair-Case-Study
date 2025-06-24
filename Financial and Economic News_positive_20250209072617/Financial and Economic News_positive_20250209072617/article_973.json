@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "f348a4491bc7337b99497b1da0dd14d52f10e096",
+        "url": "https://en.vijesti.me/svijet/balkan/740123/kos-vjeruje-da-ce-srbija-ispuniti-zahtjeve-za-otvaranje-klastera-3",
+        "site_full": "en.vijesti.me",
+        "site": "vijesti.me",
+        "site_section": "http://en.vijesti.me",
+        "site_categories": [],
+        "section_title": "Vijesti online - The latest from Montenegro and the world",
+        "title": "Kos believes that Serbia will meet the requirements for opening cluster 3",
+        "title_full": "Kos believes that Serbia will meet the requirements for opening cluster 3",
+        "published": "2025-01-10T07:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ME",
+        "main_image": "https://www.vijesti.me/data/images/2024/09/19/17/5593442_marta-kos_share.jpg",
+        "performance_score": 0,
+        "domain_rank": 29460,
+        "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f348a4491bc7337b99497b1da0dd14d52f10e096",
+    "url": "https://en.vijesti.me/svijet/balkan/740123/kos-vjeruje-da-ce-srbija-ispuniti-zahtjeve-za-otvaranje-klastera-3",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Vijestime",
+    "published": "2025-01-10T07:50:00.000+02:00",
+    "title": "Kos believes that Serbia will meet the requirements for opening cluster 3",
+    "text": "European Union (EU) Enlargement Commissioner Marta Kos expressed her belief on January 9 that Serbia will fulfill the requirements for opening Cluster 3 as part of the accession negotiations for EU membership.\n\"I believe that Serbia will fulfill all the requirements for the opening of Cluster 3,\" Marta Kos wrote on the X network after a conversation with the Minister of European Integration of Serbia, Tanja Miščević.\nThe commissioner added that she had a \"very honest and concrete conversation about Serbia's accession to the EU\" with the minister.\n\"Enlargement is a whole social process, which includes the opposition, civil society, the economy and other areas,\" added Marta Kos.\nCluster 3 includes eight chapters, five of which were opened before the cluster concept was introduced: Economic and Monetary Policy (Chapter 17), Entrepreneurship and Industrial Policy (20), Science and Research (25), Education and Culture (26) and Customs Union (29). Three chapters await the opening: Information Society and Media (10), Tax Policy (16) and Social Policy and Employment (19).\nSerbia started negotiations on EU accession in January 2014, and in the past three years it has not opened a single chapter or cluster. In order to open a cluster, a unanimous decision of all EU member states is required.\nIn December 2024, votes against the opening of Cluster 3 came from several countries, such as the Netherlands, Scandinavian and Baltic states.\nThe Council of the EU said in December that the opening of Cluster 3 with Serbia will be taken into account after the country makes significant progress in the field of the rule of law, that is, in chapters 23 and 24, as well as in the process of normalizing relations with Kosovo.\nBonus video:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political development",
+        "Politics->international relations",
+        "Politics->government",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->immigration",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marta Kos",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Tanja Miščević",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "European Integration of Serbia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Customs Union",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:43:32.860+02:00",
+    "updated": "2025-01-10T09:43:32.860+02:00"
+}
